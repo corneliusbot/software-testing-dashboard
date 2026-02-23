@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# Review/dev docs (not needed for deployment)
+REVIEW_*.md
+SPRINT*.md
+BUGFIX_LOG.md
+FINAL_REVIEW.md
+*_CHANGES.md
+UPGRADE_PLAN.md

@@ -1,0 +1,453 @@
+{
+  "ticker": "TXN",
+  "company": "Texas Instruments Incorporated",
+  "title": "Q3 2025 Earnings Call",
+  "event_date": "2025-10-21",
+  "header": {
+    "companyId": 140283,
+    "announcedDate": "2025-10-01T15:32:00Z",
+    "eventDateTime": "2025-10-21T20:30:00Z",
+    "createdAt": "2025-12-11T12:01:03Z",
+    "transcriptTitle": "Texas Instruments Incorporated, Q3 2025 Earnings Call, Oct 21, 2025",
+    "situation": "Texas Instruments Incorporated, Q3 2025 Earnings Call, Oct 21, 2025",
+    "duration": 2232,
+    "keyDevId": 1962760537,
+    "transcriptId": 3618258,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Proofed Copy",
+    "presentationTypeName": "Final",
+    "companyName": "Texas Instruments Incorporated",
+    "formattedTitle": "Q3 2025 Earnings Call",
+    "title": "Texas Instruments Incorporated - Q3 2025 Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Welcome to the Texas Instruments Third Quarter 2025 Earnings Conference Call. I'm Mike Beckman, Head of Investor Relations, and I'm joined by our Chief Executive Officer Haviv Ilan and our Chief Financial Officer Rafael Lizardi. For any of you who missed the release, you can find it on our website at ti.com/ir.\r\nThis call is being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website.\r\nThis call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today as well as TI's most recent SEC filings for a more complete description.\r\nYou likely saw last week, we announced that the Board of Directors has elected Haviv Ilan, Chairman of the Board, beginning January 2026. Haviv succeeds Rich Templeton, who will retire as Chairman after a 45-year career with TI. I'm sure you will join me in congratulating them both.\r\nToday, we'll provide the following updates. First, Haviv will start with a quick overview of the quarter. Next, he will provide insight into third quarter revenue results with some details on what we are seeing with respect to our end markets. Lastly, Rafael will cover the financial results, give an update on capital management as well as share the guidance for fourth quarter 2025.\r\nWith that, let me turn it over to Haviv."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Thanks, Mike. I'll start with a quick overview of the third quarter. Revenue came in about as expected at $4.7 billion, an increase of 7% sequentially and an increase of 14% year-over-year. Analog and Embedded both grew year-on-year and sequentially. Analog revenue grew 16% year-over-year and Embedded Processing grew 9%. Our Other segment grew 11% from the year-ago quarter.\r\nLet me provide a few comments about the current market environment. The overall semiconductor market recovery is continuing, though, at a slower pace than prior upturns, likely related to the broader macroeconomic dynamics and overall uncertainty. That said, customer inventories remain at low levels and their inventory depletion appears to be behind us. We are well positioned with capacity and inventory and have flexibility to support a range of scenarios.\r\nNow I'll share some additional insights into third quarter revenue by end market. First, the industrial market increased about 25% year-on-year and was up low single digits sequentially following a strong result in the second quarter. The automotive market increased upper single digits year-on-year and around 10% sequentially with growth across all regions. Personal electronics grew low single digits year-on-year and grew upper single digits sequentially. Enterprise systems grew about 35% year-on-year and grew about 20% sequentially. And lastly, communications equipment grew about 45% year-on-year and was up about 10% sequentially.\r\nWith that, let me turn it over to Rafael to review profitability and capital management."
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Thanks, Haviv, and good afternoon, everyone. As Haviv mentioned, third quarter revenue was $4.7 billion. Gross profit in the quarter was $2.7 billion or 57% of revenue. Sequentially, gross profit margin decreased 50 basis points.\r\nOperating expenses in the quarter were $975 million, up 6% from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.9 billion or 23% of revenue. Operating profit was $1.7 billion in the quarter or 35% of revenue and was up 7% from the year-ago quarter.\r\nNet income in the quarter was $1.4 billion or $1.48 per share. Earnings per share included a $0.10 reduction, not in our original guidance. This includes $0.08 of restructuring charges related to efforts to drive operational efficiencies to support our long-term strategy, including the planned closures of our last 250-millimeter fabs.\r\nLet me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $2.2 billion in the quarter and $6.9 billion on a trailing 12-month basis. Capital expenditures were $1.2 billion in the quarter and $4.8 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $2.4 billion. This includes $637 million of CHIPS Act incentives, including a $75 million payment received in the third quarter related to the direct funding agreement.\r\nIn the quarter, we paid $1.2 billion in dividends and repurchased $119 million of our stock. In September, we announced we would increase our dividend by 4%, marking our 22nd consecutive year of dividend increases. This reflects our continued commitment to return free cash flow to our owners over time. In total, we returned $6.6 billion to our owners in the past 12 months.\r\nOur balance sheet remains strong with $5.2 billion of cash and short-term investments at the end of the third quarter. Total debt outstanding is $14 billion with a weighted average coupon of 4%. Inventory at the end of the quarter was $4.8 billion, up $17 million from the prior quarter. And days were 215, down 16 days sequentially. We have executed well on building an inventory position, which we believe will allow us to consistently deliver high levels of customer service.\r\nTurning to our outlook for the fourth quarter. We expect TI's revenue in the range of $4.22 billion to $4.58 billion, and earnings per share to be in the range of $1.13 to $1.39. Our fourth quarter outlook includes changes related to the new U.S. tax legislation and now assumes an effective tax rate of about 13%. In addition, we expect our effective tax rate in 2026 to be about 13% to 14%.\r\nIn closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio, reach of our channels and diverse and long-lived positions. We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term.\r\nWith that, let me turn it back to Mike."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Thanks, Rafael. Operator, you can now open the line for questions. [Operator Instructions] Operator?"
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "[Operator Instructions] Our first question comes from the line of Timothy Arcuri with UBS."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Timothy Arcuri",
+      "speakerType": "Analysts",
+      "text": "Haviv, I'm wondering if you can talk about the linearity of bookings through the quarter. I know in the June quarter, things had softened throughout the quarter. But this quarter, it seemed like things got a little better as you moved through the quarter. So can you talk about that as you sort of head into C Q4?"
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Yes, I'll give some high-level comments, and Mike, please add anything with more details. Yes, this quarter was -- kind of came in as expected and not similar to what we saw in Q2. It was a little bit hectic with the tensions related to trade and tariffs, we saw a lot of change through the quarter. This was more of as expected quarters -- through the quarter in July, August and September. And Mike, anything to add on that one?"
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Yes, we had talked about the turns portion of the business had kind of started out strong at the beginning of second and had moderated near the end. We didn't see that same behavior again. And third, it really -- that portion kind of followed what you'd expect to see in a kind of a cyclical recovery that we saw in third. Do you have a follow-up?"
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Timothy Arcuri",
+      "speakerType": "Analysts",
+      "text": "I do. Yes. Rafael, I wanted to ask about loadings that are assumed in the fourth quarter. I know you're usually coming at the high end, but if we assume the midpoint of the guidance, and I assume that depreciation grows like it has the past few quarters. Gross margin, if I exclude the depreciation, so on a cash basis, it's down like to sub 67%. So it hasn't been that low in like 10 years. And you are already sitting on a lot of inventory. I don't think you want to build more.\r\nSo sort of what's the path to get cash margins on a better path here? I mean, it's below where it was 7 to 8 quarters ago when revenue was $600 million to $700 million lower than where it is today?"
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. Let me try to answer that. There were several questions there, so let me see if I can hit most of them. First, your question is maybe fundamentally on inventory. So let me start there. We're very pleased with our current inventory position. That -- objective for inventory is to support customers, to keep lead times short and have just great customer delivery, customer satisfaction. So that we are achieving, and we're pleased with where the inventory is.\r\nNow given our revenue -- the midpoint of our revenue in order to continue to maintain those levels of inventory and where we want to be on inventory, we're adjusting the loadings down into fourth quarter. We did some of that in third quarter, and we're going to do some more in the fourth quarter. So as we do that, and as you pointed out, when you look at fourth quarter, you have lower revenue, you have higher depreciation. You have the hit on the lower loadings. So that's how you get to the EPS range that we have listed."
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Chris Danely with Citibank."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Christopher Danely",
+      "speakerType": "Analysts",
+      "text": "Can you just talk a little bit more about the restructuring? Maybe what was the catalyst for it? And then any benefits to expenses, either gross margins or OpEx going forward?"
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Chris, high level, it's related to actually two things. First, I think we announced several years back that we are winding down our 6-inch fabs or 150-millimeter fabs. We have one in Sherman, the old site -- the old fabs in the site and one in Dallas. Both of them have actually started the last wafer this month. And we will see a gradual reduction in cost related to these two factories through, I think, the first half of '26. We are just taking the hit on the restructuring costs in Q3 as we had predictability, and the amount was clear to us in terms of the size of it.\r\nRegarding the other part of it, this is an ongoing work that we are doing. We always look at the efficiency gains. We had some areas where we felt that our R&D machine is not generating the returns that we would expect on the long term, and we decided to consolidate some sites. That is also going to take place in the next couple of quarters for the company."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Chris?"
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "And Rafael, is there anything that -- just on the OpEx side that you want to mention, Rafael on the..."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "I would just say, tactically for fourth quarter, I expect OpEx to be about flat to third quarter, and that's, as Haviv alluded to the benefits from the restructuring, they don't all come in immediately. So it just takes a little while for that to happen, and there will be benefits in both COR and well as OpEx."
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Chris?"
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Christopher Danely",
+      "speakerType": "Analysts",
+      "text": "Yes. I think you guys said industrial was up low single digits sequentially and auto was up, I think it was high singles or something like that sequentially. That sounds like a bit of a change from what you said last quarter and intra-quarter, is that true? And then why do you think industrial is slowing down and auto is a little better than expected?"
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Let me take -- first, Chris, as you remember, we only guide for the -- at the company level, we don't guide by market. We did say, I think on the industrial side that we had a very strong Q2, so kind of indicated that we assume Q3 will taper off, right? And actually, to me, that low single-digit growth sequentially was good. I'm pleased with the result. Remember, a very strong growth in the second quarter.\r\nOn the automotive side, I would say, look, automotive was kind of sequentially up and down and up and down, but all in a very similar level, right? The recovery in automotive, at least for TI, was very -- the trough was shallow, and now it's kind of back to where it used to be. So I would not read too much into it. It came in more or less as expected. And I think, Mike, it grew across the regions in automotive?"
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "It did. Yes. It grew sequentially across all the regions."
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "All the regions, so no surprises there, Chris, from our perspective, at least."
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Yes. And I'd just add with industrial, a second-to-third transition, usually actually down. If you look across the averages over history, it's actually down a little bit. So -- and up low single digit is actually not an unusual result if you're in a recovery."
+    },
+    {
+      "componentOrder": 22,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Joe Moore with Morgan Stanley."
+    },
+    {
+      "componentOrder": 23,
+      "speakerName": "Joseph Moore",
+      "speakerType": "Analysts",
+      "text": "Great. I guess I continue to get a lot of questions about pricing for you guys. Anything unusual happening there? I think you alluded to kind of an ongoing learning curve kind of price declines. But anything happening where any markets are sort of different on the pricing side?"
+    },
+    {
+      "componentOrder": 24,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Short answer is no. And again, for the year, I think our assumption coming into the year was kind of a low single-digit decline like-for-like on the pricing side and I think that's how we are trending year-to-date. So I expect the year to end at the low single-digit price reduction in 2025."
+    },
+    {
+      "componentOrder": 25,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Joe?"
+    },
+    {
+      "componentOrder": 26,
+      "speakerName": "Joseph Moore",
+      "speakerType": "Analysts",
+      "text": "Yes. And just your -- any comment on lead times? Are you still in the range that you've talked about? Any areas where lead times are getting longer?"
+    },
+    {
+      "componentOrder": 27,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "I'd say across the portfolio, very consistent with what it was in the quarter prior. So not much of a change in that. And our lead times right now are competitive. We worked very hard to make sure that our inventory position would allow us to do that. And we're happy with the lead time position that we have. So yes, not a lot of change on a sequential basis."
+    },
+    {
+      "componentOrder": 28,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "And Joe, just a little bit more color on the lead times. I think we always talk about inventory part by part, technology by technology, package type by package type. I think as Rafael mentioned, the third quarter was a very good quarter for us because we've reached our milestone of that's where we need to be. We had a few areas where we were still catching up. So that's now behind us.\r\nAnd we are now prepared to any scenario. As Mike said, we are serving our customers through a growth this year of mid-teens with no issues. So very strong support from TI. We are hitting our metrics and exceeding them even. And customer service is continuing to be very high for the company, which explains some of the low visibility we are seeing in terms of turns business, as Mike mentioned before."
+    },
+    {
+      "componentOrder": 29,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Stacy Rasgon with Bernstein Research."
+    },
+    {
+      "componentOrder": 30,
+      "speakerName": "Stacy Rasgon",
+      "speakerType": "Analysts",
+      "text": "For my first one, I just wanted to dial in on the gross margin expectations explicitly for Q4. So you talked about loadings and everything, you talked about the tax rate coming up. It seems that you're guiding it down, I don't know, maybe 250 bps, something in the ballpark of 55%. I just want to know, is that the right number to think about?\r\nAnd then given that baseline, like how much cost should I be expecting comes out of the model due to the 6-inch fab closures in the first half?"
+    },
+    {
+      "componentOrder": 31,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. So Stacy, high level, you're in the ballpark. We let the EPS guide speak for itself, but you have lower revenue, you fall that through, you have increases in depreciation for the year is $1.8 billion to $2 billion. So -- but it should be an increase second to third, similar to -- third to fourth should be similar to second to third. So you do that and you have higher levels of depreciation.\r\nThen as Haviv said, we're very pleased with our inventory levels. They're doing what they're supposed to. So now we are moderating those wafer starts, those loadings. And as those come down, we get the impact on gross margins.\r\nLet me just also step back and stress that we run the company with a mindset of a long-term owner and the objective to grow free cash flow per share over the long term, and that is gaining momentum. On a trailing 12-month basis, our free cash flow is up 65% from last year, and it has the potential to accelerate and grow even faster next year as we have outlined in our framework back in Capital Management."
+    },
+    {
+      "componentOrder": 32,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Stacy?"
+    },
+    {
+      "componentOrder": 33,
+      "speakerName": "Stacy Rasgon",
+      "speakerType": "Analysts",
+      "text": "I do. So your Q4 guide is down about 7% sequentially off of a slightly higher-than-expected Q3 base. My math suggests that down 7% or so is pretty much seasonal like on a pre-COVID basis, I know post-COVID seasonality has been over all over the place. But pre-COVID, it typically was down, call it, like high single digits. So you seem to be on a seasonal trend now, and maybe that's consistent with customers no longer draining inventory.\r\nWhat is -- how should I think about normal seasonality like pre-COVID levels for Q1? My feeling is it's typically down sequentially, like what is -- I'm not asking you to guide it, but just like what is normal for Q1, at least on a pre-COVID basis, if we're running more of a seasonal pattern from here?"
+    },
+    {
+      "componentOrder": 34,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Stacy, before we talk about Q1, let me just add a little bit more color on Q4. As you said, I look at it as a roughly seasonal guide, as you said. And the reason is there is a recovery, but it's a very -- in a moderate pace, right? So that's what guides our, call it, seasonal view into Q4.\r\nI also mentioned, and that's what we're seeing. This is part of the way we do business these days. More customers are direct, more customers are on consignment. Customer inventories are low, and I think they've gone through this depletion process, okay? That's behind us. So we are going to be just seeing it real time as it comes, and hence our guidance.\r\nNow regarding Q1, Mike, you could comment if you want."
+    },
+    {
+      "componentOrder": 35,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Yes. Yes. It's not unusual to see fourth to first just historically -- this not a guide for what we're going to see, but what historically has done, it's typically down just slightly sequentially, it's not unusual to see."
+    },
+    {
+      "componentOrder": 36,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Ross Seymore with Deutsche Bank."
+    },
+    {
+      "componentOrder": 37,
+      "speakerName": "Ross Seymore",
+      "speakerType": "Analysts",
+      "text": "I'm going to ask a couple of questions. Haviv, congratulations on the Chairman role as well.\r\nI wanted to go back to the gross margin side. Rafael, you talked about all the reasons it was going to drop in the rough range from the prior question. Just wondered how does that flow through into next year from the perspective of depreciation? Is there any change to the range you gave before?\r\nAnd if you're flat to slightly down in the first quarter, does that flow through in the utilization dynamic? Does that have to flow through inventory, et cetera, and leading to a headwind as we go into the first half of next year as well?"
+    },
+    {
+      "componentOrder": 38,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. So a couple of things. First, on depreciation, no change to our guidance, $1.8 billion to $2 billion for this year. So you come back into fourth quarter, as I answered to Stacy, a second ago. And for next year, we've said $2.3 billion to $2.7 billion, but to be on the lower end of that range that should give you enough to model that.\r\nBeyond that, we'll go -- we'll forecast 1 quarter at a time. It's going to depend on revenue and demand. So this by lowering the loadings now puts us in a good position to have the level of inventory that we think is required. And I think that's going to put us in a good position going into 2026."
+    },
+    {
+      "componentOrder": 39,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "And Ross, the only color I'd add, and then Rafael touched upon it. We do think, and that's the way we run the place on free cash flow per share. We have made an excellent progress on ramping and qualifying our Sherman new site. We are winding down 2 6-inch fabs. Our investments in Utah in Lehi 2 are continuing as planned.\r\nSo our eyes on free cash flow per share growth and start with free cash flow, right? So when you get to the right level of inventory, when you execute on your expansion plans, I think we are now well prepared for any scenario. And as you remember, we have framed 2026, not on GPM, but on free cash flow, and that's where our sight is on, okay?"
+    },
+    {
+      "componentOrder": 40,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Ross?"
+    },
+    {
+      "componentOrder": 41,
+      "speakerName": "Ross Seymore",
+      "speakerType": "Analysts",
+      "text": "Yes, I do. I just wanted to also talk about margins, but on the OpEx side. A clarification first then the question. The clarification for Rafael, you talked about OpEx being flat in the fourth quarter. I assume that's excluding the charge in the third quarter.\r\nAnd then as you look forward, in the past, you've had years that OpEx was flat year-over-year. You just took some restructuring, you're consolidating R&D sites, you said. How should we think just generally about OpEx, whether it's relative to revenue or absolute levels? Do you plan to grow at low single digits? Is it something higher than that like this year? Any sort of color about how you're approaching OpEx as you look into next year?"
+    },
+    {
+      "componentOrder": 42,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. So a couple of things. First, on the first part of your question, when I think about OpEx, I do not include restructuring in that. That is a separate line. So that $85 million, of course, it's not going to repeat. So that -- put that out.\r\nAnd the OpEx, the regular OpEx, I expect it to be about flat third to fourth quarter. Beyond that, on R&D and SG&A strategy, more broadly speaking, we have a disciplined process of allocating R&D and SG&A to the best opportunities and the best investments that both -- primarily in the R&D space, but even in SG&A strategies such as ti.com, to strengthen our competitive advantages."
+    },
+    {
+      "componentOrder": 43,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Yes. And on the R&D side, Ross, look, today, I'd like to talk about -- and we are seeing the data center market becoming a larger opportunity over the last several years, and I think that continues into the future. So when I think about industrial, automotive, data center, the amount of opportunity to expand our portfolio is high. We have a lot of good investments to make there, and we plan to continue to grow our portfolio in these 3 areas.\r\nWe care about all markets, all 5 markets, but these 3 will have a really long-term growth opportunity ahead of them and TI can do more to serve these markets. So I expect to see that in '26 and beyond."
+    },
+    {
+      "componentOrder": 44,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Jim Schneider with Goldman Sachs."
+    },
+    {
+      "componentOrder": 45,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "I was wondering if you could maybe give us a little bit of color in China and what you're seeing there? I think last quarter, you called out some pull-in activity. I'm curious whether you saw a reversion there in terms of orders or whether orders were ending up -- ended up better than you expected and sort of what you're seeing on a real-time basis heading into Q4?"
+    },
+    {
+      "componentOrder": 46,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "High level in Q3, China came back to normal, and I expect that to continue into Q4. Mike, anything specific on the China business in Q3?"
+    },
+    {
+      "componentOrder": 47,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Yes. And maybe to add, as we probably talked about last quarter, there was potential for pull forward in second. And if you look at industrial in China, that was the only market that didn't grow sequentially. But if you look on a year-on-year, it's still up about 40%, but I think you're looking at where it essentially didn't repeat. We didn't see that same level of pull forward, at least evidence of it. I can't confirm that with certainty, but it doesn't appear that same pull forward trend repeated itself in third just based on that. But we'll have to see how it plays through. That's the only thing I would add."
+    },
+    {
+      "componentOrder": 48,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "So nothing special to report there, Jim, okay?"
+    },
+    {
+      "componentOrder": 49,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up?"
+    },
+    {
+      "componentOrder": 50,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "Yes, please. I know when you get to the beginning of next year, you'll give us an update on the Capital Management Day, but I'm just sort of curious, as we think -- sit here today in light of the slower recovery you seem to be talking about right now or you're seeing right now, can you maybe give us a sense about whether you expect that your CapEx for next year will be toward the lower end of the range you sort of outlined at the beginning of this year?"
+    },
+    {
+      "componentOrder": 51,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Yes. We gave you the framework, Jim. And again, we gave you a $20 billion to $26 billion framework there, but of course, it can be higher or lower. I think the probability of being lower is probably -- more probable than higher, than $26 billion, right? So at the end of the day, we'll see what it wants to do. This recovery has been moderate. So we haven't seen even the market goes back to trend line. Not to mention going above trend line and customers building inventory. We just haven't seen it. It could still happen in this cycle, it could not.\r\nThe good news from a TI perspective that we are ready for any scenario. If it wants to grow quickly, we will be able to serve it. But if it wants to continue and that moderate recovery, of course, we will be at the lower end of the CapEx and free cash flow will grow. As indicated in our framework we provided in Capital Management. And as February comes in, we'll have some more information. We'll have Q4 behind us, and we'll provide more color on that, Jim."
+    },
+    {
+      "componentOrder": 52,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Chris Caso with Wolfe Research."
+    },
+    {
+      "componentOrder": 53,
+      "speakerName": "Christopher Caso",
+      "speakerType": "Analysts",
+      "text": "I guess first question is with regard to general conditions and the recovery. And I think the words you said were that the recovery was continuing at a slower pace. Can you talk about what's changed in your mind since the last earnings call? I think earlier in the year, perhaps you were more optimistic that this would follow lines of a more typical recovery, which would be stronger by now. But what sort of changed in the part of your customers and such as compared to the last earnings call?"
+    },
+    {
+      "componentOrder": 54,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Yes, sir. And I think that's related more to the first half of 2Q. I think Mike mentioned that and we acknowledged that in the July call that it had a very rapid start. We were thinking that we are sitting on a sharp slope. I think time taught us that if it's not -- I would not say -- it's just a moderate, okay? We are seeing the market getting back towards trend line, but still below trend line. And that's one of the more moderate recovery that we've seen in the history. I think you have to go back many years to see similar behavior. Could still change.\r\nMy -- and again, I cannot prove it, but I do see when I talk with customers, especially on the industrial side, and if you think about investing, building new factories, putting more CapEx, there is a bit of a wait-and-see mode with our customers. They're just hesitant to have clarity on what exactly are the final rules. Should I put my factory in this country or another one. Even in our domain, think about it, the rules are still not finalized in terms of the rates of tariffs, for example, will they be or not.\r\nSo I do see this hesitancy at the customer base, and I see it mainly on the industrial side. On the automotive side, it's -- the secular growth is continuing, so just content growth allows that market to go back to the level that it peaked before.\r\nAnd the outlier is data center. Data center, again, not a large part of our revenue, but growing more than 50% for TI year-to-date. That's where we see a strong investment. That's the only place where we see a strong growth where customers are investing and moving fast, and TI wants to do more there. We are investing as well. But again, a smaller part of our revenue."
+    },
+    {
+      "componentOrder": 55,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Chris?"
+    },
+    {
+      "componentOrder": 56,
+      "speakerName": "Christopher Caso",
+      "speakerType": "Analysts",
+      "text": "I do. And as a follow-up, if you could take us through your thought process with regard to the reduction in wafer starts and utilization. I mean, is it a function of what you just said that typically, the recovery will be stronger at this point, and it's not there, so you need to moderate a bit. Take us through the thought process of that. And for how long you would keep the loadings at a lower level? And what would you need to see to start raising those loadings again?"
+    },
+    {
+      "componentOrder": 57,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. So it is -- you can think of it fairly mechanically, frankly. Think of revenue was $4.7 billion and change in third quarter. Now the midpoint is $4.4 billion. If you run the factories, the same way you were before with lower revenue, you just grow inventory and keep on growing inventory. We only grew $17 million in third quarter, so it was essentially flat, but at a lower revenue, same loadings, you would grow inventory. So you need to moderate that in order to keep inventory either flat or maybe slightly down as we go into fourth quarter.\r\nThe second part of your question, it's going to depend on revenue, right? So the higher the revenue could be over the next 6, 9, 12 months going into 2026, then the faster we could increase the loadings back up or we may leave them at that level if the revenue is more moderate. So it's just going to depend on how revenue comes in."
+    },
+    {
+      "componentOrder": 58,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Blayne Curtis with Jefferies."
+    },
+    {
+      "componentOrder": 59,
+      "speakerName": "Blayne Curtis",
+      "speakerType": "Analysts",
+      "text": "I had two questions. I just wanted to follow back up on that loading comment. I mean you said that you would keep it kind of flat in December. I mean, I guess, you're not going to guide to March, but I'm just kind of curious, you've been growing inventory for many, many quarters. Is this now the way to think about it, you'll keep it flat until you see a more robust recovery on the top line?"
+    },
+    {
+      "componentOrder": 60,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. And I think you're referring to flat inventory levels. And I said flat to down. So we are comfortable with the $4.8 billion that we have that has very -- of inventory that has very low obsolescence level. We hardly ever scrap any of our inventory because it lasts a long time, both in finished goods and in chips -- in chip form and die bank and in finished goods.\r\nSo we feel very comfortable with that level, but it's about sustainability, right? If you just keep on growing, it's just not a good allocation of your cash or your capital for -- of owners. So it's better to moderate the loadings that way you're flat to down in the current environment, and we feel that we can do that and continue to have very high levels of customer service and metrics supporting our customers."
+    },
+    {
+      "componentOrder": 61,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Blayne?"
+    },
+    {
+      "componentOrder": 62,
+      "speakerName": "Blayne Curtis",
+      "speakerType": "Analysts",
+      "text": "And then I guess just a follow-up, in terms of the lower loading in the December quarter, is that all reflected in the gross margin guidance? Or does that kind of spill into March? Obviously, like I said, you're not going to guide to March, but just kind of thinking about the moving pieces, is there any kind of part of the December cut that spills into March in addition to whatever March is?"
+    },
+    {
+      "componentOrder": 63,
+      "speakerName": "Rafael Lizardi",
+      "speakerType": "Executives",
+      "text": "Yes. So we're not guiding to March, as you pointed out. But the lower loading that I'm talking about, some of that happened in third quarter. There was a step down in third quarter, second to third, and there's another step down into fourth. That is, of course, embedded in the EPS guidance that we just gave."
+    },
+    {
+      "componentOrder": 64,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Tore Svanberg with Stifel."
+    },
+    {
+      "componentOrder": 65,
+      "speakerName": "Tore Svanberg",
+      "speakerType": "Analysts",
+      "text": "Yes. And congratulations, Haviv. My first question is on the enterprise data and communications business. I get the enterprise data, that's obviously tied to data center. But I'm a little bit surprised to see the communications equipment being that strong. Is that also tied to data center and perhaps some of these cluster build-outs? Or is there anything else going on there?"
+    },
+    {
+      "componentOrder": 66,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Yes, I think it's a great question, and that's the reason. I think we indicated before and we'll provide more color in Q1, we are planning to break out data center as a market for the company. Right now, our data center sits mainly in enterprise in that compute and equipment, but also on the comms side, we have there the wire, the switches and the wired comms in a rack and rack-to-rack. We also have the optical module business there in comms. So they are really part of the data center market, if you will.\r\nThe other part of the data center market for TI sits today in industrial, think about all these high-voltage power delivery, the PSUs and all that. And there is also a lot of architectural change there going to high-voltage DC and all that. So I think it's time that TI calls out data center at the top. We'll provide more color in Q1. But just for the year, and then we are in the midst of collecting all the bits and pieces, but TI is running more or less at the $1.2 billion run rate in 2025, that what we're seeing right now.\r\nAnd again, we'll provide more specifics in Q1, but it's also our fastest-growing market. It's growing year-to-date above 50% for the first 3 quarters. And I see customers continuing to invest, as I alluded before, that's the one market that we see CapEx going into. And I'm not seeing any slowdown there in the -- at least in the foreseeable future related to our visibility at least. Okay?"
+    },
+    {
+      "componentOrder": 67,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "Do you have a follow-up, Tore?"
+    },
+    {
+      "componentOrder": 68,
+      "speakerName": "Tore Svanberg",
+      "speakerType": "Analysts",
+      "text": "Yes, that was very helpful. Just a quick follow-up. I know you typically don't guide by market in Q4 but any sort of outliers one way or the other by your end markets into the December quarter, please?"
+    },
+    {
+      "componentOrder": 69,
+      "speakerName": "Mike Beckman",
+      "speakerType": "Executives",
+      "text": "I'd just say there's no specific outliers to call out as you look across our businesses. Some of our end markets have higher sensitivity to seasonality than others, personal electronics being probably the most sensitive to it. But overall, there's nothing specific that I'd call out about fourth quarter's transition.\r\nSo Tore, thank you for the question, and I'll hand it back over to Haviv to wrap this up."
+    },
+    {
+      "componentOrder": 70,
+      "speakerName": "Haviv Ilan",
+      "speakerType": "Executives",
+      "text": "Thank you, Mike. So let me wrap up with what we've said previously, at our core, we are engineers. Our technology is the foundation of our company. But ultimately, our objective is to -- and the best metric to measure progress and generate value to our owners is the long-term growth of free cash flow per share. Thank you, and have a good evening."
+    }
+  ],
+  "text": "# Texas Instruments Incorporated - Q3 2025 Earnings Call\nDate: 2025-10-21T20:30:00Z\nType: Earnings Calls\n\n## Mike Beckman (Executives)\nWelcome to the Texas Instruments Third Quarter 2025 Earnings Conference Call. I'm Mike Beckman, Head of Investor Relations, and I'm joined by our Chief Executive Officer Haviv Ilan and our Chief Financial Officer Rafael Lizardi. For any of you who missed the release, you can find it on our website at ti.com/ir.\r\nThis call is being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website.\r\nThis call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today as well as TI's most recent SEC filings for a more complete description.\r\nYou likely saw last week, we announced that the Board of Directors has elected Haviv Ilan, Chairman of the Board, beginning January 2026. Haviv succeeds Rich Templeton, who will retire as Chairman after a 45-year career with TI. I'm sure you will join me in congratulating them both.\r\nToday, we'll provide the following updates. First, Haviv will start with a quick overview of the quarter. Next, he will provide insight into third quarter revenue results with some details on what we are seeing with respect to our end markets. Lastly, Rafael will cover the financial results, give an update on capital management as well as share the guidance for fourth quarter 2025.\r\nWith that, let me turn it over to Haviv.\n\n## Haviv Ilan (Executives)\nThanks, Mike. I'll start with a quick overview of the third quarter. Revenue came in about as expected at $4.7 billion, an increase of 7% sequentially and an increase of 14% year-over-year. Analog and Embedded both grew year-on-year and sequentially. Analog revenue grew 16% year-over-year and Embedded Processing grew 9%. Our Other segment grew 11% from the year-ago quarter.\r\nLet me provide a few comments about the current market environment. The overall semiconductor market recovery is continuing, though, at a slower pace than prior upturns, likely related to the broader macroeconomic dynamics and overall uncertainty. That said, customer inventories remain at low levels and their inventory depletion appears to be behind us. We are well positioned with capacity and inventory and have flexibility to support a range of scenarios.\r\nNow I'll share some additional insights into third quarter revenue by end market. First, the industrial market increased about 25% year-on-year and was up low single digits sequentially following a strong result in the second quarter. The automotive market increased upper single digits year-on-year and around 10% sequentially with growth across all regions. Personal electronics grew low single digits year-on-year and grew upper single digits sequentially. Enterprise systems grew about 35% year-on-year and grew about 20% sequentially. And lastly, communications equipment grew about 45% year-on-year and was up about 10% sequentially.\r\nWith that, let me turn it over to Rafael to review profitability and capital management.\n\n## Rafael Lizardi (Executives)\nThanks, Haviv, and good afternoon, everyone. As Haviv mentioned, third quarter revenue was $4.7 billion. Gross profit in the quarter was $2.7 billion or 57% of revenue. Sequentially, gross profit margin decreased 50 basis points.\r\nOperating expenses in the quarter were $975 million, up 6% from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.9 billion or 23% of revenue. Operating profit was $1.7 billion in the quarter or 35% of revenue and was up 7% from the year-ago quarter.\r\nNet income in the quarter was $1.4 billion or $1.48 per share. Earnings per share included a $0.10 reduction, not in our original guidance. This includes $0.08 of restructuring charges related to efforts to drive operational efficiencies to support our long-term strategy, including the planned closures of our last 250-millimeter fabs.\r\nLet me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $2.2 billion in the quarter and $6.9 billion on a trailing 12-month basis. Capital expenditures were $1.2 billion in the quarter and $4.8 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $2.4 billion. This includes $637 million of CHIPS Act incentives, including a $75 million payment received in the third quarter related to the direct funding agreement.\r\nIn the quarter, we paid $1.2 billion in dividends and repurchased $119 million of our stock. In September, we announced we would increase our dividend by 4%, marking our 22nd consecutive year of dividend increases. This reflects our continued commitment to return free cash flow to our owners over time. In total, we returned $6.6 billion to our owners in the past 12 months.\r\nOur balance sheet remains strong with $5.2 billion of cash and short-term investments at the end of the third quarter. Total debt outstanding is $14 billion with a weighted average coupon of 4%. Inventory at the end of the quarter was $4.8 billion, up $17 million from the prior quarter. And days were 215, down 16 days sequentially. We have executed well on building an inventory position, which we believe will allow us to consistently deliver high levels of customer service.\r\nTurning to our outlook for the fourth quarter. We expect TI's revenue in the range of $4.22 billion to $4.58 billion, and earnings per share to be in the range of $1.13 to $1.39. Our fourth quarter outlook includes changes related to the new U.S. tax legislation and now assumes an effective tax rate of about 13%. In addition, we expect our effective tax rate in 2026 to be about 13% to 14%.\r\nIn closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio, reach of our channels and diverse and long-lived positions. We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term.\r\nWith that, let me turn it back to Mike.\n\n## Mike Beckman (Executives)\nThanks, Rafael. Operator, you can now open the line for questions. [Operator Instructions] Operator?\n\n## Operator (Operator)\n[Operator Instructions] Our first question comes from the line of Timothy Arcuri with UBS.\n\n## Timothy Arcuri (Analysts)\nHaviv, I'm wondering if you can talk about the linearity of bookings through the quarter. I know in the June quarter, things had softened throughout the quarter. But this quarter, it seemed like things got a little better as you moved through the quarter. So can you talk about that as you sort of head into C Q4?\n\n## Haviv Ilan (Executives)\nYes, I'll give some high-level comments, and Mike, please add anything with more details. Yes, this quarter was -- kind of came in as expected and not similar to what we saw in Q2. It was a little bit hectic with the tensions related to trade and tariffs, we saw a lot of change through the quarter. This was more of as expected quarters -- through the quarter in July, August and September. And Mike, anything to add on that one?\n\n## Mike Beckman (Executives)\nYes, we had talked about the turns portion of the business had kind of started out strong at the beginning of second and had moderated near the end. We didn't see that same behavior again. And third, it really -- that portion kind of followed what you'd expect to see in a kind of a cyclical recovery that we saw in third. Do you have a follow-up?\n\n## Timothy Arcuri (Analysts)\nI do. Yes. Rafael, I wanted to ask about loadings that are assumed in the fourth quarter. I know you're usually coming at the high end, but if we assume the midpoint of the guidance, and I assume that depreciation grows like it has the past few quarters. Gross margin, if I exclude the depreciation, so on a cash basis, it's down like to sub 67%. So it hasn't been that low in like 10 years. And you are already sitting on a lot of inventory. I don't think you want to build more.\r\nSo sort of what's the path to get cash margins on a better path here? I mean, it's below where it was 7 to 8 quarters ago when revenue was $600 million to $700 million lower than where it is today?\n\n## Rafael Lizardi (Executives)\nYes. Let me try to answer that. There were several questions there, so let me see if I can hit most of them. First, your question is maybe fundamentally on inventory. So let me start there. We're very pleased with our current inventory position. That -- objective for inventory is to support customers, to keep lead times short and have just great customer delivery, customer satisfaction. So that we are achieving, and we're pleased with where the inventory is.\r\nNow given our revenue -- the midpoint of our revenue in order to continue to maintain those levels of inventory and where we want to be on inventory, we're adjusting the loadings down into fourth quarter. We did some of that in third quarter, and we're going to do some more in the fourth quarter. So as we do that, and as you pointed out, when you look at fourth quarter, you have lower revenue, you have higher depreciation. You have the hit on the lower loadings. So that's how you get to the EPS range that we have listed.\n\n## Operator (Operator)\nOur next question comes from the line of Chris Danely with Citibank.\n\n## Christopher Danely (Analysts)\nCan you just talk a little bit more about the restructuring? Maybe what was the catalyst for it? And then any benefits to expenses, either gross margins or OpEx going forward?\n\n## Haviv Ilan (Executives)\nChris, high level, it's related to actually two things. First, I think we announced several years back that we are winding down our 6-inch fabs or 150-millimeter fabs. We have one in Sherman, the old site -- the old fabs in the site and one in Dallas. Both of them have actually started the last wafer this month. And we will see a gradual reduction in cost related to these two factories through, I think, the first half of '26. We are just taking the hit on the restructuring costs in Q3 as we had predictability, and the amount was clear to us in terms of the size of it.\r\nRegarding the other part of it, this is an ongoing work that we are doing. We always look at the efficiency gains. We had some areas where we felt that our R&D machine is not generating the returns that we would expect on the long term, and we decided to consolidate some sites. That is also going to take place in the next couple of quarters for the company.\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Chris?\n\n## Haviv Ilan (Executives)\nAnd Rafael, is there anything that -- just on the OpEx side that you want to mention, Rafael on the...\n\n## Rafael Lizardi (Executives)\nI would just say, tactically for fourth quarter, I expect OpEx to be about flat to third quarter, and that's, as Haviv alluded to the benefits from the restructuring, they don't all come in immediately. So it just takes a little while for that to happen, and there will be benefits in both COR and well as OpEx.\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Chris?\n\n## Christopher Danely (Analysts)\nYes. I think you guys said industrial was up low single digits sequentially and auto was up, I think it was high singles or something like that sequentially. That sounds like a bit of a change from what you said last quarter and intra-quarter, is that true? And then why do you think industrial is slowing down and auto is a little better than expected?\n\n## Haviv Ilan (Executives)\nLet me take -- first, Chris, as you remember, we only guide for the -- at the company level, we don't guide by market. We did say, I think on the industrial side that we had a very strong Q2, so kind of indicated that we assume Q3 will taper off, right? And actually, to me, that low single-digit growth sequentially was good. I'm pleased with the result. Remember, a very strong growth in the second quarter.\r\nOn the automotive side, I would say, look, automotive was kind of sequentially up and down and up and down, but all in a very similar level, right? The recovery in automotive, at least for TI, was very -- the trough was shallow, and now it's kind of back to where it used to be. So I would not read too much into it. It came in more or less as expected. And I think, Mike, it grew across the regions in automotive?\n\n## Mike Beckman (Executives)\nIt did. Yes. It grew sequentially across all the regions.\n\n## Rafael Lizardi (Executives)\nAll the regions, so no surprises there, Chris, from our perspective, at least.\n\n## Mike Beckman (Executives)\nYes. And I'd just add with industrial, a second-to-third transition, usually actually down. If you look across the averages over history, it's actually down a little bit. So -- and up low single digit is actually not an unusual result if you're in a recovery.\n\n## Operator (Operator)\nOur next question comes from the line of Joe Moore with Morgan Stanley.\n\n## Joseph Moore (Analysts)\nGreat. I guess I continue to get a lot of questions about pricing for you guys. Anything unusual happening there? I think you alluded to kind of an ongoing learning curve kind of price declines. But anything happening where any markets are sort of different on the pricing side?\n\n## Haviv Ilan (Executives)\nShort answer is no. And again, for the year, I think our assumption coming into the year was kind of a low single-digit decline like-for-like on the pricing side and I think that's how we are trending year-to-date. So I expect the year to end at the low single-digit price reduction in 2025.\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Joe?\n\n## Joseph Moore (Analysts)\nYes. And just your -- any comment on lead times? Are you still in the range that you've talked about? Any areas where lead times are getting longer?\n\n## Mike Beckman (Executives)\nI'd say across the portfolio, very consistent with what it was in the quarter prior. So not much of a change in that. And our lead times right now are competitive. We worked very hard to make sure that our inventory position would allow us to do that. And we're happy with the lead time position that we have. So yes, not a lot of change on a sequential basis.\n\n## Haviv Ilan (Executives)\nAnd Joe, just a little bit more color on the lead times. I think we always talk about inventory part by part, technology by technology, package type by package type. I think as Rafael mentioned, the third quarter was a very good quarter for us because we've reached our milestone of that's where we need to be. We had a few areas where we were still catching up. So that's now behind us.\r\nAnd we are now prepared to any scenario. As Mike said, we are serving our customers through a growth this year of mid-teens with no issues. So very strong support from TI. We are hitting our metrics and exceeding them even. And customer service is continuing to be very high for the company, which explains some of the low visibility we are seeing in terms of turns business, as Mike mentioned before.\n\n## Operator (Operator)\nOur next question comes from the line of Stacy Rasgon with Bernstein Research.\n\n## Stacy Rasgon (Analysts)\nFor my first one, I just wanted to dial in on the gross margin expectations explicitly for Q4. So you talked about loadings and everything, you talked about the tax rate coming up. It seems that you're guiding it down, I don't know, maybe 250 bps, something in the ballpark of 55%. I just want to know, is that the right number to think about?\r\nAnd then given that baseline, like how much cost should I be expecting comes out of the model due to the 6-inch fab closures in the first half?\n\n## Rafael Lizardi (Executives)\nYes. So Stacy, high level, you're in the ballpark. We let the EPS guide speak for itself, but you have lower revenue, you fall that through, you have increases in depreciation for the year is $1.8 billion to $2 billion. So -- but it should be an increase second to third, similar to -- third to fourth should be similar to second to third. So you do that and you have higher levels of depreciation.\r\nThen as Haviv said, we're very pleased with our inventory levels. They're doing what they're supposed to. So now we are moderating those wafer starts, those loadings. And as those come down, we get the impact on gross margins.\r\nLet me just also step back and stress that we run the company with a mindset of a long-term owner and the objective to grow free cash flow per share over the long term, and that is gaining momentum. On a trailing 12-month basis, our free cash flow is up 65% from last year, and it has the potential to accelerate and grow even faster next year as we have outlined in our framework back in Capital Management.\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Stacy?\n\n## Stacy Rasgon (Analysts)\nI do. So your Q4 guide is down about 7% sequentially off of a slightly higher-than-expected Q3 base. My math suggests that down 7% or so is pretty much seasonal like on a pre-COVID basis, I know post-COVID seasonality has been over all over the place. But pre-COVID, it typically was down, call it, like high single digits. So you seem to be on a seasonal trend now, and maybe that's consistent with customers no longer draining inventory.\r\nWhat is -- how should I think about normal seasonality like pre-COVID levels for Q1? My feeling is it's typically down sequentially, like what is -- I'm not asking you to guide it, but just like what is normal for Q1, at least on a pre-COVID basis, if we're running more of a seasonal pattern from here?\n\n## Haviv Ilan (Executives)\nStacy, before we talk about Q1, let me just add a little bit more color on Q4. As you said, I look at it as a roughly seasonal guide, as you said. And the reason is there is a recovery, but it's a very -- in a moderate pace, right? So that's what guides our, call it, seasonal view into Q4.\r\nI also mentioned, and that's what we're seeing. This is part of the way we do business these days. More customers are direct, more customers are on consignment. Customer inventories are low, and I think they've gone through this depletion process, okay? That's behind us. So we are going to be just seeing it real time as it comes, and hence our guidance.\r\nNow regarding Q1, Mike, you could comment if you want.\n\n## Mike Beckman (Executives)\nYes. Yes. It's not unusual to see fourth to first just historically -- this not a guide for what we're going to see, but what historically has done, it's typically down just slightly sequentially, it's not unusual to see.\n\n## Operator (Operator)\nOur next question comes from the line of Ross Seymore with Deutsche Bank.\n\n## Ross Seymore (Analysts)\nI'm going to ask a couple of questions. Haviv, congratulations on the Chairman role as well.\r\nI wanted to go back to the gross margin side. Rafael, you talked about all the reasons it was going to drop in the rough range from the prior question. Just wondered how does that flow through into next year from the perspective of depreciation? Is there any change to the range you gave before?\r\nAnd if you're flat to slightly down in the first quarter, does that flow through in the utilization dynamic? Does that have to flow through inventory, et cetera, and leading to a headwind as we go into the first half of next year as well?\n\n## Rafael Lizardi (Executives)\nYes. So a couple of things. First, on depreciation, no change to our guidance, $1.8 billion to $2 billion for this year. So you come back into fourth quarter, as I answered to Stacy, a second ago. And for next year, we've said $2.3 billion to $2.7 billion, but to be on the lower end of that range that should give you enough to model that.\r\nBeyond that, we'll go -- we'll forecast 1 quarter at a time. It's going to depend on revenue and demand. So this by lowering the loadings now puts us in a good position to have the level of inventory that we think is required. And I think that's going to put us in a good position going into 2026.\n\n## Haviv Ilan (Executives)\nAnd Ross, the only color I'd add, and then Rafael touched upon it. We do think, and that's the way we run the place on free cash flow per share. We have made an excellent progress on ramping and qualifying our Sherman new site. We are winding down 2 6-inch fabs. Our investments in Utah in Lehi 2 are continuing as planned.\r\nSo our eyes on free cash flow per share growth and start with free cash flow, right? So when you get to the right level of inventory, when you execute on your expansion plans, I think we are now well prepared for any scenario. And as you remember, we have framed 2026, not on GPM, but on free cash flow, and that's where our sight is on, okay?\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Ross?\n\n## Ross Seymore (Analysts)\nYes, I do. I just wanted to also talk about margins, but on the OpEx side. A clarification first then the question. The clarification for Rafael, you talked about OpEx being flat in the fourth quarter. I assume that's excluding the charge in the third quarter.\r\nAnd then as you look forward, in the past, you've had years that OpEx was flat year-over-year. You just took some restructuring, you're consolidating R&D sites, you said. How should we think just generally about OpEx, whether it's relative to revenue or absolute levels? Do you plan to grow at low single digits? Is it something higher than that like this year? Any sort of color about how you're approaching OpEx as you look into next year?\n\n## Rafael Lizardi (Executives)\nYes. So a couple of things. First, on the first part of your question, when I think about OpEx, I do not include restructuring in that. That is a separate line. So that $85 million, of course, it's not going to repeat. So that -- put that out.\r\nAnd the OpEx, the regular OpEx, I expect it to be about flat third to fourth quarter. Beyond that, on R&D and SG&A strategy, more broadly speaking, we have a disciplined process of allocating R&D and SG&A to the best opportunities and the best investments that both -- primarily in the R&D space, but even in SG&A strategies such as ti.com, to strengthen our competitive advantages.\n\n## Haviv Ilan (Executives)\nYes. And on the R&D side, Ross, look, today, I'd like to talk about -- and we are seeing the data center market becoming a larger opportunity over the last several years, and I think that continues into the future. So when I think about industrial, automotive, data center, the amount of opportunity to expand our portfolio is high. We have a lot of good investments to make there, and we plan to continue to grow our portfolio in these 3 areas.\r\nWe care about all markets, all 5 markets, but these 3 will have a really long-term growth opportunity ahead of them and TI can do more to serve these markets. So I expect to see that in '26 and beyond.\n\n## Operator (Operator)\nOur next question comes from the line of Jim Schneider with Goldman Sachs.\n\n## James Schneider (Analysts)\nI was wondering if you could maybe give us a little bit of color in China and what you're seeing there? I think last quarter, you called out some pull-in activity. I'm curious whether you saw a reversion there in terms of orders or whether orders were ending up -- ended up better than you expected and sort of what you're seeing on a real-time basis heading into Q4?\n\n## Haviv Ilan (Executives)\nHigh level in Q3, China came back to normal, and I expect that to continue into Q4. Mike, anything specific on the China business in Q3?\n\n## Mike Beckman (Executives)\nYes. And maybe to add, as we probably talked about last quarter, there was potential for pull forward in second. And if you look at industrial in China, that was the only market that didn't grow sequentially. But if you look on a year-on-year, it's still up about 40%, but I think you're looking at where it essentially didn't repeat. We didn't see that same level of pull forward, at least evidence of it. I can't confirm that with certainty, but it doesn't appear that same pull forward trend repeated itself in third just based on that. But we'll have to see how it plays through. That's the only thing I would add.\n\n## Haviv Ilan (Executives)\nSo nothing special to report there, Jim, okay?\n\n## Mike Beckman (Executives)\nDo you have a follow-up?\n\n## James Schneider (Analysts)\nYes, please. I know when you get to the beginning of next year, you'll give us an update on the Capital Management Day, but I'm just sort of curious, as we think -- sit here today in light of the slower recovery you seem to be talking about right now or you're seeing right now, can you maybe give us a sense about whether you expect that your CapEx for next year will be toward the lower end of the range you sort of outlined at the beginning of this year?\n\n## Haviv Ilan (Executives)\nYes. We gave you the framework, Jim. And again, we gave you a $20 billion to $26 billion framework there, but of course, it can be higher or lower. I think the probability of being lower is probably -- more probable than higher, than $26 billion, right? So at the end of the day, we'll see what it wants to do. This recovery has been moderate. So we haven't seen even the market goes back to trend line. Not to mention going above trend line and customers building inventory. We just haven't seen it. It could still happen in this cycle, it could not.\r\nThe good news from a TI perspective that we are ready for any scenario. If it wants to grow quickly, we will be able to serve it. But if it wants to continue and that moderate recovery, of course, we will be at the lower end of the CapEx and free cash flow will grow. As indicated in our framework we provided in Capital Management. And as February comes in, we'll have some more information. We'll have Q4 behind us, and we'll provide more color on that, Jim.\n\n## Operator (Operator)\nOur next question comes from the line of Chris Caso with Wolfe Research.\n\n## Christopher Caso (Analysts)\nI guess first question is with regard to general conditions and the recovery. And I think the words you said were that the recovery was continuing at a slower pace. Can you talk about what's changed in your mind since the last earnings call? I think earlier in the year, perhaps you were more optimistic that this would follow lines of a more typical recovery, which would be stronger by now. But what sort of changed in the part of your customers and such as compared to the last earnings call?\n\n## Haviv Ilan (Executives)\nYes, sir. And I think that's related more to the first half of 2Q. I think Mike mentioned that and we acknowledged that in the July call that it had a very rapid start. We were thinking that we are sitting on a sharp slope. I think time taught us that if it's not -- I would not say -- it's just a moderate, okay? We are seeing the market getting back towards trend line, but still below trend line. And that's one of the more moderate recovery that we've seen in the history. I think you have to go back many years to see similar behavior. Could still change.\r\nMy -- and again, I cannot prove it, but I do see when I talk with customers, especially on the industrial side, and if you think about investing, building new factories, putting more CapEx, there is a bit of a wait-and-see mode with our customers. They're just hesitant to have clarity on what exactly are the final rules. Should I put my factory in this country or another one. Even in our domain, think about it, the rules are still not finalized in terms of the rates of tariffs, for example, will they be or not.\r\nSo I do see this hesitancy at the customer base, and I see it mainly on the industrial side. On the automotive side, it's -- the secular growth is continuing, so just content growth allows that market to go back to the level that it peaked before.\r\nAnd the outlier is data center. Data center, again, not a large part of our revenue, but growing more than 50% for TI year-to-date. That's where we see a strong investment. That's the only place where we see a strong growth where customers are investing and moving fast, and TI wants to do more there. We are investing as well. But again, a smaller part of our revenue.\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Chris?\n\n## Christopher Caso (Analysts)\nI do. And as a follow-up, if you could take us through your thought process with regard to the reduction in wafer starts and utilization. I mean, is it a function of what you just said that typically, the recovery will be stronger at this point, and it's not there, so you need to moderate a bit. Take us through the thought process of that. And for how long you would keep the loadings at a lower level? And what would you need to see to start raising those loadings again?\n\n## Rafael Lizardi (Executives)\nYes. So it is -- you can think of it fairly mechanically, frankly. Think of revenue was $4.7 billion and change in third quarter. Now the midpoint is $4.4 billion. If you run the factories, the same way you were before with lower revenue, you just grow inventory and keep on growing inventory. We only grew $17 million in third quarter, so it was essentially flat, but at a lower revenue, same loadings, you would grow inventory. So you need to moderate that in order to keep inventory either flat or maybe slightly down as we go into fourth quarter.\r\nThe second part of your question, it's going to depend on revenue, right? So the higher the revenue could be over the next 6, 9, 12 months going into 2026, then the faster we could increase the loadings back up or we may leave them at that level if the revenue is more moderate. So it's just going to depend on how revenue comes in.\n\n## Operator (Operator)\nOur next question comes from the line of Blayne Curtis with Jefferies.\n\n## Blayne Curtis (Analysts)\nI had two questions. I just wanted to follow back up on that loading comment. I mean you said that you would keep it kind of flat in December. I mean, I guess, you're not going to guide to March, but I'm just kind of curious, you've been growing inventory for many, many quarters. Is this now the way to think about it, you'll keep it flat until you see a more robust recovery on the top line?\n\n## Rafael Lizardi (Executives)\nYes. And I think you're referring to flat inventory levels. And I said flat to down. So we are comfortable with the $4.8 billion that we have that has very -- of inventory that has very low obsolescence level. We hardly ever scrap any of our inventory because it lasts a long time, both in finished goods and in chips -- in chip form and die bank and in finished goods.\r\nSo we feel very comfortable with that level, but it's about sustainability, right? If you just keep on growing, it's just not a good allocation of your cash or your capital for -- of owners. So it's better to moderate the loadings that way you're flat to down in the current environment, and we feel that we can do that and continue to have very high levels of customer service and metrics supporting our customers.\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Blayne?\n\n## Blayne Curtis (Analysts)\nAnd then I guess just a follow-up, in terms of the lower loading in the December quarter, is that all reflected in the gross margin guidance? Or does that kind of spill into March? Obviously, like I said, you're not going to guide to March, but just kind of thinking about the moving pieces, is there any kind of part of the December cut that spills into March in addition to whatever March is?\n\n## Rafael Lizardi (Executives)\nYes. So we're not guiding to March, as you pointed out. But the lower loading that I'm talking about, some of that happened in third quarter. There was a step down in third quarter, second to third, and there's another step down into fourth. That is, of course, embedded in the EPS guidance that we just gave.\n\n## Operator (Operator)\nOur next question comes from the line of Tore Svanberg with Stifel.\n\n## Tore Svanberg (Analysts)\nYes. And congratulations, Haviv. My first question is on the enterprise data and communications business. I get the enterprise data, that's obviously tied to data center. But I'm a little bit surprised to see the communications equipment being that strong. Is that also tied to data center and perhaps some of these cluster build-outs? Or is there anything else going on there?\n\n## Haviv Ilan (Executives)\nYes, I think it's a great question, and that's the reason. I think we indicated before and we'll provide more color in Q1, we are planning to break out data center as a market for the company. Right now, our data center sits mainly in enterprise in that compute and equipment, but also on the comms side, we have there the wire, the switches and the wired comms in a rack and rack-to-rack. We also have the optical module business there in comms. So they are really part of the data center market, if you will.\r\nThe other part of the data center market for TI sits today in industrial, think about all these high-voltage power delivery, the PSUs and all that. And there is also a lot of architectural change there going to high-voltage DC and all that. So I think it's time that TI calls out data center at the top. We'll provide more color in Q1. But just for the year, and then we are in the midst of collecting all the bits and pieces, but TI is running more or less at the $1.2 billion run rate in 2025, that what we're seeing right now.\r\nAnd again, we'll provide more specifics in Q1, but it's also our fastest-growing market. It's growing year-to-date above 50% for the first 3 quarters. And I see customers continuing to invest, as I alluded before, that's the one market that we see CapEx going into. And I'm not seeing any slowdown there in the -- at least in the foreseeable future related to our visibility at least. Okay?\n\n## Mike Beckman (Executives)\nDo you have a follow-up, Tore?\n\n## Tore Svanberg (Analysts)\nYes, that was very helpful. Just a quick follow-up. I know you typically don't guide by market in Q4 but any sort of outliers one way or the other by your end markets into the December quarter, please?\n\n## Mike Beckman (Executives)\nI'd just say there's no specific outliers to call out as you look across our businesses. Some of our end markets have higher sensitivity to seasonality than others, personal electronics being probably the most sensitive to it. But overall, there's nothing specific that I'd call out about fourth quarter's transition.\r\nSo Tore, thank you for the question, and I'll hand it back over to Haviv to wrap this up.\n\n## Haviv Ilan (Executives)\nThank you, Mike. So let me wrap up with what we've said previously, at our core, we are engineers. Our technology is the foundation of our company. But ultimately, our objective is to -- and the best metric to measure progress and generate value to our owners is the long-term growth of free cash flow per share. Thank you, and have a good evening.\n",
+  "downloaded_at": "2026-02-17T14:28:30.382672"
+}

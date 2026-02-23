@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2023-01-01",
+    "qa_roles": 12500,
+    "sdet_roles": 4200,
+    "total_dev_roles": 95000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "Pre-AI coding boom baseline"
+  },
+  {
+    "date": "2023-06-01",
+    "qa_roles": 11800,
+    "sdet_roles": 4500,
+    "total_dev_roles": 88000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "Post-layoff trough in dev hiring, QA more resilient"
+  },
+  {
+    "date": "2024-01-01",
+    "qa_roles": 13200,
+    "sdet_roles": 5100,
+    "total_dev_roles": 92000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "QA/SDET hiring recovering faster than general dev"
+  },
+  {
+    "date": "2024-06-01",
+    "qa_roles": 14800,
+    "sdet_roles": 5800,
+    "total_dev_roles": 97000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "AI coding tools driving demand for test automation roles"
+  },
+  {
+    "date": "2025-01-01",
+    "qa_roles": 16500,
+    "sdet_roles": 7200,
+    "total_dev_roles": 100000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "SDET roles growing fastest as AI-generated code needs validation"
+  },
+  {
+    "date": "2025-06-01",
+    "qa_roles": 18000,
+    "sdet_roles": 8500,
+    "total_dev_roles": 105000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "Testing roles as % of dev hiring reaching multi-year highs"
+  },
+  {
+    "date": "2026-01-01",
+    "qa_roles": 20500,
+    "sdet_roles": 10200,
+    "total_dev_roles": 108000,
+    "source": "LinkedIn Jobs estimate (illustrative)",
+    "notes": "QA+SDET now ~28% of dev hiring, up from ~18% in 2023"
+  }
+]

@@ -1,0 +1,417 @@
+{
+  "ticker": "MU",
+  "company": "Micron Technology, Inc.",
+  "title": "Q4 2025 Earnings Call",
+  "event_date": "2025-09-23",
+  "header": {
+    "companyId": 289030,
+    "announcedDate": "2025-09-01T00:00:00Z",
+    "eventDateTime": "2025-09-23T22:00:00Z",
+    "createdAt": "2025-09-24T00:33:45Z",
+    "transcriptTitle": "Micron Technology, Inc., Q4 2025 Earnings Call, Sep 23, 2025",
+    "situation": "Micron Technology, Inc., Q4 2025 Earnings Call, Sep 23, 2025",
+    "duration": 2900,
+    "keyDevId": 1959051081,
+    "transcriptId": 3552227,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Edited Copy",
+    "presentationTypeName": "Final",
+    "companyName": "Micron Technology, Inc.",
+    "formattedTitle": "Q4 2025 Earnings Call",
+    "title": "Micron Technology, Inc. - Q4 2025 Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Thank you for standing by, and welcome to Micron Technology's Post-Earnings Analyst Conference call. [Operator Instructions]\r\nI would now like to hand the call over to Satya Kumar, Investor Relations. Please go ahead."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Satya Kumar",
+      "speakerType": "Executives",
+      "text": "Thank you, and welcome to Micron Technology's fiscal fourth quarter 2025 post-earnings analyst call. On the call with me today are Sumit Sadana, Micron's Chief Business Officer; Manish Bhatia, EVP of Global Operations; and Mark Murphy, our CFO.\r\nAs a reminder, the matters we're discussing today include forward-looking statements regarding market demand and supply, market trends and drivers and our expected results and guidance and other matters. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements made today. We refer you to documents that we have filed with the SEC, including our most recent Form 10-Q and upcoming 10-K for a discussion of risks that may affect our results. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance and achievements. We are under no duty to update any of the forward-looking statements to conform these statements to actual results.\r\nWith that, we can now open up for Q&A."
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "[Operator Instructions] Our first question comes from the line of Tom O'Malley of Barclays."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Thomas O'Malley",
+      "speakerType": "Analysts",
+      "text": "My first one is just on the state of industry of NAND. So over the last couple of weeks, you've heard a lot of reports about hyperscalers stepping in, you've heard about tightness, pricing increases. And if you look at your current quarter that you just reported, you had bit down in the quarter and then I've tried a couple of different ways here, tell me if I'm crazy, but it seems like you need to have bits down again in your guide to kind of get there, so largely driven by ASP. Is that the right way to think about the world right now? And like some of your peers are talking about some bit growth going into the back half. So is that something that you're going to look to ease up with potentially some capacity additions? Just anything that you can comment on to the state of the world right now?"
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "This is Sumit. I'll just take the question. So in terms of the NAND industry, I wouldn't read too much into the bits for F Q4. It's really just noise based on just a few things, different segments moving around in our mix. So it's really just some mix-driven noise for the various segments.\r\nIn terms of the demand profile and what is shaping up looking ahead, certainly, the large hyperscalers are looking like they will be needing a significantly more storage capability for their AI server deployment because they have shortages on that side from the HDD segment of the market. And so the deployment of NAND SSDs and servers and data centers more broadly is going to increase in calendar '26.  So we expect, driven by that tailwind for the NAND industry conditions to start improving.\r\nAnd certainly, our position in the data center SSD market where we have been hitting record share after record share for several years now and have a really strong position in the market, for us to benefit from that data center SSD position, competitive position that we have. And we have announced a lot of new products. We have a very exciting portfolio. So we expect to be able to leverage that going forward.\r\nSo I think the NAND industry will improve. The improvement in the DRAM business is definitely ahead from a time perspective in terms of being tight. NAND is improving and getting tighter, but DRAM is tight already today and getting even tighter going forward."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "Yes, Tom. It's Mark. I would just add on the supply side, to continue. We structurally brought down wafer outs and NAND. We continue to slow node transitions there and pace new node ramps. Still have low levels of CapEx, and so we're working down inventories there."
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Manish Bhatia",
+      "speakerType": "Executives",
+      "text": "I was going to add, we're working down inventories. And now with our decision to exit managed NAND, there will be more supply availability for us to focus on the data center market, as Sumit was mentioning."
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Thomas O'Malley",
+      "speakerType": "Analysts",
+      "text": "Helpful. And then just as a quick follow-up. If I look at the CapEx guidance, you're saying kind of annualized Q1, you get to $18 billion. And I just want to make sure you're saying that's a net number, so obviously something higher in aggregate. And in your commentary in the slides, it seems like very little additional NAND spend and more on the DRAM side. So just on a very high level, I know you're not guiding specifically, should we be taking away from this that you're moving from $13 billion something to close to $20 billion something? And that incremental is largely a function of additional DRAM spend?"
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "Yes. We're just going to give that number, Tom. So we're saying that we're going to go from $13 billion to $18 billion net in '25 and net approximately $18 billion in '26. And the vast majority of that is for DRAM, construction and equipment."
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Joe Moore of Morgan Stanley."
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "Joseph Moore",
+      "speakerType": "Analysts",
+      "text": "Great. Sanjay, early on in the call, talked about taking market share in HBM in calendar '26, if I heard him right. But I know that would sort of happen mechanically because you got to your target share towards the end of this year so you would gain share. Can you just talk about what are your share gain aspirations in HBM, if any? Are you content with holding your DRAM share? Does that need to go higher?"
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. In terms of our HBM share, you're right. I mean, we have ramped our share through calendar '26, and we expect to be in the vicinity of our DRAM supply share in calendar Q3 in 2025. So in 2026, for the full calendar year, we will expect to have higher share in HBM compared to calendar '25. \r\nHBM has now become a very robust part of our portfolio, and we treat it like any other part of our portfolio where we focus on ROI of the portfolio. We focus on deplaned investments. We're focused on getting to be the best from a product perspective and creating that value with our customers. And then ensuring that we are taking full advantage of the competitive landscape as it evolves over time. So those are some of the things we do. So we're not going to provide any more specifics beyond that, but that's how we are thinking about it."
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Joseph Moore",
+      "speakerType": "Analysts",
+      "text": "Okay. That's helpful. And then the gross margins in HBM, will that continue to be higher than sort of non-HBM DRAM? And if given that you're locked in through most of 2025 and DDR5 is moving up, is it possible that, that changes? Is that -- could that lock in actually hurt you if DDR5 prices rise faster?"
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. I mean I don't think about the lock-in as \"hurting us\" because the businesses, the HBM portion of it and the non-HBM DRAM are just different types of businesses. The HBM business, we are working with customers with long lead times, long order visibility, lock in of volumes, lock in of pricing well ahead of time, a lot more stable ROI over the years. So that kind of a profile is helpful because no matter what the rest of the business does, our expectation is that the HBM business will have higher through-cycle ROI. So we managed that business in that different way. It creates a lot of value for our customers, and we have that expectation of a higher ROI for us in our portfolio. \r\nNow will there be times when the rest of the DRAM portfolio will become very profitable and can challenge or even exceed at times the profitability of the HBM business? Of course, that is possible and we don't think of that as a bad thing. We think of that as a positive thing that the whole business has become dramatically better. And so that's how we think of it as those outcomes are a good place to be because that means the whole industry is extraordinarily healthy from a supply-demand balance perspective, and that helps us drive really robust financial outcomes."
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Jim Schneider of Goldman Sachs."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "Two quick ones. One follow-up on Joe's question, which is just in general, given all the performance benefits you talked about relative to your position on the HBM4, would you expect your HBM4 share to be higher than it was for HBM3 in a sustainable way going forward?"
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "I mean we do feel we have very strong capabilities entering the HBM4 business. I mean, we certainly believe that we have the best HBM3E product in the world with highest performance and 30% lower power consumption than any other competitor. What we did not have at the start of the HBM3E business ramp though, is that we didn't have that installed capacity and that base capability. We were ramping from very low levels. And now with the very strong performance from our operations team, we have been able to get our capacity, our yields, our performance, our quality to extremely good levels. We have met our market share goal that we had articulated many quarters ago to you. \r\nAnd so we are starting off our HBM4 in a very different position in terms of being able to meet the expectations and requirements of our customers from a volume support perspective. So we feel that from a competitive positioning, that aspect of the business is in much better shape. Now with HBM4, it is -- there has been a lot of chatter in the market and the media about what is our HBM4 performance compared to those who are doing the base time, the foundry, et cetera. And we just wanted to mentioned and lay some of those doubts to rest that we today believe that our HBM4 has the highest performance amongst any competing product out there. And we don't believe that others can match this performance with this level of capability, quality, power consumption and so on.\r\nAnd so we believe that there will be tremendous customer preference for our products. Of course, we have increases in our HBM supply that we have created through our investments and we have confidence that we will sell out that supply for calendar '26. And there may be some HBM share shifts happening on the competitive landscape but it is our belief that most of that is most likely going to be between our 2 competitors rather than impacting our share in any material way."
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "And then as a follow-up on the CapEx side, could you maybe give us some color on the split of WFE versus facility CapEx you saw in fiscal '25? And then whether we should expect any significant change in that mix heading into next year?"
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "Jim, it's Mark. No, we're not going to provide that breakout, just that the vast majority of the spend is for DRAM construction equipment."
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "And any significant change in the facility piece of that for next year or so?"
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "We're not going to comment on that. As you know, we're expanding in a number of sites, including -- we talked about our first fab in Idaho, and we're also equipping those fabs as well. I should say, equipping the fab and then also doing tech transitions."
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Manish Bhatia",
+      "speakerType": "Executives",
+      "text": "You mean -- sorry, just to be clear, you're saying in Idaho, we're in construction, we expect production there in second half of '27. But we are investing in technology transitions and optimizing production across our footprint in Japan and Taiwan, where we have available clean room space."
+    },
+    {
+      "componentOrder": 22,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Chris Danely of Citi."
+    },
+    {
+      "componentOrder": 23,
+      "speakerName": "Christopher Danely",
+      "speakerType": "Analysts",
+      "text": "Can you hear me okay?"
+    },
+    {
+      "componentOrder": 24,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "So far."
+    },
+    {
+      "componentOrder": 25,
+      "speakerName": "Christopher Danely",
+      "speakerType": "Analysts",
+      "text": "I've been having phone problems all day. So a quick clarification. As far as the DRAM revs go, you guys gave us the HBM breakout. Can we assume roughly the same ratio for DDR4 roughly high single digits and then the rest, DDR5? And any commentary on the relative contributions to incremental gross margin between, say, DDR5 and HBM?"
+    },
+    {
+      "componentOrder": 26,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. So we have said earlier to you that the DDR4 plus LP4 we had provided some guidance earlier. We are pretty close to those levels. I'm not going to say that it's going to sustain throughout the fiscal year because the mix changes over time. But DDR4 just by itself, not counting LP4 has actually been a low single-digit percentage of the business. So it's been relatively small. But we have EOL this, we have extended some of our EOL time line based on extreme shortages at customers. And of course, the margins have become dramatically better as this shortage has continued. But yes, I think that's that. \r\nI think in terms of the relative margin, if I understood your question correctly, relative margin between DDR and HBM, we are not going to comment on that because while the HBM, as I mentioned earlier, they run like 2 different business models. So while the HBM pricing is set ahead of time for the upcoming calendar year, the pricing on the rest of the DRAM portfolio, and of course NAND portfolio also, is moving around based on quarterly trends. And we have mentioned to you that the DRAM industry is tight. \r\nAnd as we get into 2026, we expect it to further tighten due to all of the robust demand that we are seeing and the limits on the supply growth caused by a number of factors that were discussed. So we believe that, that tightening is going to enable improving pricing and margins on the non-HBM portion of the portfolio. So that will move around. So it's not really practical or possible to give you sort of a relationship between the 2."
+    },
+    {
+      "componentOrder": 27,
+      "speakerName": "Christopher Danely",
+      "speakerType": "Analysts",
+      "text": "That's great. That's still super helpful. And then for my follow-up, question for Mark on gross margin. So Mark, remember, we had lunch earlier this year, and I asked you about could you guys get back to 50% gross margin? You said it's possible, who knows. It depends on a lot of things. It's going to be tough. And here we are. And now we're going past that. So can you just maybe talk about what changed or what was the key to that? And then what are the limiting factors on gross margin going forward? Is it just essentially a function of how many more quarters pricing keeps going up? Or is there something else going on as far as mix goes?"
+    },
+    {
+      "componentOrder": 28,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "So Chris, since through the fourth quarter, market conditions continue to improve. And as you know, we updated in mid-August, the 11th, and we reported a margin 120 basis points higher than that. update. So prices continue to improve. The market conditions are very good. very tight on DRAM and they've improved in NAND and continue to improve. Yes, the margin we reported is now above where it was in mid fiscal '22 and DRAM margins are higher than that mid-'22 period. The operating margin is the highest that it's been since November '18. \r\nFrom here, the NAND business can continue to improve. There's been good supply response by us. And we've focused on higher-value SSD products in that business. So while that business is below '22 levels, it can continue to improve, and that will help overall margins. And then furthermore, as we talked about, DRAM is very tight now. And incremental supply is -- meaningful incremental supply is difficult to bring on. You have a number of factors that are structural here. Our inventory levels are low below targets. We've got this extended life on DDR4 LP4, which is constraining the ability to tech node transitions. \r\nYou have, obviously, the silicon intensity of HBM as that continues to grow quickly. And then incremental capacity, as you know, to bring on a fab takes a long time. And our -- for example, our new fab, Idaho will come on, wafer production starts and meaningful wafer production starts in second half. So that constrained supply focus on diverting bits to the best products and also our continued good cost improvements, those all offer the ability to expand margins, and we've indicated that we expect second quarter gross margin to be up relative to first."
+    },
+    {
+      "componentOrder": 29,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Vijay Rakesh of Mizuho."
+    },
+    {
+      "componentOrder": 30,
+      "speakerName": "Vijay Rakesh",
+      "speakerType": "Analysts",
+      "text": "Just a quick question on the DRAM side. I know you mentioned 1-gamma is starting now. But if you look at your 1-beta, which is -- it looks like most of the HBM4 will be on 1-beta as well. Any thoughts on what the mix will be for you, 1-gamma versus 1-beta now versus exiting the year fiscal '26 per se?"
+    },
+    {
+      "componentOrder": 31,
+      "speakerName": "Manish Bhatia",
+      "speakerType": "Executives",
+      "text": "Sure. Thanks, Vijay. This is Manish. We are very pleased with 1-gamma ramp. We were able to achieve both mature yield this quarter as well as first revenue shipments into hyperscalers as well as other applications. So we're really, really pleased with how that ramp is going. We expect to be able to have 1-gamma be the primary area where we're going to be -- that's going to be providing us a bit growth for fiscal in terms of supply, and we're going to be qualifying across multiple different product areas as we go through the year. We are already at a point where the 1-gamma production plus the 1-beta production are the significant majority of our bid output. And that mix will continue to grow towards 1-gamma as we go through calendar year -- excuse me, fiscal year '26."
+    },
+    {
+      "componentOrder": 32,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "I would I just maybe add one thing. We talked quite a bit about supply constraints on the last question, and a very important part of our supply solution in '26 is this ramping of 1-gamma, which as Manish said, has been doing very well. And then, Chris, just one additional note on your margin question is this just improved mix to in our business, the data center and the higher performance requirements of that market, and the favorable effect of that on the business."
+    },
+    {
+      "componentOrder": 33,
+      "speakerName": "Vijay Rakesh",
+      "speakerType": "Analysts",
+      "text": "Got it. And then on HBM4, given your higher speeds and lower, power I guess it die is bigger to your own logic die, would you expect the margins on HBM4 to be better versus HBM3, I guess, equal, high?"
+    },
+    {
+      "componentOrder": 34,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. I mean we are very confident in the capabilities of our product. And certainly, the HBM4 cost is higher than the HBM3 cost and the HBM4 price will be meaningfully higher than the HBM3E price. We don't really talk about margins by product line or within the product line, which product has what kind of relative margin. But overall, for HBM, we certainly expect that we'll have really good ROI capability for many years for the company not just driven by the huge complexity of HBM, but also driven by the dramatic value it creates for our customers and our intent to ensure that we are benefiting from providing that value."
+    },
+    {
+      "componentOrder": 35,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Aaron Rakers of Wells Fargo."
+    },
+    {
+      "componentOrder": 36,
+      "speakerName": "Aaron Rakers",
+      "speakerType": "Analysts",
+      "text": "I'll ask 2 as well. I guess kind of building on some of the prior questions. I'm curious, I know, Mark, you had talked about your ability to execute, I think it was high single-digit cost down with HBM in DRAM in fiscal '25, and then I think it was teens or something, low teens on NAND. I'm curious if as we make these process node transitions as well as G9 and NAND, how do you think about the cost down curve as these process nodes materialize through this next fiscal year?"
+    },
+    {
+      "componentOrder": 37,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "Just to be clear, I think on cost downs, we gave for fiscal '25 or slightly better than high single digits for DRAM front-end ex-HBM and mid-teens for NAND. And I think as -- and then for DRAM with HBM down low single-digit percentage and NAND cost reductions, low teens. So these are consistent with commentary we've given in the past at that or better."
+    },
+    {
+      "componentOrder": 38,
+      "speakerName": "Aaron Rakers",
+      "speakerType": "Analysts",
+      "text": "Yes. Okay. And then I'm curious just like structurally, the NAND market. There's a lot of discussion around these high-cap enterprise SSDs pushing 250 terabytes and plus. As we look at that market, I'm curious how you guys see the average capacity trending on these AI servers for SSDs? And whether we should really be expecting that to inflect materially higher as we move through fiscal '26 and some of these high cap drives really hit through volume?"
+    },
+    {
+      "componentOrder": 39,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. I think the average capacities is going to continue to escalate rapidly. We had 60 terabyte drives and then 102 terabyte drives, and we have ourselves announced at our last FMS event 122 terabyte drives, 245 terabyte drives. And so we are very excited with the demand that we see for these drives, and we do think there will be a meaningful uptake of these high-capacity drives, and they will drive the average capacities higher. And I also mentioned that there is expected to be a shortage of hard drive storage for these hyperscalers. And so more meaningful usage of NAND, even beyond previous plans should drive a positive outcome here as well as an added tailwind."
+    },
+    {
+      "componentOrder": 40,
+      "speakerName": "Aaron Rakers",
+      "speakerType": "Analysts",
+      "text": "Where do you think the average capacity is today per server? Just curious."
+    },
+    {
+      "componentOrder": 41,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "It's moving around quite a bit because in any given quarter, the mix of general-purpose servers and AI servers keeps changing and AI servers generally tend to use the highest capacity that is available in very meaningful quantities. So AI servers have been -- there are AI servers that are focused on just ensuring a huge amount of capacity, but then with different workloads of inference that are also increasing more fragmentation is happening in the configurations that are getting shipped. But generally speaking, the highest capacity drives that the industry has been able to produce do get used by AI servers. So they are going from 100 -- they're going from 60 terabytes to 120 and actively using a lot of 245 going forward."
+    },
+    {
+      "componentOrder": 42,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Brian Chin of Stifel."
+    },
+    {
+      "componentOrder": 43,
+      "speakerName": "Brian Chin",
+      "speakerType": "Analysts",
+      "text": "I'll ask a few questions. Maybe I know there's a couple of questions on cost down or cost reduction. But I was just curious, you've obviously talked about in the past, HBM3E, some efficiencies you've gained as you've kind of moved into relative maturity from where you started. And I know you're not -- you don't want to provide too much detail around pricing in 2026 for 3E, while your tone does suggest you have -- you should have sufficient leverage, I guess, in terms of those negotiations. But I'm wondering, is there more efficiency in terms of improvement in assembly and packaging yields for 3E that maybe could also help you out a little bit in terms of margins, margin profile next year?"
+    },
+    {
+      "componentOrder": 44,
+      "speakerName": "Manish Bhatia",
+      "speakerType": "Executives",
+      "text": "Thanks, Brian. So we are very happy with how the HBM3E 12-high ramp has gone. We talked about being able to get our yields to maturity on 12-high significantly faster than we did on 8-high, which was really our first major HBM volume node. And we've now gotten production capacity up to meaningful volumes as we kind of gave you. So there will be continued opportunity, but I would say that really, the biggest part of that benefit and ramp has happened as we've gone through the 12-high over the last couple of quarters."
+    },
+    {
+      "componentOrder": 45,
+      "speakerName": "Brian Chin",
+      "speakerType": "Analysts",
+      "text": "Got it. And I appreciate that. Maybe a quick follow-up. I know there's been some discussion here about sort of your guys reattaining this 50% plus blended gross margin first time since 2017, 2018 time frame. I know you wouldn't recast or you can't recast cloud and core enterprise server revenue back that far. You did give us sort of the sequential and the year-over-year compare today. But those segments are roughly mid-50% of sales now. What roughly did they represent back then? Clearly, it must have been a much smaller proportion, and that's obviously a structural shift in business period-to-period."
+    },
+    {
+      "componentOrder": 46,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. I mean without giving you specifics for any one particular time line, I'll just mention to you that most segments that are part of the TAM over the different time horizons in the past prior to generative AI coming on the scene had peaked around 1/3 of the overall market in terms of segment size, right? So if you think about data center segment or you think about the mobile segment, when they would go into this big spurt, it would peak around roughly speaking, give or take, 1/3 of the overall market. And this time around, of course, that pseudo ceiling of 1/3 is no longer in place because data center has become more than half and continues to outgrow the rest of the market. and very robust profitability levels. \r\nSo we do think that AI has radically changed the landscape. Not only is the mix due to AI growth in the data center across the data center to become a much larger part of the TAM, but it is also a higher value as well as higher margin opportunity. We did mention that HBM and high-capacity DIMMs, and the LP that goes into the data center, these 3 categories alone were $10 billion in fiscal '25, so a very large part of our fiscal '25 revenue. And these are all high value-add portions of the portfolio. This doesn't even account for regular DDR5 that is in 64 gigabytes and below type of DIMMs that are going into the data center, doesn't account for data center SSDs that are part of the data center portfolio.\r\nSo there is a lot of that shift that is going on, but it's also a shift that has a lot of legs to continue. And that's also the demand coming from the data center that's creating a lot of this tightness in the industry and causing pricing to -- and enabling us to be able to increase pricing across all of the segments of the market, not just the data center. So it's helping the profitability of the entire portfolio of the company, even though it's driven largely from the data center."
+    },
+    {
+      "componentOrder": 47,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Quinn Bolton of Needham & Company."
+    },
+    {
+      "componentOrder": 48,
+      "speakerName": "Quinn Bolton",
+      "speakerType": "Analysts",
+      "text": "Mark, maybe I just missed your answer. I just want to clarify your answer to Aaron's question on the cost downs. You did low single digits in DRAM inclusive of HBM and low teens in NAND. Did you say that those are good ranges to think about in '26? Or did you not give a cost-down target for fiscal '26?"
+    },
+    {
+      "componentOrder": 49,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "We didn't give a -- we just gave '25."
+    },
+    {
+      "componentOrder": 50,
+      "speakerName": "Quinn Bolton",
+      "speakerType": "Analysts",
+      "text": "Okay. And then, I guess, maybe just kind of a bigger picture question. As you look at the inferencing market, NVIDIA recently introduced their CPX GPU that uses GDDR7 instead of HBM memory and to the extent that, that architecture takes off, do you think that, that lower HBM content on inferencing platforms, would that have any impact on your broader outlook for the HBM market over the next few years? Or do you think that, that CPX architecture represents sort of only a small portion of the inference market?"
+    },
+    {
+      "componentOrder": 51,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes. As the AI market continues to grow and evolve, it is for sure going to have a lot of different use cases come up a lot of different types of workloads for which optimized architectures would have to be evolved. And this is just another step in that direction. The AI market is going to become very, very big over time, and it is going to have needs that are not going to be one size fits all. And that optimization will be necessary to scale out the capabilities in a cost-effective way. So certainly, this is just one example. There will be more in the future. \r\nOne important thing to keep in mind, as all of this happens is that A lot of the inferencing workloads tend to be memory-bound workloads. And consequently, as inference becomes larger and larger part of the AI market and over time will likely become 80% of the AI market over the years, a lot of that being memory bound means customers will be looking for different architectures that increase memory capacity and memory bandwidth. And depending on the latency requirements and time to first token and those types of different KPIs that these architectures have to hit different types of solutions will be appropriate for various workloads. \r\nAnd we are having a strategy to ensure that we are very strong in HBM as we have discussed at length. We have an industry-leading product with GDDR7. We are the pioneers of LPDRAM in the data center, which is going to be used more and more over time, not just because of its energy efficiency. But because more industry players are going to, from an ecosystem perspective, from a enablement perspective, going to start supporting LP over time. So all of these capabilities that we have developed that are industry-leading will serve us really well and our intent is to create those high-value solutions across the rich frontier of evolving architectures that our customers will be driving."
+    },
+    {
+      "componentOrder": 52,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of John Vinh of KeyBanc Capital Markets."
+    },
+    {
+      "componentOrder": 53,
+      "speakerName": "John Vinh",
+      "speakerType": "Analysts",
+      "text": "I just had couple follow-ups. So first on HBM, Sanjay, on the call really went out of his way to kind of say, hey, we can support 2.8 terabytes per second and 11 gigabits per second. It seems like these performance specs are greater than the original JEDEC standards that were set. And it looks like customers are asking for more. I'm just curious why are customers increasing kind of the original specifications for HBM4 and then asking for higher performance? \r\nAnd then just a quick housekeeping question for Mark. Just looking at your guidance, given the midpoint of all the ranges that you provided, it looks like to get to $3.75 million in EPS, it implies that interest income is positive in the quarter. Is that the case of what's implied there?"
+    },
+    {
+      "componentOrder": 54,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "I'll just answer the first part of your question and then hand it over to Mark. In terms of the HBM4 specs and its evolution, no doubt that the JEDEC specs were definitely exceeded by a significant margin by some of the numbers that we have quoted to you today with greater than 11 gigabits per second in speed and 2.8 terabytes per second of bandwidth. We have sampled these products. \r\nCustomers obviously are looking for as much improvement as they can get in the ROI that they can offer to their end customers. That typically means that if there is a way to really drive higher bandwidth. You can increase the tokens. You can reduce the time to first token. You can get to a lower cost per token kind of a metric, and that becomes a more attractive solution for their end customers. \r\nSo that's really what is happening. But certainly, the HBM4 specs that we have been able to produce will create a new bar for performance that would be needed to really enable these type of high-performing systems. So that's really what has happened on that front, and I'll pass it on to Mark to talk about the second part of your question."
+    },
+    {
+      "componentOrder": 55,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "Yes. John, we do expect net interest to flip the income. We have greater capitalized interest. We have lower debt, we have higher cash balances. All those will flip that line."
+    },
+    {
+      "componentOrder": 56,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Kevin Cassidy of Rosenblatt Securities."
+    },
+    {
+      "componentOrder": 57,
+      "speakerName": "Kevin Cassidy",
+      "speakerType": "Analysts",
+      "text": "Yes. With the supply/demand going -- favoring the demand side, is there any discussions yet for long-term agreements with all of your clients or your customers?"
+    },
+    {
+      "componentOrder": 58,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Yes, there is certainly interest in some of these agreements, but we have certainly experimented with different types of long-term agreements in the past and innovated with some ideas on how to do some of these things. I do think that we are going to be very thoughtful about what we do here and what term and lifetime of these agreements we sign up for. We also have U.S. manufacturing that we are going to be building online. We also have changes that are likely to happen on the landscape due to tariffs, and we'll have to respond to that when they become when they are announced Section 232 semiconductor tariffs.\r\nSo there's all kinds of reasons to be thoughtful about what happens to pricing, what happens to how we create value for customers, whether it is through U.S. manufacturing or product capabilities. And there's also, obviously, there's very significant shift towards data center that I had been describing and you have been watching that's been happening in the mix of the overall industry as well as for Micron. So we are being thoughtful about all of these different factors, and we will definitely be leveraging these in the discussions with customers. What that comes out on the other end of these, I would rather not speculate at this time."
+    },
+    {
+      "componentOrder": 59,
+      "speakerName": "Kevin Cassidy",
+      "speakerType": "Analysts",
+      "text": "Yes. Understood. Maybe just a question on your decision to drop the managed NAND for the smartphone market. Is there a lower cost supplier out there, a new supplier that is taking that type of business?"
+    },
+    {
+      "componentOrder": 60,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "Well, it's not about a lower cost supplier. It's just about, for us, the ROI in the business. The NAND business ROI is certainly has been for the past several years lower than that of DRAM. And our approach has been that as we have strengthened our portfolio in NAND, particularly with the growth of our data center SSD business, we wanted to leverage that to improve the overall portfolio mix. And we determined that the pricing expectations and the level of competitiveness in the mobile NAND market did not lend itself for robust ROI over time. And we determined that it was better to exit that and concentrate our resources in other places where we can drive better ROI. \r\nSo one of the things that you have seen us do over time is dramatically improve our product portfolio. And as our portfolio has improved, it has given us the flexibility that we are now leveraging to mix into those parts of the portfolio which offer the highest profitability so we can have a bigger share of the industry's profit pool, and that's been our strategy now. We can drive it more aggressively with the improved portfolio that we now have. We have been investing to get these capabilities for several years now, and we are in a good place to be able to leverage it now."
+    },
+    {
+      "componentOrder": 61,
+      "speakerName": "Mark Murphy",
+      "speakerType": "Executives",
+      "text": "And maybe just to add, to build on Sumit's comments, we don't report or operate the business by technology, but we do view that we've completed a second year of positive free cash flow in NAND."
+    },
+    {
+      "componentOrder": 62,
+      "speakerName": "Kevin Cassidy",
+      "speakerType": "Analysts",
+      "text": "Okay. Great. If I'm allowed to ask one more on that. Just your smartphone customers didn't have a problem with that with but does it affect your DRAM sales to them?"
+    },
+    {
+      "componentOrder": 63,
+      "speakerName": "Sumit Sadana",
+      "speakerType": "Executives",
+      "text": "No. I mean, customers are never happy when your one important supplier is leaving a segment. So I wouldn't say that they're happy to see us exit that. But we have a very strong relationship with all of these customers and the DRAM business is super critical to them, and they have far fewer choices on the DRAM side compared to what they do on the NAND side. So we have worked with them to transition their products to other suppliers, so we have supported them through that transition on the NAND side. And we continue to remain very robust suppliers to them on the DRAM side."
+    },
+    {
+      "componentOrder": 64,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Thank you. That is all the time we have for our Q&A session. This concludes today's conference call. Thank you for participating. You may now disconnect."
+    }
+  ],
+  "text": "# Micron Technology, Inc. - Q4 2025 Earnings Call\nDate: 2025-09-23T22:00:00Z\nType: Earnings Calls\n\n## Operator (Operator)\nThank you for standing by, and welcome to Micron Technology's Post-Earnings Analyst Conference call. [Operator Instructions]\r\nI would now like to hand the call over to Satya Kumar, Investor Relations. Please go ahead.\n\n## Satya Kumar (Executives)\nThank you, and welcome to Micron Technology's fiscal fourth quarter 2025 post-earnings analyst call. On the call with me today are Sumit Sadana, Micron's Chief Business Officer; Manish Bhatia, EVP of Global Operations; and Mark Murphy, our CFO.\r\nAs a reminder, the matters we're discussing today include forward-looking statements regarding market demand and supply, market trends and drivers and our expected results and guidance and other matters. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements made today. We refer you to documents that we have filed with the SEC, including our most recent Form 10-Q and upcoming 10-K for a discussion of risks that may affect our results. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance and achievements. We are under no duty to update any of the forward-looking statements to conform these statements to actual results.\r\nWith that, we can now open up for Q&A.\n\n## Operator (Operator)\n[Operator Instructions] Our first question comes from the line of Tom O'Malley of Barclays.\n\n## Thomas O'Malley (Analysts)\nMy first one is just on the state of industry of NAND. So over the last couple of weeks, you've heard a lot of reports about hyperscalers stepping in, you've heard about tightness, pricing increases. And if you look at your current quarter that you just reported, you had bit down in the quarter and then I've tried a couple of different ways here, tell me if I'm crazy, but it seems like you need to have bits down again in your guide to kind of get there, so largely driven by ASP. Is that the right way to think about the world right now? And like some of your peers are talking about some bit growth going into the back half. So is that something that you're going to look to ease up with potentially some capacity additions? Just anything that you can comment on to the state of the world right now?\n\n## Sumit Sadana (Executives)\nThis is Sumit. I'll just take the question. So in terms of the NAND industry, I wouldn't read too much into the bits for F Q4. It's really just noise based on just a few things, different segments moving around in our mix. So it's really just some mix-driven noise for the various segments.\r\nIn terms of the demand profile and what is shaping up looking ahead, certainly, the large hyperscalers are looking like they will be needing a significantly more storage capability for their AI server deployment because they have shortages on that side from the HDD segment of the market. And so the deployment of NAND SSDs and servers and data centers more broadly is going to increase in calendar '26.  So we expect, driven by that tailwind for the NAND industry conditions to start improving.\r\nAnd certainly, our position in the data center SSD market where we have been hitting record share after record share for several years now and have a really strong position in the market, for us to benefit from that data center SSD position, competitive position that we have. And we have announced a lot of new products. We have a very exciting portfolio. So we expect to be able to leverage that going forward.\r\nSo I think the NAND industry will improve. The improvement in the DRAM business is definitely ahead from a time perspective in terms of being tight. NAND is improving and getting tighter, but DRAM is tight already today and getting even tighter going forward.\n\n## Mark Murphy (Executives)\nYes, Tom. It's Mark. I would just add on the supply side, to continue. We structurally brought down wafer outs and NAND. We continue to slow node transitions there and pace new node ramps. Still have low levels of CapEx, and so we're working down inventories there.\n\n## Manish Bhatia (Executives)\nI was going to add, we're working down inventories. And now with our decision to exit managed NAND, there will be more supply availability for us to focus on the data center market, as Sumit was mentioning.\n\n## Thomas O'Malley (Analysts)\nHelpful. And then just as a quick follow-up. If I look at the CapEx guidance, you're saying kind of annualized Q1, you get to $18 billion. And I just want to make sure you're saying that's a net number, so obviously something higher in aggregate. And in your commentary in the slides, it seems like very little additional NAND spend and more on the DRAM side. So just on a very high level, I know you're not guiding specifically, should we be taking away from this that you're moving from $13 billion something to close to $20 billion something? And that incremental is largely a function of additional DRAM spend?\n\n## Mark Murphy (Executives)\nYes. We're just going to give that number, Tom. So we're saying that we're going to go from $13 billion to $18 billion net in '25 and net approximately $18 billion in '26. And the vast majority of that is for DRAM, construction and equipment.\n\n## Operator (Operator)\nOur next question comes from the line of Joe Moore of Morgan Stanley.\n\n## Joseph Moore (Analysts)\nGreat. Sanjay, early on in the call, talked about taking market share in HBM in calendar '26, if I heard him right. But I know that would sort of happen mechanically because you got to your target share towards the end of this year so you would gain share. Can you just talk about what are your share gain aspirations in HBM, if any? Are you content with holding your DRAM share? Does that need to go higher?\n\n## Sumit Sadana (Executives)\nYes. In terms of our HBM share, you're right. I mean, we have ramped our share through calendar '26, and we expect to be in the vicinity of our DRAM supply share in calendar Q3 in 2025. So in 2026, for the full calendar year, we will expect to have higher share in HBM compared to calendar '25. \r\nHBM has now become a very robust part of our portfolio, and we treat it like any other part of our portfolio where we focus on ROI of the portfolio. We focus on deplaned investments. We're focused on getting to be the best from a product perspective and creating that value with our customers. And then ensuring that we are taking full advantage of the competitive landscape as it evolves over time. So those are some of the things we do. So we're not going to provide any more specifics beyond that, but that's how we are thinking about it.\n\n## Joseph Moore (Analysts)\nOkay. That's helpful. And then the gross margins in HBM, will that continue to be higher than sort of non-HBM DRAM? And if given that you're locked in through most of 2025 and DDR5 is moving up, is it possible that, that changes? Is that -- could that lock in actually hurt you if DDR5 prices rise faster?\n\n## Sumit Sadana (Executives)\nYes. I mean I don't think about the lock-in as \"hurting us\" because the businesses, the HBM portion of it and the non-HBM DRAM are just different types of businesses. The HBM business, we are working with customers with long lead times, long order visibility, lock in of volumes, lock in of pricing well ahead of time, a lot more stable ROI over the years. So that kind of a profile is helpful because no matter what the rest of the business does, our expectation is that the HBM business will have higher through-cycle ROI. So we managed that business in that different way. It creates a lot of value for our customers, and we have that expectation of a higher ROI for us in our portfolio. \r\nNow will there be times when the rest of the DRAM portfolio will become very profitable and can challenge or even exceed at times the profitability of the HBM business? Of course, that is possible and we don't think of that as a bad thing. We think of that as a positive thing that the whole business has become dramatically better. And so that's how we think of it as those outcomes are a good place to be because that means the whole industry is extraordinarily healthy from a supply-demand balance perspective, and that helps us drive really robust financial outcomes.\n\n## Operator (Operator)\nOur next question comes from the line of Jim Schneider of Goldman Sachs.\n\n## James Schneider (Analysts)\nTwo quick ones. One follow-up on Joe's question, which is just in general, given all the performance benefits you talked about relative to your position on the HBM4, would you expect your HBM4 share to be higher than it was for HBM3 in a sustainable way going forward?\n\n## Sumit Sadana (Executives)\nI mean we do feel we have very strong capabilities entering the HBM4 business. I mean, we certainly believe that we have the best HBM3E product in the world with highest performance and 30% lower power consumption than any other competitor. What we did not have at the start of the HBM3E business ramp though, is that we didn't have that installed capacity and that base capability. We were ramping from very low levels. And now with the very strong performance from our operations team, we have been able to get our capacity, our yields, our performance, our quality to extremely good levels. We have met our market share goal that we had articulated many quarters ago to you. \r\nAnd so we are starting off our HBM4 in a very different position in terms of being able to meet the expectations and requirements of our customers from a volume support perspective. So we feel that from a competitive positioning, that aspect of the business is in much better shape. Now with HBM4, it is -- there has been a lot of chatter in the market and the media about what is our HBM4 performance compared to those who are doing the base time, the foundry, et cetera. And we just wanted to mentioned and lay some of those doubts to rest that we today believe that our HBM4 has the highest performance amongst any competing product out there. And we don't believe that others can match this performance with this level of capability, quality, power consumption and so on.\r\nAnd so we believe that there will be tremendous customer preference for our products. Of course, we have increases in our HBM supply that we have created through our investments and we have confidence that we will sell out that supply for calendar '26. And there may be some HBM share shifts happening on the competitive landscape but it is our belief that most of that is most likely going to be between our 2 competitors rather than impacting our share in any material way.\n\n## James Schneider (Analysts)\nAnd then as a follow-up on the CapEx side, could you maybe give us some color on the split of WFE versus facility CapEx you saw in fiscal '25? And then whether we should expect any significant change in that mix heading into next year?\n\n## Mark Murphy (Executives)\nJim, it's Mark. No, we're not going to provide that breakout, just that the vast majority of the spend is for DRAM construction equipment.\n\n## James Schneider (Analysts)\nAnd any significant change in the facility piece of that for next year or so?\n\n## Mark Murphy (Executives)\nWe're not going to comment on that. As you know, we're expanding in a number of sites, including -- we talked about our first fab in Idaho, and we're also equipping those fabs as well. I should say, equipping the fab and then also doing tech transitions.\n\n## Manish Bhatia (Executives)\nYou mean -- sorry, just to be clear, you're saying in Idaho, we're in construction, we expect production there in second half of '27. But we are investing in technology transitions and optimizing production across our footprint in Japan and Taiwan, where we have available clean room space.\n\n## Operator (Operator)\nOur next question comes from the line of Chris Danely of Citi.\n\n## Christopher Danely (Analysts)\nCan you hear me okay?\n\n## Sumit Sadana (Executives)\nSo far.\n\n## Christopher Danely (Analysts)\nI've been having phone problems all day. So a quick clarification. As far as the DRAM revs go, you guys gave us the HBM breakout. Can we assume roughly the same ratio for DDR4 roughly high single digits and then the rest, DDR5? And any commentary on the relative contributions to incremental gross margin between, say, DDR5 and HBM?\n\n## Sumit Sadana (Executives)\nYes. So we have said earlier to you that the DDR4 plus LP4 we had provided some guidance earlier. We are pretty close to those levels. I'm not going to say that it's going to sustain throughout the fiscal year because the mix changes over time. But DDR4 just by itself, not counting LP4 has actually been a low single-digit percentage of the business. So it's been relatively small. But we have EOL this, we have extended some of our EOL time line based on extreme shortages at customers. And of course, the margins have become dramatically better as this shortage has continued. But yes, I think that's that. \r\nI think in terms of the relative margin, if I understood your question correctly, relative margin between DDR and HBM, we are not going to comment on that because while the HBM, as I mentioned earlier, they run like 2 different business models. So while the HBM pricing is set ahead of time for the upcoming calendar year, the pricing on the rest of the DRAM portfolio, and of course NAND portfolio also, is moving around based on quarterly trends. And we have mentioned to you that the DRAM industry is tight. \r\nAnd as we get into 2026, we expect it to further tighten due to all of the robust demand that we are seeing and the limits on the supply growth caused by a number of factors that were discussed. So we believe that, that tightening is going to enable improving pricing and margins on the non-HBM portion of the portfolio. So that will move around. So it's not really practical or possible to give you sort of a relationship between the 2.\n\n## Christopher Danely (Analysts)\nThat's great. That's still super helpful. And then for my follow-up, question for Mark on gross margin. So Mark, remember, we had lunch earlier this year, and I asked you about could you guys get back to 50% gross margin? You said it's possible, who knows. It depends on a lot of things. It's going to be tough. And here we are. And now we're going past that. So can you just maybe talk about what changed or what was the key to that? And then what are the limiting factors on gross margin going forward? Is it just essentially a function of how many more quarters pricing keeps going up? Or is there something else going on as far as mix goes?\n\n## Mark Murphy (Executives)\nSo Chris, since through the fourth quarter, market conditions continue to improve. And as you know, we updated in mid-August, the 11th, and we reported a margin 120 basis points higher than that. update. So prices continue to improve. The market conditions are very good. very tight on DRAM and they've improved in NAND and continue to improve. Yes, the margin we reported is now above where it was in mid fiscal '22 and DRAM margins are higher than that mid-'22 period. The operating margin is the highest that it's been since November '18. \r\nFrom here, the NAND business can continue to improve. There's been good supply response by us. And we've focused on higher-value SSD products in that business. So while that business is below '22 levels, it can continue to improve, and that will help overall margins. And then furthermore, as we talked about, DRAM is very tight now. And incremental supply is -- meaningful incremental supply is difficult to bring on. You have a number of factors that are structural here. Our inventory levels are low below targets. We've got this extended life on DDR4 LP4, which is constraining the ability to tech node transitions. \r\nYou have, obviously, the silicon intensity of HBM as that continues to grow quickly. And then incremental capacity, as you know, to bring on a fab takes a long time. And our -- for example, our new fab, Idaho will come on, wafer production starts and meaningful wafer production starts in second half. So that constrained supply focus on diverting bits to the best products and also our continued good cost improvements, those all offer the ability to expand margins, and we've indicated that we expect second quarter gross margin to be up relative to first.\n\n## Operator (Operator)\nOur next question comes from the line of Vijay Rakesh of Mizuho.\n\n## Vijay Rakesh (Analysts)\nJust a quick question on the DRAM side. I know you mentioned 1-gamma is starting now. But if you look at your 1-beta, which is -- it looks like most of the HBM4 will be on 1-beta as well. Any thoughts on what the mix will be for you, 1-gamma versus 1-beta now versus exiting the year fiscal '26 per se?\n\n## Manish Bhatia (Executives)\nSure. Thanks, Vijay. This is Manish. We are very pleased with 1-gamma ramp. We were able to achieve both mature yield this quarter as well as first revenue shipments into hyperscalers as well as other applications. So we're really, really pleased with how that ramp is going. We expect to be able to have 1-gamma be the primary area where we're going to be -- that's going to be providing us a bit growth for fiscal in terms of supply, and we're going to be qualifying across multiple different product areas as we go through the year. We are already at a point where the 1-gamma production plus the 1-beta production are the significant majority of our bid output. And that mix will continue to grow towards 1-gamma as we go through calendar year -- excuse me, fiscal year '26.\n\n## Mark Murphy (Executives)\nI would I just maybe add one thing. We talked quite a bit about supply constraints on the last question, and a very important part of our supply solution in '26 is this ramping of 1-gamma, which as Manish said, has been doing very well. And then, Chris, just one additional note on your margin question is this just improved mix to in our business, the data center and the higher performance requirements of that market, and the favorable effect of that on the business.\n\n## Vijay Rakesh (Analysts)\nGot it. And then on HBM4, given your higher speeds and lower, power I guess it die is bigger to your own logic die, would you expect the margins on HBM4 to be better versus HBM3, I guess, equal, high?\n\n## Sumit Sadana (Executives)\nYes. I mean we are very confident in the capabilities of our product. And certainly, the HBM4 cost is higher than the HBM3 cost and the HBM4 price will be meaningfully higher than the HBM3E price. We don't really talk about margins by product line or within the product line, which product has what kind of relative margin. But overall, for HBM, we certainly expect that we'll have really good ROI capability for many years for the company not just driven by the huge complexity of HBM, but also driven by the dramatic value it creates for our customers and our intent to ensure that we are benefiting from providing that value.\n\n## Operator (Operator)\nOur next question comes from the line of Aaron Rakers of Wells Fargo.\n\n## Aaron Rakers (Analysts)\nI'll ask 2 as well. I guess kind of building on some of the prior questions. I'm curious, I know, Mark, you had talked about your ability to execute, I think it was high single-digit cost down with HBM in DRAM in fiscal '25, and then I think it was teens or something, low teens on NAND. I'm curious if as we make these process node transitions as well as G9 and NAND, how do you think about the cost down curve as these process nodes materialize through this next fiscal year?\n\n## Mark Murphy (Executives)\nJust to be clear, I think on cost downs, we gave for fiscal '25 or slightly better than high single digits for DRAM front-end ex-HBM and mid-teens for NAND. And I think as -- and then for DRAM with HBM down low single-digit percentage and NAND cost reductions, low teens. So these are consistent with commentary we've given in the past at that or better.\n\n## Aaron Rakers (Analysts)\nYes. Okay. And then I'm curious just like structurally, the NAND market. There's a lot of discussion around these high-cap enterprise SSDs pushing 250 terabytes and plus. As we look at that market, I'm curious how you guys see the average capacity trending on these AI servers for SSDs? And whether we should really be expecting that to inflect materially higher as we move through fiscal '26 and some of these high cap drives really hit through volume?\n\n## Sumit Sadana (Executives)\nYes. I think the average capacities is going to continue to escalate rapidly. We had 60 terabyte drives and then 102 terabyte drives, and we have ourselves announced at our last FMS event 122 terabyte drives, 245 terabyte drives. And so we are very excited with the demand that we see for these drives, and we do think there will be a meaningful uptake of these high-capacity drives, and they will drive the average capacities higher. And I also mentioned that there is expected to be a shortage of hard drive storage for these hyperscalers. And so more meaningful usage of NAND, even beyond previous plans should drive a positive outcome here as well as an added tailwind.\n\n## Aaron Rakers (Analysts)\nWhere do you think the average capacity is today per server? Just curious.\n\n## Sumit Sadana (Executives)\nIt's moving around quite a bit because in any given quarter, the mix of general-purpose servers and AI servers keeps changing and AI servers generally tend to use the highest capacity that is available in very meaningful quantities. So AI servers have been -- there are AI servers that are focused on just ensuring a huge amount of capacity, but then with different workloads of inference that are also increasing more fragmentation is happening in the configurations that are getting shipped. But generally speaking, the highest capacity drives that the industry has been able to produce do get used by AI servers. So they are going from 100 -- they're going from 60 terabytes to 120 and actively using a lot of 245 going forward.\n\n## Operator (Operator)\nOur next question comes from the line of Brian Chin of Stifel.\n\n## Brian Chin (Analysts)\nI'll ask a few questions. Maybe I know there's a couple of questions on cost down or cost reduction. But I was just curious, you've obviously talked about in the past, HBM3E, some efficiencies you've gained as you've kind of moved into relative maturity from where you started. And I know you're not -- you don't want to provide too much detail around pricing in 2026 for 3E, while your tone does suggest you have -- you should have sufficient leverage, I guess, in terms of those negotiations. But I'm wondering, is there more efficiency in terms of improvement in assembly and packaging yields for 3E that maybe could also help you out a little bit in terms of margins, margin profile next year?\n\n## Manish Bhatia (Executives)\nThanks, Brian. So we are very happy with how the HBM3E 12-high ramp has gone. We talked about being able to get our yields to maturity on 12-high significantly faster than we did on 8-high, which was really our first major HBM volume node. And we've now gotten production capacity up to meaningful volumes as we kind of gave you. So there will be continued opportunity, but I would say that really, the biggest part of that benefit and ramp has happened as we've gone through the 12-high over the last couple of quarters.\n\n## Brian Chin (Analysts)\nGot it. And I appreciate that. Maybe a quick follow-up. I know there's been some discussion here about sort of your guys reattaining this 50% plus blended gross margin first time since 2017, 2018 time frame. I know you wouldn't recast or you can't recast cloud and core enterprise server revenue back that far. You did give us sort of the sequential and the year-over-year compare today. But those segments are roughly mid-50% of sales now. What roughly did they represent back then? Clearly, it must have been a much smaller proportion, and that's obviously a structural shift in business period-to-period.\n\n## Sumit Sadana (Executives)\nYes. I mean without giving you specifics for any one particular time line, I'll just mention to you that most segments that are part of the TAM over the different time horizons in the past prior to generative AI coming on the scene had peaked around 1/3 of the overall market in terms of segment size, right? So if you think about data center segment or you think about the mobile segment, when they would go into this big spurt, it would peak around roughly speaking, give or take, 1/3 of the overall market. And this time around, of course, that pseudo ceiling of 1/3 is no longer in place because data center has become more than half and continues to outgrow the rest of the market. and very robust profitability levels. \r\nSo we do think that AI has radically changed the landscape. Not only is the mix due to AI growth in the data center across the data center to become a much larger part of the TAM, but it is also a higher value as well as higher margin opportunity. We did mention that HBM and high-capacity DIMMs, and the LP that goes into the data center, these 3 categories alone were $10 billion in fiscal '25, so a very large part of our fiscal '25 revenue. And these are all high value-add portions of the portfolio. This doesn't even account for regular DDR5 that is in 64 gigabytes and below type of DIMMs that are going into the data center, doesn't account for data center SSDs that are part of the data center portfolio.\r\nSo there is a lot of that shift that is going on, but it's also a shift that has a lot of legs to continue. And that's also the demand coming from the data center that's creating a lot of this tightness in the industry and causing pricing to -- and enabling us to be able to increase pricing across all of the segments of the market, not just the data center. So it's helping the profitability of the entire portfolio of the company, even though it's driven largely from the data center.\n\n## Operator (Operator)\nOur next question comes from the line of Quinn Bolton of Needham & Company.\n\n## Quinn Bolton (Analysts)\nMark, maybe I just missed your answer. I just want to clarify your answer to Aaron's question on the cost downs. You did low single digits in DRAM inclusive of HBM and low teens in NAND. Did you say that those are good ranges to think about in '26? Or did you not give a cost-down target for fiscal '26?\n\n## Mark Murphy (Executives)\nWe didn't give a -- we just gave '25.\n\n## Quinn Bolton (Analysts)\nOkay. And then, I guess, maybe just kind of a bigger picture question. As you look at the inferencing market, NVIDIA recently introduced their CPX GPU that uses GDDR7 instead of HBM memory and to the extent that, that architecture takes off, do you think that, that lower HBM content on inferencing platforms, would that have any impact on your broader outlook for the HBM market over the next few years? Or do you think that, that CPX architecture represents sort of only a small portion of the inference market?\n\n## Sumit Sadana (Executives)\nYes. As the AI market continues to grow and evolve, it is for sure going to have a lot of different use cases come up a lot of different types of workloads for which optimized architectures would have to be evolved. And this is just another step in that direction. The AI market is going to become very, very big over time, and it is going to have needs that are not going to be one size fits all. And that optimization will be necessary to scale out the capabilities in a cost-effective way. So certainly, this is just one example. There will be more in the future. \r\nOne important thing to keep in mind, as all of this happens is that A lot of the inferencing workloads tend to be memory-bound workloads. And consequently, as inference becomes larger and larger part of the AI market and over time will likely become 80% of the AI market over the years, a lot of that being memory bound means customers will be looking for different architectures that increase memory capacity and memory bandwidth. And depending on the latency requirements and time to first token and those types of different KPIs that these architectures have to hit different types of solutions will be appropriate for various workloads. \r\nAnd we are having a strategy to ensure that we are very strong in HBM as we have discussed at length. We have an industry-leading product with GDDR7. We are the pioneers of LPDRAM in the data center, which is going to be used more and more over time, not just because of its energy efficiency. But because more industry players are going to, from an ecosystem perspective, from a enablement perspective, going to start supporting LP over time. So all of these capabilities that we have developed that are industry-leading will serve us really well and our intent is to create those high-value solutions across the rich frontier of evolving architectures that our customers will be driving.\n\n## Operator (Operator)\nOur next question comes from the line of John Vinh of KeyBanc Capital Markets.\n\n## John Vinh (Analysts)\nI just had couple follow-ups. So first on HBM, Sanjay, on the call really went out of his way to kind of say, hey, we can support 2.8 terabytes per second and 11 gigabits per second. It seems like these performance specs are greater than the original JEDEC standards that were set. And it looks like customers are asking for more. I'm just curious why are customers increasing kind of the original specifications for HBM4 and then asking for higher performance? \r\nAnd then just a quick housekeeping question for Mark. Just looking at your guidance, given the midpoint of all the ranges that you provided, it looks like to get to $3.75 million in EPS, it implies that interest income is positive in the quarter. Is that the case of what's implied there?\n\n## Sumit Sadana (Executives)\nI'll just answer the first part of your question and then hand it over to Mark. In terms of the HBM4 specs and its evolution, no doubt that the JEDEC specs were definitely exceeded by a significant margin by some of the numbers that we have quoted to you today with greater than 11 gigabits per second in speed and 2.8 terabytes per second of bandwidth. We have sampled these products. \r\nCustomers obviously are looking for as much improvement as they can get in the ROI that they can offer to their end customers. That typically means that if there is a way to really drive higher bandwidth. You can increase the tokens. You can reduce the time to first token. You can get to a lower cost per token kind of a metric, and that becomes a more attractive solution for their end customers. \r\nSo that's really what is happening. But certainly, the HBM4 specs that we have been able to produce will create a new bar for performance that would be needed to really enable these type of high-performing systems. So that's really what has happened on that front, and I'll pass it on to Mark to talk about the second part of your question.\n\n## Mark Murphy (Executives)\nYes. John, we do expect net interest to flip the income. We have greater capitalized interest. We have lower debt, we have higher cash balances. All those will flip that line.\n\n## Operator (Operator)\nOur next question comes from the line of Kevin Cassidy of Rosenblatt Securities.\n\n## Kevin Cassidy (Analysts)\nYes. With the supply/demand going -- favoring the demand side, is there any discussions yet for long-term agreements with all of your clients or your customers?\n\n## Sumit Sadana (Executives)\nYes, there is certainly interest in some of these agreements, but we have certainly experimented with different types of long-term agreements in the past and innovated with some ideas on how to do some of these things. I do think that we are going to be very thoughtful about what we do here and what term and lifetime of these agreements we sign up for. We also have U.S. manufacturing that we are going to be building online. We also have changes that are likely to happen on the landscape due to tariffs, and we'll have to respond to that when they become when they are announced Section 232 semiconductor tariffs.\r\nSo there's all kinds of reasons to be thoughtful about what happens to pricing, what happens to how we create value for customers, whether it is through U.S. manufacturing or product capabilities. And there's also, obviously, there's very significant shift towards data center that I had been describing and you have been watching that's been happening in the mix of the overall industry as well as for Micron. So we are being thoughtful about all of these different factors, and we will definitely be leveraging these in the discussions with customers. What that comes out on the other end of these, I would rather not speculate at this time.\n\n## Kevin Cassidy (Analysts)\nYes. Understood. Maybe just a question on your decision to drop the managed NAND for the smartphone market. Is there a lower cost supplier out there, a new supplier that is taking that type of business?\n\n## Sumit Sadana (Executives)\nWell, it's not about a lower cost supplier. It's just about, for us, the ROI in the business. The NAND business ROI is certainly has been for the past several years lower than that of DRAM. And our approach has been that as we have strengthened our portfolio in NAND, particularly with the growth of our data center SSD business, we wanted to leverage that to improve the overall portfolio mix. And we determined that the pricing expectations and the level of competitiveness in the mobile NAND market did not lend itself for robust ROI over time. And we determined that it was better to exit that and concentrate our resources in other places where we can drive better ROI. \r\nSo one of the things that you have seen us do over time is dramatically improve our product portfolio. And as our portfolio has improved, it has given us the flexibility that we are now leveraging to mix into those parts of the portfolio which offer the highest profitability so we can have a bigger share of the industry's profit pool, and that's been our strategy now. We can drive it more aggressively with the improved portfolio that we now have. We have been investing to get these capabilities for several years now, and we are in a good place to be able to leverage it now.\n\n## Mark Murphy (Executives)\nAnd maybe just to add, to build on Sumit's comments, we don't report or operate the business by technology, but we do view that we've completed a second year of positive free cash flow in NAND.\n\n## Kevin Cassidy (Analysts)\nOkay. Great. If I'm allowed to ask one more on that. Just your smartphone customers didn't have a problem with that with but does it affect your DRAM sales to them?\n\n## Sumit Sadana (Executives)\nNo. I mean, customers are never happy when your one important supplier is leaving a segment. So I wouldn't say that they're happy to see us exit that. But we have a very strong relationship with all of these customers and the DRAM business is super critical to them, and they have far fewer choices on the DRAM side compared to what they do on the NAND side. So we have worked with them to transition their products to other suppliers, so we have supported them through that transition on the NAND side. And we continue to remain very robust suppliers to them on the DRAM side.\n\n## Operator (Operator)\nThank you. That is all the time we have for our Q&A session. This concludes today's conference call. Thank you for participating. You may now disconnect.\n",
+  "downloaded_at": "2026-02-17T14:28:37.634034"
+}

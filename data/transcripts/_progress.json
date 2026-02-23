@@ -1,0 +1,689 @@
+{
+  "resolved": {
+    "MSFT": {
+      "kid": "eq-kuqeq3",
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "NVDA": {
+      "kid": "eq-212q1o",
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "CRM": {
+      "kid": "eq-33vyij",
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "exchange": "NYSE"
+    },
+    "CRWD": {
+      "kid": "eq-yzc61h",
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "DDOG": {
+      "kid": "eq-96eqav",
+      "ticker": "DDOG",
+      "name": "Datadog, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "AAPL": {
+      "kid": "eq-o1antf",
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "GOOGL": {
+      "kid": "eq-8o3iqk",
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "AMZN": {
+      "kid": "eq-h8ov0r",
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "META": {
+      "kid": "eq-xxf5is",
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "AVGO": {
+      "kid": "eq-hi81x7",
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "ORCL": {
+      "kid": "eq-clvhjt",
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "exchange": "NYSE"
+    },
+    "ADBE": {
+      "kid": "eq-tt4i45",
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "NOW": {
+      "kid": "eq-v767nn",
+      "ticker": "NOW",
+      "name": "ServiceNow, Inc.",
+      "exchange": "NYSE"
+    },
+    "SNOW": {
+      "kid": "eq-8o3fqi",
+      "ticker": "SNOW",
+      "name": "Snowflake Inc.",
+      "exchange": "NYSE"
+    },
+    "PLTR": {
+      "kid": "eq-isl6xw",
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "NET": {
+      "kid": "eq-crgkkc",
+      "ticker": "NET",
+      "name": "Cloudflare, Inc.",
+      "exchange": "NYSE"
+    },
+    "ZS": {
+      "kid": "eq-eo8c9k",
+      "ticker": "ZS",
+      "name": "Zscaler, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "PANW": {
+      "kid": "eq-1kz0lb",
+      "ticker": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "FTNT": {
+      "kid": "eq-wrd7j0",
+      "ticker": "FTNT",
+      "name": "Fortinet, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "MDB": {
+      "kid": "eq-3keww4",
+      "ticker": "MDB",
+      "name": "MongoDB, Inc.",
+      "exchange": "NasdaqGM"
+    },
+    "CFLT": {
+      "kid": "eq-d0qpzt",
+      "ticker": "CFLT",
+      "name": "Confluent, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "ESTC": {
+      "kid": "eq-5u8ikc",
+      "ticker": "ESTC",
+      "name": "Elastic N.V.",
+      "exchange": "NYSE"
+    },
+    "GTLB": {
+      "kid": "eq-ico28x",
+      "ticker": "GTLB",
+      "name": "GitLab Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "DOCN": {
+      "kid": "eq-75blj7",
+      "ticker": "DOCN",
+      "name": "DigitalOcean Holdings, Inc.",
+      "exchange": "NYSE"
+    },
+    "MNDY": {
+      "kid": "eq-oaif3s",
+      "ticker": "MNDY",
+      "name": "monday.com Ltd.",
+      "exchange": "NasdaqGS"
+    },
+    "S": {
+      "kid": "eq-6dhdpa",
+      "ticker": "S",
+      "name": "SentinelOne, Inc.",
+      "exchange": "NYSE"
+    },
+    "PATH": {
+      "kid": "eq-08u9m6",
+      "ticker": "PATH",
+      "name": "UiPath, Inc.",
+      "exchange": "NYSE"
+    },
+    "DT": {
+      "kid": "eq-tkn9j4",
+      "ticker": "DT",
+      "name": "Dynatrace, Inc.",
+      "exchange": "NYSE"
+    },
+    "HUBS": {
+      "kid": "eq-n1pqe8",
+      "ticker": "HUBS",
+      "name": "HubSpot, Inc.",
+      "exchange": "NYSE"
+    },
+    "TEAM": {
+      "kid": "eq-uw49fl",
+      "ticker": "TEAM",
+      "name": "Atlassian Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "WDAY": {
+      "kid": "eq-nk2qd5",
+      "ticker": "WDAY",
+      "name": "Workday, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "VEEV": {
+      "kid": "eq-h4gobn",
+      "ticker": "VEEV",
+      "name": "Veeva Systems Inc.",
+      "exchange": "NYSE"
+    },
+    "ANSS": null,
+    "CDNS": {
+      "kid": "eq-pyjc3k",
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "SNPS": {
+      "kid": "eq-b40gj8",
+      "ticker": "SNPS",
+      "name": "Synopsys, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "TTD": {
+      "kid": "eq-0bvfjy",
+      "ticker": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "exchange": "NasdaqGM"
+    },
+    "DKNG": {
+      "kid": "eq-v0o5xq",
+      "ticker": "DKNG",
+      "name": "DraftKings Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "DASH": {
+      "kid": "eq-14z4w1",
+      "ticker": "DASH",
+      "name": "DoorDash, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "ABNB": {
+      "kid": "eq-msb17s",
+      "ticker": "ABNB",
+      "name": "Airbnb, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "UBER": {
+      "kid": "eq-jt7q7x",
+      "ticker": "UBER",
+      "name": "Uber Technologies, Inc.",
+      "exchange": "NYSE"
+    },
+    "AMD": {
+      "kid": "eq-0cv3jn",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "INTC": {
+      "kid": "eq-73ulrk",
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "QCOM": {
+      "kid": "eq-wb20o0",
+      "ticker": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "exchange": "NasdaqGS"
+    },
+    "TXN": {
+      "kid": "eq-au7mp7",
+      "ticker": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "exchange": "NasdaqGS"
+    },
+    "MRVL": {
+      "kid": "eq-26gcvj",
+      "ticker": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "MU": {
+      "kid": "eq-7n04a1",
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "LRCX": {
+      "kid": "eq-znb3vc",
+      "ticker": "LRCX",
+      "name": "Lam Research Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "AMAT": {
+      "kid": "eq-68zqzu",
+      "ticker": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "KLAC": {
+      "kid": "eq-t14mvu",
+      "ticker": "KLAC",
+      "name": "KLA Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "ASML": {
+      "kid": "eq-uj3u30",
+      "ticker": "ASML",
+      "name": "ASML Holding N.V.",
+      "exchange": "ENXTAM"
+    },
+    "ON": {
+      "kid": "eq-0nbqz7",
+      "ticker": "ON",
+      "name": "ON Semiconductor Corporation",
+      "exchange": "NasdaqGS"
+    },
+    "SWKS": {
+      "kid": "eq-iqnhuz",
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "MCHP": {
+      "kid": "eq-ozjfjc",
+      "ticker": "MCHP",
+      "name": "Microchip Technology Incorporated",
+      "exchange": "NasdaqGS"
+    },
+    "ADI": {
+      "kid": "eq-7x1uz0",
+      "ticker": "ADI",
+      "name": "Analog Devices, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "NXPI": {
+      "kid": "eq-lyky5r",
+      "ticker": "NXPI",
+      "name": "NXP Semiconductors N.V.",
+      "exchange": "NasdaqGS"
+    },
+    "IBM": {
+      "kid": "eq-84rzrh",
+      "ticker": "IBM",
+      "name": "International Business Machines Corporation",
+      "exchange": "NYSE"
+    },
+    "HPE": {
+      "kid": "eq-zbvtek",
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE"
+    },
+    "DELL": {
+      "kid": "eq-jk9kvx",
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
+      "exchange": "NYSE"
+    },
+    "HPQ": {
+      "kid": "eq-irwr5u",
+      "ticker": "HPQ",
+      "name": "HP Inc.",
+      "exchange": "NYSE"
+    },
+    "CSCO": {
+      "kid": "eq-qbqu76",
+      "ticker": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "JNPR": null,
+    "AI": {
+      "kid": "eq-chpo4m",
+      "ticker": "AI",
+      "name": "C3.ai, Inc.",
+      "exchange": "NYSE"
+    },
+    "BBAI": {
+      "kid": "eq-mytqb8",
+      "ticker": "BBAI",
+      "name": "BigBear.ai Holdings, Inc.",
+      "exchange": "NYSE"
+    },
+    "SOUN": {
+      "kid": "eq-swveuk",
+      "ticker": "SOUN",
+      "name": "SoundHound AI, Inc.",
+      "exchange": "NasdaqGM"
+    },
+    "IREN": {
+      "kid": "eq-atvxbz",
+      "ticker": "IREN",
+      "name": "IREN Limited",
+      "exchange": "NasdaqGS"
+    },
+    "BTDR": {
+      "kid": "eq-t45l1y",
+      "ticker": "BTDR",
+      "name": "Bitdeer Technologies Group",
+      "exchange": "NasdaqCM"
+    },
+    "SQ": {
+      "kid": "eq-rj7030",
+      "ticker": "SQ",
+      "name": "Sahakol Equipment Public Company Limited",
+      "exchange": "SET"
+    },
+    "PYPL": {
+      "kid": "eq-852mvw",
+      "ticker": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "COIN": {
+      "kid": "eq-r0n49j",
+      "ticker": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "HOOD": {
+      "kid": "eq-74v2z9",
+      "ticker": "HOOD",
+      "name": "Robinhood Markets, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "AFRM": {
+      "kid": "eq-ycheim",
+      "ticker": "AFRM",
+      "name": "Affirm Holdings, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "SOFI": {
+      "kid": "eq-j0p9cx",
+      "ticker": "SOFI",
+      "name": "SoFi Technologies, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "FIS": {
+      "kid": "eq-znkbh8",
+      "ticker": "FIS",
+      "name": "Fidelity National Information Services, Inc.",
+      "exchange": "NYSE"
+    },
+    "FISV": {
+      "kid": "eq-thf9tm",
+      "ticker": "FISV",
+      "name": "Fiserv, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "GPN": {
+      "kid": "eq-pqjf7s",
+      "ticker": "GPN",
+      "name": "Global Payments Inc.",
+      "exchange": "NYSE"
+    },
+    "OKTA": {
+      "kid": "eq-t40xhe",
+      "ticker": "OKTA",
+      "name": "Okta, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "RPD": {
+      "kid": "eq-8yxm6g",
+      "ticker": "RPD",
+      "name": "Rapid7, Inc.",
+      "exchange": "NasdaqGM"
+    },
+    "QLYS": {
+      "kid": "eq-t2tb5j",
+      "ticker": "QLYS",
+      "name": "Qualys, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "TENB": {
+      "kid": "eq-8q8um0",
+      "ticker": "TENB",
+      "name": "Tenable Holdings, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "VRNS": {
+      "kid": "eq-9lcnto",
+      "ticker": "VRNS",
+      "name": "Varonis Systems, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "FROG": {
+      "kid": "eq-qias5a",
+      "ticker": "FROG",
+      "name": "JFrog Ltd.",
+      "exchange": "NasdaqGS"
+    },
+    "SPLK": null,
+    "AYX": {
+      "kid": "eq-j5y7vt",
+      "ticker": "PAYX",
+      "name": "Paychex, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "DOMO": {
+      "kid": "eq-xed3oy",
+      "ticker": "DOMO",
+      "name": "Domo, Inc.",
+      "exchange": "NasdaqGM"
+    },
+    "PLAN": {
+      "kid": "eq-etio1z",
+      "ticker": "PLAN",
+      "name": "Plazza AG",
+      "exchange": "SWX"
+    },
+    "NEWR": {
+      "kid": "eq-89x7yq",
+      "ticker": "NRR",
+      "name": "NewRiver REIT plc",
+      "exchange": "LSE"
+    },
+    "NFLX": {
+      "kid": "eq-k0d1vn",
+      "ticker": "NFLX",
+      "name": "Netflix, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "ROKU": {
+      "kid": "eq-qdm4tf",
+      "ticker": "ROKU",
+      "name": "Roku, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "SPOT": {
+      "kid": "eq-o3o9gx",
+      "ticker": "SPOT",
+      "name": "Spotify Technology S.A.",
+      "exchange": "NYSE"
+    },
+    "ZM": {
+      "kid": "eq-2nrfa3",
+      "ticker": "ZM",
+      "name": "Zoom Communications, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "TWLO": {
+      "kid": "eq-7no3vd",
+      "ticker": "TWLO",
+      "name": "Twilio Inc.",
+      "exchange": "NYSE"
+    },
+    "DBX": {
+      "kid": "eq-wh4jpv",
+      "ticker": "DBX",
+      "name": "Dropbox, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "BOX": {
+      "kid": "eq-lsb2qk",
+      "ticker": "BOX",
+      "name": "Box, Inc.",
+      "exchange": "NYSE"
+    },
+    "DOCU": {
+      "kid": "eq-ny9zny",
+      "ticker": "DOCU",
+      "name": "DocuSign, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "MSTR": {
+      "kid": "eq-rbbjrq",
+      "ticker": "MSTR",
+      "name": "Strategy Inc",
+      "exchange": "NasdaqGS"
+    },
+    "CRWV": {
+      "kid": "fD-Ca4hrc",
+      "ticker": "CRWV",
+      "name": "CoreWeave, Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "GLXY": {
+      "kid": "hc-NW2NUo",
+      "ticker": "GLXY",
+      "name": "Galaxy Digital Inc.",
+      "exchange": "NasdaqGS"
+    },
+    "CLSK": {
+      "kid": "eq-rfw70e",
+      "ticker": "CLSK",
+      "name": "CleanSpark, Inc.",
+      "exchange": "NasdaqCM"
+    },
+    "MARA": {
+      "kid": "eq-enbbt9",
+      "ticker": "MARA",
+      "name": "MARA Holdings, Inc.",
+      "exchange": "NasdaqCM"
+    },
+    "RIOT": {
+      "kid": "eq-b36c2z",
+      "ticker": "RIOT",
+      "name": "Riot Platforms, Inc.",
+      "exchange": "NasdaqCM"
+    }
+  },
+  "downloaded": [
+    "MSFT",
+    "AAPL",
+    "GOOGL",
+    "AMZN",
+    "META",
+    "NVDA",
+    "AVGO",
+    "ORCL",
+    "CRM",
+    "ADBE",
+    "NOW",
+    "SNOW",
+    "PLTR",
+    "DDOG",
+    "NET",
+    "CRWD",
+    "ZS",
+    "PANW",
+    "FTNT",
+    "MDB",
+    "CFLT",
+    "ESTC",
+    "GTLB",
+    "DOCN",
+    "MNDY",
+    "S",
+    "PATH",
+    "DT",
+    "HUBS",
+    "TEAM",
+    "WDAY",
+    "VEEV",
+    "CDNS",
+    "SNPS",
+    "TTD",
+    "DKNG",
+    "DASH",
+    "ABNB",
+    "UBER",
+    "AMD",
+    "INTC",
+    "QCOM",
+    "TXN",
+    "MRVL",
+    "MU",
+    "LRCX",
+    "AMAT",
+    "KLAC",
+    "ASML",
+    "ON",
+    "SWKS",
+    "MCHP",
+    "ADI",
+    "NXPI",
+    "IBM",
+    "HPE",
+    "DELL",
+    "HPQ",
+    "CSCO",
+    "AI",
+    "BBAI",
+    "SOUN",
+    "IREN",
+    "BTDR",
+    "SQ",
+    "PYPL",
+    "COIN",
+    "HOOD",
+    "AFRM",
+    "SOFI",
+    "FIS",
+    "FISV",
+    "GPN",
+    "OKTA",
+    "RPD",
+    "QLYS",
+    "TENB",
+    "VRNS",
+    "FROG",
+    "AYX",
+    "DOMO",
+    "PLAN",
+    "NEWR",
+    "NFLX",
+    "ROKU",
+    "SPOT",
+    "ZM",
+    "TWLO",
+    "DBX",
+    "BOX",
+    "DOCU",
+    "MSTR",
+    "CRWV",
+    "GLXY",
+    "CLSK",
+    "MARA",
+    "RIOT"
+  ],
+  "errors": []
+}

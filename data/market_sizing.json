@@ -1,0 +1,82 @@
+[
+  {
+    "metric": "Global Software Testing Market",
+    "year": 2024,
+    "value_b": 51.8,
+    "source": "MarketsandMarkets (2024)",
+    "source_url": "https://www.marketsandmarkets.com/Market-Reports/software-testing-market",
+    "notes": "Includes functional, performance, security, and automation testing"
+  },
+  {
+    "metric": "Global Software Testing Market (Forecast)",
+    "year": 2029,
+    "value_b": 109.5,
+    "source": "MarketsandMarkets (2024)",
+    "source_url": "",
+    "notes": "Projected CAGR ~16.2% from 2024-2029"
+  },
+  {
+    "metric": "Test Automation Market",
+    "year": 2024,
+    "value_b": 26.4,
+    "source": "Grand View Research (2024)",
+    "source_url": "",
+    "notes": "Subset of overall testing market focused on automation tools"
+  },
+  {
+    "metric": "Test Automation Market (Forecast)",
+    "year": 2030,
+    "value_b": 68.2,
+    "source": "Grand View Research (2024)",
+    "source_url": "",
+    "notes": "Projected CAGR ~17.1% — AI-powered testing the fastest segment"
+  },
+  {
+    "metric": "AI in Software Testing Market",
+    "year": 2024,
+    "value_b": 1.2,
+    "source": "Mordor Intelligence (2024)",
+    "source_url": "",
+    "notes": "AI-specific testing tools (auto-generation, self-healing, visual AI)"
+  },
+  {
+    "metric": "AI in Software Testing Market (Forecast)",
+    "year": 2029,
+    "value_b": 5.8,
+    "source": "Mordor Intelligence (2024)",
+    "source_url": "",
+    "notes": "Fastest growing segment — CAGR ~37%"
+  },
+  {
+    "metric": "AI Governance Market",
+    "year": 2024,
+    "value_b": 2.1,
+    "source": "Gartner estimate (2024)",
+    "source_url": "",
+    "notes": "Model validation, bias testing, compliance monitoring, AI audit"
+  },
+  {
+    "metric": "AI Governance Market (Forecast)",
+    "year": 2028,
+    "value_b": 11.5,
+    "source": "Gartner estimate (2024)",
+    "source_url": "",
+    "notes": "Driven by EU AI Act, NIST AI RMF, enterprise compliance mandates"
+  },
+  {
+    "metric": "Global DevOps Market",
+    "year": 2024,
+    "value_b": 12.9,
+    "source": "Fortune Business Insights (2024)",
+    "source_url": "",
+    "notes": "CI/CD, infrastructure automation, release management"
+  },
+  {
+    "metric": "Application Security Market",
+    "year": 2024,
+    "value_b": 10.3,
+    "source": "Gartner (2024)",
+    "source_url": "",
+    "notes": "SAST, DAST, SCA, API security — overlaps with validation spend"
+  }
+]

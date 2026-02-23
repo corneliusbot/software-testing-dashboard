@@ -1,0 +1,405 @@
+{
+  "ticker": "BTDR",
+  "company": "Bitdeer Technologies Group",
+  "title": "Q3 2025 Earnings Call",
+  "event_date": "2025-11-10",
+  "header": {
+    "companyId": 1801200348,
+    "announcedDate": "2025-10-30T11:00:00Z",
+    "eventDateTime": "2025-11-10T13:00:00Z",
+    "createdAt": "2025-12-12T16:09:33Z",
+    "transcriptTitle": "Bitdeer Technologies Group, Q3 2025 Earnings Call, Nov 10, 2025",
+    "situation": "Bitdeer Technologies Group, Q3 2025 Earnings Call, Nov 10, 2025",
+    "duration": 2718,
+    "keyDevId": 1968050920,
+    "transcriptId": 3619694,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Edited Copy",
+    "presentationTypeName": "Final",
+    "companyName": "Bitdeer Technologies Group",
+    "formattedTitle": "Q3 2025 Earnings Call",
+    "title": "Bitdeer Technologies Group - Q3 2025 Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Thank you for standing by, and welcome to Bitdeer's Third Quarter 2025 Earnings Conference Call. [Operator Instructions] I would now like to hand the call over to Yujia Zhai, Investor Relations. Please go ahead."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Yujia Zhai",
+      "speakerType": "Attendees",
+      "text": "Thank you, operator. And good morning, everyone. Welcome to Bitdeer's Third Quarter 2025 Earnings Conference Call. Joining me today are Matt Kong, Chief Business Officer; Haris Basit, Chief Strategy Officer; and Jeff LaBerge, VP of Capital Markets and Strategy. \r\nHaris will be in today by providing a high-level overview of Bitdeer's third quarter 2025 results and then cover the company's strategy and a detailed business update. After that, Jeff will cover Bitdeer's third quarter financial results in more detail, and then we will open the call for questions. \r\nTo accompany today's earnings call, we have provided a supplemental investor presentation. This presentation can be found on Bitdeer's Investor Relations website under Webcasts and Presentations. \r\nBefore management begins their formal remarks, we would like to remind everyone that during today's call, we may make certain forward-looking statements. These statements are based on management's current expectations and are subject to risks and uncertainties, which may cause actual results to differ materially. For a more complete discussion on forward-looking statements, and the risks and uncertainties related to Bitdeer's business, please refer to its filings with the SEC. \r\nFurther, in addition to discussing results that are calculated in accordance with International Financial Reporting Standards, or IFRS, we will also make references to certain non-IFRS financial measures, such as adjusted EBITDA and adjusted profit and loss. For more detailed information on our non-IFRS financial measures, please refer to our earnings release that was published earlier today, which can be found on Bitdeer's IR website. Thank you. \r\nI will now turn the call over to Haris. Haris?"
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "Thank you, Yujia, and good day, everyone. It's great to be with you today. Since our last call, we've made significant progress across all of our strategic priorities, and I'm excited to share how Bitdeer is growing from a global leader in bitcoin mining into a vertically integrated bitcoin infrastructure and AI platform. \r\nLet's start with the numbers on Slide 3. Q3 marked a period of rapid growth and strong execution. In the third quarter, total revenue reached $169.7 million, up 173.6% year-over-year and up 9.1% sequentially. Gross profit came in at $40.8 million, and adjusted EBITDA increased to $43 million, both substantially improved from Q2. This performance reflects continued execution in our self mining business. \r\nMass production of our SEALMINER ASICs drove 273.1% year-over-year and 105.4% sequential increase in our average operating self-mining hash rate to 29.1 exahash per second. As of the end of October, we achieved 41.2 exahash per second, surpassing our 40 exahash per second target that we set out at the beginning of the year. Looking forward, we plan to continue deploying our SEALMINER ASICs to fill our substantial global power pipeline. \r\nThrough a combination of decommissioning older-generation rigs and adding new SEALMINER ASICs, we expect meaningful growth throughout 2026, which will ensure we remain one of the world's largest bitcoin miners. In addition to hash rate growth, we expect continual improvement in our fleet-wide energy efficiency to drive increased margins and profitability in the quarters ahead. \r\nOur investments in chip design, data center infrastructure and global power portfolio are paying off, not only in strong financial performance, but also positioning us for the next major wave of demand for compute. \r\nOur bitdeer.ai cloud services business continues to scale, reaching at an annualized revenue run rate of $8 million at the end of October. As of October 31, we operate 584 GPUs with an 87% utilization rate. Our newest B200 systems, installed late in Q3, are being tested by customers and will drive additional revenue. We are finalizing deployment for NVIDIA's GB200 systems and expect to reach 1,160 GPUs operated by end of the year. \r\nWe are also in the process of procuring NVIDIA's next generation GB300 and B300 systems. And as we look ahead, Bitdeer's growth will be anchored by three strategic pillars bitcoin mining, ASIC development and HPC/AI. Together, these represent a vertically integrated, highly dependable platform that leverages our technology expertise and extensive power portfolio. \r\nTo accelerate our AI footprint, we are taking bold, deliberate steps to simultaneously pursue both co-location and cloud services. \r\nWith respect to co-location, on our last earnings call, we guided the market that we intended to pursue a joint venture model with a development partner. In September, due to a significant increase in market demand, we let the exclusivity period under our LOI with this development partner expire. This was a strategic decision that gives us greater flexibility and allows us to take a more direct role in the HPC/AI data center market and retain more of the economics. \r\nWe intend to develop data centers using our own internal development team, which will be significantly augmented through strategic hiring alongside highly experienced EPC and general contractors on a fee basis. \r\nRegarding our cloud services business, over the past 18 months, we have developed a vertically integrated AI infrastructure platform in Singapore. That includes bare metal GPUs as well as orchestration, networking and managed services. These additional services are highly sought after by small and midsized enterprise customers, who require more than just bare metal offering and are being underserved in today's market. \r\nNow that we have a proven concept in Singapore, we are ready to expand this business line into Malaysia, the U.S. and Europe. Our current customer discussions range from early to mid-stage start-ups in the biomedical, robotics and gaming industries to more traditional U.S. enterprise customers seeking to expand their footprint. We will provide additional details as this business model develops over the coming months. \r\nMoving now to our HPC/AI infrastructure plans. For our 570-megawatt Clarington, Ohio site, we have already begun the design and procurement process for an HPC/AI's suitable substation, which is expected to be energized in the first half of 2027. The local utility at Clarington has confirmed the full 570 megawatts will be available by the end of Q3 2026, nearly a year earlier than expected. Given its size, the Clarington site could be utilized for our cloud services business or co-location. \r\nAt the same time, we have made the decision to convert our 175-megawatt Tydal site in Norway into an AI data center by Q4 2026. Given the announcement of Stargate in Norway in July, we have seen a significant increase in inbound interest from potential tenants. So we believe this site could be used for either our cloud services business or co-location. \r\nThe site was designed by our local Norway team with HPC/AI in mind as the end use. So it already includes liquid cooling capabilities and a more robust electrical infrastructure. Furthermore, it utilizes a substation that is powered by 18 hydro power generators and 1 wind farm, giving it a high degree of reliability. Our current analysis indicates that the site could be ready to accept GPUs by the second half of 2026 with conversion costs well below U.S. and European AI data center benchmarks. \r\nAdditionally, we plan to expand our Singapore cloud services business into Malaysia. Through a combination of loan and lease opportunities, we anticipate activating up to 15 megawatts of cloud services capacity in Malaysia during 2026, with the ability to expand significantly beyond that if demand persists. \r\nWe are also upgrading our 13-megawatt Wenatchee, Washington site using a proprietary modular data center technology. This conversion is expected to be completed by Q4 2026. Further, we have initiated the conversion of 10 megawatts of power capacity at our Knoxville, Tennessee side into an AI data center with targeted completion in Q4 2026. We are evaluating potential U.S. data center rental opportunities to bring our AI cloud services online domestically as early as Q1 2026. \r\nIn summary, the supply and demand imbalance for AI compute continues to widen, and we impact this shortage to persist well into 2027. Based on our estimates under the most optimistic scenario, converting 200 megawatts of our power capacity fully towards AI cloud services could generate an annualized revenue run rate exceeding $2 billion by the end of 2021. \r\nTurning to our ASIC business, when we launched our aggressive ASIC roadmap last year, our goal was clear, industry leadership in performance and energy efficiency. Our R&D team has delivered on that promise. \r\nIn September, we launched the SEALMINER A3 series, now among the most energy-efficient products in the market. Mass production has started and initial shipments are expected this month. We anticipate the A3 series will generate meaningful revenue in 2026. \r\nLooking ahead, our focus shifts to our SEAL04 chip. To derisk the development and ensure success, we are pursuing two distinct design approaches. The tape-out for the first SEAL04 design was completed in September, and latest sample verification demonstrated approximately 6 to 7 joules per terahash power efficiency at the chip level under low voltage ultra power-saving mode. We are targeting mass production to begin in Q1 2026. In the meanwhile, development of the next-generation SEAL04 is significantly delayed. \r\nNext, let's turn to our energy infrastructure, shown on Slides 7 through 11 in the supplemental investor presentation. In Q3, we continued our rapid build-out of our global power and data center portfolio. As of October 2025, we fully energized the Tydal, Norway site and the full 500 megawatts in Jigmeling, Bhutan. This brings our total available electrical capacity to approximately 1.6 gigawatts and our total global power pipeline to approximately 3 gigawatts. \r\nFor our AI cloud services and co-location strategy, we believe we have one of the most attractive power portfolio in the industry. Across our sites in Clarington, Ohio; Tydal Norway and Wenatchee, Washington, we will have over 1.3 gigawatts of HPC suitable power by Q3 2027. This gives us a significant advantage in time to power and the ability to deploy massive GPU capacity rapidly. \r\nIn September, we announced a new 300-megawatt site in Niles, Ohio. The project remains on track for energization in Q1 2029. The site spans 41.8 acres and includes an interconnection agreement with FirstEnergy. It is located about 75 miles from our Massillon, Ohio site and 125 miles from our Clarington, Ohio site. We continue to secure low-cost power sites globally, reinforcing our competitive advantage in both mining and AI infrastructure. \r\nIn summary, we are proud of our team's execution this quarter. These efforts are already reflected in our financial results and have established a scalable foundation for long-term growth. \r\nI'll now turn it over to Jeff LaBerge, our VP of Capital Markets and Strategy, to go over our detailed financial results for the quarter."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Thank you, Haris. Before I go over to Bitdeer's third quarter financial results, I'd like to remind everyone that all figures I refer to today are in U.S. dollars. \r\nQ3 consolidated revenue was $169.7 million, up from $62 million in Q3 2024 and $155.6 million in Q2 2025 or up 173.6% year-over-year and 9.1% sequentially. Self-mining revenue was $130.9 million versus $31.5 million in Q3 2024 and $59.3 million in Q2 2025, or up 315.6% year-over-year and up 120.7% sequentially. \r\nThese results were primarily due to a 273.1% year-over-year and 105.4% sequential increase in self-mining hash rate as well as higher bitcoin prices. These increases were partially offset by higher mining difficulty. \r\nSEALMINERs sales revenue was $11.4 million compared to $0 in Q3 2024 and $69.5 million in Q2 2025. Total gross profit for the quarter was $40.8 million versus $2.8 million in Q3 2024 and $12.8 million in Q2 2025. \r\nGross margin was 24.1% versus 4.5% in Q3 2024 and 8.2% in Q2 2025. The year-over-year and sequential increase in our gross margin was primarily driven by higher self-mining revenue and improved fleet efficiency. We expect to continue gross margin improvements over the coming quarters as our hash rate ramps up and overall fleet efficiency improves. \r\nTotal operating expenses for the quarter were $60.5 million versus $42.9 million in Q3 2024 and $42.3 million in Q2 2025. The year-over-year and sequential increase was primarily driven by the one-off R&D costs for the SEAL04 chip development and tape-out and noncash amortization expenses of intangible assets related to the acquisition of FreeChain. Other operating income was $26.5 million, primarily due to a $22.2 million mark-to-market adjustment to our cryptocurrency receivables. \r\nAs a reminder, under IFRS, Bitcoin and other cryptocurrencies are classified as intangible assets and are measured at cost less any accumulated impairment losses with no subsequent upward revaluation permitted. \r\nHowever, during the quarter, we entered into a $100 million Bitcoin-backed loan facility, pledging approximately 1,400 bitcoin as collateral. As a result, these bitcoin were reclassified as cryptocurrency receivables. IFRS requires that any cryptocurrency known as a receivable or payable to be marked to market, which led to this adjustment. \r\nOther net loss for the quarter was $238.5 million versus $14.7 million in Q3 2024 and $108.5 million in Q2 2025. The net loss was due to the noncash derivative losses on the convertible senior notes issued in August 2024, November 2024 and June 2025, which I will discuss in more detail in the liability section. \r\nIFRS net loss was $266.7 million versus $50.1 million in Q3 2024 and $147.7 million in Q2 2025. Adjusted loss was $32.8 million versus $25.6 million in Q3 2024 versus $24.4 million in Q2 2025. The increase in loss was primarily due to higher operating expenses and interest expense related to the increased borrowings, partially offset by the year-over-year higher revenue and gross profit margins. \r\nAdjusted EBITDA was positive $43 million versus negative $7.9 million in Q3 2024 and positive $17.3 million in Q2 2025. The year-over-year growth was primarily driven by significantly higher self-mining hash rate as a result of the company's mass production and deployment of SEALMINERs A1 and A2 during 2025. Note that both the adjusted loss and adjusted EBITDA figures for the quarter do not include the $22.2 million favorable mark-to-market gain from Bitcoin pledged as collateral. \r\nThis quarter's higher year-over-year and sequential top line and non-GAAP bottom line performance was mainly driven by higher self-mining hash rate, SEALMINER sales and higher Bitcoin pirces. These were partially offset by higher global network hash rate and higher R&D costs, as previously described. \r\nNet cash used for operating activities was negative $520 million, primarily driven by SEALMINERs supply chain and manufacturing costs, electricity costs from the mining business, general corporate overhead and interest expense. \r\nNet cash generated from investing activities was $27 million, which was driven by $60 million of capital expenditure, of which $32 million was related to data center infrastructure and related construction. Proceeds from disposal of cryptocurrencies from our primary business was $89 million. \r\nNet cash generated from financing activities for the quarter was $388 million, which resulted primarily from approximately $320 million of borrowing from a related party and $91 million of proceeds from shares sold under our ATM program, partially offset by $48 million of repayments of borrowings. \r\nMoving to our 2025 infrastructure spend. We expect CapEx for the continued buildout of our global power and data center infrastructure to be in the range of $210 million to $240 million for calendar year 2025. This range includes reported infrastructure CapEx from the previous 9 months of approximately $168 million. \r\nThe remaining projected CapEx is extended on the completion or near completion of our data centers in Tydal, Norway; Jigmeling, Bhutan; Massillon, Ohio and Ethiopia as well as the partial completion of the 101-megawatt gas-fired power plant in Alberta, Canada. Please note that this guidance only factors in power and data center and does not include CapEx for SEALMINERs and GPUs. \r\nIn terms of our balance sheet, we ended the quarter in a strong financial position with $196.3 million in cash and cash equivalents, $82.2 million in cryptocurrencies held at cost less impairment, $163.9 million in cryptocurrency receivable held at fair market value and $824.3 million in borrowings, excluding derivative liabilities. Please note the $82.2 million in cryptocurrencies is accounted for according to IFRS rules and is currently below its market value. \r\nDerivative liabilities were $672.5 million which related to the November 2024 and June 2025 convertible senior notes, representing a $234.6 million increase compared to the last quarter. This is a noncash fair value adjustment driven by the increase in our stock price and does not impact our liquidity or operations. \r\nUnder IFRS, certain derivative instruments such as warrants and convertible debt are required to be revalued at fair market value in the reporting period. As our stock price increases, the fair value of these instruments rises, resulting in a higher reported liability and vice versa. The reported liability will ultimately be netted at settlement either upon conversion to equity or expiration and does not represent an actual cash outflow. \r\nFinally, regarding our outstanding ATM facility, we've sold 6.2 million additional shares during the quarter. Thank you, everyone. That concludes the prepared remarks section of the our earnings call. \r\nOperator, please open the call for questions."
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "[Operator Instructions] Our first question comes from the line of Greg Lewis of BTIG."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Gregory Lewis",
+      "speakerType": "Analysts",
+      "text": "Haris, thanks for the update on kind of the progression of the HPC opportunity as you guys think about it. I wanted to talk a little bit about that. You called out a few of the sites. I mean it sounds like that Washington and maybe Tennessee could be maybe move up in the queue, just given their size. \r\nSo I guess, one, as we think about beyond -- I guess, first, if you could talk a little bit more on how you see the opportunity in Asia progressing. And then as we kind of continue to gain momentum in Asia, how we're able to kind of expand that into the U.S.? \r\nJeff, if you're on the line, I guess, I'd be curious to know about -- it looked like we added a site in Ohio -- Niles, Ohio -- are you there?"
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "Okay. Can you hear me okay?"
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Yes, sir, please proceed."
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "Yes. Okay. So sorry about that. I'm not sure what was going on. So Greg, let me answer your question, I answered it once, I think nobody heard me. \r\nSo it's not that we're going to do Malaysia first and then go to the U.S. We're doing both simultaneously. We're definitely moving forward in Malaysia and also in a number of locations outside of the U.S. \r\nSo that, I think I answered your first question. Do you have a second question? I can't remember what it was."
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Gregory Lewis",
+      "speakerType": "Analysts",
+      "text": "Yes. I mean -- and I guess I was curious, like are these -- are all these sites going to be [ NVIDIA ] , are you only looking at -- it sounds like we're focused on the H300. Is that kind of -- or could we say -- it seems like some of these other data center potential suppliers are looking beyond NVIDIA. I know, at one point, you were also looking to develop something beyond just an ASIC chip as well."
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "So right now, everything that we're doing in AI is largely NVIDIA-based. So the -- we're not looking at developing our own AI chip at the moment, if that's what your question was."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Gregory Lewis",
+      "speakerType": "Analysts",
+      "text": "Okay. And then my other question was around the -- I guess we acquired a new site in Niles, Ohio. I'd be curious, what was kind of the process in that? Was that a site that would have been looking at -- I'm trying to understand, I guess, a couple of things. One is realizing every site is different, how should we think about the timing of incremental site allocations? And I'd be curious about that."
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Yes. Great. This is Jeff. So the Niles, Ohio site was actually acquired in a few months ago. We just finalized it and made the announcement last month. So strategic acquisition. It's 100 miles from both of our sites -- other sites in Ohio. Energization does not come until Q1 of 2029. So it's a little ways out. \r\nSo we think it's like us additional optionality, depending on how we -- what direction we go with the Clarington and the Massillon site long term. So just long-term optionality, that's how we're thinking about that."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "And in general, we are in a mode of actively looking for sites that might be useful. So we are -- we have a group that's actively doing that."
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Kevin Cassidy of Rosenblatt Securities."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Unknown Analyst",
+      "speakerType": "Analysts",
+      "text": "This is [ Chris Myers ] on for Kevin Cassidy. And I'm just looking if you guys could provide some additional specifics on the reason for the delay of 04 [ SEALMINERs ] shift?"
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "Yes. So just to be clear, it's the new generation of architecture. Well, we're very comment in the technology still. It's really just that the implementation of it is quite a bit more difficult than we originally anticipated and does involve significant changes to the design flow of EDA tools. And so we're just working through those things to do that. And that's really the source of the delay."
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Unknown Analyst",
+      "speakerType": "Analysts",
+      "text": "Okay. And if I could ask a follow-up, are there any additional R&D expenses as those come to market, as the SEALMINER 04 comes to market?"
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "I mean I don't think there's going to be any especially unusual R&D expenses. Of course, there are R&D expenses associated with any chip."
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "Unknown Analyst",
+      "speakerType": "Analysts",
+      "text": "Right. And then, I guess, if I could ask one last follow-up, if you could describe the cost difference between assembling these SEALMINERs in the U.S. versus outside of the U.S., provide a little detail on that would be great."
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "So there'll be, obviously, a slight increase in the production costs for [ One Sun ] in the U.S. So if you think about 3 months in the SEALMINERs, about 70% to 75% of the cost is the chip. So the remaining 25% to 30% is the balance of the manufacturing is really where the delta will be on. \r\nSo yes, we would expect that to be higher in most cases. But again, depending on what the tariff is for exporting countries, we don't have an exact number for you at this time."
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Mike Grondahl of Northland."
+    },
+    {
+      "componentOrder": 22,
+      "speakerName": "Mike Grondahl",
+      "speakerType": "Analysts",
+      "text": "Two questions. One, how will you decide whether you'll go to cloud service provider route versus the co-location route? Any insight there would be helpful. And then two, could you talk a little bit about the demand you're seeing in Norway and how that compares to the demand for some of your U.S. sites?"
+    },
+    {
+      "componentOrder": 23,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "Yes. So with respect to AI cloud versus co-location, we are definitely putting our emphasis on the AI cloud space. we will opportunistically use co-location where it might makes sense, but our primary focus is on AI cloud. \r\nWith regards to Norway, yes, I mean, the site -- the demand is largely driven by that site being one of the few places in Europe where you can get a large site with low power. And in very specific case of our side, it's very much developed towards already being a Tier 3 type of data center. \r\nSo it doesn't take much effort to -- or much resources to change it as it would in a normal Bitcoin mining site. So there was a lot of interest -- there is a lot of interest in that site those reasons."
+    },
+    {
+      "componentOrder": 24,
+      "speakerName": "Mike Grondahl",
+      "speakerType": "Analysts",
+      "text": "Is the demand greater for that site as compared to maybe a U.S. site?"
+    },
+    {
+      "componentOrder": 25,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "I don't know. I mean perhaps because it's so close to being a fully developed Tier 3 site, the answer is probably yes. It's just takes less effort to turn it into an AI data center than our U.S. sites."
+    },
+    {
+      "componentOrder": 26,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Yes. I think time to power has really been what's been driving the demand for it. Obviously, the site, as Haris said, has a lot of attractive attributes that make the time to power much shorter. We think we can have this up and running sometime in the second half of next year, possibly. So I think that's driving a lot of it."
+    },
+    {
+      "componentOrder": 27,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Nick Giles of B. Riley Securities."
+    },
+    {
+      "componentOrder": 28,
+      "speakerName": "Nick Giles",
+      "speakerType": "Analysts",
+      "text": "I wanted to ask a question regarding your financing options for development of the HPC/AI capacity. So kind of to what extent do you expect CapEx to be funded by your JV partner? And additionally, is there any impact on your cost of capital from your PTC holdings, given that they could potentially have collateral rates down?"
+    },
+    {
+      "componentOrder": 29,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "So you've got a lot of background noise there. I'm not sure we got that. Were you asking about a development partner?"
+    },
+    {
+      "componentOrder": 30,
+      "speakerName": "Nick Giles",
+      "speakerType": "Analysts",
+      "text": "Yes, Jeff, apologies. So question is basically on your financing options for the development of HPC and AI, so I was wondering to what extent do you expect total CapEx to be funded by your JV partner? And is there any impact on your cost of capital from bitcoin holdings? Because I would assume they could potentially be used as collateral and help bring the rate down."
+    },
+    {
+      "componentOrder": 31,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "So at the present time, we don't have a JV partner in this development of HPC/AI, so we had initially guided that we were going to approach using a joint venture partner, development partner. \r\nWe did have an LOI with a group previously this year. We looked at LOI expire in favor of basically pursuing the opportunity more on our own using fee-based EPC contractors and augmenting our own internal development team. So we are -- not to say we may not pursue it in the future, but at the present time, our strategy is to pursue it more on our own."
+    },
+    {
+      "componentOrder": 32,
+      "speakerName": "Nick Giles",
+      "speakerType": "Analysts",
+      "text": "And my follow-up is about regarding the most optimistic scenario way of 200 megawatts of AI cloud capacity. Could you provide more detail on how this capacity will be allocated across the site if possible?"
+    },
+    {
+      "componentOrder": 33,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "I'm having trouble understanding the question. Sorry about that."
+    },
+    {
+      "componentOrder": 34,
+      "speakerName": "Nick Giles",
+      "speakerType": "Analysts",
+      "text": "No. Can you hear me? I mean, this is about 200 megawatts of AI cloud capacity that you outlined as -- yes, you can provide the split between the size? It would be helpful."
+    },
+    {
+      "componentOrder": 35,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Of the 200 megawatts, right, that includes Malaysia, it includes Singapore, includes Wenatchee, includes Tydal in Norway. And we expect the vast majority of that to be an AI cloud as opposed to co-location."
+    },
+    {
+      "componentOrder": 36,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Mike Colonnese of H.C. Wainwright & Company."
+    },
+    {
+      "componentOrder": 37,
+      "speakerName": "Michael Colonnese",
+      "speakerType": "Analysts",
+      "text": "I appreciate all the updates today. Just a couple for me. First one, as an ASIC manufacturer with better visibility into chip availability, do you foresee any procurement risks with regards to securing some of the latest-gen GPUs from NVIDIA for the broader infrastructure industry?"
+    },
+    {
+      "componentOrder": 38,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "We haven't seen anything so far. I mean, it's -- I'm not sure that Jeff and I are well positioned to answer that question right now because we're not directly in the procurement. We're getting what we require for mid-year, but our initial quarters are relatively small. So I'm not sure if they're indicative of the industry as a whole."
+    },
+    {
+      "componentOrder": 39,
+      "speakerName": "Michael Colonnese",
+      "speakerType": "Analysts",
+      "text": "Got it. Got it. And Haris, you mentioned in your prepared remarks that you intend to continue to deploy your still minor ASICs across your sites to continue to build out the bitcoin mining business in 2026. I guess how should we think about growth coming out of this year and looking into next year for bitcoin mining?"
+    },
+    {
+      "componentOrder": 40,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "We haven't released any estimates on that yet, but it will be significant. We're not plateauing at the level that we're at now. We're still on a very steep upward trajectory."
+    },
+    {
+      "componentOrder": 41,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Yes, Mike, I would say, I think we've got a lot of levers to pull there. We've got new capacity coming online in Massillon, Ohio, 221 megawatts. Ethiopia is 50 megawatts. We have some unused capacity in some of our current sites right now. And we have -- also have a couple of hundred megawatts that is dedicated to older generation miners that we'll be looking to replace in the coming months. \r\nSo it will really be a capacity and ASIC manufacturing will be sort of the bottleneck, not power."
+    },
+    {
+      "componentOrder": 42,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of [ Dylan Hessman ] of ROTH Capital Partners."
+    },
+    {
+      "componentOrder": 43,
+      "speakerName": "Unknown Analyst",
+      "speakerType": "Analysts",
+      "text": "To follow up on some of the cloud things about the $2 billion ARR, how do you sort of expect your customer base to be across that $2 billion? I know you mentioned some of the industries you're working in, but do you expect it to be multiple customer -- like multiple big customers? Or are we talking 10, 20, 30 or 30-plus small contracts?"
+    },
+    {
+      "componentOrder": 44,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "So I think it will be a combination of both. So in places like Asia, we are seeing a lot of demand from that, I would say, small- and middle-market companies that are looking to stand up some AI models in some of those industries that we mentioned. \r\nWe're also seeing demand from larger, call it, medium- and large-sized enterprise customers that are looking to deploy high double, low triple digit megawatts in GPUs. So I think to get to that number, as we kind of laid out as our most optimistic scenario, would likely involve a combination of both solid middle market and maybe 1 or 2 larger enterprise customers."
+    },
+    {
+      "componentOrder": 45,
+      "speakerName": "Unknown Analyst",
+      "speakerType": "Analysts",
+      "text": "Got it. And as a follow-up, on the data center build side of things, how are you guys seeing build cost and supply chain trending as you sort of get closer to the finishing, I guess, a lot of sites that are in the pipeline?"
+    },
+    {
+      "componentOrder": 46,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Yes. Look, I think the long lead-time items are still the same ones as we know from before, it's a lot of the electrical equipment, transformers, switchgears, breakers, things like that. \r\nLook, I think they're out there to be found. We've got a very experienced procurement team. This is not the first time where this type of equipment has been in high demand and shortages. And we've had success sourcing in the past. \r\nI think some of the potential tenants and other EPCs that we may be working with, there's a possibility that they have some of that stuff kind of queued up as well. So I think there's avenues to get it. But I think the supply chain still remains stressed to some extent."
+    },
+    {
+      "componentOrder": 47,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of John Todaro of Needham & Company."
+    },
+    {
+      "componentOrder": 48,
+      "speakerName": "John Todaro",
+      "speakerType": "Analysts",
+      "text": "I just wanted to confirm stuff from earlier. So one, it does seem like the focus is more on AI cloud, so GPU as a service versus HPC colo. Are you seeing a lot more demand in that area? And should we also expect the Ohio sites would be more geared for AI cloud versus a colo lead? And then I have a follow-up."
+    },
+    {
+      "componentOrder": 49,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "The Ohio side, yes, I think the answer is yes, it could be more and more AI cloud, but it's a large enough site where it could be divided as well. So final determination of that site is not clear at the moment. You do have a follow-up question you said."
+    },
+    {
+      "componentOrder": 50,
+      "speakerName": "John Todaro",
+      "speakerType": "Analysts",
+      "text": "Yes. But also just within that, I guess, is there -- are you seeing more customer demand for AI cloud versus colo? And then I guess my follow-up would be just as you think about returning more megawatts out there, we have heard from some peers that there is kind of a stranded power available. Is there kind of a guardrail of how much additional capacity maybe annually you guys think you could procure?"
+    },
+    {
+      "componentOrder": 51,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "We're seeing a lot of demand for both colo and AI cloud. So I start to quantify which one is more or less, but we're seeing a lot for both."
+    },
+    {
+      "componentOrder": 52,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Yes. And then yes, I would agree with that. I mean I don't think it's just different demand. I mean, obviously, different types of customers are looking forward, sometimes the same customers are. But I think the demand right now is robust. Time to power, I think, is the most critical, I think, the most recurring thing we're hearing. So 2026, early '27 power is desirable right now, so I think for both business models. \r\nOn the power procurement side, yes, I mean, look, I think we're seeing that, too. I mean there is some strain of power. I think we're seeing also more of a willingness to -- for tenants and end users to be more accepting of that type of power, behind-the-meter power potentially. And so we're seeing that. And we're -- like I said, we've got a great procurement team that's been able to acquire low-cost power sites in the past, and we're confident in their ability to continue to do so."
+    },
+    {
+      "componentOrder": 53,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "[Operator Instructions] Our next question comes from the line of Bill Papanastasiou of KBW."
+    },
+    {
+      "componentOrder": 54,
+      "speakerName": "Bill Papanastasiou",
+      "speakerType": "Analysts",
+      "text": "With respect to the delayed development of the SEAL04 miner, where would you say the confidence level sits today with respect to this ASIC having industry-leading specs when it gets released? Just trying to understand the extent of the delay."
+    },
+    {
+      "componentOrder": 55,
+      "speakerName": "Haris Basit",
+      "speakerType": "Executives",
+      "text": "The confidence is high that the architecture is the right one to go for future design. So I don't think there's any real lack of confidence in that. And that for subsequent designs, we would be using an architecture like this. Where the confidence is low is the exact timing of the release."
+    },
+    {
+      "componentOrder": 56,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Bill, did you have a follow-up question?"
+    },
+    {
+      "componentOrder": 57,
+      "speakerName": "Bill Papanastasiou",
+      "speakerType": "Analysts",
+      "text": "No, just that question."
+    },
+    {
+      "componentOrder": 58,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "I think we have one more."
+    },
+    {
+      "componentOrder": 59,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Our next question comes from the line of Brian Kinstlinger of Alliance Global Partners."
+    },
+    {
+      "componentOrder": 60,
+      "speakerName": "Brian Kinstlinger",
+      "speakerType": "Analysts",
+      "text": "I'm just wondering if you can help provide some sort of estimates or how you see return on invested capital for cloud service provider versus co-location services?"
+    },
+    {
+      "componentOrder": 61,
+      "speakerName": "Jeffrey LaBerge",
+      "speakerType": "Executives",
+      "text": "Yes. I think there -- it's a different return profile. So obviously, we've seen some of our peers out there putting numbers out. And I think those numbers are largely accurate, depending on how you're looking at it with, I would say, both the -- if you're looking at both the GPUs and the data center cost in there and an IRR specific to both. I think they can be obviously different. \r\nWe're seeing colocation, obviously, the rates very similar to what others have reported recently. So that's typically a yield on cost. So I think it's just going to depend on your construction costs, where you're constructing and I think the end user. \r\nI think we're seeing a lot of variance in end user requirements as far as infrastructure needs, whether the backup power is required, whether they'll be providing some of the kind of key infrastructure there. So that on the co-location side, especially, I think it's going to really affect your return on invested capital or any of the other return metrics."
+    },
+    {
+      "componentOrder": 62,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Ladies and gentlemen, that does conclude the Q&A portion of our call and Bitdeer's conference for today. Thank you for participating. You may now disconnect."
+    }
+  ],
+  "text": "# Bitdeer Technologies Group - Q3 2025 Earnings Call\nDate: 2025-11-10T13:00:00Z\nType: Earnings Calls\n\n## Operator (Operator)\nThank you for standing by, and welcome to Bitdeer's Third Quarter 2025 Earnings Conference Call. [Operator Instructions] I would now like to hand the call over to Yujia Zhai, Investor Relations. Please go ahead.\n\n## Yujia Zhai (Attendees)\nThank you, operator. And good morning, everyone. Welcome to Bitdeer's Third Quarter 2025 Earnings Conference Call. Joining me today are Matt Kong, Chief Business Officer; Haris Basit, Chief Strategy Officer; and Jeff LaBerge, VP of Capital Markets and Strategy. \r\nHaris will be in today by providing a high-level overview of Bitdeer's third quarter 2025 results and then cover the company's strategy and a detailed business update. After that, Jeff will cover Bitdeer's third quarter financial results in more detail, and then we will open the call for questions. \r\nTo accompany today's earnings call, we have provided a supplemental investor presentation. This presentation can be found on Bitdeer's Investor Relations website under Webcasts and Presentations. \r\nBefore management begins their formal remarks, we would like to remind everyone that during today's call, we may make certain forward-looking statements. These statements are based on management's current expectations and are subject to risks and uncertainties, which may cause actual results to differ materially. For a more complete discussion on forward-looking statements, and the risks and uncertainties related to Bitdeer's business, please refer to its filings with the SEC. \r\nFurther, in addition to discussing results that are calculated in accordance with International Financial Reporting Standards, or IFRS, we will also make references to certain non-IFRS financial measures, such as adjusted EBITDA and adjusted profit and loss. For more detailed information on our non-IFRS financial measures, please refer to our earnings release that was published earlier today, which can be found on Bitdeer's IR website. Thank you. \r\nI will now turn the call over to Haris. Haris?\n\n## Haris Basit (Executives)\nThank you, Yujia, and good day, everyone. It's great to be with you today. Since our last call, we've made significant progress across all of our strategic priorities, and I'm excited to share how Bitdeer is growing from a global leader in bitcoin mining into a vertically integrated bitcoin infrastructure and AI platform. \r\nLet's start with the numbers on Slide 3. Q3 marked a period of rapid growth and strong execution. In the third quarter, total revenue reached $169.7 million, up 173.6% year-over-year and up 9.1% sequentially. Gross profit came in at $40.8 million, and adjusted EBITDA increased to $43 million, both substantially improved from Q2. This performance reflects continued execution in our self mining business. \r\nMass production of our SEALMINER ASICs drove 273.1% year-over-year and 105.4% sequential increase in our average operating self-mining hash rate to 29.1 exahash per second. As of the end of October, we achieved 41.2 exahash per second, surpassing our 40 exahash per second target that we set out at the beginning of the year. Looking forward, we plan to continue deploying our SEALMINER ASICs to fill our substantial global power pipeline. \r\nThrough a combination of decommissioning older-generation rigs and adding new SEALMINER ASICs, we expect meaningful growth throughout 2026, which will ensure we remain one of the world's largest bitcoin miners. In addition to hash rate growth, we expect continual improvement in our fleet-wide energy efficiency to drive increased margins and profitability in the quarters ahead. \r\nOur investments in chip design, data center infrastructure and global power portfolio are paying off, not only in strong financial performance, but also positioning us for the next major wave of demand for compute. \r\nOur bitdeer.ai cloud services business continues to scale, reaching at an annualized revenue run rate of $8 million at the end of October. As of October 31, we operate 584 GPUs with an 87% utilization rate. Our newest B200 systems, installed late in Q3, are being tested by customers and will drive additional revenue. We are finalizing deployment for NVIDIA's GB200 systems and expect to reach 1,160 GPUs operated by end of the year. \r\nWe are also in the process of procuring NVIDIA's next generation GB300 and B300 systems. And as we look ahead, Bitdeer's growth will be anchored by three strategic pillars bitcoin mining, ASIC development and HPC/AI. Together, these represent a vertically integrated, highly dependable platform that leverages our technology expertise and extensive power portfolio. \r\nTo accelerate our AI footprint, we are taking bold, deliberate steps to simultaneously pursue both co-location and cloud services. \r\nWith respect to co-location, on our last earnings call, we guided the market that we intended to pursue a joint venture model with a development partner. In September, due to a significant increase in market demand, we let the exclusivity period under our LOI with this development partner expire. This was a strategic decision that gives us greater flexibility and allows us to take a more direct role in the HPC/AI data center market and retain more of the economics. \r\nWe intend to develop data centers using our own internal development team, which will be significantly augmented through strategic hiring alongside highly experienced EPC and general contractors on a fee basis. \r\nRegarding our cloud services business, over the past 18 months, we have developed a vertically integrated AI infrastructure platform in Singapore. That includes bare metal GPUs as well as orchestration, networking and managed services. These additional services are highly sought after by small and midsized enterprise customers, who require more than just bare metal offering and are being underserved in today's market. \r\nNow that we have a proven concept in Singapore, we are ready to expand this business line into Malaysia, the U.S. and Europe. Our current customer discussions range from early to mid-stage start-ups in the biomedical, robotics and gaming industries to more traditional U.S. enterprise customers seeking to expand their footprint. We will provide additional details as this business model develops over the coming months. \r\nMoving now to our HPC/AI infrastructure plans. For our 570-megawatt Clarington, Ohio site, we have already begun the design and procurement process for an HPC/AI's suitable substation, which is expected to be energized in the first half of 2027. The local utility at Clarington has confirmed the full 570 megawatts will be available by the end of Q3 2026, nearly a year earlier than expected. Given its size, the Clarington site could be utilized for our cloud services business or co-location. \r\nAt the same time, we have made the decision to convert our 175-megawatt Tydal site in Norway into an AI data center by Q4 2026. Given the announcement of Stargate in Norway in July, we have seen a significant increase in inbound interest from potential tenants. So we believe this site could be used for either our cloud services business or co-location. \r\nThe site was designed by our local Norway team with HPC/AI in mind as the end use. So it already includes liquid cooling capabilities and a more robust electrical infrastructure. Furthermore, it utilizes a substation that is powered by 18 hydro power generators and 1 wind farm, giving it a high degree of reliability. Our current analysis indicates that the site could be ready to accept GPUs by the second half of 2026 with conversion costs well below U.S. and European AI data center benchmarks. \r\nAdditionally, we plan to expand our Singapore cloud services business into Malaysia. Through a combination of loan and lease opportunities, we anticipate activating up to 15 megawatts of cloud services capacity in Malaysia during 2026, with the ability to expand significantly beyond that if demand persists. \r\nWe are also upgrading our 13-megawatt Wenatchee, Washington site using a proprietary modular data center technology. This conversion is expected to be completed by Q4 2026. Further, we have initiated the conversion of 10 megawatts of power capacity at our Knoxville, Tennessee side into an AI data center with targeted completion in Q4 2026. We are evaluating potential U.S. data center rental opportunities to bring our AI cloud services online domestically as early as Q1 2026. \r\nIn summary, the supply and demand imbalance for AI compute continues to widen, and we impact this shortage to persist well into 2027. Based on our estimates under the most optimistic scenario, converting 200 megawatts of our power capacity fully towards AI cloud services could generate an annualized revenue run rate exceeding $2 billion by the end of 2021. \r\nTurning to our ASIC business, when we launched our aggressive ASIC roadmap last year, our goal was clear, industry leadership in performance and energy efficiency. Our R&D team has delivered on that promise. \r\nIn September, we launched the SEALMINER A3 series, now among the most energy-efficient products in the market. Mass production has started and initial shipments are expected this month. We anticipate the A3 series will generate meaningful revenue in 2026. \r\nLooking ahead, our focus shifts to our SEAL04 chip. To derisk the development and ensure success, we are pursuing two distinct design approaches. The tape-out for the first SEAL04 design was completed in September, and latest sample verification demonstrated approximately 6 to 7 joules per terahash power efficiency at the chip level under low voltage ultra power-saving mode. We are targeting mass production to begin in Q1 2026. In the meanwhile, development of the next-generation SEAL04 is significantly delayed. \r\nNext, let's turn to our energy infrastructure, shown on Slides 7 through 11 in the supplemental investor presentation. In Q3, we continued our rapid build-out of our global power and data center portfolio. As of October 2025, we fully energized the Tydal, Norway site and the full 500 megawatts in Jigmeling, Bhutan. This brings our total available electrical capacity to approximately 1.6 gigawatts and our total global power pipeline to approximately 3 gigawatts. \r\nFor our AI cloud services and co-location strategy, we believe we have one of the most attractive power portfolio in the industry. Across our sites in Clarington, Ohio; Tydal Norway and Wenatchee, Washington, we will have over 1.3 gigawatts of HPC suitable power by Q3 2027. This gives us a significant advantage in time to power and the ability to deploy massive GPU capacity rapidly. \r\nIn September, we announced a new 300-megawatt site in Niles, Ohio. The project remains on track for energization in Q1 2029. The site spans 41.8 acres and includes an interconnection agreement with FirstEnergy. It is located about 75 miles from our Massillon, Ohio site and 125 miles from our Clarington, Ohio site. We continue to secure low-cost power sites globally, reinforcing our competitive advantage in both mining and AI infrastructure. \r\nIn summary, we are proud of our team's execution this quarter. These efforts are already reflected in our financial results and have established a scalable foundation for long-term growth. \r\nI'll now turn it over to Jeff LaBerge, our VP of Capital Markets and Strategy, to go over our detailed financial results for the quarter.\n\n## Jeffrey LaBerge (Executives)\nThank you, Haris. Before I go over to Bitdeer's third quarter financial results, I'd like to remind everyone that all figures I refer to today are in U.S. dollars. \r\nQ3 consolidated revenue was $169.7 million, up from $62 million in Q3 2024 and $155.6 million in Q2 2025 or up 173.6% year-over-year and 9.1% sequentially. Self-mining revenue was $130.9 million versus $31.5 million in Q3 2024 and $59.3 million in Q2 2025, or up 315.6% year-over-year and up 120.7% sequentially. \r\nThese results were primarily due to a 273.1% year-over-year and 105.4% sequential increase in self-mining hash rate as well as higher bitcoin prices. These increases were partially offset by higher mining difficulty. \r\nSEALMINERs sales revenue was $11.4 million compared to $0 in Q3 2024 and $69.5 million in Q2 2025. Total gross profit for the quarter was $40.8 million versus $2.8 million in Q3 2024 and $12.8 million in Q2 2025. \r\nGross margin was 24.1% versus 4.5% in Q3 2024 and 8.2% in Q2 2025. The year-over-year and sequential increase in our gross margin was primarily driven by higher self-mining revenue and improved fleet efficiency. We expect to continue gross margin improvements over the coming quarters as our hash rate ramps up and overall fleet efficiency improves. \r\nTotal operating expenses for the quarter were $60.5 million versus $42.9 million in Q3 2024 and $42.3 million in Q2 2025. The year-over-year and sequential increase was primarily driven by the one-off R&D costs for the SEAL04 chip development and tape-out and noncash amortization expenses of intangible assets related to the acquisition of FreeChain. Other operating income was $26.5 million, primarily due to a $22.2 million mark-to-market adjustment to our cryptocurrency receivables. \r\nAs a reminder, under IFRS, Bitcoin and other cryptocurrencies are classified as intangible assets and are measured at cost less any accumulated impairment losses with no subsequent upward revaluation permitted. \r\nHowever, during the quarter, we entered into a $100 million Bitcoin-backed loan facility, pledging approximately 1,400 bitcoin as collateral. As a result, these bitcoin were reclassified as cryptocurrency receivables. IFRS requires that any cryptocurrency known as a receivable or payable to be marked to market, which led to this adjustment. \r\nOther net loss for the quarter was $238.5 million versus $14.7 million in Q3 2024 and $108.5 million in Q2 2025. The net loss was due to the noncash derivative losses on the convertible senior notes issued in August 2024, November 2024 and June 2025, which I will discuss in more detail in the liability section. \r\nIFRS net loss was $266.7 million versus $50.1 million in Q3 2024 and $147.7 million in Q2 2025. Adjusted loss was $32.8 million versus $25.6 million in Q3 2024 versus $24.4 million in Q2 2025. The increase in loss was primarily due to higher operating expenses and interest expense related to the increased borrowings, partially offset by the year-over-year higher revenue and gross profit margins. \r\nAdjusted EBITDA was positive $43 million versus negative $7.9 million in Q3 2024 and positive $17.3 million in Q2 2025. The year-over-year growth was primarily driven by significantly higher self-mining hash rate as a result of the company's mass production and deployment of SEALMINERs A1 and A2 during 2025. Note that both the adjusted loss and adjusted EBITDA figures for the quarter do not include the $22.2 million favorable mark-to-market gain from Bitcoin pledged as collateral. \r\nThis quarter's higher year-over-year and sequential top line and non-GAAP bottom line performance was mainly driven by higher self-mining hash rate, SEALMINER sales and higher Bitcoin pirces. These were partially offset by higher global network hash rate and higher R&D costs, as previously described. \r\nNet cash used for operating activities was negative $520 million, primarily driven by SEALMINERs supply chain and manufacturing costs, electricity costs from the mining business, general corporate overhead and interest expense. \r\nNet cash generated from investing activities was $27 million, which was driven by $60 million of capital expenditure, of which $32 million was related to data center infrastructure and related construction. Proceeds from disposal of cryptocurrencies from our primary business was $89 million. \r\nNet cash generated from financing activities for the quarter was $388 million, which resulted primarily from approximately $320 million of borrowing from a related party and $91 million of proceeds from shares sold under our ATM program, partially offset by $48 million of repayments of borrowings. \r\nMoving to our 2025 infrastructure spend. We expect CapEx for the continued buildout of our global power and data center infrastructure to be in the range of $210 million to $240 million for calendar year 2025. This range includes reported infrastructure CapEx from the previous 9 months of approximately $168 million. \r\nThe remaining projected CapEx is extended on the completion or near completion of our data centers in Tydal, Norway; Jigmeling, Bhutan; Massillon, Ohio and Ethiopia as well as the partial completion of the 101-megawatt gas-fired power plant in Alberta, Canada. Please note that this guidance only factors in power and data center and does not include CapEx for SEALMINERs and GPUs. \r\nIn terms of our balance sheet, we ended the quarter in a strong financial position with $196.3 million in cash and cash equivalents, $82.2 million in cryptocurrencies held at cost less impairment, $163.9 million in cryptocurrency receivable held at fair market value and $824.3 million in borrowings, excluding derivative liabilities. Please note the $82.2 million in cryptocurrencies is accounted for according to IFRS rules and is currently below its market value. \r\nDerivative liabilities were $672.5 million which related to the November 2024 and June 2025 convertible senior notes, representing a $234.6 million increase compared to the last quarter. This is a noncash fair value adjustment driven by the increase in our stock price and does not impact our liquidity or operations. \r\nUnder IFRS, certain derivative instruments such as warrants and convertible debt are required to be revalued at fair market value in the reporting period. As our stock price increases, the fair value of these instruments rises, resulting in a higher reported liability and vice versa. The reported liability will ultimately be netted at settlement either upon conversion to equity or expiration and does not represent an actual cash outflow. \r\nFinally, regarding our outstanding ATM facility, we've sold 6.2 million additional shares during the quarter. Thank you, everyone. That concludes the prepared remarks section of the our earnings call. \r\nOperator, please open the call for questions.\n\n## Operator (Operator)\n[Operator Instructions] Our first question comes from the line of Greg Lewis of BTIG.\n\n## Gregory Lewis (Analysts)\nHaris, thanks for the update on kind of the progression of the HPC opportunity as you guys think about it. I wanted to talk a little bit about that. You called out a few of the sites. I mean it sounds like that Washington and maybe Tennessee could be maybe move up in the queue, just given their size. \r\nSo I guess, one, as we think about beyond -- I guess, first, if you could talk a little bit more on how you see the opportunity in Asia progressing. And then as we kind of continue to gain momentum in Asia, how we're able to kind of expand that into the U.S.? \r\nJeff, if you're on the line, I guess, I'd be curious to know about -- it looked like we added a site in Ohio -- Niles, Ohio -- are you there?\n\n## Haris Basit (Executives)\nOkay. Can you hear me okay?\n\n## Operator (Operator)\nYes, sir, please proceed.\n\n## Haris Basit (Executives)\nYes. Okay. So sorry about that. I'm not sure what was going on. So Greg, let me answer your question, I answered it once, I think nobody heard me. \r\nSo it's not that we're going to do Malaysia first and then go to the U.S. We're doing both simultaneously. We're definitely moving forward in Malaysia and also in a number of locations outside of the U.S. \r\nSo that, I think I answered your first question. Do you have a second question? I can't remember what it was.\n\n## Gregory Lewis (Analysts)\nYes. I mean -- and I guess I was curious, like are these -- are all these sites going to be [ NVIDIA ] , are you only looking at -- it sounds like we're focused on the H300. Is that kind of -- or could we say -- it seems like some of these other data center potential suppliers are looking beyond NVIDIA. I know, at one point, you were also looking to develop something beyond just an ASIC chip as well.\n\n## Haris Basit (Executives)\nSo right now, everything that we're doing in AI is largely NVIDIA-based. So the -- we're not looking at developing our own AI chip at the moment, if that's what your question was.\n\n## Gregory Lewis (Analysts)\nOkay. And then my other question was around the -- I guess we acquired a new site in Niles, Ohio. I'd be curious, what was kind of the process in that? Was that a site that would have been looking at -- I'm trying to understand, I guess, a couple of things. One is realizing every site is different, how should we think about the timing of incremental site allocations? And I'd be curious about that.\n\n## Jeffrey LaBerge (Executives)\nYes. Great. This is Jeff. So the Niles, Ohio site was actually acquired in a few months ago. We just finalized it and made the announcement last month. So strategic acquisition. It's 100 miles from both of our sites -- other sites in Ohio. Energization does not come until Q1 of 2029. So it's a little ways out. \r\nSo we think it's like us additional optionality, depending on how we -- what direction we go with the Clarington and the Massillon site long term. So just long-term optionality, that's how we're thinking about that.\n\n## Haris Basit (Executives)\nAnd in general, we are in a mode of actively looking for sites that might be useful. So we are -- we have a group that's actively doing that.\n\n## Operator (Operator)\nOur next question comes from the line of Kevin Cassidy of Rosenblatt Securities.\n\n## Unknown Analyst (Analysts)\nThis is [ Chris Myers ] on for Kevin Cassidy. And I'm just looking if you guys could provide some additional specifics on the reason for the delay of 04 [ SEALMINERs ] shift?\n\n## Haris Basit (Executives)\nYes. So just to be clear, it's the new generation of architecture. Well, we're very comment in the technology still. It's really just that the implementation of it is quite a bit more difficult than we originally anticipated and does involve significant changes to the design flow of EDA tools. And so we're just working through those things to do that. And that's really the source of the delay.\n\n## Unknown Analyst (Analysts)\nOkay. And if I could ask a follow-up, are there any additional R&D expenses as those come to market, as the SEALMINER 04 comes to market?\n\n## Haris Basit (Executives)\nI mean I don't think there's going to be any especially unusual R&D expenses. Of course, there are R&D expenses associated with any chip.\n\n## Unknown Analyst (Analysts)\nRight. And then, I guess, if I could ask one last follow-up, if you could describe the cost difference between assembling these SEALMINERs in the U.S. versus outside of the U.S., provide a little detail on that would be great.\n\n## Jeffrey LaBerge (Executives)\nSo there'll be, obviously, a slight increase in the production costs for [ One Sun ] in the U.S. So if you think about 3 months in the SEALMINERs, about 70% to 75% of the cost is the chip. So the remaining 25% to 30% is the balance of the manufacturing is really where the delta will be on. \r\nSo yes, we would expect that to be higher in most cases. But again, depending on what the tariff is for exporting countries, we don't have an exact number for you at this time.\n\n## Operator (Operator)\nOur next question comes from the line of Mike Grondahl of Northland.\n\n## Mike Grondahl (Analysts)\nTwo questions. One, how will you decide whether you'll go to cloud service provider route versus the co-location route? Any insight there would be helpful. And then two, could you talk a little bit about the demand you're seeing in Norway and how that compares to the demand for some of your U.S. sites?\n\n## Haris Basit (Executives)\nYes. So with respect to AI cloud versus co-location, we are definitely putting our emphasis on the AI cloud space. we will opportunistically use co-location where it might makes sense, but our primary focus is on AI cloud. \r\nWith regards to Norway, yes, I mean, the site -- the demand is largely driven by that site being one of the few places in Europe where you can get a large site with low power. And in very specific case of our side, it's very much developed towards already being a Tier 3 type of data center. \r\nSo it doesn't take much effort to -- or much resources to change it as it would in a normal Bitcoin mining site. So there was a lot of interest -- there is a lot of interest in that site those reasons.\n\n## Mike Grondahl (Analysts)\nIs the demand greater for that site as compared to maybe a U.S. site?\n\n## Haris Basit (Executives)\nI don't know. I mean perhaps because it's so close to being a fully developed Tier 3 site, the answer is probably yes. It's just takes less effort to turn it into an AI data center than our U.S. sites.\n\n## Jeffrey LaBerge (Executives)\nYes. I think time to power has really been what's been driving the demand for it. Obviously, the site, as Haris said, has a lot of attractive attributes that make the time to power much shorter. We think we can have this up and running sometime in the second half of next year, possibly. So I think that's driving a lot of it.\n\n## Operator (Operator)\nOur next question comes from the line of Nick Giles of B. Riley Securities.\n\n## Nick Giles (Analysts)\nI wanted to ask a question regarding your financing options for development of the HPC/AI capacity. So kind of to what extent do you expect CapEx to be funded by your JV partner? And additionally, is there any impact on your cost of capital from your PTC holdings, given that they could potentially have collateral rates down?\n\n## Jeffrey LaBerge (Executives)\nSo you've got a lot of background noise there. I'm not sure we got that. Were you asking about a development partner?\n\n## Nick Giles (Analysts)\nYes, Jeff, apologies. So question is basically on your financing options for the development of HPC and AI, so I was wondering to what extent do you expect total CapEx to be funded by your JV partner? And is there any impact on your cost of capital from bitcoin holdings? Because I would assume they could potentially be used as collateral and help bring the rate down.\n\n## Jeffrey LaBerge (Executives)\nSo at the present time, we don't have a JV partner in this development of HPC/AI, so we had initially guided that we were going to approach using a joint venture partner, development partner. \r\nWe did have an LOI with a group previously this year. We looked at LOI expire in favor of basically pursuing the opportunity more on our own using fee-based EPC contractors and augmenting our own internal development team. So we are -- not to say we may not pursue it in the future, but at the present time, our strategy is to pursue it more on our own.\n\n## Nick Giles (Analysts)\nAnd my follow-up is about regarding the most optimistic scenario way of 200 megawatts of AI cloud capacity. Could you provide more detail on how this capacity will be allocated across the site if possible?\n\n## Jeffrey LaBerge (Executives)\nI'm having trouble understanding the question. Sorry about that.\n\n## Nick Giles (Analysts)\nNo. Can you hear me? I mean, this is about 200 megawatts of AI cloud capacity that you outlined as -- yes, you can provide the split between the size? It would be helpful.\n\n## Jeffrey LaBerge (Executives)\nOf the 200 megawatts, right, that includes Malaysia, it includes Singapore, includes Wenatchee, includes Tydal in Norway. And we expect the vast majority of that to be an AI cloud as opposed to co-location.\n\n## Operator (Operator)\nOur next question comes from the line of Mike Colonnese of H.C. Wainwright & Company.\n\n## Michael Colonnese (Analysts)\nI appreciate all the updates today. Just a couple for me. First one, as an ASIC manufacturer with better visibility into chip availability, do you foresee any procurement risks with regards to securing some of the latest-gen GPUs from NVIDIA for the broader infrastructure industry?\n\n## Haris Basit (Executives)\nWe haven't seen anything so far. I mean, it's -- I'm not sure that Jeff and I are well positioned to answer that question right now because we're not directly in the procurement. We're getting what we require for mid-year, but our initial quarters are relatively small. So I'm not sure if they're indicative of the industry as a whole.\n\n## Michael Colonnese (Analysts)\nGot it. Got it. And Haris, you mentioned in your prepared remarks that you intend to continue to deploy your still minor ASICs across your sites to continue to build out the bitcoin mining business in 2026. I guess how should we think about growth coming out of this year and looking into next year for bitcoin mining?\n\n## Haris Basit (Executives)\nWe haven't released any estimates on that yet, but it will be significant. We're not plateauing at the level that we're at now. We're still on a very steep upward trajectory.\n\n## Jeffrey LaBerge (Executives)\nYes, Mike, I would say, I think we've got a lot of levers to pull there. We've got new capacity coming online in Massillon, Ohio, 221 megawatts. Ethiopia is 50 megawatts. We have some unused capacity in some of our current sites right now. And we have -- also have a couple of hundred megawatts that is dedicated to older generation miners that we'll be looking to replace in the coming months. \r\nSo it will really be a capacity and ASIC manufacturing will be sort of the bottleneck, not power.\n\n## Operator (Operator)\nOur next question comes from the line of [ Dylan Hessman ] of ROTH Capital Partners.\n\n## Unknown Analyst (Analysts)\nTo follow up on some of the cloud things about the $2 billion ARR, how do you sort of expect your customer base to be across that $2 billion? I know you mentioned some of the industries you're working in, but do you expect it to be multiple customer -- like multiple big customers? Or are we talking 10, 20, 30 or 30-plus small contracts?\n\n## Jeffrey LaBerge (Executives)\nSo I think it will be a combination of both. So in places like Asia, we are seeing a lot of demand from that, I would say, small- and middle-market companies that are looking to stand up some AI models in some of those industries that we mentioned. \r\nWe're also seeing demand from larger, call it, medium- and large-sized enterprise customers that are looking to deploy high double, low triple digit megawatts in GPUs. So I think to get to that number, as we kind of laid out as our most optimistic scenario, would likely involve a combination of both solid middle market and maybe 1 or 2 larger enterprise customers.\n\n## Unknown Analyst (Analysts)\nGot it. And as a follow-up, on the data center build side of things, how are you guys seeing build cost and supply chain trending as you sort of get closer to the finishing, I guess, a lot of sites that are in the pipeline?\n\n## Jeffrey LaBerge (Executives)\nYes. Look, I think the long lead-time items are still the same ones as we know from before, it's a lot of the electrical equipment, transformers, switchgears, breakers, things like that. \r\nLook, I think they're out there to be found. We've got a very experienced procurement team. This is not the first time where this type of equipment has been in high demand and shortages. And we've had success sourcing in the past. \r\nI think some of the potential tenants and other EPCs that we may be working with, there's a possibility that they have some of that stuff kind of queued up as well. So I think there's avenues to get it. But I think the supply chain still remains stressed to some extent.\n\n## Operator (Operator)\nOur next question comes from the line of John Todaro of Needham & Company.\n\n## John Todaro (Analysts)\nI just wanted to confirm stuff from earlier. So one, it does seem like the focus is more on AI cloud, so GPU as a service versus HPC colo. Are you seeing a lot more demand in that area? And should we also expect the Ohio sites would be more geared for AI cloud versus a colo lead? And then I have a follow-up.\n\n## Haris Basit (Executives)\nThe Ohio side, yes, I think the answer is yes, it could be more and more AI cloud, but it's a large enough site where it could be divided as well. So final determination of that site is not clear at the moment. You do have a follow-up question you said.\n\n## John Todaro (Analysts)\nYes. But also just within that, I guess, is there -- are you seeing more customer demand for AI cloud versus colo? And then I guess my follow-up would be just as you think about returning more megawatts out there, we have heard from some peers that there is kind of a stranded power available. Is there kind of a guardrail of how much additional capacity maybe annually you guys think you could procure?\n\n## Haris Basit (Executives)\nWe're seeing a lot of demand for both colo and AI cloud. So I start to quantify which one is more or less, but we're seeing a lot for both.\n\n## Jeffrey LaBerge (Executives)\nYes. And then yes, I would agree with that. I mean I don't think it's just different demand. I mean, obviously, different types of customers are looking forward, sometimes the same customers are. But I think the demand right now is robust. Time to power, I think, is the most critical, I think, the most recurring thing we're hearing. So 2026, early '27 power is desirable right now, so I think for both business models. \r\nOn the power procurement side, yes, I mean, look, I think we're seeing that, too. I mean there is some strain of power. I think we're seeing also more of a willingness to -- for tenants and end users to be more accepting of that type of power, behind-the-meter power potentially. And so we're seeing that. And we're -- like I said, we've got a great procurement team that's been able to acquire low-cost power sites in the past, and we're confident in their ability to continue to do so.\n\n## Operator (Operator)\n[Operator Instructions] Our next question comes from the line of Bill Papanastasiou of KBW.\n\n## Bill Papanastasiou (Analysts)\nWith respect to the delayed development of the SEAL04 miner, where would you say the confidence level sits today with respect to this ASIC having industry-leading specs when it gets released? Just trying to understand the extent of the delay.\n\n## Haris Basit (Executives)\nThe confidence is high that the architecture is the right one to go for future design. So I don't think there's any real lack of confidence in that. And that for subsequent designs, we would be using an architecture like this. Where the confidence is low is the exact timing of the release.\n\n## Jeffrey LaBerge (Executives)\nBill, did you have a follow-up question?\n\n## Bill Papanastasiou (Analysts)\nNo, just that question.\n\n## Jeffrey LaBerge (Executives)\nI think we have one more.\n\n## Operator (Operator)\nOur next question comes from the line of Brian Kinstlinger of Alliance Global Partners.\n\n## Brian Kinstlinger (Analysts)\nI'm just wondering if you can help provide some sort of estimates or how you see return on invested capital for cloud service provider versus co-location services?\n\n## Jeffrey LaBerge (Executives)\nYes. I think there -- it's a different return profile. So obviously, we've seen some of our peers out there putting numbers out. And I think those numbers are largely accurate, depending on how you're looking at it with, I would say, both the -- if you're looking at both the GPUs and the data center cost in there and an IRR specific to both. I think they can be obviously different. \r\nWe're seeing colocation, obviously, the rates very similar to what others have reported recently. So that's typically a yield on cost. So I think it's just going to depend on your construction costs, where you're constructing and I think the end user. \r\nI think we're seeing a lot of variance in end user requirements as far as infrastructure needs, whether the backup power is required, whether they'll be providing some of the kind of key infrastructure there. So that on the co-location side, especially, I think it's going to really affect your return on invested capital or any of the other return metrics.\n\n## Operator (Operator)\nLadies and gentlemen, that does conclude the Q&A portion of our call and Bitdeer's conference for today. Thank you for participating. You may now disconnect.\n",
+  "downloaded_at": "2026-02-17T14:29:47.552629"
+}

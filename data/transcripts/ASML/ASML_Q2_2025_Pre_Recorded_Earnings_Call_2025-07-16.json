@@ -1,0 +1,159 @@
+{
+  "ticker": "ASML",
+  "company": "ASML Holding N.V.",
+  "title": "Q2 2025 Pre Recorded Earnings Call",
+  "event_date": "2025-07-16",
+  "header": {
+    "companyId": 388904,
+    "announcedDate": "2025-07-16T05:00:00Z",
+    "eventDateTime": "2025-07-16T00:00:00Z",
+    "createdAt": "2025-07-16T08:35:01Z",
+    "transcriptTitle": "ASML Holding N.V., Q2 2025 Pre Recorded Earnings Call, Jul 16, 2025",
+    "situation": "ASML Holding N.V., Q2 2025 Pre Recorded Earnings Call, Jul 16, 2025",
+    "duration": 930,
+    "keyDevId": 1953490055,
+    "transcriptId": 3497652,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Edited Copy",
+    "presentationTypeName": "Final",
+    "companyName": "ASML Holding N.V.",
+    "formattedTitle": "Q2 2025 Pre Recorded Earnings Call",
+    "title": "ASML Holding N.V. - Q2 2025 Pre Recorded Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Hello, and welcome to ASML's Q2 2025 video."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Roger, can I start with you by asking you to give us a summary of our Q2 2025 results?"
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "Absolutely. Revenue came in at EUR 7.7 billion. Part of that was also the revenue recognition for one High NA tool in the quarter and included in the EUR 7.7 billion, EUR 2.1 billion of Installed Base revenue. \r\nGross margin came in at 53.7%, that was above guidance. The EUR 7.7 billion was at the high end of the guidance, 53.7% at the above guidance. \r\nWhat are the reasons why it was higher? A couple of reasons. First off, there was Installed Base revenue in there, upgrades. As we said before, we're upgrading some of the 3800s that we shipped before. We're upgrading them in the field and that leads to upgrade revenue and that has a positive impact on the gross margin. Secondly, we had some one-off cost benefits in the quarter. Thirdly, actually the tariffs panned out to be a bit less negative than we anticipated. So those are the positives. \r\nOn the negative side, we had -- as I mentioned before, we had one High NA tool that we recognized for revenue in the quarter. That still has a dilutive effect on the gross margin. But all in all, that led to a strong gross margin of 53.7%. \r\nOrder intake, EUR 5.5 billion for the quarter. Included in there EUR 2.3 billion for EUV. \r\nNet income for the quarter came in at EUR 2.3 billion."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "And as a follow-on question, can you also provide some guidance on the Q3 quarter, please?"
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "For Q3, we expect revenue between EUR 7.4 billion and EUR 7.9 billion. We expect a gross margin between 50% and 52%. EUR 2 billion approximately Installed Base revenue is what we're expecting for the quarter."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Christophe, if I can turn to you and ask, can you give us a view on how you're seeing the short-term market dynamics as they are today?"
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Yes. So I think as we have said in the previous quarters, artificial intelligence is currently the main driver for growth for both Logic and Memory. \r\nIf we look at Logic, we expect logic to grow compared to 2024 because our customers are adding capacity in the most advanced node. \r\nMemory remains very strong because there also our customers are investing in their latest HBM and DDR product. \r\nWhen we look at China, we expect China revenue to be over 25%, which is in line with our backlog. \r\nGoing into 2026, there, the fundamentals of our AI customer remain strong and we are still preparing for growth. However, as we discussed last time, the level of uncertainty is increasing, mostly due to macroeconomic and geopolitical consideration. And that includes, of course, tariff."
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "And with those insights, Roger, can you give us some more color then on how you see 2025 for ASML and our business?"
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "Yes. So if you look at the different components and the different technologies, so if we start with EUV, I think as Christophe already mentioned, obviously AI is largely driving the latest nodes, both on logic and on DRAM, and of course, that is a big driver for EUV because EUV is more and more significant, if you like, on those leading nodes. \r\nFor instance, if you look at DRAM, we do see that customers are more and more shifting towards EUV and have more and more layers on the latest node, but also on future nodes for DRAM. So that's, of course, a positive for EUV. \r\nIf you then look at the total capacity expansion that our customers are looking for when it comes to this, you're looking for EUV, you're looking at approximately 30% extra capacity that they are looking for. Of course, as you know, the 3800 tool that we have has significantly improved throughput in comparison to its predecessor. So we're actually able to accommodate that 30% increase of capacity that customers are asking for. We're actually able to accommodate that with about the same number of tools for EUV Low NA as we had it last year. \r\nAnd then if you look at the full picture then for EUV, so with that, so with that number of tools with higher throughput and you add to that the number of High NA tools that were recognized in revenue this year, then you're looking at approximately 30% increase of the EUV business. \r\nDeep UV and application business, about the same. So about the same as we had last year. \r\nInstalled Base business, we talked quite a bit about that previous quarter and also this quarter. So on the one hand, we have the upgrade business, which is strong, particularly, I would say, in the first half as a result of what I mentioned before, the upgrades that we do on the 3800 in the field. So that was a big boost, I would say, in the first half. \r\nIn the second half, you will see a sustained improvement of our service business, tools coming out of warranty, particularly the EUV tools coming out of warranty, and therefore the service on those tools really adding to the service revenue. \r\nIf you take that all together then on the Installed Base business, you're looking at approximately 20% increase. \r\nIf you piece it all together for total ASML, we're looking at approximately 15% increase for 2025 in terms of revenue over last year. We expect a gross margin of approximately 52% for the full year. \r\nIn terms of revenue, final comment there. You will see, obviously, as we mentioned before, that the second half of the year is bigger in terms of revenue than the first half. Within that second half year, you will see that revenue, based on our current shipment plan, is very much also skewed towards the last quarter."
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "And if we dive a little bit into the gross margins, I think last quarter, you said that you would expect the second half of the year to be a little lower than the first half. Can you remind us again on what some of the drivers are for that?"
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "That's right. So if you look at a few data points, so as I mentioned before, gross margin for the quarter, 53.7%. If you look at the gross margin for the first half, 53.8%. As I mentioned, we expect for the full year approximately 52%. And as I mentioned before, we're looking at 50% to 52% for the third quarter. \r\nWhy 52% for the full year? So why is it going down a bit in the second half? A couple of reasons. First off, as I mentioned before, the upgrade business on the 3800 we expect that to decline a bit, and that is a big driver of gross margin. Secondly, we had some one-off cost effects that will -- we expect not to be there. And we will have a bit more dilutive effect of the High NA tools that we talked about and we'll have more High NA tools recognized in revenue in the second half than we have in the first half. \r\nSo that all brings you to approximately 52% for the full year. Of course, a little bit dependent on what's going to happen on the tariffs."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "I think you spent a bit of time last quarter talking about the effects of tariffs. Can you remind us again, in short, how you see that progressing and the potential impacts there?"
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "So tariffs last quarter, we talked about direct effect and indirect effect. If you look at the direct effect of tariffs, the things we mentioned at that point in time. \r\nFirst off, obviously, when we send new systems to our customers in the United States, there could be tariffs on that. So that's the first one. The second is if we send parts for manufacturing in the United States. So that's the second component. The third component is if we send parts for service in the field operations in the United States. And the fourth one, to the extent that other countries would be putting tariffs on parts or modules that get out of the United States into, for instance, the EU, that could be a fourth category. \r\nWe're looking at all of those. We're trying to mitigate the effect for the entire ecosystem on all 4 of those accounts. Last time we spoke about free trade zones that we're looking into to mitigate some of the dynamic. And we are working with the supply chain and with our customers to at least make sure that the impact for ASML is as limited as possible. \r\nAnd then obviously, there is the indirect impact to what extent could tariffs -- what kind of impact could it have on the overall macroeconomic situation. \r\nQuite frankly, Jim, it's all very uncertain. Both the direct and the indirect impact are still very uncertain. So we just have to navigate that as best as we can."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Christophe, if I can turn to you and maybe if you can give us an update on where we are in our road map from a technology point of view and some of the highlights perhaps from the quarter."
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Yes. So let me start with EUV, of course. I think we continue to make very good progress on both Low NA and High NA. And this really allow us to build a portfolio that will address our customers' needs when it comes to technology road map, but also optimization of their cost of technology. \r\nOn the NXE:3800, we now ship all our systems in final specification, 220 wafer per hour, which is 37% more than what we had on the NXE:3600, so a major boost of productivity. We have done also a lot of upgrades to 220 wafer per hour on the installed base, and we are in track basically to complete all those upgrades by the end of the year. \r\nNow I think we explained that already a few times, this tool, thanks to the higher productivity, really allow customers to shift more multi-patterning layers to single expose. So this basically allows customers to reduce complexity, reduce yield loss, improve cycle time. \r\nAnd we have seen that happening quite a bit in the last few months with DRAM, where for the last nodes, we really see a shift basically towards more EUV layer. And this is, of course, in our case, a nice increase in litho intensity. \r\nHigh NA, we are continuing to mature the platform with our EXE:5000 system, which is at several customers. So this is basically the work we do with our R&D customers to prepare the technology for high-volume manufacturing. And for that, we have shipped our first EXE:5200, which is the tool that is going to be used in high-volume manufacturing. The tool is under install. \r\nAnd as a reminder, this will provide our customer with 60% productivity improvement compared to the 5000. So we're talking about 175 wafer per hour. So now we are starting also to prepare insertion in high-volume manufacturing. \r\nAll of that, of course, as I mentioned on Low NA, will help us over time as Low NA EUV gets into multi-patterning, will allow us basically to also shift again some more layers to single exposed High NA to continue this trend. \r\nA short word about deep UV as well. As our customers move to more advanced node, they also need better deep UV machine. That's true for immersion. That's true for KrF. And also our latest product, the NXT2100, our latest immersion tool; the NXT:870, our latest KrF tool are seeing good adoption and good performance at our customers to respond basically to this need. \r\nSo overall, I would say great progress on technology. I think we are validating that better cost of technology allows us to translate more multi-patterning layers into single exposed, and I think we have done good progress on our litho intensity."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "If I switch again back to you, Roger, and talk a little bit about our cash. So we ended last year with quite a good position there. Can you expand a little bit then on what our plans are in terms of managing the cash towards shareholders?"
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "Well, so capital allocation, some comments there. So we did quite some share buyback this year. In the last quarter, we did EUR 1.4 billion worth of shares we purchased back from the market. \r\nIn terms of dividend, in Q2, we paid the final dividend for last fiscal year at an amount of EUR 1.84 and that got the total dividend for 2024 to EUR 6.40. \r\nFor Q3, we expect to pay our first interim dividend at an amount of EUR 1.60 and we expect that to be payable by August 6."
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Then to finish up, Christophe, can you give us an overview again of where you see maybe more longer term the market and what that means for ASML and our business in the long term?"
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Yes. I think long term, the semiconductor market remains very strong. And I think a lot of people say that AI is really a great opportunity and we have seen, again, the fundamentals around AI to be very, very strong. \r\nNow of course, short term, Roger talked about it, some uncertainty. A lot happening, discussion around tariff, export control, macroeconomic uncertainties. All of that is also part of the things we have to manage. \r\nAs we discussed in the Capital Markets Day, the shift of our customers towards more advanced logic, advanced memory will also drive the need for more advanced lithography and this will basically be a good thing for litho intensity. \r\nThe progress we make on our EUV road map with Low NA, High NA providing the right cost of technology will continue to allow us basically to convert more multi-patterning layer to single exposed and we will see that happening in the course of the next few years. \r\nSo in terms of long-term forecast, we remain consistent with what we have said in our Capital Markets Day. We see an opportunity for 2030 of a total revenue between EUR 44 billion and EUR 60 billion and a gross margin between 56% and 60%."
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Great. With that, thank you, Christophe. Thank you, Roger."
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "Pleasure."
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Thank you."
+    }
+  ],
+  "text": "# ASML Holding N.V. - Q2 2025 Pre Recorded Earnings Call\nDate: 2025-07-16T00:00:00Z\nType: Earnings Calls\n\n## Jim Kavanagh (Executives)\nHello, and welcome to ASML's Q2 2025 video.\n\n## Jim Kavanagh (Executives)\nRoger, can I start with you by asking you to give us a summary of our Q2 2025 results?\n\n## R.J.M. Dassen (Executives)\nAbsolutely. Revenue came in at EUR 7.7 billion. Part of that was also the revenue recognition for one High NA tool in the quarter and included in the EUR 7.7 billion, EUR 2.1 billion of Installed Base revenue. \r\nGross margin came in at 53.7%, that was above guidance. The EUR 7.7 billion was at the high end of the guidance, 53.7% at the above guidance. \r\nWhat are the reasons why it was higher? A couple of reasons. First off, there was Installed Base revenue in there, upgrades. As we said before, we're upgrading some of the 3800s that we shipped before. We're upgrading them in the field and that leads to upgrade revenue and that has a positive impact on the gross margin. Secondly, we had some one-off cost benefits in the quarter. Thirdly, actually the tariffs panned out to be a bit less negative than we anticipated. So those are the positives. \r\nOn the negative side, we had -- as I mentioned before, we had one High NA tool that we recognized for revenue in the quarter. That still has a dilutive effect on the gross margin. But all in all, that led to a strong gross margin of 53.7%. \r\nOrder intake, EUR 5.5 billion for the quarter. Included in there EUR 2.3 billion for EUV. \r\nNet income for the quarter came in at EUR 2.3 billion.\n\n## Jim Kavanagh (Executives)\nAnd as a follow-on question, can you also provide some guidance on the Q3 quarter, please?\n\n## R.J.M. Dassen (Executives)\nFor Q3, we expect revenue between EUR 7.4 billion and EUR 7.9 billion. We expect a gross margin between 50% and 52%. EUR 2 billion approximately Installed Base revenue is what we're expecting for the quarter.\n\n## Jim Kavanagh (Executives)\nChristophe, if I can turn to you and ask, can you give us a view on how you're seeing the short-term market dynamics as they are today?\n\n## Christophe Fouquet (Executives)\nYes. So I think as we have said in the previous quarters, artificial intelligence is currently the main driver for growth for both Logic and Memory. \r\nIf we look at Logic, we expect logic to grow compared to 2024 because our customers are adding capacity in the most advanced node. \r\nMemory remains very strong because there also our customers are investing in their latest HBM and DDR product. \r\nWhen we look at China, we expect China revenue to be over 25%, which is in line with our backlog. \r\nGoing into 2026, there, the fundamentals of our AI customer remain strong and we are still preparing for growth. However, as we discussed last time, the level of uncertainty is increasing, mostly due to macroeconomic and geopolitical consideration. And that includes, of course, tariff.\n\n## Jim Kavanagh (Executives)\nAnd with those insights, Roger, can you give us some more color then on how you see 2025 for ASML and our business?\n\n## R.J.M. Dassen (Executives)\nYes. So if you look at the different components and the different technologies, so if we start with EUV, I think as Christophe already mentioned, obviously AI is largely driving the latest nodes, both on logic and on DRAM, and of course, that is a big driver for EUV because EUV is more and more significant, if you like, on those leading nodes. \r\nFor instance, if you look at DRAM, we do see that customers are more and more shifting towards EUV and have more and more layers on the latest node, but also on future nodes for DRAM. So that's, of course, a positive for EUV. \r\nIf you then look at the total capacity expansion that our customers are looking for when it comes to this, you're looking for EUV, you're looking at approximately 30% extra capacity that they are looking for. Of course, as you know, the 3800 tool that we have has significantly improved throughput in comparison to its predecessor. So we're actually able to accommodate that 30% increase of capacity that customers are asking for. We're actually able to accommodate that with about the same number of tools for EUV Low NA as we had it last year. \r\nAnd then if you look at the full picture then for EUV, so with that, so with that number of tools with higher throughput and you add to that the number of High NA tools that were recognized in revenue this year, then you're looking at approximately 30% increase of the EUV business. \r\nDeep UV and application business, about the same. So about the same as we had last year. \r\nInstalled Base business, we talked quite a bit about that previous quarter and also this quarter. So on the one hand, we have the upgrade business, which is strong, particularly, I would say, in the first half as a result of what I mentioned before, the upgrades that we do on the 3800 in the field. So that was a big boost, I would say, in the first half. \r\nIn the second half, you will see a sustained improvement of our service business, tools coming out of warranty, particularly the EUV tools coming out of warranty, and therefore the service on those tools really adding to the service revenue. \r\nIf you take that all together then on the Installed Base business, you're looking at approximately 20% increase. \r\nIf you piece it all together for total ASML, we're looking at approximately 15% increase for 2025 in terms of revenue over last year. We expect a gross margin of approximately 52% for the full year. \r\nIn terms of revenue, final comment there. You will see, obviously, as we mentioned before, that the second half of the year is bigger in terms of revenue than the first half. Within that second half year, you will see that revenue, based on our current shipment plan, is very much also skewed towards the last quarter.\n\n## Jim Kavanagh (Executives)\nAnd if we dive a little bit into the gross margins, I think last quarter, you said that you would expect the second half of the year to be a little lower than the first half. Can you remind us again on what some of the drivers are for that?\n\n## R.J.M. Dassen (Executives)\nThat's right. So if you look at a few data points, so as I mentioned before, gross margin for the quarter, 53.7%. If you look at the gross margin for the first half, 53.8%. As I mentioned, we expect for the full year approximately 52%. And as I mentioned before, we're looking at 50% to 52% for the third quarter. \r\nWhy 52% for the full year? So why is it going down a bit in the second half? A couple of reasons. First off, as I mentioned before, the upgrade business on the 3800 we expect that to decline a bit, and that is a big driver of gross margin. Secondly, we had some one-off cost effects that will -- we expect not to be there. And we will have a bit more dilutive effect of the High NA tools that we talked about and we'll have more High NA tools recognized in revenue in the second half than we have in the first half. \r\nSo that all brings you to approximately 52% for the full year. Of course, a little bit dependent on what's going to happen on the tariffs.\n\n## Jim Kavanagh (Executives)\nI think you spent a bit of time last quarter talking about the effects of tariffs. Can you remind us again, in short, how you see that progressing and the potential impacts there?\n\n## R.J.M. Dassen (Executives)\nSo tariffs last quarter, we talked about direct effect and indirect effect. If you look at the direct effect of tariffs, the things we mentioned at that point in time. \r\nFirst off, obviously, when we send new systems to our customers in the United States, there could be tariffs on that. So that's the first one. The second is if we send parts for manufacturing in the United States. So that's the second component. The third component is if we send parts for service in the field operations in the United States. And the fourth one, to the extent that other countries would be putting tariffs on parts or modules that get out of the United States into, for instance, the EU, that could be a fourth category. \r\nWe're looking at all of those. We're trying to mitigate the effect for the entire ecosystem on all 4 of those accounts. Last time we spoke about free trade zones that we're looking into to mitigate some of the dynamic. And we are working with the supply chain and with our customers to at least make sure that the impact for ASML is as limited as possible. \r\nAnd then obviously, there is the indirect impact to what extent could tariffs -- what kind of impact could it have on the overall macroeconomic situation. \r\nQuite frankly, Jim, it's all very uncertain. Both the direct and the indirect impact are still very uncertain. So we just have to navigate that as best as we can.\n\n## Jim Kavanagh (Executives)\nChristophe, if I can turn to you and maybe if you can give us an update on where we are in our road map from a technology point of view and some of the highlights perhaps from the quarter.\n\n## Christophe Fouquet (Executives)\nYes. So let me start with EUV, of course. I think we continue to make very good progress on both Low NA and High NA. And this really allow us to build a portfolio that will address our customers' needs when it comes to technology road map, but also optimization of their cost of technology. \r\nOn the NXE:3800, we now ship all our systems in final specification, 220 wafer per hour, which is 37% more than what we had on the NXE:3600, so a major boost of productivity. We have done also a lot of upgrades to 220 wafer per hour on the installed base, and we are in track basically to complete all those upgrades by the end of the year. \r\nNow I think we explained that already a few times, this tool, thanks to the higher productivity, really allow customers to shift more multi-patterning layers to single expose. So this basically allows customers to reduce complexity, reduce yield loss, improve cycle time. \r\nAnd we have seen that happening quite a bit in the last few months with DRAM, where for the last nodes, we really see a shift basically towards more EUV layer. And this is, of course, in our case, a nice increase in litho intensity. \r\nHigh NA, we are continuing to mature the platform with our EXE:5000 system, which is at several customers. So this is basically the work we do with our R&D customers to prepare the technology for high-volume manufacturing. And for that, we have shipped our first EXE:5200, which is the tool that is going to be used in high-volume manufacturing. The tool is under install. \r\nAnd as a reminder, this will provide our customer with 60% productivity improvement compared to the 5000. So we're talking about 175 wafer per hour. So now we are starting also to prepare insertion in high-volume manufacturing. \r\nAll of that, of course, as I mentioned on Low NA, will help us over time as Low NA EUV gets into multi-patterning, will allow us basically to also shift again some more layers to single exposed High NA to continue this trend. \r\nA short word about deep UV as well. As our customers move to more advanced node, they also need better deep UV machine. That's true for immersion. That's true for KrF. And also our latest product, the NXT2100, our latest immersion tool; the NXT:870, our latest KrF tool are seeing good adoption and good performance at our customers to respond basically to this need. \r\nSo overall, I would say great progress on technology. I think we are validating that better cost of technology allows us to translate more multi-patterning layers into single exposed, and I think we have done good progress on our litho intensity.\n\n## Jim Kavanagh (Executives)\nIf I switch again back to you, Roger, and talk a little bit about our cash. So we ended last year with quite a good position there. Can you expand a little bit then on what our plans are in terms of managing the cash towards shareholders?\n\n## R.J.M. Dassen (Executives)\nWell, so capital allocation, some comments there. So we did quite some share buyback this year. In the last quarter, we did EUR 1.4 billion worth of shares we purchased back from the market. \r\nIn terms of dividend, in Q2, we paid the final dividend for last fiscal year at an amount of EUR 1.84 and that got the total dividend for 2024 to EUR 6.40. \r\nFor Q3, we expect to pay our first interim dividend at an amount of EUR 1.60 and we expect that to be payable by August 6.\n\n## Jim Kavanagh (Executives)\nThen to finish up, Christophe, can you give us an overview again of where you see maybe more longer term the market and what that means for ASML and our business in the long term?\n\n## Christophe Fouquet (Executives)\nYes. I think long term, the semiconductor market remains very strong. And I think a lot of people say that AI is really a great opportunity and we have seen, again, the fundamentals around AI to be very, very strong. \r\nNow of course, short term, Roger talked about it, some uncertainty. A lot happening, discussion around tariff, export control, macroeconomic uncertainties. All of that is also part of the things we have to manage. \r\nAs we discussed in the Capital Markets Day, the shift of our customers towards more advanced logic, advanced memory will also drive the need for more advanced lithography and this will basically be a good thing for litho intensity. \r\nThe progress we make on our EUV road map with Low NA, High NA providing the right cost of technology will continue to allow us basically to convert more multi-patterning layer to single exposed and we will see that happening in the course of the next few years. \r\nSo in terms of long-term forecast, we remain consistent with what we have said in our Capital Markets Day. We see an opportunity for 2030 of a total revenue between EUR 44 billion and EUR 60 billion and a gross margin between 56% and 60%.\n\n## Jim Kavanagh (Executives)\nGreat. With that, thank you, Christophe. Thank you, Roger.\n\n## R.J.M. Dassen (Executives)\nPleasure.\n\n## Christophe Fouquet (Executives)\nThank you.\n",
+  "downloaded_at": "2026-02-17T15:03:53.354359"
+}

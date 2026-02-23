@@ -1,0 +1,141 @@
+{
+  "ticker": "ASML",
+  "company": "ASML Holding N.V.",
+  "title": "Q4 2025 Pre Recorded Earnings Call",
+  "event_date": "2026-01-28",
+  "header": {
+    "companyId": 388904,
+    "announcedDate": "2026-01-15T17:02:00Z",
+    "eventDateTime": "2026-01-28T00:00:00Z",
+    "createdAt": "2026-01-30T08:23:38Z",
+    "transcriptTitle": "ASML Holding N.V., Q4 2025 Pre Recorded Earnings Call, Jan 28, 2026",
+    "situation": "ASML Holding N.V., Q4 2025 Pre Recorded Earnings Call, Jan 28, 2026",
+    "duration": 822,
+    "keyDevId": 1978279589,
+    "transcriptId": 3640239,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Edited Copy",
+    "presentationTypeName": "Final",
+    "companyName": "ASML Holding N.V.",
+    "formattedTitle": "Q4 2025 Pre Recorded Earnings Call",
+    "title": "ASML Holding N.V. - Q4 2025 Pre Recorded Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Hello and welcome to ASML's Q4 2025 and full year 2025 results video."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Roger, if I can start with you and ask you to give us a summary of both Q4 2025 and the full year's results."
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "So Q4, net revenue came in at EUR 9.7 billion. That included the recognition of revenue for 2 High NA systems. For the full year, revenue came in at EUR 32.7 billion, which was a 16% increase compared to 2024. \r\nInstalled Base business came in for the quarter at EUR 2.1 billion. If you take the full year EUR 8.2 billion, quite strong. Quite strong first on the basis of the service revenue for EUV. Obviously, with the expansion of the installed base for EUV, you see the service revenue increasing there. But also there was quite some appetite for upgrade business. So that led to quite a strong revenue for the Installed Base business. \r\nGross margin for the quarter 52.2%. If you take it for the full year, that was 52.8%. \r\nNet income, again for the quarter EUR 2.8 billion. For the full year EUR 9.6 billion. \r\nIn terms of net bookings, net bookings came in at EUR 13.2 billion, included in there EUR 7.4 billion for EUV. If you look at the backlog that we had at the end of last year, the end of 2025, EUR 38.8 billion total backlog, of which EUR 25.5 billion for EUV."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "And then can you give us some color on what you saw in terms of the business in Q4 specifically?"
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "Clearly, it was a strong quarter, right? A strong quarter. It was a record quarter in terms of revenue. It was a record quarter in terms of order intake. It was a record quarter in terms of free cash flow generation. So from that vantage point, clearly a very strong quarter. \r\nIf you listen to our customers, both what they say publicly, but also what they told us, it's pretty clear that customers over the past couple of months have actually become more positive in their assessment of the medium-term market perspectives as they see it. I think it's primarily on the basis of the more robust view that they have when it comes to demand for AI, which seems to be more sustainable from their vantage point. \r\nAnd that recognition has led some of our customers to really invest in capacity and gear up their plans for medium-term capacity expansion. So that's been clearly the case. And that perspective has obviously also led to a strong order intake for us. \r\nAnd finally, I would say important for Q4 is also that we were actually able to demonstrate our ability to gear up our output, which again is going to be important also in light of the expectations that we have for '26."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Then moving to 2026, how are you guiding both Q1 and the full year?"
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "So Q1, we're looking at -- we expect net revenue to be somewhere between EUR 8.2 billion and EUR 8.9 billion. That's the expectation for the quarter in terms of revenue. We expect a gross margin between 51% and 53%. When it comes to the Installed Base revenue, we expect around EUR 2.4 billion in Q1. \r\nFor the total year, we're looking at total net revenue expected between EUR 34 billion and EUR 39 billion with a gross margin between 51% and 53%."
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Christophe, in terms of the market outlook that supports Roger's commentary there, can you give us a little bit of color on how you're seeing things?"
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Well, I think that Roger already mentioned very clearly that the market outlook has notably improved in the last few months. And this is especially true when it comes to the build-up of the capacity for AI application, being data centers or other infrastructure. \r\nNow we start to see that this build-up is also translating into need for capacity at our advanced customers. So this is true for Logic. This is true for DRAM. And this starts to translate also into orders for our most advanced technology, especially EUV. So in the last few months we have seen our DRAM customers, our Logic customers, starting to accelerate their planning-capacity and having this discussions with us. \r\nIf I look at Logic first, so there we see our customers starting to be more comfortable about the sustainability of the long-term AI demand. And this means that they are more willing to accelerate their capacity planning. \r\nThey are transitioning also from 4-nanometer technology to 3-nanometer technology, which is going to be more demanding in terms of advanced technology. And finally, of course, the ramp of 2-nanometer is going on, and I would say is accelerating in order to fulfill the future need of mobile and HPC application.\r\nWhen I look at DRAM, there also the demand is very strong for HBM, of course, but also for DDR. And this most probably will lead to a very tight supply at least in 2026 and most probably beyond that. So we see our customer ramping 1b, 1c node, which are going to be critical for that demand. And on those nodes, we see them increasing basically the amount of EUV layers. We have talked about that in the past. I think we see that happening very strongly right now. \r\nSo altogether, we see a very positive dynamic. I think a strong belief that the AI demand is real and a preparation for that, with on the short term a major addition of capacity. This will start in 2026 and will last beyond that."
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Turning back to you, Roger, how do you see that then translating into ASML's business?"
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "If we start with the EUV business, against the backdrop of the demand and the developments that Christophe was describing, we expect the EUV business to increase significantly. So EUV revenue to significantly go up in comparison to 2025. \r\nWhen it comes to the non-EUV system business, in total we expect that to be kind of flattish in comparison to 2025, but with different moving parts in there. \r\nIf you look at advanced Logic, if you look at Memory, we actually expect the demand also on the non-EUV business to go up there. \r\nOn the China business, we expect the China business for us to come in at approximately the percentage that China also has in our backlog, which is around 20% of the backlog and therefore 20% of our revenue is what we expect the China business to come in at.\r\nAnd then I would say very clearly also in the non-EUV business, it's pretty clear that the metrology and inspection business is quite strong. There is a lot of demand for process control, so therefore we expect that business to go up as well. So those are the different moving parts, but all in all, we expect the non-EUV business to be sort of flattish, the non-EUV business. \r\nAnd then the Installed Base business, I already told you that we expect the Installed Base business in 2025 was quite strong. And we actually expect the same dynamics to also go into 2026. We actually expect that business to go up as well. So growth in Installed Base on the back of again the growth of the Installed Base business for EUV and also in the current climate, significant appetite we think for upgrades and for upgrade business. Because frankly, that's the easiest and fastest way for customers to get additional output capacity."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Then Christophe, if I can ask you to give us an update on how you're seeing the technology roadmap development for ASML?"
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Well, first I'd like to say that the appetite for technology from our customers for those advanced nodes is very, very high. And that's true for almost all the products of ASML. \r\nIf I start with Low NA, 2025 has been a critical but also a good year to ramp our NXE: 3800E. This tool is now extremely important for our customers. They're going to rely on it for the next advanced DRAM and Logic nodes. And we have been able to mature the product. Reach the final throughput of 220 wafers per hour but even demonstrate at some customers that we could go on this tool up to 230 wafers per hour. \r\nAnd Roger said it, upgrades. When you need capacity, upgrades become very important. So this would be good for the 3800. But we're also providing on EUV. More upgrades for the installed base so that we help our customers with capacity on the very short term. \r\nWe also expect Low NA EUV to continue to see more utilization moving forward. We talked a lot about litho-intensity. When we look at, for example, the transition from 6F squared to 4F squared on DRAM, we also expect both immersion and Low NA to be used even more. So there we also expect good dynamic on litho-intensity. \r\nLooking at High NA, customers continue to make good progress on the qualification. I talked about the 3 phases in the past. A lot of customers are finalizing their R&D phases with the 5000. \r\nIntel has reported that they have accepted their first 5200, which means, basically, they have the first tool that will be used in high volume manufacturing. And other customers are going to also get that tool in their hands very, very quickly. So the qualification of the tool is going well. Imaging, performance, overlay performance, everything is looking good for our customers right now. \r\nInspection, metrology, Roger touched on that, almost 30% growth this year, which is significant. It means that both the need for those products is high, but also the products we're offering are basically meeting our customers' needs, both on optical, overlay metrology, but also E-beam inspection. \r\nAnd on E-beam inspection, multi-beam is becoming more and more critical. 2025 was also a good year for this product, allowing us to mature the technology, demonstrate initial value with our customers. And we expect also that product, I would say, to have more traction in 2026. \r\nSo overall, huge appetite for technology. A lot of projects at ASML. Some of the key products should become production worthy in the coming months."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "And back to you, Roger, would you be able to give us an update on dividend and buybacks, what we're doing on that front?"
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "R.J.M. Dassen",
+      "speakerType": "Executives",
+      "text": "Yes. So this quarter we'll pay an interim dividend of EUR 1.60 per ordinary share. We're going to actually propose to the AGM to have a final payment as it pertains to last year of EUR 2.70 per ordinary share. If you combine that with the interim dividends, that would have been made at that point in time, then the total dividend as it relates to 2025 would be at EUR 7.50 per ordinary share, which would actually be a 17% increase over the dividend over 2024. \r\nIn terms of share buyback, the previous program ran until December. We didn't complete that, so we bought back shares for an amount of EUR 7.6 billion. The maximum amount was EUR 12 billion. \r\nWe're announcing -- actually, we announced today a new program for, again, a 3-year period. So it ends December 2028 and for an amount of up to EUR 12 billion."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Christophe, to finish, could you give us a reminder on how you're seeing the longer-term demand and what that means for ASML?"
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "Well, I think one of the key points we made at our Capital Markets Day, November 2024, was that AI applications will require more advanced technology in DRAM and Logic and will drive basically some of our most advanced products. And I think that this is being confirmed as we speak. The last few months have pointed basically exactly to that dynamic. \r\nWe also see that the progress we continue to make on our cost of technology with EUV is driving for more litho-intensity. And that's, again, something that has been confirmed in the last few months. So if we look to the long term, in line to what we said in November 2024, for 2030, we expect a revenue between EUR 44 billion and EUR 60 billion and a gross margin between 56% and 60%."
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Jim Kavanagh",
+      "speakerType": "Executives",
+      "text": "Very clear. Thank you both very much."
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Christophe Fouquet",
+      "speakerType": "Executives",
+      "text": "You're welcome."
+    }
+  ],
+  "text": "# ASML Holding N.V. - Q4 2025 Pre Recorded Earnings Call\nDate: 2026-01-28T00:00:00Z\nType: Earnings Calls\n\n## Jim Kavanagh (Executives)\nHello and welcome to ASML's Q4 2025 and full year 2025 results video.\n\n## Jim Kavanagh (Executives)\nRoger, if I can start with you and ask you to give us a summary of both Q4 2025 and the full year's results.\n\n## R.J.M. Dassen (Executives)\nSo Q4, net revenue came in at EUR 9.7 billion. That included the recognition of revenue for 2 High NA systems. For the full year, revenue came in at EUR 32.7 billion, which was a 16% increase compared to 2024. \r\nInstalled Base business came in for the quarter at EUR 2.1 billion. If you take the full year EUR 8.2 billion, quite strong. Quite strong first on the basis of the service revenue for EUV. Obviously, with the expansion of the installed base for EUV, you see the service revenue increasing there. But also there was quite some appetite for upgrade business. So that led to quite a strong revenue for the Installed Base business. \r\nGross margin for the quarter 52.2%. If you take it for the full year, that was 52.8%. \r\nNet income, again for the quarter EUR 2.8 billion. For the full year EUR 9.6 billion. \r\nIn terms of net bookings, net bookings came in at EUR 13.2 billion, included in there EUR 7.4 billion for EUV. If you look at the backlog that we had at the end of last year, the end of 2025, EUR 38.8 billion total backlog, of which EUR 25.5 billion for EUV.\n\n## Jim Kavanagh (Executives)\nAnd then can you give us some color on what you saw in terms of the business in Q4 specifically?\n\n## R.J.M. Dassen (Executives)\nClearly, it was a strong quarter, right? A strong quarter. It was a record quarter in terms of revenue. It was a record quarter in terms of order intake. It was a record quarter in terms of free cash flow generation. So from that vantage point, clearly a very strong quarter. \r\nIf you listen to our customers, both what they say publicly, but also what they told us, it's pretty clear that customers over the past couple of months have actually become more positive in their assessment of the medium-term market perspectives as they see it. I think it's primarily on the basis of the more robust view that they have when it comes to demand for AI, which seems to be more sustainable from their vantage point. \r\nAnd that recognition has led some of our customers to really invest in capacity and gear up their plans for medium-term capacity expansion. So that's been clearly the case. And that perspective has obviously also led to a strong order intake for us. \r\nAnd finally, I would say important for Q4 is also that we were actually able to demonstrate our ability to gear up our output, which again is going to be important also in light of the expectations that we have for '26.\n\n## Jim Kavanagh (Executives)\nThen moving to 2026, how are you guiding both Q1 and the full year?\n\n## R.J.M. Dassen (Executives)\nSo Q1, we're looking at -- we expect net revenue to be somewhere between EUR 8.2 billion and EUR 8.9 billion. That's the expectation for the quarter in terms of revenue. We expect a gross margin between 51% and 53%. When it comes to the Installed Base revenue, we expect around EUR 2.4 billion in Q1. \r\nFor the total year, we're looking at total net revenue expected between EUR 34 billion and EUR 39 billion with a gross margin between 51% and 53%.\n\n## Jim Kavanagh (Executives)\nChristophe, in terms of the market outlook that supports Roger's commentary there, can you give us a little bit of color on how you're seeing things?\n\n## Christophe Fouquet (Executives)\nWell, I think that Roger already mentioned very clearly that the market outlook has notably improved in the last few months. And this is especially true when it comes to the build-up of the capacity for AI application, being data centers or other infrastructure. \r\nNow we start to see that this build-up is also translating into need for capacity at our advanced customers. So this is true for Logic. This is true for DRAM. And this starts to translate also into orders for our most advanced technology, especially EUV. So in the last few months we have seen our DRAM customers, our Logic customers, starting to accelerate their planning-capacity and having this discussions with us. \r\nIf I look at Logic first, so there we see our customers starting to be more comfortable about the sustainability of the long-term AI demand. And this means that they are more willing to accelerate their capacity planning. \r\nThey are transitioning also from 4-nanometer technology to 3-nanometer technology, which is going to be more demanding in terms of advanced technology. And finally, of course, the ramp of 2-nanometer is going on, and I would say is accelerating in order to fulfill the future need of mobile and HPC application.\r\nWhen I look at DRAM, there also the demand is very strong for HBM, of course, but also for DDR. And this most probably will lead to a very tight supply at least in 2026 and most probably beyond that. So we see our customer ramping 1b, 1c node, which are going to be critical for that demand. And on those nodes, we see them increasing basically the amount of EUV layers. We have talked about that in the past. I think we see that happening very strongly right now. \r\nSo altogether, we see a very positive dynamic. I think a strong belief that the AI demand is real and a preparation for that, with on the short term a major addition of capacity. This will start in 2026 and will last beyond that.\n\n## Jim Kavanagh (Executives)\nTurning back to you, Roger, how do you see that then translating into ASML's business?\n\n## R.J.M. Dassen (Executives)\nIf we start with the EUV business, against the backdrop of the demand and the developments that Christophe was describing, we expect the EUV business to increase significantly. So EUV revenue to significantly go up in comparison to 2025. \r\nWhen it comes to the non-EUV system business, in total we expect that to be kind of flattish in comparison to 2025, but with different moving parts in there. \r\nIf you look at advanced Logic, if you look at Memory, we actually expect the demand also on the non-EUV business to go up there. \r\nOn the China business, we expect the China business for us to come in at approximately the percentage that China also has in our backlog, which is around 20% of the backlog and therefore 20% of our revenue is what we expect the China business to come in at.\r\nAnd then I would say very clearly also in the non-EUV business, it's pretty clear that the metrology and inspection business is quite strong. There is a lot of demand for process control, so therefore we expect that business to go up as well. So those are the different moving parts, but all in all, we expect the non-EUV business to be sort of flattish, the non-EUV business. \r\nAnd then the Installed Base business, I already told you that we expect the Installed Base business in 2025 was quite strong. And we actually expect the same dynamics to also go into 2026. We actually expect that business to go up as well. So growth in Installed Base on the back of again the growth of the Installed Base business for EUV and also in the current climate, significant appetite we think for upgrades and for upgrade business. Because frankly, that's the easiest and fastest way for customers to get additional output capacity.\n\n## Jim Kavanagh (Executives)\nThen Christophe, if I can ask you to give us an update on how you're seeing the technology roadmap development for ASML?\n\n## Christophe Fouquet (Executives)\nWell, first I'd like to say that the appetite for technology from our customers for those advanced nodes is very, very high. And that's true for almost all the products of ASML. \r\nIf I start with Low NA, 2025 has been a critical but also a good year to ramp our NXE: 3800E. This tool is now extremely important for our customers. They're going to rely on it for the next advanced DRAM and Logic nodes. And we have been able to mature the product. Reach the final throughput of 220 wafers per hour but even demonstrate at some customers that we could go on this tool up to 230 wafers per hour. \r\nAnd Roger said it, upgrades. When you need capacity, upgrades become very important. So this would be good for the 3800. But we're also providing on EUV. More upgrades for the installed base so that we help our customers with capacity on the very short term. \r\nWe also expect Low NA EUV to continue to see more utilization moving forward. We talked a lot about litho-intensity. When we look at, for example, the transition from 6F squared to 4F squared on DRAM, we also expect both immersion and Low NA to be used even more. So there we also expect good dynamic on litho-intensity. \r\nLooking at High NA, customers continue to make good progress on the qualification. I talked about the 3 phases in the past. A lot of customers are finalizing their R&D phases with the 5000. \r\nIntel has reported that they have accepted their first 5200, which means, basically, they have the first tool that will be used in high volume manufacturing. And other customers are going to also get that tool in their hands very, very quickly. So the qualification of the tool is going well. Imaging, performance, overlay performance, everything is looking good for our customers right now. \r\nInspection, metrology, Roger touched on that, almost 30% growth this year, which is significant. It means that both the need for those products is high, but also the products we're offering are basically meeting our customers' needs, both on optical, overlay metrology, but also E-beam inspection. \r\nAnd on E-beam inspection, multi-beam is becoming more and more critical. 2025 was also a good year for this product, allowing us to mature the technology, demonstrate initial value with our customers. And we expect also that product, I would say, to have more traction in 2026. \r\nSo overall, huge appetite for technology. A lot of projects at ASML. Some of the key products should become production worthy in the coming months.\n\n## Jim Kavanagh (Executives)\nAnd back to you, Roger, would you be able to give us an update on dividend and buybacks, what we're doing on that front?\n\n## R.J.M. Dassen (Executives)\nYes. So this quarter we'll pay an interim dividend of EUR 1.60 per ordinary share. We're going to actually propose to the AGM to have a final payment as it pertains to last year of EUR 2.70 per ordinary share. If you combine that with the interim dividends, that would have been made at that point in time, then the total dividend as it relates to 2025 would be at EUR 7.50 per ordinary share, which would actually be a 17% increase over the dividend over 2024. \r\nIn terms of share buyback, the previous program ran until December. We didn't complete that, so we bought back shares for an amount of EUR 7.6 billion. The maximum amount was EUR 12 billion. \r\nWe're announcing -- actually, we announced today a new program for, again, a 3-year period. So it ends December 2028 and for an amount of up to EUR 12 billion.\n\n## Jim Kavanagh (Executives)\nChristophe, to finish, could you give us a reminder on how you're seeing the longer-term demand and what that means for ASML?\n\n## Christophe Fouquet (Executives)\nWell, I think one of the key points we made at our Capital Markets Day, November 2024, was that AI applications will require more advanced technology in DRAM and Logic and will drive basically some of our most advanced products. And I think that this is being confirmed as we speak. The last few months have pointed basically exactly to that dynamic. \r\nWe also see that the progress we continue to make on our cost of technology with EUV is driving for more litho-intensity. And that's, again, something that has been confirmed in the last few months. So if we look to the long term, in line to what we said in November 2024, for 2030, we expect a revenue between EUR 44 billion and EUR 60 billion and a gross margin between 56% and 60%.\n\n## Jim Kavanagh (Executives)\nVery clear. Thank you both very much.\n\n## Christophe Fouquet (Executives)\nYou're welcome.\n",
+  "downloaded_at": "2026-02-17T14:28:52.972694"
+}

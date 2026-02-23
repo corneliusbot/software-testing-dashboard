@@ -1,0 +1,663 @@
+{
+  "ticker": "VEEV",
+  "company": "Veeva Systems Inc.",
+  "title": "Q3 2025 Earnings Call",
+  "event_date": "2024-12-05",
+  "header": {
+    "companyId": 33414482,
+    "announcedDate": "2024-11-14T21:14:00Z",
+    "eventDateTime": "2024-12-05T22:00:00Z",
+    "createdAt": "2024-12-06T02:07:26Z",
+    "transcriptTitle": "Veeva Systems Inc., Q3 2025 Earnings Call, Dec 05, 2024",
+    "situation": "Veeva Systems Inc., Q3 2025 Earnings Call, Dec 05, 2024",
+    "duration": 3667,
+    "keyDevId": 1904026597,
+    "transcriptId": 3333151,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Edited Copy",
+    "presentationTypeName": "Final",
+    "companyName": "Veeva Systems Inc.",
+    "formattedTitle": "Q3 2025 Earnings Call",
+    "title": "Veeva Systems Inc. - Q3 2025 Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Thank you for standing by. My name is Jay, and I will be your conference operator today. At this time, I would like to welcome everyone to the Veeva Systems Fiscal 2025 Third Quarter Results Conference Call. [Operator Instructions] I would now like to turn the conference over to Gunnar Hansen, Director of Investor Relations. You may begin."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Gunnar Hansen",
+      "speakerType": "Executives",
+      "text": "Good afternoon, and welcome to Veeva's Fiscal 2025 Third Quarter Earnings Conference Call for the quarter ended October 31, 2024. As a reminder, we posted prepared remarks on Veeva's Investor Relations website just after 1:00 p.m. Pacific today. We hope you have had a chance to read them before the call.\r\nToday's call will be primarily used for Q&A. With me today for Q&A are Peter Gassner, our Chief Executive Officer; Paul Shawah, EVP of Strategy; and Brian Van Wagener, our Chief Financial Officer. During this call, we may make forward-looking statements regarding trends, our strategies and the anticipated performance of the business, including guidance regarding future financial results.\r\nThese forward-looking statements will be based on our current views and expectations and are subject to various risks and uncertainties. Actual results may differ materially. Please refer to the risks listed in our earnings release and the risk factors included in our most recent filing on Form 10-Q.\r\nForward-looking statements made during the call are being made as of today, December 5, 2024, based on the facts available to us today. If this call is replayed or viewed after today, the information presented during the call may not contain current or accurate information. Veeva disclaims any obligation to update or revise any forward-looking statements.\r\nWe may discuss our guidance on today's call, but we will not provide any further guidance or updates on our performance during the quarter unless we do so in a public forum. On the call, we may also discuss certain non-GAAP metrics that we believe aid in the understanding of our financial results. A reconciliation to comparable GAAP metrics can be found in today's earnings release and in the supplemental investor presentation, both of which are available on our website.\r\nWith that, thank you for joining us, and I'll turn the call over to Peter."
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Thank you, Gunnar, and welcome, everyone, to the call. Q3 was another strong quarter of execution and innovation. We delivered financial results above our guidance, with total revenue of $699 million and non-GAAP operating income of $304 million.\r\nIt was a really great quarter of execution by the Veeva team. We saw a broad-based adoption in all areas of Development Cloud. We also had a number of significant milestones in Commercial, including great progress on Vault CRM. It's an exciting time as we look ahead to our 2030 goals.\r\nWe'll now open up the call to your questions."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "[Operator Instructions] Your first question comes from the line of Saket Kalia of Barclays."
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "Saket Kalia",
+      "speakerType": "Analysts",
+      "text": "Okay. Great. Nice job this quarter. Peter, maybe just to start with you, to your point, Veeva did have some nice innovation this quarter, particularly with Vault CRM.\r\nSo I was wondering, as you talk to customers about their migration away from Veeva CRM and away from other potential competitors, what sort of the future -- what are the future road maps that you're sort of speaking to them around the benefits of Vault CRM? I guess as we all sort of wonder about the effort involved in moving off of Veeva CRM, what are you talking about the main benefits when moving to Vault CRM, if that makes sense?"
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes, Saket, excellent question. I'll try to keep that crisp. One of the benefits is a really important one that they've always appreciated from Veeva is continuous innovation of features. So you see the Veeva CRM team, that great Veeva CRM product team, product management team, who's been keeping that, that industry-leading application through the years, that's now on Vault CRM. So the way to stay on that innovation train is to be on Vault CRM. So they're looking forward to that.\r\nThe other one is the idea of a platform for customer centricity that can span sales, medical, marketing and service, a single view of the records so that they can both be more efficient with their customers, but also more respectable. Now in life sciences, you have smaller biotechs, they may have 200 people in their company. You have large biopharma, they may have 50,000 people in their company and over 20,000 people in their fields. So there's different levels of appetite for change. You can change 200 people faster than you can change 20,000 people.\r\nSo for the small biotechs, they're looking forward to like, wow, we could just jump on and we could just be clean on that quickly. For the larger companies with 20,000 employees, they will look to be enthused about, well, there's potential there, right? We could change to that when we want to if Veeva delivers that in the way we think they're going to. So they view it as optionality."
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Saket Kalia",
+      "speakerType": "Analysts",
+      "text": "Got it. Got it. Super helpful. Brian, maybe for my follow-up for you. It was great to see the strong Q4 billings outlook remain largely unchanged, of course, on the back of a strong Q3 as well.\r\nMaybe the question is, can you just talk a little bit about how much the CDMS ramps are contributing to that? And how you sort of think about CDMS as a driver for billings going into next year as well, even anecdotally?"
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Yes. Thanks, Saket. So I think we're not going to get into the specific detailed billings information by product area. But overall, within CDMS, I'd say it's playing out about as we expected.\r\nYou recall a lot of the CDMS growth is predefined multiyear ramps, and so those are largely proceeding as expected. And then more broadly, in Q4 and generally, going forward, I think our growth in our billings are driven more by a broad base of products than any one product in particular."
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Ken Wong of Oppenheimer."
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Hoi-Fung Wong",
+      "speakerType": "Analysts",
+      "text": "This first one, this could be Peter or Paul's. You touched on MLR Bot as potentially being a second -- well, it will be a separate license. One, I guess, what kind of early interest are you getting there?\r\nAnd then two, when we think about the potential monetization, is it going to be comparable to one of your commercial modules, which I think in the past, you've said is a 10% to 15% uplift? Or is this something more value-add and something you can charge higher for?"
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. Ken, thanks for the question. This is Paul. So I was at our Europe Summit event where we announced MLR Bot, something we've been thinking about and evaluating for some time. We think we can help advance how our customers get their Commercial Content approved and do that more efficiently.\r\nThat's what this is about, providing checks, using GenAI to understand and provide insights as to what parts of the content they need to spend time on and what parts of the content they can move very quickly with. So there's a lot of excitement. This is a really core process for life sciences companies. So a lot of excitement there.\r\nWe are planning on -- this will be a separate license. It will be -- the way to think about it is roughly an add-on to what we're providing in PromoMats. And then in terms of sizing and the monetization, we're still working through the details on that, but there's a ton of excitement from our existing customers. We look forward to getting some early customers started on that as we go into next year."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Hoi-Fung Wong",
+      "speakerType": "Analysts",
+      "text": "Got it. Perfect. And then, Brian, also in the prepared remarks, you guys touched on kind of good billings upside driven by services. And when I think about the year -- first part of the year, perhaps some pushout in services. Now you're calling out potentially some better services. Anything to read into that? Or again, maybe more just kind of one-off timing dynamic?"
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Thanks, Ken. I think overall, really pleased with the execution from the team on both the subscription and the services side in the quarter. We saw several projects complete or progress more quickly than we previously expected. And so that's the main driver of the beat on revenue and billings for services.\r\nI think you'll recall that the earlier part of the year, we had several different factors impacting performance, one of which was subcontractor revenue. And so I think what we're seeing now is stabilizing of that base, and pleased with the team's work in Q3 and as we look ahead."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Joe Vruwink of Baird."
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Joseph Vruwink",
+      "speakerType": "Analysts",
+      "text": "Great. In the prepared remarks, there was mention that Veeva is making progress on several large strategic partnership opportunities in Development Cloud. I wanted to see if these are maybe similar in scope to how Veeva has come to work with the likes of Merck and BI and what was discussed under kind of those large strategic engagements?\r\nAnd if not or if so, can you maybe speak to any commonality in terms of the discussions you're having, the type of solutions or end objectives that sponsors are looking to achieve and see as possible by just leveraging Veeva in a greater way?"
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes, this is Peter. I'll take that. I want to say this carefully. I would say similar but not the same as BI and Merck. And similar in that, it's a strategic level and it is across product lines. But each one is different in its own way. Part of that has to do with we have more products that are mature now than if you look when we -- we have a great program with BI, the One Medicine -- Boehringer Ingelheim, the One Medicine program. Now that was few years ago, really, when the genesis of that started.\r\nWe have more products now in the clinical and the quality area that are mature. So the discussion is now both -- it's more expansive. We have more products to talk about. And then sometimes, these discussions are going to be very particular, it might be just in the clinical area, but it might be across all the clinical products or it might be focused on the regulatory and the clinical operations area. But again, those are bigger areas than they used to be.\r\nSo summary there is similar but different. Just as all of the top 20 pharma companies are different from each other, they have different cultures, they have different product portfolios, they have different objectives and they have different people. So they're not all going to be the same."
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Joseph Vruwink",
+      "speakerType": "Analysts",
+      "text": "Okay. That's very helpful. And then, I guess I'll ask my annual question, just given customers are well into their budgeting for the new year. Veeva typically has good visibility at this point in terms of how some of those plans are coming together.\r\nHow does your visibility on intended performance in 2026 compare to what you normally have at this point in time? Not asking for a number, but just kind of how visibility compares. And would you maybe say it's any better or worse by virtue of things like ramping agreements that you know are coming or just the state of active discussions with customers?"
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "This is Peter. I would say marginally better visibility as compared to a year ago. I think our customers have settled into this macro environment a little bit more. I also think we have more bite of the apple. Every year, we have more mature products. So therefore, no one particular thing is swinging things one way or the other. And as you mentioned, we have these ramps. So I would say slightly more visibility, but nothing dramatically different."
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Question comes from the line of Brian Peterson of Raymond James."
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "Brian Peterson",
+      "speakerType": "Analysts",
+      "text": "Congrats on the strong quarter. Peter, I just really wanted to hit on the regulatory backdrop. I know there's a lot of potential changes coming in the Trump administration, at least that are being discussed. I'd love to understand what your customer feedback has been there, and how you think about the potential implications to Veeva under a new administration?"
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Paul, do you want to take that one, Paul?"
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes, Peter, I'll take that one. So Brian, thanks for the question. So first, it's very early, right? There's still a lot of things that need to be settled out as it relates to the administration change. Nominations need to be confirmed, priorities need to be established, all of that sort of stuff.\r\nAnd our customers are accustomed to this, right? They've seen administration changes before. They know that, in some cases, there's some uncertainty and things may change in the future, and what we see is our customers are just focused on what they need to do. They have priorities. They have work that needs to get done right now, and they're focused on that.\r\nSo we're not really seeing any change in how customers are making decisions or how they're thinking about projects. Remember, a lot of these projects that they have with us have been planned well in advance. These are mission-critical systems. So things are largely continuing as planned. And I think as things change, as things become reality, the industry will react accordingly. But so far, it's business as usual."
+    },
+    {
+      "componentOrder": 22,
+      "speakerName": "Brian Peterson",
+      "speakerType": "Analysts",
+      "text": "Got it. And maybe a follow-up for Brian. The margin upside this quarter was really impressive. Just anything that you would call out in terms of timing of expenses in the third quarter? I would appreciate any perspective there."
+    },
+    {
+      "componentOrder": 23,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Brian, thanks for the question. This is Brian as well. So in Q3, I think the revenue outperformance, roughly speaking, about half driven by the revenue beat and then a quarter driven by the timing of expenses and the quarter -- remaining quarter driven by just continued expense discipline.\r\nSo on those timing elements that you asked about, there's some things that we expected to hit in Q3 that will instead move into Q4 or into Q1. And we always expect some variability there, but nothing specific."
+    },
+    {
+      "componentOrder": 24,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Ryan MacDonald of Needham & Company."
+    },
+    {
+      "componentOrder": 25,
+      "speakerName": "Ryan MacDonald",
+      "speakerType": "Analysts",
+      "text": "Peter, maybe I just wanted to ask on the Boehringer deal on the large Vault win there. Just curious as to what the tender or thoroughness of the evaluation process that maybe they were going through and how that compares to other prospective migrations in the pipeline from the top 20. Just trying to understand maybe how deep they are sort of evaluating other solutions in the marketplace versus just sort of being a Veeva-only type discussion at this point?"
+    },
+    {
+      "componentOrder": 26,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. Thanks for the question, Ryan. I'll take this one. First of all, the Boehringer Ingelheim announcement was super exciting. It's an innovative company. You may have heard the fireside discussion I had with their CIO, Markus, talking about the innovation, what they have in front of them over the next 5 years or so in terms of product launches.\r\nThey're looking -- they were looking for consistency, a partner that can execute. They talked about that in that conversation. You heard them saying that a lot of vendors promised a lot of things, and Veeva was one that has consistently delivered for them over the long term. And that's not something to be taken for granted, right?\r\nSo that's certainly about execution and then, of course, the full innovation road map and where we're headed. Did they do a thorough analysis? Absolutely, right? And all these customers are thinking deeply. They all have their own process. Every customer is a little bit different and unique. Some customers will make decisions for different reasons.\r\nSo you'll see different decision-making, but I would say in some respects, they're thorough in their own ways, but their -- these decisions are made by people, which means there's naturally differences in how they make decisions."
+    },
+    {
+      "componentOrder": 27,
+      "speakerName": "Ryan MacDonald",
+      "speakerType": "Analysts",
+      "text": "Maybe just a follow-up for Brian. Obviously, with the rollout of these generative AI applications, a few of them being sort of included at no additional charge, how should we think about how that impacts gross margins going into next year, understanding that -- obviously, we're not giving guidance yet for next year, but just generally, how you think that as the adoption and usage of that, the GenAI apps grows over the next year, any sort of impact we should expect from a margin perspective?"
+    },
+    {
+      "componentOrder": 28,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Peter, do you want to take that one?"
+    },
+    {
+      "componentOrder": 29,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes. So I will take that. Generally, we announced 2 GenAI solutions, one we call CRM Bot and the other one MLR Bot. MLR Bot, we will charge for, and that's where we will host and run a large language model. Not our own large language model, right? We'll use one from the big tech providers, but we will be paying for the compute power for that, and so we'll be charging for that.\r\nFor the CRM Bot, that's where we will hook our CRM system into the customers' own large language model that they're running. And that's where we will not charge for, and we will not incur compute cost. So where we have to use significant compute power, we will most likely charge. And where we don't, we most likely won't.\r\nThere won't be any material impact to our gross margin. In general, Brian, you've given your thoughts on the gross margin profile for 2030, and we don't -- AI is not going to change that. That's all factored in."
+    },
+    {
+      "componentOrder": 30,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Anne Samuel of JPMorgan."
+    },
+    {
+      "componentOrder": 31,
+      "speakerName": "Anne McCormick",
+      "speakerType": "Analysts",
+      "text": "You highlighted that your safety solutions are approaching a tipping point, and I was wondering if maybe you could provide a little bit more color about what that means. And then could you just remind us of the relative size of this market, what's the unmet need, and where Veeva is differentiated here?"
+    },
+    {
+      "componentOrder": 32,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes. So it's more of a feeling when you're approaching a tipping point, it's a little bit different than being at the tipping point. So it's the level of depth of the customer conversations we're having in multiple large customers. Every year, the legacy systems that they're using are aging a little bit. And every year, our cloud-based solutions are getting better and they're getting more optimized and more people are using them.\r\nAnd it's just kind of like that. You have a feeling that the tipping point is coming. We've also filled out our suite. We have our core safety processing application, which we've had for some time, but now we have Safety Signal and Safety Workbench available. Those are -- so those are things they need. And in terms of what they're looking for is, a, they do want a cloud-based system because they don't -- the idea of doing upgrades and taking changes in [ that ] stuff is unappealing. A lot of these systems are legacy and aging. So there's, one, just modernization.\r\nBut the second one is advanced automation. Within the safety system to do some things without manual intervention and then across systems, for example, between clinical data management and the safety system, there's a lot of innovation that we can do because we have both sides of those applications.\r\nSo they're looking for automation, not to take the people totally out of the loop, because the people have to be in the loop to know what's going on so that they can care and notice and act appropriately, but to free them up from the redundant activities that they don't need to be doing."
+    },
+    {
+      "componentOrder": 33,
+      "speakerName": "Anne McCormick",
+      "speakerType": "Analysts",
+      "text": "That's really helpful. And then maybe just one more. You noted that your customers are, as you said, settling into the current macro. And I was wondering, are you viewing this as the new normal? And if not, what are you monitoring for early signs of an inflection from here? And which areas of your business would really see a change first?"
+    },
+    {
+      "componentOrder": 34,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes. I think this level of uncertainty that we have in the macro is now what people are accustomed to now. I guess it could change, right? But we won't know if it's changing unless it does change. We haven't detected that. So they're just sort of settling in to getting work done. Actually, code was not that long ago, and that was a real shock to the system, right? That was very, very not normal.\r\nAnd then the two conflicts that we had started, that was also very, very not normal. But now people are getting a little bit more used to these things. The high interest rates, right? For a while, the company had gotten used to very low interest rates. Now it's back to, okay, well, interest is not free anymore. So I don't want to call it really the new normal, but I guess it is new normal."
+    },
+    {
+      "componentOrder": 35,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Dave Windley of Jefferies."
+    },
+    {
+      "componentOrder": 36,
+      "speakerName": "David Windley",
+      "speakerType": "Analysts",
+      "text": "I was wondering -- I understand you answered the question about changes in administration earlier. But theoretically, if appointments were approved and if appointments followed through on some of their desires and direct-to-consumer advertising was eliminated, how would that impact your business model possibly in any way?"
+    },
+    {
+      "componentOrder": 37,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. Dave, thanks for the question. So your question, actually, the way you framed it was interesting, right? There's a lot of ifs there, there's a lot of things that would actually have to happen for that to become a reality. The nominations, the priorities, the policy, potentially even legislation to make that happen. So it would be a lot to happen, but it'd certainly be a major change, right? And probably something that's challenged, right?\r\nJust the idea of changing access to patients' rights to information, for example, could become a barrier to that kind of thing happening. So a lot would have to happen, but -- and I think it will likely be challenged. In terms of what happens to our business, I think this is the kind of thing that if it were enacted, would take many, many years because of it being challenged.\r\nSo I don't expect any near-term impact on our business, and I haven't seen our customers really reacting in any sort of negative way, even given some of the commentary that's been out there. So I think it's kind of deal with it when it happens, and I think that's how our customers are thinking about it, and focused on the near term."
+    },
+    {
+      "componentOrder": 38,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Kirk Materne of Evercore ISI."
+    },
+    {
+      "componentOrder": 39,
+      "speakerName": "William McNamara",
+      "speakerType": "Analysts",
+      "text": "This is Bill on for Kirk. In the prepared remarks, you noted that Crossix has been driving commercial growth. What factors at play would you say are driving this performance?"
+    },
+    {
+      "componentOrder": 40,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "I think really good execution by the Crossix team. Real innovation that they're doing, particularly in the audiences area, with the micro audiences is getting more fine-tuned. Also, our data network is growing all the time. We have our data network, we leverage that for Compass and Crossix. So our data network is getting more rich all the time as we add more data sources.\r\nWe have competition in those markets for sure. I think our competition has had some stumbles in the last year or 2 and maybe made some promises that they couldn't deliver on. Veeva tends to do well, right? When a new player comes into a market, makes a lot of promises and then doesn't do well, that creates a tailwind for us. So I think that's a positive.\r\nAlso the integration with our CRM product, I think, is something that customers are noticing, the integration with the rest of the CRM suite. But overall, Crossix, the main driver of our strength -- is not the main driver of our strength in commercial, it's one of the drivers, but it's the CRM products, the Commercial Content products, Compass had a good quarter, et cetera. Crossix was one of the wheels on the train."
+    },
+    {
+      "componentOrder": 41,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Gabriela Borges of Goldman Sachs."
+    },
+    {
+      "componentOrder": 42,
+      "speakerName": "Gabriela Borges",
+      "speakerType": "Analysts",
+      "text": "I think this one is for Paul. Paul, I want to revisit the discussion on commercial growth and specifically on what's happening with the seat count dynamic versus the add-on and the upsell dynamic within seat count-based commercial.\r\nMaybe just give us an update on how those 2 factors are playing out? And to what extent you're still seeing pressure in seat count, and to what extent you feel confident that you can offset any seat count pressure with add-ons?"
+    },
+    {
+      "componentOrder": 43,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. So I think your question is about seat count as well as in core CRM also as it relates to the add-ons. So overall, the market is relatively stable. So we -- over the last couple of years, you've heard us talk about some of the shifts in the dynamics as the industry has become a little more digital, we saw some reductions. That has generally stabilized out. So although you may see individual companies adding or reducing their rep counts on average, the industry is relatively stable. So I don't expect much change there.\r\nAs it relates to our add-on products, we continue to make progress there, meaning the attach rates become higher. As every quarter goes on, we tend to increase our attach rates for some of those products. Some have higher attach rates, others still have more room to grow. So that's the way to think about it. I think it will be relatively stable over the next couple of years as it relates to a market perspective. I think the market is at a new steady state."
+    },
+    {
+      "componentOrder": 44,
+      "speakerName": "Gabriela Borges",
+      "speakerType": "Analysts",
+      "text": "Yes. That makes a lot of sense. The follow-up is on your learnings so far from the CRM conversions to Vault that you've already done. Maybe just highlight for us what do you know today that you didn't know a year or 2 ago easing the customer transition to Vault? And how is that helping you navigate some of the conversations on the ground?"
+    },
+    {
+      "componentOrder": 45,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. So learnings, well, there's a significant difference from where we were 2 years ago to where we are today. A few years ago, it was really -- it was an idea, what we had. Our idea and our strategy was just being formed. And so where we are today is a kind of remarkable difference in terms of what we've been able to achieve.\r\nNow a product and market that's at full functionality, we have our first early migrations, which are planned to be live -- the technical go-lives going -- are happening this year, and then some big migrations happening next year. So we've learned a lot, I would say, around the migration tooling.\r\nWe've built the migration tooling, and now we have confidence that we know what that needs to do. We know -- you always find things as you go along, right? Your learn as you go along, and we found things that didn't work, and we fixed it. And now the migration tooling and technology is in a good place. We've learned ways to help make it even more disruptive -- or even less disruptive for customers. So I think we feel really good about that.\r\nAnd then I think maybe the third thing is just thinking about, particularly for small and midsized customers, how they're able to really take advantage of that move to Vault CRM very quickly and then turning on some of this new innovation very fast, some of our new products like Service Center, Campaign Manager, and then over time, the areas like the connectivity with all PromoMats, the integration with -- the tighter connectivity with things like Microsoft and Teams and Outlook and everything else. So we learned a lot, and we're executing better, and we get better and better each quarter that goes on."
+    },
+    {
+      "componentOrder": 46,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Brent Bracelin of Piper Sandler."
+    },
+    {
+      "componentOrder": 47,
+      "speakerName": "Brent Bracelin",
+      "speakerType": "Analysts",
+      "text": "Reading through the prepared remarks here and the commentary on the call so far, something reads and feels a little different relative to the top 20 appetite to lean into the broader Veeva portfolio here. I know, historically, you've talked about the top 20 governor being maybe engaging one product a year, but I get the sense that maybe there's a greater sense of urgency to move off of legacy and embrace maybe multiple products. Walk me through the level of dialogue you're having across the whole portfolio with these top 20. Is that the right read? Or is it a misread?"
+    },
+    {
+      "componentOrder": 48,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "I think that read of more comprehensive going at things is probably pretty particular to the Development Cloud area, because that's where our suite is the most mature and most prudent. But I would say in that area, yes, I wouldn't say dramatically more going fast and going all in, but a bit more than it was a year ago.\r\nAnd the reasons for that are pretty mechanical because every year, if we deliver more products, more high-quality products, and have 1 more year of track record of customer success, it's a reinforcing function, and that gives us a lot of -- that gives us a tailwind, but it's also a big responsibility.\r\nSo for example, when the CIO of Boehringer Ingelheim said to everybody at Veeva, you know that we go with Veeva because your stuff works and you deliver on what you said. We take that pretty seriously. Wow, that's a big responsibility. So we've got to deliver what we said we're going to do. So every year we do that, trust increases and trust is a business accelerator as it should be."
+    },
+    {
+      "componentOrder": 49,
+      "speakerName": "Brent Bracelin",
+      "speakerType": "Analysts",
+      "text": "Helpful color. And then maybe, Brian, for you, 43.5% operating margin. This is kind of the highest we've seen out of Veeva on record, the biggest beat versus your guide in 3 years. A bit of a hot start for you for the first quarter out of the gate, but how should we think about the  cost discipline you put in place in the quarter and leverage and it just -- your guide obviously implies you're going to have some additional expenses here in Q4, but walk us through the philosophy on cost discipline and leverage you showed this quarter and what it means here as we think about next year?"
+    },
+    {
+      "componentOrder": 50,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Brent, thanks for the question. It's a nice start, certainly, but really a testament to the great execution from the Veeva team. More than half of that outperformance on the margin, as I mentioned, is due to the revenue side. And so that's outstanding execution across our sales team, our services teams, the product teams, the teams working to create value for our customers every day. So we're continuing to be really pleased with the execution on that front.\r\nAnd then as far as the second part of your question around our philosophy around cost management, no real change that I'd say to that philosophy. We think about managing costs on a period-by-period basis. We make investments in growth as we feel we need to, and there happened to be a few expenses this quarter that moved out to other quarters and then that ongoing cost discipline that you've heard from us in the past. So overall, strong execution from the team on both the top and the bottom line."
+    },
+    {
+      "componentOrder": 51,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Stan Berenshteyn of Wells Fargo."
+    },
+    {
+      "componentOrder": 52,
+      "speakerName": "Stanislav Berenshteyn",
+      "speakerType": "Analysts",
+      "text": "First, I would just like to follow up on Vault CRM. At the Investor Day, you had suggested more top 20 commitments likely to be announced over the next 6 months or so. So clearly, these conversations are maturing.\r\nNow as you reflect on these discussions you're having with clients, what have been the gating factors to get these commitments? And with Vault CRM already out in the wild, as you say, has the hurdle for these commitments come down at all?"
+    },
+    {
+      "componentOrder": 53,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. Stan, first, we're excited about where we are. We got our fourth top 20 commitment. We're executing really well. We're pleased with the progress there. I do continue to expect additional commitments over the next several months.\r\nYes, I mean, it's a significant advantage, having a real product, right? Having a product in the market, we have customers live, we have customers migrating to it, we're innovating in the product in many different ways. And I got to hear a lot about that innovation, our customers' reaction to that innovation in person at our customer summit event, everything from what Peter talked about, sales, marketing and medical in a single Vault that's foundationally different.\r\nOur AI strategy, we talked about how we're executing well against that. So in a sense, I would say, yes, each deal that we have, we make a little more progress. But certainly, I would also kind of balance that with every customer is a little bit different. They optimize for different things. We're certainly not going to win every deal, but we still expect to win the vast majority of the deals that are out there. And we're pleased with kind of where things stand and the progress we're making so far on top 20 and beyond."
+    },
+    {
+      "componentOrder": 54,
+      "speakerName": "Stanislav Berenshteyn",
+      "speakerType": "Analysts",
+      "text": "Great. And then quickly, on your pivot toward horizontal enterprise applications, when can we expect a more concrete product strategy that you'll be able to share with us?"
+    },
+    {
+      "componentOrder": 55,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "I'll take that one. In terms of the new markets, horizontal business applications, we're taking a platform-specific approach there. In terms of any update, in terms of exactly what application area or customer segment, there's no specific time line for that. We'll just have to let that play out, and we'll let you know when we have more information available."
+    },
+    {
+      "componentOrder": 56,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Tyler Radke of Citi."
+    },
+    {
+      "componentOrder": 57,
+      "speakerName": "Tyler Radke",
+      "speakerType": "Analysts",
+      "text": "As you think about FY '26, I know you're not giving formal guidance, but just any way of framing how we should think about the growth in the context of this year and your long-term targets?\r\nAnd as we think about the macro environment, clearly, your numbers have been very resilient. But just given you do have longer sales cycles, have you seen any change in sort of the early stages of those larger deals that maybe layering in towards the back half of next year, for instance, that you would call out?"
+    },
+    {
+      "componentOrder": 58,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Tyler, so as Peter covered, I think we've got probably a little bit better visibility to next year, marginally speaking, than prior years. But we're not giving FY '26 guidance. At this time, we'll do that after the Q4 results. Overall, for the year, our updated guidance reflects subscription growth of about 15%. So really pleased with that growth rate against our long-term growth targets."
+    },
+    {
+      "componentOrder": 59,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Craig Hettenbach of Morgan Stanley."
+    },
+    {
+      "componentOrder": 60,
+      "speakerName": "Craig Hettenbach",
+      "speakerType": "Analysts",
+      "text": "Just going back to the horizontal strategy and the strength in the core business margin profile today, how do you think about that in terms of perhaps giving you a little bit more leverage to make some of these investments as you get that going?"
+    },
+    {
+      "componentOrder": 61,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes, I'll take that one. Well, we -- first, we just have to do the right thing by our customers, and that's about keeping lean teams, product excellence, delivering a lot of value. And you see that in our financial profile, right? We spend almost twice as much in product as we do in sales and marketing. So that's really our focus, being efficient.\r\nAnd then for the horizontal business applications, I think it's not really that we need dollars to invest there. It's really you need a small team and a tiger team and a very focused team. So yes, we certainly have the capital to -- all the cash flows that we would need to invest in the new market's horizontal business applications.\r\nWith the additional revenue that we have coming in, mostly, we're going to put that into customer support and customer success and new products and filling out our existing products inside of life sciences. So that's basically the way to think about that. The revenue in life sciences will really stay in life sciences."
+    },
+    {
+      "componentOrder": 62,
+      "speakerName": "Craig Hettenbach",
+      "speakerType": "Analysts",
+      "text": "Got it. And then I just had a follow-up question on services. As that market looks to be stabilizing, how do you think about that on like a multiyear profile from a growth, even if it's a range? Like what's a reasonable growth assumption in services looking out next couple of years?"
+    },
+    {
+      "componentOrder": 63,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Craig, this is Brian. So I think as with the revenue guidance, we won't give specific guidance on services revenue until after our Q4 results, but happy with how the team are continuing to execute and the momentum we saw coming out of Q3."
+    },
+    {
+      "componentOrder": 64,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of DJ Hynes of Canaccord."
+    },
+    {
+      "componentOrder": 65,
+      "speakerName": "David Hynes",
+      "speakerType": "Analysts",
+      "text": "Congrats on nice quarter. Paul, one of the questions I've picked up since Salesforce reported earlier this week is that they called out life sciences cloud as a component of 3 of their top 10 deals in the quarter. I'm not asking you to speak for them. But as you see what's happening at your customers, is there any sense that Salesforce is showing up more often?"
+    },
+    {
+      "componentOrder": 66,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. I mean, it's certainly in our larger customers. They're in the vast majority of our customers having conversations. And that's no surprise, right? That's not something we are surprised about. We've expected to see that.\r\nIn terms of are they showing up more frequently? I don't know that there's a change. We certainly still see them in the market, and they're the primary competitor. I think as I alluded to before, IQVIA is out of the game. Their product sunset. We're competing with Salesforce. They don't have a product yet. So that's really who the primary competitor is at this point."
+    },
+    {
+      "componentOrder": 67,
+      "speakerName": "David Hynes",
+      "speakerType": "Analysts",
+      "text": "Yes. Yes. Okay. And then, Brian, a follow-up for you. Can you just remind me of the impact that TFC has on margins this year, and whether there's any normalization or reversal that we should be thinking about as we set our models for next year?"
+    },
+    {
+      "componentOrder": 68,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Yes. So on the TFC side, just recall that's predominantly a revenue side normalization, so it impacts the margins a bit. But I think we are certainly excited to jump into next year and to stop having both normalized for TFC and non-normalized for TFC results to report. On the revenue side, it impacted the growth rate year-over-year by about 2%."
+    },
+    {
+      "componentOrder": 69,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Jailendra Singh of Truist Securities."
+    },
+    {
+      "componentOrder": 70,
+      "speakerName": "Jailendra Singh",
+      "speakerType": "Analysts",
+      "text": "I want to go back to Vault CRM. Congrats on the fourth top biopharma commitment. Can you confirm whether it's an existing CRM customer or a new CRM customer? And related to that, can you remind us what is the average length of time from a customer commitment to Vault, to migration, to when they are live on the platform? If it is largely based on customer preferences, how do they typically think about when they want to migrate post commitment?"
+    },
+    {
+      "componentOrder": 71,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes, Jailendra. So let me take that second part first around migration. I would say it varies pretty significantly by the size and complexity of the customer. If you're a top 20 customer, it's likely very, very different than a small or midsized customer. A small customer may be migrated in, let's say, 4 weeks or 6 weeks. And then as you expand up to a top 20, that can take closer to 2 years, right? So we see that difference.\r\nIn terms of their timing, when they make a commitment? The commitment depends on their time frame. We're not doing anything unnatural to try to force a commitment, and there's a lot of things that they have to think about, what's happening in their own business, the timing of, let's say, launches that they have, should they do the migration before launch or after a launch. So those kinds of things come into play.\r\nSo each customer is a little bit different. They optimize for slightly different things, but our strategy is to make this minimally disruptive and as easy as possible to get them to a decision but also to the migration."
+    },
+    {
+      "componentOrder": 72,
+      "speakerName": "Jailendra Singh",
+      "speakerType": "Analysts",
+      "text": "And whether it's a new customer or an existing CRM customer?"
+    },
+    {
+      "componentOrder": 73,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "The question, Paul, was the top 20 win, was that a new customer for us or an existing customer?"
+    },
+    {
+      "componentOrder": 74,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. So the top 20 that we just announced was an existing customer. So that was -- I think you're referring to the Boehringer Ingelheim announcement. Is that what you're referring to, Jailendra?"
+    },
+    {
+      "componentOrder": 75,
+      "speakerName": "Jailendra Singh",
+      "speakerType": "Analysts",
+      "text": "Yes."
+    },
+    {
+      "componentOrder": 76,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. So Boehringer Ingelheim has been a very long-term customer for Veeva in commercial and then over the last several years, last couple of years, in R&D also. We've worked very closely with them in the commercial side, made them successful with Veeva CRM, and they're putting their trust in us for Vault CRM for the long term. So yes, existing customer."
+    },
+    {
+      "componentOrder": 77,
+      "speakerName": "Jailendra Singh",
+      "speakerType": "Analysts",
+      "text": "And my follow-up is on the decent acceleration in net head count increase in the quarter. Anything to read into that? I mean, clearly, you're seeing some good momentum here. Any particular areas you guys are focused on with respect to head count additions? Or is it more across the board?"
+    },
+    {
+      "componentOrder": 78,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "This is Brian. I'll take that question. So we were happy to see head count increase in the quarter. We're continuing to make investments in growth. It's broad-based, but certainly in our product areas is a key focus as we look ahead to next year and something we're pleased with the execution around the hiring of."
+    },
+    {
+      "componentOrder": 79,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Andrew DeGasperi of BNP Paribas."
+    },
+    {
+      "componentOrder": 80,
+      "speakerName": "Andrew DeGasperi",
+      "speakerType": "Analysts",
+      "text": "I just had two questions. First, on the migration of these customers to Vault CRM. I was just wondering, do we start seeing an impact to gross margin? In other words, that royalty that you pay for Salesforce for Veeva CRM, is that going to improve over the next 2 years as these customers migrate? Or should we see this sort of improve later as the agreement ends?"
+    },
+    {
+      "componentOrder": 81,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "There is some secular change in gross margins as we look out. But these, recall, are pretty long-range migrations. There's still a long time to go in the Vault migration story, both the decisions that customers are making as well as their migration away from Veeva CRM on the Salesforce platform towards Vault CRM on the Vault platform. And so that adjustment, that shift to margins over time and that improvement will take some time for you to see in the results and really spread out between now and 2030."
+    },
+    {
+      "componentOrder": 82,
+      "speakerName": "Andrew DeGasperi",
+      "speakerType": "Analysts",
+      "text": "And then just on the direct-to-consumer advertising comments you made earlier. I just -- if you could remind us, I mean, is it Crossix the one product that really is focused on that? Or is there others within the Commercial Cloud portfolio? And maybe if you could add in as well, is that really -- in terms of the strength that you saw this year, has this been a change versus previous year?"
+    },
+    {
+      "componentOrder": 83,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes. Crossix is the one from Veeva's that's most involved with direct-to-consumer advertising with some measurement and the audiences around that. Now it's direct-to-consumer, but it's also to the health care providers as well, so Crossix is not only in direct-to-consumer.\r\nAnd Crossix has been performing well for us, but also what's been performing well for us is CRM and the add-ons, the Commercial Content and also our data products, Data Cloud, Veeva Link and Veeva Compass. So in the commercial area, we've had pretty broad-based strength."
+    },
+    {
+      "componentOrder": 84,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of David Larsen of BTIG."
+    },
+    {
+      "componentOrder": 85,
+      "speakerName": "David Larsen",
+      "speakerType": "Analysts",
+      "text": "Congratulations on the very good quarter. The CROs have obviously reported some challenges. Obviously, you're not a CRO doing the clinical trials, but you do sell into that space. Can you maybe just talk about what the difference is there? Why are they seeing challenges but you are not? And has there been any impact to like things like Study Training or Site Connect or any more of those clinical trial-related focused products?"
+    },
+    {
+      "componentOrder": 86,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "This is Peter. I'll take that one. The CROs, they do make a lot of their revenue associated with particular studies. So as a customer is planning a study and then they're deciding to go forward and then they're bidding out services and the CRO selects and wins the services, that's a long lag time until the CRO gets revenue and they get revenue from that -- from those studies over the next year or 2 years or even 3 years.\r\nSo I would say a year or so ago and 2 years ago and 1 year ago, there were more customers facing uncertainty, and certainly smaller customers facing funding issues, and so they were stopping planned trials. They don't usually stop the trials that were in flight. So they were maybe stopping some planned trials that would have turned into CRO revenue maybe this year. So that's maybe my best estimate of what you're seeing from the CROs.\r\nNow how has that affected Veeva? It doesn't, really, because most of our revenue is not on a study-by-study basis. CRO is a good channel for us, and some of that is study by study. For example, the EDC is study-by-study, standardization and trial supply management is study by study for us in the CROs. But for example, our eTMF product and our CTMS product, those are long-term enterprise license agreements that are not affected by the ups and downs of study volume. So we're not 100% insulated from the ups and downs in studies, but pretty darn close."
+    },
+    {
+      "componentOrder": 87,
+      "speakerName": "David Larsen",
+      "speakerType": "Analysts",
+      "text": "And then for Vault CRM wins, I think there were 14 in the quarter. That seems like a very good number. They were like 3 and 5 and 5 in fiscal 3Q and 4Q of '24 and 1Q of '25. 14 sounds like a lot. Is that a new sort of steady state? And why is there like such an uptick?"
+    },
+    {
+      "componentOrder": 88,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Yes. So I think it was -- it might have been 13, if I remember the exact number correctly. But yes, we see roughly that amount in the quarter. In fact, I think it was 13 exactly. We see roughly that amount each quarter. Think about it as these are companies most likely that are choosing [indiscernible] CRM system.\r\nSo most customers that have products in market already, they already have some sort of system. Yes, there's still some of them to win. But the vast majority of the 13 are pre-commercial companies, they may be getting their field medical teams or getting prepared for their commercial launch, and that's what we're winning.\r\nAnd we're winning virtually all of those deals that are out there, and that's the -- that's super exciting for us, and a lot of these customers will continue to grow and expand as they go from their pre-commercial stage into something that's commercial and even larger. But yes, we're winning -- our win rate is very, very high."
+    },
+    {
+      "componentOrder": 89,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Charles Rhyee of TD Cowen."
+    },
+    {
+      "componentOrder": 90,
+      "speakerName": "Charles Rhyee",
+      "speakerType": "Analysts",
+      "text": "I wanted to ask about, obviously, with the Walgreens strategic partnership, maybe talk about a little bit more where you think you are in your journey in adding data sources to Compass and Data Cloud in general? And maybe just give us a sense on how you feel sort of your competitive position in the market there is currently?"
+    },
+    {
+      "componentOrder": 91,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "I'll take that one. It's Peter. We're always looking for new data sources, and we look at that and we're patient when we evaluate things, and when we see an opportunity to increase our data network, we'll take that, if it's a reasonable opportunity. So Walgreens was a great partnership that we can have, and there's more of those we can do.\r\nIn terms of our competitive position with our data network, I think we have the strongest data network in the industry. Remember that powers Compass and it also powers Crossix, and it's a patient-first data network. So we're getting a lot of data that has to do with patient data, not just retail pharmacy data. So I feel really comfortable with where we're at and the number of data sources we have and the way we do the matching of the patient data across multiple sources in a very accurate way.\r\nAnd that leads us to be able to make great products in both Compass in the measurement and audiences, but also -- in Crossix, but also in Compass for our Patient product and our Prescriber product. Those are pretty disruptive products for the industry. There's a way that they've been doing things for multiple years. We're bringing out a bit of a disruptive way. So change takes time, but every quarter, we're adding more customers and more customers for Compass patients, and we've got a flywheel going there. It's a little flywheel as right now, but it's spinning and I'm very happy with it."
+    },
+    {
+      "componentOrder": 92,
+      "speakerName": "Charles Rhyee",
+      "speakerType": "Analysts",
+      "text": "That's helpful. And maybe just a follow-up on Crossix. Obviously, a key driver of growth in commercial. Can you give us a sense what the Crossix growth rate has been through the first 3 quarters relative to the 11% growth for commercial? Just give us a sense, is it growing faster? Or is it in line? Any color there would be helpful."
+    },
+    {
+      "componentOrder": 93,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "This is Brian. I'll take that one. We won't get into specific product level growth rates. But overall pleased with how the Crossix team has performed this year and executed against the market opportunity. It's a really strong and healthy growing market, and we're continuing to take share in that and something we hope to continue going forward."
+    },
+    {
+      "componentOrder": 94,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Brad Sills of Bank of America."
+    },
+    {
+      "componentOrder": 95,
+      "speakerName": "Bradley Sills",
+      "speakerType": "Analysts",
+      "text": "I wanted to ask a question on just the general demand environment. It sounds like things are fairly stable, but maybe some green shoots that you're seeing in the big pharma. I think in some of the prepared remarks, segment of the commercial business, if I'm not -- I'm sorry, the R&D business, if I'm reading that properly. So are you seeing any kind of indications that things might be turning positive here just in the general spending environment?"
+    },
+    {
+      "componentOrder": 96,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "I think yes, it's a great environment for Veeva. I wouldn't say great. I think it's stabilized. So as we compare to a year ago, it's a bit better, but these are long-term capabilities, especially in the Development Cloud and with the larger customers' long-term capabilities that they're putting in. So it's not going to have dramatic ups and downs. But what I'm encouraged about is the trains -- these are big trains, and they're moving.\r\nAnd that's what we need to support our 2030 goals, and our goal is to add more value to the industry overall. So I was encouraged. I was really encouraged with the progress this last quarter. I was encouraged and energized by the individual discussions that the Veeva team was having with senior executives and that I was having with senior executives. So it was a good quarter."
+    },
+    {
+      "componentOrder": 97,
+      "speakerName": "Bradley Sills",
+      "speakerType": "Analysts",
+      "text": "That's great to hear. And then anything -- any update on the replatforming effort? How do you feel about taking that to some of the larger accounts? Are you getting to the point where you're comfortable doing that? And any kind of early indications of how that's going?"
+    },
+    {
+      "componentOrder": 98,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Yes, the replatforming of Veeva CRM on to Vault CRM, very comfortable with that. We announced it 2 years ago. Of course, you're not comfortable with anything when you announce it 2 years ago, you announced the plan, and it's an audacious plan and you have to execute on it. So you better be paranoid at that time for obvious reasons, and we were. We were really focused.\r\nWe have live customers now. We have so many of the product features that we needed into the platform. We've adapted the existing CRM product to where we need it, and now it's full functionality as compared -- Vault CRM is full functionality compared to Veeva CRM, and we have these 2 new applications, Campaign Manager and Service Center.\r\nSo it's definitely ready, and we're really excited to have -- if you would have told me -- 2 years ago, if you said, hey, here's where you'll be 2 years from now, I would take that in a heartbeat. I'd be ecstatic. It means that the bears didn't come out to eat us. We got through the forest. So I'm very happy with that."
+    },
+    {
+      "componentOrder": 99,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Steven Valiquette of Mizuho Securities."
+    },
+    {
+      "componentOrder": 100,
+      "speakerName": "Steven Valiquette",
+      "speakerType": "Analysts",
+      "text": "Just a couple of questions here. First, on the Development Cloud. On the back of our initiation, we did some channel checks on industry R&D spending trends, et cetera. And one of the questions I wanted to ask on that was actually just touched on, on the last question, but maybe just to drill in a little bit deeper.\r\nI mean it does look like clinical trial starts globally are actually growing again now for the last 2 quarters after declining for year-over-year for a couple of years. So I'm just curious as the follow-up question around that, do you guys actually look carefully at data points like that? Or do you just focus more on your own customer discussions, et cetera, that you just alluded to as far as your assessment of the marketplace?\r\nAnd then the only other quick follow-up question really is just at the Analyst Day a few weeks ago, the way you guys broke down your total revenue base by customer type was just a little bit different this year than it was last year. So I'm hoping you can just remind us again, what percent of your total book of business relates to CRO customers just from a percentage of revenue standpoint? I recall it was no more than 5% last year, but I just want to confirm if that was still the case currently."
+    },
+    {
+      "componentOrder": 101,
+      "speakerName": "Paul Shawah",
+      "speakerType": "Executives",
+      "text": "Steven, let me take the first question, and I'll turn it over to Brian to talk a little bit about CRO revenue and what percent that is. Clinical trial starts, yes, we certainly pay attention to that. It's one metric of many, but I just caution you from over-indexing on any single metric. We certainly don't do that. You heard Peter talk a little bit about how we're insulated from some of the near-term changes in clinical trial volumes as an example. So we don't over-index there.\r\nObviously, over the long term, that matters. In the near term, it's not so important because most of our deals and our customers' buying patterns are more for enterprise capabilities than they are for clinical trial starts. So yes, we pay attention, but not a single metric as the most important. I'll turn it over to Brian to talk a little about -- to answer your second question on CRO revenue."
+    },
+    {
+      "componentOrder": 102,
+      "speakerName": "Brian Van Wagener",
+      "speakerType": "Executives",
+      "text": "Yes. So on the second part of your question around CRO revenue specifically, at Investor Day, as you saw, we embedded the CRO channel within top 20 enterprise and SMB, so it's a little bit harder for the year-over-year comparison. But the last time we disclosed it, it was about 5% of revenue, and it's not materially changed from that."
+    },
+    {
+      "componentOrder": 103,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "This concludes our Q&A session. I will now turn the conference back over to Veeva's CEO, Peter Gassner, for closing remarks."
+    },
+    {
+      "componentOrder": 104,
+      "speakerName": "Peter Gassner",
+      "speakerType": "Executives",
+      "text": "Thank you, everyone, for joining the call today, and thank you to our customers for your continued partnership and to the Veeva team for your outstanding work in the quarter. Thank you."
+    },
+    {
+      "componentOrder": 105,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "This concludes today's conference call. You may now disconnect."
+    }
+  ],
+  "text": "# Veeva Systems Inc. - Q3 2025 Earnings Call\nDate: 2024-12-05T22:00:00Z\nType: Earnings Calls\n\n## Operator (Operator)\nThank you for standing by. My name is Jay, and I will be your conference operator today. At this time, I would like to welcome everyone to the Veeva Systems Fiscal 2025 Third Quarter Results Conference Call. [Operator Instructions] I would now like to turn the conference over to Gunnar Hansen, Director of Investor Relations. You may begin.\n\n## Gunnar Hansen (Executives)\nGood afternoon, and welcome to Veeva's Fiscal 2025 Third Quarter Earnings Conference Call for the quarter ended October 31, 2024. As a reminder, we posted prepared remarks on Veeva's Investor Relations website just after 1:00 p.m. Pacific today. We hope you have had a chance to read them before the call.\r\nToday's call will be primarily used for Q&A. With me today for Q&A are Peter Gassner, our Chief Executive Officer; Paul Shawah, EVP of Strategy; and Brian Van Wagener, our Chief Financial Officer. During this call, we may make forward-looking statements regarding trends, our strategies and the anticipated performance of the business, including guidance regarding future financial results.\r\nThese forward-looking statements will be based on our current views and expectations and are subject to various risks and uncertainties. Actual results may differ materially. Please refer to the risks listed in our earnings release and the risk factors included in our most recent filing on Form 10-Q.\r\nForward-looking statements made during the call are being made as of today, December 5, 2024, based on the facts available to us today. If this call is replayed or viewed after today, the information presented during the call may not contain current or accurate information. Veeva disclaims any obligation to update or revise any forward-looking statements.\r\nWe may discuss our guidance on today's call, but we will not provide any further guidance or updates on our performance during the quarter unless we do so in a public forum. On the call, we may also discuss certain non-GAAP metrics that we believe aid in the understanding of our financial results. A reconciliation to comparable GAAP metrics can be found in today's earnings release and in the supplemental investor presentation, both of which are available on our website.\r\nWith that, thank you for joining us, and I'll turn the call over to Peter.\n\n## Peter Gassner (Executives)\nThank you, Gunnar, and welcome, everyone, to the call. Q3 was another strong quarter of execution and innovation. We delivered financial results above our guidance, with total revenue of $699 million and non-GAAP operating income of $304 million.\r\nIt was a really great quarter of execution by the Veeva team. We saw a broad-based adoption in all areas of Development Cloud. We also had a number of significant milestones in Commercial, including great progress on Vault CRM. It's an exciting time as we look ahead to our 2030 goals.\r\nWe'll now open up the call to your questions.\n\n## Operator (Operator)\n[Operator Instructions] Your first question comes from the line of Saket Kalia of Barclays.\n\n## Saket Kalia (Analysts)\nOkay. Great. Nice job this quarter. Peter, maybe just to start with you, to your point, Veeva did have some nice innovation this quarter, particularly with Vault CRM.\r\nSo I was wondering, as you talk to customers about their migration away from Veeva CRM and away from other potential competitors, what sort of the future -- what are the future road maps that you're sort of speaking to them around the benefits of Vault CRM? I guess as we all sort of wonder about the effort involved in moving off of Veeva CRM, what are you talking about the main benefits when moving to Vault CRM, if that makes sense?\n\n## Peter Gassner (Executives)\nYes, Saket, excellent question. I'll try to keep that crisp. One of the benefits is a really important one that they've always appreciated from Veeva is continuous innovation of features. So you see the Veeva CRM team, that great Veeva CRM product team, product management team, who's been keeping that, that industry-leading application through the years, that's now on Vault CRM. So the way to stay on that innovation train is to be on Vault CRM. So they're looking forward to that.\r\nThe other one is the idea of a platform for customer centricity that can span sales, medical, marketing and service, a single view of the records so that they can both be more efficient with their customers, but also more respectable. Now in life sciences, you have smaller biotechs, they may have 200 people in their company. You have large biopharma, they may have 50,000 people in their company and over 20,000 people in their fields. So there's different levels of appetite for change. You can change 200 people faster than you can change 20,000 people.\r\nSo for the small biotechs, they're looking forward to like, wow, we could just jump on and we could just be clean on that quickly. For the larger companies with 20,000 employees, they will look to be enthused about, well, there's potential there, right? We could change to that when we want to if Veeva delivers that in the way we think they're going to. So they view it as optionality.\n\n## Saket Kalia (Analysts)\nGot it. Got it. Super helpful. Brian, maybe for my follow-up for you. It was great to see the strong Q4 billings outlook remain largely unchanged, of course, on the back of a strong Q3 as well.\r\nMaybe the question is, can you just talk a little bit about how much the CDMS ramps are contributing to that? And how you sort of think about CDMS as a driver for billings going into next year as well, even anecdotally?\n\n## Brian Van Wagener (Executives)\nYes. Thanks, Saket. So I think we're not going to get into the specific detailed billings information by product area. But overall, within CDMS, I'd say it's playing out about as we expected.\r\nYou recall a lot of the CDMS growth is predefined multiyear ramps, and so those are largely proceeding as expected. And then more broadly, in Q4 and generally, going forward, I think our growth in our billings are driven more by a broad base of products than any one product in particular.\n\n## Operator (Operator)\nYour next question comes from the line of Ken Wong of Oppenheimer.\n\n## Hoi-Fung Wong (Analysts)\nThis first one, this could be Peter or Paul's. You touched on MLR Bot as potentially being a second -- well, it will be a separate license. One, I guess, what kind of early interest are you getting there?\r\nAnd then two, when we think about the potential monetization, is it going to be comparable to one of your commercial modules, which I think in the past, you've said is a 10% to 15% uplift? Or is this something more value-add and something you can charge higher for?\n\n## Paul Shawah (Executives)\nYes. Ken, thanks for the question. This is Paul. So I was at our Europe Summit event where we announced MLR Bot, something we've been thinking about and evaluating for some time. We think we can help advance how our customers get their Commercial Content approved and do that more efficiently.\r\nThat's what this is about, providing checks, using GenAI to understand and provide insights as to what parts of the content they need to spend time on and what parts of the content they can move very quickly with. So there's a lot of excitement. This is a really core process for life sciences companies. So a lot of excitement there.\r\nWe are planning on -- this will be a separate license. It will be -- the way to think about it is roughly an add-on to what we're providing in PromoMats. And then in terms of sizing and the monetization, we're still working through the details on that, but there's a ton of excitement from our existing customers. We look forward to getting some early customers started on that as we go into next year.\n\n## Hoi-Fung Wong (Analysts)\nGot it. Perfect. And then, Brian, also in the prepared remarks, you guys touched on kind of good billings upside driven by services. And when I think about the year -- first part of the year, perhaps some pushout in services. Now you're calling out potentially some better services. Anything to read into that? Or again, maybe more just kind of one-off timing dynamic?\n\n## Brian Van Wagener (Executives)\nThanks, Ken. I think overall, really pleased with the execution from the team on both the subscription and the services side in the quarter. We saw several projects complete or progress more quickly than we previously expected. And so that's the main driver of the beat on revenue and billings for services.\r\nI think you'll recall that the earlier part of the year, we had several different factors impacting performance, one of which was subcontractor revenue. And so I think what we're seeing now is stabilizing of that base, and pleased with the team's work in Q3 and as we look ahead.\n\n## Operator (Operator)\nYour next question comes from the line of Joe Vruwink of Baird.\n\n## Joseph Vruwink (Analysts)\nGreat. In the prepared remarks, there was mention that Veeva is making progress on several large strategic partnership opportunities in Development Cloud. I wanted to see if these are maybe similar in scope to how Veeva has come to work with the likes of Merck and BI and what was discussed under kind of those large strategic engagements?\r\nAnd if not or if so, can you maybe speak to any commonality in terms of the discussions you're having, the type of solutions or end objectives that sponsors are looking to achieve and see as possible by just leveraging Veeva in a greater way?\n\n## Peter Gassner (Executives)\nYes, this is Peter. I'll take that. I want to say this carefully. I would say similar but not the same as BI and Merck. And similar in that, it's a strategic level and it is across product lines. But each one is different in its own way. Part of that has to do with we have more products that are mature now than if you look when we -- we have a great program with BI, the One Medicine -- Boehringer Ingelheim, the One Medicine program. Now that was few years ago, really, when the genesis of that started.\r\nWe have more products now in the clinical and the quality area that are mature. So the discussion is now both -- it's more expansive. We have more products to talk about. And then sometimes, these discussions are going to be very particular, it might be just in the clinical area, but it might be across all the clinical products or it might be focused on the regulatory and the clinical operations area. But again, those are bigger areas than they used to be.\r\nSo summary there is similar but different. Just as all of the top 20 pharma companies are different from each other, they have different cultures, they have different product portfolios, they have different objectives and they have different people. So they're not all going to be the same.\n\n## Joseph Vruwink (Analysts)\nOkay. That's very helpful. And then, I guess I'll ask my annual question, just given customers are well into their budgeting for the new year. Veeva typically has good visibility at this point in terms of how some of those plans are coming together.\r\nHow does your visibility on intended performance in 2026 compare to what you normally have at this point in time? Not asking for a number, but just kind of how visibility compares. And would you maybe say it's any better or worse by virtue of things like ramping agreements that you know are coming or just the state of active discussions with customers?\n\n## Peter Gassner (Executives)\nThis is Peter. I would say marginally better visibility as compared to a year ago. I think our customers have settled into this macro environment a little bit more. I also think we have more bite of the apple. Every year, we have more mature products. So therefore, no one particular thing is swinging things one way or the other. And as you mentioned, we have these ramps. So I would say slightly more visibility, but nothing dramatically different.\n\n## Operator (Operator)\nQuestion comes from the line of Brian Peterson of Raymond James.\n\n## Brian Peterson (Analysts)\nCongrats on the strong quarter. Peter, I just really wanted to hit on the regulatory backdrop. I know there's a lot of potential changes coming in the Trump administration, at least that are being discussed. I'd love to understand what your customer feedback has been there, and how you think about the potential implications to Veeva under a new administration?\n\n## Peter Gassner (Executives)\nPaul, do you want to take that one, Paul?\n\n## Paul Shawah (Executives)\nYes, Peter, I'll take that one. So Brian, thanks for the question. So first, it's very early, right? There's still a lot of things that need to be settled out as it relates to the administration change. Nominations need to be confirmed, priorities need to be established, all of that sort of stuff.\r\nAnd our customers are accustomed to this, right? They've seen administration changes before. They know that, in some cases, there's some uncertainty and things may change in the future, and what we see is our customers are just focused on what they need to do. They have priorities. They have work that needs to get done right now, and they're focused on that.\r\nSo we're not really seeing any change in how customers are making decisions or how they're thinking about projects. Remember, a lot of these projects that they have with us have been planned well in advance. These are mission-critical systems. So things are largely continuing as planned. And I think as things change, as things become reality, the industry will react accordingly. But so far, it's business as usual.\n\n## Brian Peterson (Analysts)\nGot it. And maybe a follow-up for Brian. The margin upside this quarter was really impressive. Just anything that you would call out in terms of timing of expenses in the third quarter? I would appreciate any perspective there.\n\n## Brian Van Wagener (Executives)\nBrian, thanks for the question. This is Brian as well. So in Q3, I think the revenue outperformance, roughly speaking, about half driven by the revenue beat and then a quarter driven by the timing of expenses and the quarter -- remaining quarter driven by just continued expense discipline.\r\nSo on those timing elements that you asked about, there's some things that we expected to hit in Q3 that will instead move into Q4 or into Q1. And we always expect some variability there, but nothing specific.\n\n## Operator (Operator)\nYour next question comes from the line of Ryan MacDonald of Needham & Company.\n\n## Ryan MacDonald (Analysts)\nPeter, maybe I just wanted to ask on the Boehringer deal on the large Vault win there. Just curious as to what the tender or thoroughness of the evaluation process that maybe they were going through and how that compares to other prospective migrations in the pipeline from the top 20. Just trying to understand maybe how deep they are sort of evaluating other solutions in the marketplace versus just sort of being a Veeva-only type discussion at this point?\n\n## Paul Shawah (Executives)\nYes. Thanks for the question, Ryan. I'll take this one. First of all, the Boehringer Ingelheim announcement was super exciting. It's an innovative company. You may have heard the fireside discussion I had with their CIO, Markus, talking about the innovation, what they have in front of them over the next 5 years or so in terms of product launches.\r\nThey're looking -- they were looking for consistency, a partner that can execute. They talked about that in that conversation. You heard them saying that a lot of vendors promised a lot of things, and Veeva was one that has consistently delivered for them over the long term. And that's not something to be taken for granted, right?\r\nSo that's certainly about execution and then, of course, the full innovation road map and where we're headed. Did they do a thorough analysis? Absolutely, right? And all these customers are thinking deeply. They all have their own process. Every customer is a little bit different and unique. Some customers will make decisions for different reasons.\r\nSo you'll see different decision-making, but I would say in some respects, they're thorough in their own ways, but their -- these decisions are made by people, which means there's naturally differences in how they make decisions.\n\n## Ryan MacDonald (Analysts)\nMaybe just a follow-up for Brian. Obviously, with the rollout of these generative AI applications, a few of them being sort of included at no additional charge, how should we think about how that impacts gross margins going into next year, understanding that -- obviously, we're not giving guidance yet for next year, but just generally, how you think that as the adoption and usage of that, the GenAI apps grows over the next year, any sort of impact we should expect from a margin perspective?\n\n## Brian Van Wagener (Executives)\nPeter, do you want to take that one?\n\n## Peter Gassner (Executives)\nYes. So I will take that. Generally, we announced 2 GenAI solutions, one we call CRM Bot and the other one MLR Bot. MLR Bot, we will charge for, and that's where we will host and run a large language model. Not our own large language model, right? We'll use one from the big tech providers, but we will be paying for the compute power for that, and so we'll be charging for that.\r\nFor the CRM Bot, that's where we will hook our CRM system into the customers' own large language model that they're running. And that's where we will not charge for, and we will not incur compute cost. So where we have to use significant compute power, we will most likely charge. And where we don't, we most likely won't.\r\nThere won't be any material impact to our gross margin. In general, Brian, you've given your thoughts on the gross margin profile for 2030, and we don't -- AI is not going to change that. That's all factored in.\n\n## Operator (Operator)\nYour next question comes from the line of Anne Samuel of JPMorgan.\n\n## Anne McCormick (Analysts)\nYou highlighted that your safety solutions are approaching a tipping point, and I was wondering if maybe you could provide a little bit more color about what that means. And then could you just remind us of the relative size of this market, what's the unmet need, and where Veeva is differentiated here?\n\n## Peter Gassner (Executives)\nYes. So it's more of a feeling when you're approaching a tipping point, it's a little bit different than being at the tipping point. So it's the level of depth of the customer conversations we're having in multiple large customers. Every year, the legacy systems that they're using are aging a little bit. And every year, our cloud-based solutions are getting better and they're getting more optimized and more people are using them.\r\nAnd it's just kind of like that. You have a feeling that the tipping point is coming. We've also filled out our suite. We have our core safety processing application, which we've had for some time, but now we have Safety Signal and Safety Workbench available. Those are -- so those are things they need. And in terms of what they're looking for is, a, they do want a cloud-based system because they don't -- the idea of doing upgrades and taking changes in [ that ] stuff is unappealing. A lot of these systems are legacy and aging. So there's, one, just modernization.\r\nBut the second one is advanced automation. Within the safety system to do some things without manual intervention and then across systems, for example, between clinical data management and the safety system, there's a lot of innovation that we can do because we have both sides of those applications.\r\nSo they're looking for automation, not to take the people totally out of the loop, because the people have to be in the loop to know what's going on so that they can care and notice and act appropriately, but to free them up from the redundant activities that they don't need to be doing.\n\n## Anne McCormick (Analysts)\nThat's really helpful. And then maybe just one more. You noted that your customers are, as you said, settling into the current macro. And I was wondering, are you viewing this as the new normal? And if not, what are you monitoring for early signs of an inflection from here? And which areas of your business would really see a change first?\n\n## Peter Gassner (Executives)\nYes. I think this level of uncertainty that we have in the macro is now what people are accustomed to now. I guess it could change, right? But we won't know if it's changing unless it does change. We haven't detected that. So they're just sort of settling in to getting work done. Actually, code was not that long ago, and that was a real shock to the system, right? That was very, very not normal.\r\nAnd then the two conflicts that we had started, that was also very, very not normal. But now people are getting a little bit more used to these things. The high interest rates, right? For a while, the company had gotten used to very low interest rates. Now it's back to, okay, well, interest is not free anymore. So I don't want to call it really the new normal, but I guess it is new normal.\n\n## Operator (Operator)\nYour next question comes from the line of Dave Windley of Jefferies.\n\n## David Windley (Analysts)\nI was wondering -- I understand you answered the question about changes in administration earlier. But theoretically, if appointments were approved and if appointments followed through on some of their desires and direct-to-consumer advertising was eliminated, how would that impact your business model possibly in any way?\n\n## Paul Shawah (Executives)\nYes. Dave, thanks for the question. So your question, actually, the way you framed it was interesting, right? There's a lot of ifs there, there's a lot of things that would actually have to happen for that to become a reality. The nominations, the priorities, the policy, potentially even legislation to make that happen. So it would be a lot to happen, but it'd certainly be a major change, right? And probably something that's challenged, right?\r\nJust the idea of changing access to patients' rights to information, for example, could become a barrier to that kind of thing happening. So a lot would have to happen, but -- and I think it will likely be challenged. In terms of what happens to our business, I think this is the kind of thing that if it were enacted, would take many, many years because of it being challenged.\r\nSo I don't expect any near-term impact on our business, and I haven't seen our customers really reacting in any sort of negative way, even given some of the commentary that's been out there. So I think it's kind of deal with it when it happens, and I think that's how our customers are thinking about it, and focused on the near term.\n\n## Operator (Operator)\nYour next question comes from the line of Kirk Materne of Evercore ISI.\n\n## William McNamara (Analysts)\nThis is Bill on for Kirk. In the prepared remarks, you noted that Crossix has been driving commercial growth. What factors at play would you say are driving this performance?\n\n## Peter Gassner (Executives)\nI think really good execution by the Crossix team. Real innovation that they're doing, particularly in the audiences area, with the micro audiences is getting more fine-tuned. Also, our data network is growing all the time. We have our data network, we leverage that for Compass and Crossix. So our data network is getting more rich all the time as we add more data sources.\r\nWe have competition in those markets for sure. I think our competition has had some stumbles in the last year or 2 and maybe made some promises that they couldn't deliver on. Veeva tends to do well, right? When a new player comes into a market, makes a lot of promises and then doesn't do well, that creates a tailwind for us. So I think that's a positive.\r\nAlso the integration with our CRM product, I think, is something that customers are noticing, the integration with the rest of the CRM suite. But overall, Crossix, the main driver of our strength -- is not the main driver of our strength in commercial, it's one of the drivers, but it's the CRM products, the Commercial Content products, Compass had a good quarter, et cetera. Crossix was one of the wheels on the train.\n\n## Operator (Operator)\nYour next question comes from the line of Gabriela Borges of Goldman Sachs.\n\n## Gabriela Borges (Analysts)\nI think this one is for Paul. Paul, I want to revisit the discussion on commercial growth and specifically on what's happening with the seat count dynamic versus the add-on and the upsell dynamic within seat count-based commercial.\r\nMaybe just give us an update on how those 2 factors are playing out? And to what extent you're still seeing pressure in seat count, and to what extent you feel confident that you can offset any seat count pressure with add-ons?\n\n## Paul Shawah (Executives)\nYes. So I think your question is about seat count as well as in core CRM also as it relates to the add-ons. So overall, the market is relatively stable. So we -- over the last couple of years, you've heard us talk about some of the shifts in the dynamics as the industry has become a little more digital, we saw some reductions. That has generally stabilized out. So although you may see individual companies adding or reducing their rep counts on average, the industry is relatively stable. So I don't expect much change there.\r\nAs it relates to our add-on products, we continue to make progress there, meaning the attach rates become higher. As every quarter goes on, we tend to increase our attach rates for some of those products. Some have higher attach rates, others still have more room to grow. So that's the way to think about it. I think it will be relatively stable over the next couple of years as it relates to a market perspective. I think the market is at a new steady state.\n\n## Gabriela Borges (Analysts)\nYes. That makes a lot of sense. The follow-up is on your learnings so far from the CRM conversions to Vault that you've already done. Maybe just highlight for us what do you know today that you didn't know a year or 2 ago easing the customer transition to Vault? And how is that helping you navigate some of the conversations on the ground?\n\n## Paul Shawah (Executives)\nYes. So learnings, well, there's a significant difference from where we were 2 years ago to where we are today. A few years ago, it was really -- it was an idea, what we had. Our idea and our strategy was just being formed. And so where we are today is a kind of remarkable difference in terms of what we've been able to achieve.\r\nNow a product and market that's at full functionality, we have our first early migrations, which are planned to be live -- the technical go-lives going -- are happening this year, and then some big migrations happening next year. So we've learned a lot, I would say, around the migration tooling.\r\nWe've built the migration tooling, and now we have confidence that we know what that needs to do. We know -- you always find things as you go along, right? Your learn as you go along, and we found things that didn't work, and we fixed it. And now the migration tooling and technology is in a good place. We've learned ways to help make it even more disruptive -- or even less disruptive for customers. So I think we feel really good about that.\r\nAnd then I think maybe the third thing is just thinking about, particularly for small and midsized customers, how they're able to really take advantage of that move to Vault CRM very quickly and then turning on some of this new innovation very fast, some of our new products like Service Center, Campaign Manager, and then over time, the areas like the connectivity with all PromoMats, the integration with -- the tighter connectivity with things like Microsoft and Teams and Outlook and everything else. So we learned a lot, and we're executing better, and we get better and better each quarter that goes on.\n\n## Operator (Operator)\nYour next question comes from the line of Brent Bracelin of Piper Sandler.\n\n## Brent Bracelin (Analysts)\nReading through the prepared remarks here and the commentary on the call so far, something reads and feels a little different relative to the top 20 appetite to lean into the broader Veeva portfolio here. I know, historically, you've talked about the top 20 governor being maybe engaging one product a year, but I get the sense that maybe there's a greater sense of urgency to move off of legacy and embrace maybe multiple products. Walk me through the level of dialogue you're having across the whole portfolio with these top 20. Is that the right read? Or is it a misread?\n\n## Peter Gassner (Executives)\nI think that read of more comprehensive going at things is probably pretty particular to the Development Cloud area, because that's where our suite is the most mature and most prudent. But I would say in that area, yes, I wouldn't say dramatically more going fast and going all in, but a bit more than it was a year ago.\r\nAnd the reasons for that are pretty mechanical because every year, if we deliver more products, more high-quality products, and have 1 more year of track record of customer success, it's a reinforcing function, and that gives us a lot of -- that gives us a tailwind, but it's also a big responsibility.\r\nSo for example, when the CIO of Boehringer Ingelheim said to everybody at Veeva, you know that we go with Veeva because your stuff works and you deliver on what you said. We take that pretty seriously. Wow, that's a big responsibility. So we've got to deliver what we said we're going to do. So every year we do that, trust increases and trust is a business accelerator as it should be.\n\n## Brent Bracelin (Analysts)\nHelpful color. And then maybe, Brian, for you, 43.5% operating margin. This is kind of the highest we've seen out of Veeva on record, the biggest beat versus your guide in 3 years. A bit of a hot start for you for the first quarter out of the gate, but how should we think about the  cost discipline you put in place in the quarter and leverage and it just -- your guide obviously implies you're going to have some additional expenses here in Q4, but walk us through the philosophy on cost discipline and leverage you showed this quarter and what it means here as we think about next year?\n\n## Brian Van Wagener (Executives)\nBrent, thanks for the question. It's a nice start, certainly, but really a testament to the great execution from the Veeva team. More than half of that outperformance on the margin, as I mentioned, is due to the revenue side. And so that's outstanding execution across our sales team, our services teams, the product teams, the teams working to create value for our customers every day. So we're continuing to be really pleased with the execution on that front.\r\nAnd then as far as the second part of your question around our philosophy around cost management, no real change that I'd say to that philosophy. We think about managing costs on a period-by-period basis. We make investments in growth as we feel we need to, and there happened to be a few expenses this quarter that moved out to other quarters and then that ongoing cost discipline that you've heard from us in the past. So overall, strong execution from the team on both the top and the bottom line.\n\n## Operator (Operator)\nYour next question comes from the line of Stan Berenshteyn of Wells Fargo.\n\n## Stanislav Berenshteyn (Analysts)\nFirst, I would just like to follow up on Vault CRM. At the Investor Day, you had suggested more top 20 commitments likely to be announced over the next 6 months or so. So clearly, these conversations are maturing.\r\nNow as you reflect on these discussions you're having with clients, what have been the gating factors to get these commitments? And with Vault CRM already out in the wild, as you say, has the hurdle for these commitments come down at all?\n\n## Paul Shawah (Executives)\nYes. Stan, first, we're excited about where we are. We got our fourth top 20 commitment. We're executing really well. We're pleased with the progress there. I do continue to expect additional commitments over the next several months.\r\nYes, I mean, it's a significant advantage, having a real product, right? Having a product in the market, we have customers live, we have customers migrating to it, we're innovating in the product in many different ways. And I got to hear a lot about that innovation, our customers' reaction to that innovation in person at our customer summit event, everything from what Peter talked about, sales, marketing and medical in a single Vault that's foundationally different.\r\nOur AI strategy, we talked about how we're executing well against that. So in a sense, I would say, yes, each deal that we have, we make a little more progress. But certainly, I would also kind of balance that with every customer is a little bit different. They optimize for different things. We're certainly not going to win every deal, but we still expect to win the vast majority of the deals that are out there. And we're pleased with kind of where things stand and the progress we're making so far on top 20 and beyond.\n\n## Stanislav Berenshteyn (Analysts)\nGreat. And then quickly, on your pivot toward horizontal enterprise applications, when can we expect a more concrete product strategy that you'll be able to share with us?\n\n## Peter Gassner (Executives)\nI'll take that one. In terms of the new markets, horizontal business applications, we're taking a platform-specific approach there. In terms of any update, in terms of exactly what application area or customer segment, there's no specific time line for that. We'll just have to let that play out, and we'll let you know when we have more information available.\n\n## Operator (Operator)\nYour next question comes from the line of Tyler Radke of Citi.\n\n## Tyler Radke (Analysts)\nAs you think about FY '26, I know you're not giving formal guidance, but just any way of framing how we should think about the growth in the context of this year and your long-term targets?\r\nAnd as we think about the macro environment, clearly, your numbers have been very resilient. But just given you do have longer sales cycles, have you seen any change in sort of the early stages of those larger deals that maybe layering in towards the back half of next year, for instance, that you would call out?\n\n## Brian Van Wagener (Executives)\nTyler, so as Peter covered, I think we've got probably a little bit better visibility to next year, marginally speaking, than prior years. But we're not giving FY '26 guidance. At this time, we'll do that after the Q4 results. Overall, for the year, our updated guidance reflects subscription growth of about 15%. So really pleased with that growth rate against our long-term growth targets.\n\n## Operator (Operator)\nYour next question comes from the line of Craig Hettenbach of Morgan Stanley.\n\n## Craig Hettenbach (Analysts)\nJust going back to the horizontal strategy and the strength in the core business margin profile today, how do you think about that in terms of perhaps giving you a little bit more leverage to make some of these investments as you get that going?\n\n## Peter Gassner (Executives)\nYes, I'll take that one. Well, we -- first, we just have to do the right thing by our customers, and that's about keeping lean teams, product excellence, delivering a lot of value. And you see that in our financial profile, right? We spend almost twice as much in product as we do in sales and marketing. So that's really our focus, being efficient.\r\nAnd then for the horizontal business applications, I think it's not really that we need dollars to invest there. It's really you need a small team and a tiger team and a very focused team. So yes, we certainly have the capital to -- all the cash flows that we would need to invest in the new market's horizontal business applications.\r\nWith the additional revenue that we have coming in, mostly, we're going to put that into customer support and customer success and new products and filling out our existing products inside of life sciences. So that's basically the way to think about that. The revenue in life sciences will really stay in life sciences.\n\n## Craig Hettenbach (Analysts)\nGot it. And then I just had a follow-up question on services. As that market looks to be stabilizing, how do you think about that on like a multiyear profile from a growth, even if it's a range? Like what's a reasonable growth assumption in services looking out next couple of years?\n\n## Brian Van Wagener (Executives)\nCraig, this is Brian. So I think as with the revenue guidance, we won't give specific guidance on services revenue until after our Q4 results, but happy with how the team are continuing to execute and the momentum we saw coming out of Q3.\n\n## Operator (Operator)\nYour next question comes from the line of DJ Hynes of Canaccord.\n\n## David Hynes (Analysts)\nCongrats on nice quarter. Paul, one of the questions I've picked up since Salesforce reported earlier this week is that they called out life sciences cloud as a component of 3 of their top 10 deals in the quarter. I'm not asking you to speak for them. But as you see what's happening at your customers, is there any sense that Salesforce is showing up more often?\n\n## Paul Shawah (Executives)\nYes. I mean, it's certainly in our larger customers. They're in the vast majority of our customers having conversations. And that's no surprise, right? That's not something we are surprised about. We've expected to see that.\r\nIn terms of are they showing up more frequently? I don't know that there's a change. We certainly still see them in the market, and they're the primary competitor. I think as I alluded to before, IQVIA is out of the game. Their product sunset. We're competing with Salesforce. They don't have a product yet. So that's really who the primary competitor is at this point.\n\n## David Hynes (Analysts)\nYes. Yes. Okay. And then, Brian, a follow-up for you. Can you just remind me of the impact that TFC has on margins this year, and whether there's any normalization or reversal that we should be thinking about as we set our models for next year?\n\n## Brian Van Wagener (Executives)\nYes. So on the TFC side, just recall that's predominantly a revenue side normalization, so it impacts the margins a bit. But I think we are certainly excited to jump into next year and to stop having both normalized for TFC and non-normalized for TFC results to report. On the revenue side, it impacted the growth rate year-over-year by about 2%.\n\n## Operator (Operator)\nYour next question comes from the line of Jailendra Singh of Truist Securities.\n\n## Jailendra Singh (Analysts)\nI want to go back to Vault CRM. Congrats on the fourth top biopharma commitment. Can you confirm whether it's an existing CRM customer or a new CRM customer? And related to that, can you remind us what is the average length of time from a customer commitment to Vault, to migration, to when they are live on the platform? If it is largely based on customer preferences, how do they typically think about when they want to migrate post commitment?\n\n## Paul Shawah (Executives)\nYes, Jailendra. So let me take that second part first around migration. I would say it varies pretty significantly by the size and complexity of the customer. If you're a top 20 customer, it's likely very, very different than a small or midsized customer. A small customer may be migrated in, let's say, 4 weeks or 6 weeks. And then as you expand up to a top 20, that can take closer to 2 years, right? So we see that difference.\r\nIn terms of their timing, when they make a commitment? The commitment depends on their time frame. We're not doing anything unnatural to try to force a commitment, and there's a lot of things that they have to think about, what's happening in their own business, the timing of, let's say, launches that they have, should they do the migration before launch or after a launch. So those kinds of things come into play.\r\nSo each customer is a little bit different. They optimize for slightly different things, but our strategy is to make this minimally disruptive and as easy as possible to get them to a decision but also to the migration.\n\n## Jailendra Singh (Analysts)\nAnd whether it's a new customer or an existing CRM customer?\n\n## Peter Gassner (Executives)\nThe question, Paul, was the top 20 win, was that a new customer for us or an existing customer?\n\n## Paul Shawah (Executives)\nYes. So the top 20 that we just announced was an existing customer. So that was -- I think you're referring to the Boehringer Ingelheim announcement. Is that what you're referring to, Jailendra?\n\n## Jailendra Singh (Analysts)\nYes.\n\n## Paul Shawah (Executives)\nYes. So Boehringer Ingelheim has been a very long-term customer for Veeva in commercial and then over the last several years, last couple of years, in R&D also. We've worked very closely with them in the commercial side, made them successful with Veeva CRM, and they're putting their trust in us for Vault CRM for the long term. So yes, existing customer.\n\n## Jailendra Singh (Analysts)\nAnd my follow-up is on the decent acceleration in net head count increase in the quarter. Anything to read into that? I mean, clearly, you're seeing some good momentum here. Any particular areas you guys are focused on with respect to head count additions? Or is it more across the board?\n\n## Brian Van Wagener (Executives)\nThis is Brian. I'll take that question. So we were happy to see head count increase in the quarter. We're continuing to make investments in growth. It's broad-based, but certainly in our product areas is a key focus as we look ahead to next year and something we're pleased with the execution around the hiring of.\n\n## Operator (Operator)\nYour next question comes from the line of Andrew DeGasperi of BNP Paribas.\n\n## Andrew DeGasperi (Analysts)\nI just had two questions. First, on the migration of these customers to Vault CRM. I was just wondering, do we start seeing an impact to gross margin? In other words, that royalty that you pay for Salesforce for Veeva CRM, is that going to improve over the next 2 years as these customers migrate? Or should we see this sort of improve later as the agreement ends?\n\n## Brian Van Wagener (Executives)\nThere is some secular change in gross margins as we look out. But these, recall, are pretty long-range migrations. There's still a long time to go in the Vault migration story, both the decisions that customers are making as well as their migration away from Veeva CRM on the Salesforce platform towards Vault CRM on the Vault platform. And so that adjustment, that shift to margins over time and that improvement will take some time for you to see in the results and really spread out between now and 2030.\n\n## Andrew DeGasperi (Analysts)\nAnd then just on the direct-to-consumer advertising comments you made earlier. I just -- if you could remind us, I mean, is it Crossix the one product that really is focused on that? Or is there others within the Commercial Cloud portfolio? And maybe if you could add in as well, is that really -- in terms of the strength that you saw this year, has this been a change versus previous year?\n\n## Peter Gassner (Executives)\nYes. Crossix is the one from Veeva's that's most involved with direct-to-consumer advertising with some measurement and the audiences around that. Now it's direct-to-consumer, but it's also to the health care providers as well, so Crossix is not only in direct-to-consumer.\r\nAnd Crossix has been performing well for us, but also what's been performing well for us is CRM and the add-ons, the Commercial Content and also our data products, Data Cloud, Veeva Link and Veeva Compass. So in the commercial area, we've had pretty broad-based strength.\n\n## Operator (Operator)\nYour next question comes from the line of David Larsen of BTIG.\n\n## David Larsen (Analysts)\nCongratulations on the very good quarter. The CROs have obviously reported some challenges. Obviously, you're not a CRO doing the clinical trials, but you do sell into that space. Can you maybe just talk about what the difference is there? Why are they seeing challenges but you are not? And has there been any impact to like things like Study Training or Site Connect or any more of those clinical trial-related focused products?\n\n## Peter Gassner (Executives)\nThis is Peter. I'll take that one. The CROs, they do make a lot of their revenue associated with particular studies. So as a customer is planning a study and then they're deciding to go forward and then they're bidding out services and the CRO selects and wins the services, that's a long lag time until the CRO gets revenue and they get revenue from that -- from those studies over the next year or 2 years or even 3 years.\r\nSo I would say a year or so ago and 2 years ago and 1 year ago, there were more customers facing uncertainty, and certainly smaller customers facing funding issues, and so they were stopping planned trials. They don't usually stop the trials that were in flight. So they were maybe stopping some planned trials that would have turned into CRO revenue maybe this year. So that's maybe my best estimate of what you're seeing from the CROs.\r\nNow how has that affected Veeva? It doesn't, really, because most of our revenue is not on a study-by-study basis. CRO is a good channel for us, and some of that is study by study. For example, the EDC is study-by-study, standardization and trial supply management is study by study for us in the CROs. But for example, our eTMF product and our CTMS product, those are long-term enterprise license agreements that are not affected by the ups and downs of study volume. So we're not 100% insulated from the ups and downs in studies, but pretty darn close.\n\n## David Larsen (Analysts)\nAnd then for Vault CRM wins, I think there were 14 in the quarter. That seems like a very good number. They were like 3 and 5 and 5 in fiscal 3Q and 4Q of '24 and 1Q of '25. 14 sounds like a lot. Is that a new sort of steady state? And why is there like such an uptick?\n\n## Paul Shawah (Executives)\nYes. So I think it was -- it might have been 13, if I remember the exact number correctly. But yes, we see roughly that amount in the quarter. In fact, I think it was 13 exactly. We see roughly that amount each quarter. Think about it as these are companies most likely that are choosing [indiscernible] CRM system.\r\nSo most customers that have products in market already, they already have some sort of system. Yes, there's still some of them to win. But the vast majority of the 13 are pre-commercial companies, they may be getting their field medical teams or getting prepared for their commercial launch, and that's what we're winning.\r\nAnd we're winning virtually all of those deals that are out there, and that's the -- that's super exciting for us, and a lot of these customers will continue to grow and expand as they go from their pre-commercial stage into something that's commercial and even larger. But yes, we're winning -- our win rate is very, very high.\n\n## Operator (Operator)\nYour next question comes from the line of Charles Rhyee of TD Cowen.\n\n## Charles Rhyee (Analysts)\nI wanted to ask about, obviously, with the Walgreens strategic partnership, maybe talk about a little bit more where you think you are in your journey in adding data sources to Compass and Data Cloud in general? And maybe just give us a sense on how you feel sort of your competitive position in the market there is currently?\n\n## Peter Gassner (Executives)\nI'll take that one. It's Peter. We're always looking for new data sources, and we look at that and we're patient when we evaluate things, and when we see an opportunity to increase our data network, we'll take that, if it's a reasonable opportunity. So Walgreens was a great partnership that we can have, and there's more of those we can do.\r\nIn terms of our competitive position with our data network, I think we have the strongest data network in the industry. Remember that powers Compass and it also powers Crossix, and it's a patient-first data network. So we're getting a lot of data that has to do with patient data, not just retail pharmacy data. So I feel really comfortable with where we're at and the number of data sources we have and the way we do the matching of the patient data across multiple sources in a very accurate way.\r\nAnd that leads us to be able to make great products in both Compass in the measurement and audiences, but also -- in Crossix, but also in Compass for our Patient product and our Prescriber product. Those are pretty disruptive products for the industry. There's a way that they've been doing things for multiple years. We're bringing out a bit of a disruptive way. So change takes time, but every quarter, we're adding more customers and more customers for Compass patients, and we've got a flywheel going there. It's a little flywheel as right now, but it's spinning and I'm very happy with it.\n\n## Charles Rhyee (Analysts)\nThat's helpful. And maybe just a follow-up on Crossix. Obviously, a key driver of growth in commercial. Can you give us a sense what the Crossix growth rate has been through the first 3 quarters relative to the 11% growth for commercial? Just give us a sense, is it growing faster? Or is it in line? Any color there would be helpful.\n\n## Brian Van Wagener (Executives)\nThis is Brian. I'll take that one. We won't get into specific product level growth rates. But overall pleased with how the Crossix team has performed this year and executed against the market opportunity. It's a really strong and healthy growing market, and we're continuing to take share in that and something we hope to continue going forward.\n\n## Operator (Operator)\nYour next question comes from the line of Brad Sills of Bank of America.\n\n## Bradley Sills (Analysts)\nI wanted to ask a question on just the general demand environment. It sounds like things are fairly stable, but maybe some green shoots that you're seeing in the big pharma. I think in some of the prepared remarks, segment of the commercial business, if I'm not -- I'm sorry, the R&D business, if I'm reading that properly. So are you seeing any kind of indications that things might be turning positive here just in the general spending environment?\n\n## Peter Gassner (Executives)\nI think yes, it's a great environment for Veeva. I wouldn't say great. I think it's stabilized. So as we compare to a year ago, it's a bit better, but these are long-term capabilities, especially in the Development Cloud and with the larger customers' long-term capabilities that they're putting in. So it's not going to have dramatic ups and downs. But what I'm encouraged about is the trains -- these are big trains, and they're moving.\r\nAnd that's what we need to support our 2030 goals, and our goal is to add more value to the industry overall. So I was encouraged. I was really encouraged with the progress this last quarter. I was encouraged and energized by the individual discussions that the Veeva team was having with senior executives and that I was having with senior executives. So it was a good quarter.\n\n## Bradley Sills (Analysts)\nThat's great to hear. And then anything -- any update on the replatforming effort? How do you feel about taking that to some of the larger accounts? Are you getting to the point where you're comfortable doing that? And any kind of early indications of how that's going?\n\n## Peter Gassner (Executives)\nYes, the replatforming of Veeva CRM on to Vault CRM, very comfortable with that. We announced it 2 years ago. Of course, you're not comfortable with anything when you announce it 2 years ago, you announced the plan, and it's an audacious plan and you have to execute on it. So you better be paranoid at that time for obvious reasons, and we were. We were really focused.\r\nWe have live customers now. We have so many of the product features that we needed into the platform. We've adapted the existing CRM product to where we need it, and now it's full functionality as compared -- Vault CRM is full functionality compared to Veeva CRM, and we have these 2 new applications, Campaign Manager and Service Center.\r\nSo it's definitely ready, and we're really excited to have -- if you would have told me -- 2 years ago, if you said, hey, here's where you'll be 2 years from now, I would take that in a heartbeat. I'd be ecstatic. It means that the bears didn't come out to eat us. We got through the forest. So I'm very happy with that.\n\n## Operator (Operator)\nYour next question comes from the line of Steven Valiquette of Mizuho Securities.\n\n## Steven Valiquette (Analysts)\nJust a couple of questions here. First, on the Development Cloud. On the back of our initiation, we did some channel checks on industry R&D spending trends, et cetera. And one of the questions I wanted to ask on that was actually just touched on, on the last question, but maybe just to drill in a little bit deeper.\r\nI mean it does look like clinical trial starts globally are actually growing again now for the last 2 quarters after declining for year-over-year for a couple of years. So I'm just curious as the follow-up question around that, do you guys actually look carefully at data points like that? Or do you just focus more on your own customer discussions, et cetera, that you just alluded to as far as your assessment of the marketplace?\r\nAnd then the only other quick follow-up question really is just at the Analyst Day a few weeks ago, the way you guys broke down your total revenue base by customer type was just a little bit different this year than it was last year. So I'm hoping you can just remind us again, what percent of your total book of business relates to CRO customers just from a percentage of revenue standpoint? I recall it was no more than 5% last year, but I just want to confirm if that was still the case currently.\n\n## Paul Shawah (Executives)\nSteven, let me take the first question, and I'll turn it over to Brian to talk a little bit about CRO revenue and what percent that is. Clinical trial starts, yes, we certainly pay attention to that. It's one metric of many, but I just caution you from over-indexing on any single metric. We certainly don't do that. You heard Peter talk a little bit about how we're insulated from some of the near-term changes in clinical trial volumes as an example. So we don't over-index there.\r\nObviously, over the long term, that matters. In the near term, it's not so important because most of our deals and our customers' buying patterns are more for enterprise capabilities than they are for clinical trial starts. So yes, we pay attention, but not a single metric as the most important. I'll turn it over to Brian to talk a little about -- to answer your second question on CRO revenue.\n\n## Brian Van Wagener (Executives)\nYes. So on the second part of your question around CRO revenue specifically, at Investor Day, as you saw, we embedded the CRO channel within top 20 enterprise and SMB, so it's a little bit harder for the year-over-year comparison. But the last time we disclosed it, it was about 5% of revenue, and it's not materially changed from that.\n\n## Operator (Operator)\nThis concludes our Q&A session. I will now turn the conference back over to Veeva's CEO, Peter Gassner, for closing remarks.\n\n## Peter Gassner (Executives)\nThank you, everyone, for joining the call today, and thank you to our customers for your continued partnership and to the Veeva team for your outstanding work in the quarter. Thank you.\n\n## Operator (Operator)\nThis concludes today's conference call. You may now disconnect.\n",
+  "downloaded_at": "2026-02-17T14:27:55.533729"
+}

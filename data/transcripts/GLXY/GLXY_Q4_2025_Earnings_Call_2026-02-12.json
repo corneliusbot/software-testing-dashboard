@@ -1,0 +1,567 @@
+{
+  "ticker": "GLXY",
+  "company": "Galaxy Digital Inc.",
+  "title": "Q4 2025 Earnings Call",
+  "event_date": "2026-02-12",
+  "header": {
+    "companyId": 24208067,
+    "announcedDate": "2026-02-03T12:00:00Z",
+    "eventDateTime": "2026-02-12T18:30:00Z",
+    "createdAt": "2026-02-14T10:37:53Z",
+    "transcriptTitle": "Galaxy Digital Inc., Q4 2025 Earnings Call, Feb 12, 2026",
+    "situation": "Galaxy Digital Inc., Q4 2025 Earnings Call, Feb 12, 2026",
+    "duration": 2854,
+    "keyDevId": 1982224951,
+    "transcriptId": 3653281,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Edited Copy",
+    "presentationTypeName": "Final",
+    "companyName": "Galaxy Digital Inc.",
+    "formattedTitle": "Q4 2025 Earnings Call",
+    "title": "Galaxy Digital Inc. - Q4 2025 Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "All right. Sorry about that, guys. A little bit of a technical difficulty, but we finally got it going. I am the Head of Comms here at Galaxy, Mike Wursthorn. And I just want to start with a little bit of a disclaimer before we get going.\r\nFirst of all, we're really excited to be hosting our latest quarterly X Spaces following our Q4 earnings. It's a great chance to connect with our retail investors and share more of what we're working on with Galaxy. And today, I'm here joined by our CEO, Mike Novogratz; and our CFO, Tony Paquette. And as always, we're going to try to answer as many questions as we can. But as usual, there are some that we won't be able to answer. So we won't be addressing nonpublic financials or other information that might be inappropriate or\r\n[Technical Difficulty]"
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "All right, guys, can you hear us? Sorry about this. The last few times, we seemed to have gotten this thing right. And this time, we are striking out. I hope that doesn't say a lot for the Bitcoin price action, which has also been pretty s*****. Listen, I'm going to talk to you a little bit about my macro view to start and a quick update on Galaxy, and then we're going to open up to Q&A. \r\nThis is a bear market in crypto right now. We are below every moving average. We had expected better performance last year with gold up. The Bitcoin narratives were working, and we had a good administration, yet we were met with more sellers than buyers. And the only bright news to that story from a Bitcoin perspective is I really do think $60,000 was a 200-week moving average. It looks like what feels like tradable bottom. We put a kind of a spiking low and bounced. And so I'm thinking and hoping that there's enough support that will come in and around these levels to stabilize things. And we're probably in the $60,000, $80,000 range until we get a new narrative that gets people excited about the asset class again.\r\nYou can speculate what that new narrative will be. I do believe the market structure bill will pass, even though at times it feels like it's on its death bed. I think it's going to pass. And I'm fairly certain that the new Fed chair, Kevin Warsh is going to come out of the gates dovish. Now that doesn't happen until he gets approved. That's probably a couple of months from now, but you'll start getting more and more signals that way. And so those are the 2 kind of net positives for Bitcoin. But what we've learned in every cycle is something else always shows up that gets people excited. This asset class is not going away.\r\nThere are 200 million-plus people that own Bitcoin around the world. Institutions are moving into it. It doesn't have a huge allocation in portfolios yet. I'm sure like institutions who aren't in like, I thought I missed that, but man, is it time now. And so I do think we're going to see a new wave of people come in as soon as things settle. And so that goes for Bitcoin. \r\nFor the rest of crypto, we are in this transition from a world where we had crypto assets that all crypto people could trade and it was really a speculative asset class, speculative asset class while building infrastructure that we think will serve the world for the next 50, 100 years, right, peer-to-peer blockchain-based digital plumbing for the world.\r\nAnd so we're in this transition now where there are other speculative assets that people are playing from sports betting to gold and silver to equity markets. And so we've got competition for that wallet. But we're also going to come up and you're starting to see it with perp equities, with perp futures, with tokenized stocks, tokenized fixed income, tokenized mortgages. And that is a bull market. The amount of interest we see from our TradeFi peers in aligning with us, partnering with us, working with us to help them build that infrastructure for the next 10 years is real. And so it's a very weird feeling to be at a crypto business that's busy as hell when prices are going down.\r\nAnd prices are going down aren't good for our business, right? Staking revenue, asset management revenue is all tied to the overall price of the overall token. I'm not bearish Galaxy stock. As you can see, we went into the market with a commitment to -- or not a commitment, a program to buy up to $200 million of stock over the next period of time. We think our stock is cheap down here. Part of that is we have a monster data center business. And part of that is we see our crypto team busy as hell.\r\nAnd so again, not fun to show up when your stock has fallen from great heights to support and when the crypto markets themselves trade fairly sick. But that's where we're at. We are 600 people strong coming to work every day, working our tails off. And listen, if I was nervous, I'd tell you. I'm not. I -- a little angry because when you lose a bunch of money, you get a little angry, but very optimistic on our future.\r\nSo with that, let's have some questions."
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "All right. Thanks for that intro, Mike. So we're going to just start with a few questions that we got in the lead up to the space since last week. Certainly, some questions asked more than others. One of the biggest questions that we got was around our dual listing and if there's any plans to delist from the TSX, Mike?"
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. I wish I could tell you the exact details. Canada was good to us for a while. It will -- we will not be a dual-listed company forever and stay tuned for timing. That's as simple as I can say it."
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Okay. One other question we got a lot of was just our -- in terms of capital raises and our positioning. And I think we just added a little bit of context since we did report earnings just last week, but we announced that we ended the quarter with $3 billion in equity capital, $2.6 billion in cash and stable coins. We raised over $2 billion over the course of 2025. Mike, can you just give us a little framing of why we've been on that path and why that's meaningful as we continue on things like [indiscernible]."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Listen, we raised capital because we needed it. We have a giant infrastructure build in Texas. And it felt really important to me for us to have both the debt and equity capital in the firm in case something like this happened. And so I feel great about those capital raises and shareholders should as well. Again, if you bought it at a bad price, I feel for you. We -- you never know when you raise capital if the market is going up or down.\r\nQuite frankly, when we did our IPO, I kind of felt the stock was cheap and we sold a bunch of stock because that's how you get into the business and the stock doubled. And so you could have argued, God, they were foolish to sell stock, and then they were smart to sell stock. We don't try to time the market. We literally look at our capital needs on a future 18-month basis and want to make sure that we are protected. And so again, there could have been another story where I'm showing up right here and gasping for breath, thinking, oh, we got no liquidity. We got no -- like we feel good. \r\nWe've got tons of liquidity. Post that -- those capital raises, we were awarded another 830 megawatts of power in Texas. And that's like equity almost. That is an unbelievable value asset that has been added to Galaxy since those capital raises. And so if our stock was cheap at $20 when we went public, it's really cheap because we now have that extra 800 megawatts. And so right now, do we have any plans to raise capital? The exact opposite. We're actually buying back our stock because we think it's so cheap."
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Okay. And then I mean, just while you're on the topic of -- you mentioned the 830 megawatts, but we got a number of questions on when should we expect an announcement of a new tenant? You haven't announced anything yet, but anything to say there?"
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. Listen, we literally just got this a couple of weeks ago. And while you have late conversations with people, you don't really engage aggressively until you actually have the paper in your hand. And so we are at full bore with conversations being strategic. There are not that many counterparties that want to write a 20-year lease on an 800-megawatt bulk buy of power. You guys all know who they are. And we're going to talk to them, and we're going to get the best deal for Galaxy.\r\nWe're going to find strategic partners to work with. And like the timing doesn't concern me as much, though it won't be so long because these things don't take that long. It's not that complicated. It's not 50 people we're going to talk to. It's 3 to 4. And hopefully, within a short period of time, we'll have some information."
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Okay. We have a lot of other questions, but we do have a speaker that's requested, a long-time follower, Vinyl. So Vinyl, I'm going to unmute you. Feel free to ask Mike your question."
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Vinyl?"
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Vinyl, can you hear us? All right. While we're waiting for him, I mean I did have one other as..."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Okay. I'm here. I'm here."
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Awesome. All right. Go ahead, man."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Sorry. So I've got a few questions. Thanks for organizing this. Actually, I appreciate that. And I guess many of us do. My questions are regarding the data center business, of course. And the first one I have is regarding the newly authorized 830 megawatts. My question is, if this capacity needs absolutely to be connected to the new Pitchfork or some of it can be connected to Cottonwood, which actually has 1.6 gigawatt capacity."
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. This is a Pitchfork. This is going to be '28, '29, '30 power, and it's going to come off of Pitchfork."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Perfect. Pretty clear. The second one I have is still on the data center business. My question is, when Chris spoke about the intent to do a parallel construction on the data center side while the grid side was being constructed as well. Is it the intent to have a kind of plug-and-play capacity to connect directly all the new capacity to the grid in 2028, 2029? Or there's going to be more steps needed when the grid is going to be ready?"
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "I'm going to let Jonathan answer that question because it's a little more technical than my pea brain can handle."
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Jonathan Goldowsky",
+      "speakerType": "Executives",
+      "text": "Vinyl, good to hear from you. The short answer is once we actually have a tenant leased up, we are going to be building both at the private substation level and then the data center level, while WETT, which is the Wind Energy Transmission of Texas, who's building out that Pitchfork station is building that out. So it'll happen concurrently. The oversimplified explanation is we will be able to connect our substation and data center to that Pitchfork switching station. And so we're able to do a lot of the work in advance and while the actual switching station is getting built."
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Okay. So most of the cash flow from the 1.63 gigawatts should more or less be in action in 2029, if everything goes accordingly?"
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "Jonathan Goldowsky",
+      "speakerType": "Executives",
+      "text": "Yes, I would think of the new 830 as late '28, '29, 2030. And so like it will be energized over the course of that period. But as you know, the first 800, we do plan to be fully energized and online by '28. And so think of it as a ramp schedule over the next 5 years."
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "We're going to have a lot of construction workers in West Texas for 5 years. I mean..."
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "My guess, my guess."
+    },
+    {
+      "componentOrder": 22,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "We have [indiscernible] people living down there right now. We think that's going to max out at about 2,500. And so we built our own little city."
+    },
+    {
+      "componentOrder": 23,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Incredible. And the last question, if I may, is regarding the new report we got from Morgan Stanley, which talked about the possibility to use a BTM solution. Is the BTM solution aimed at the newly approved 830 gigawatt -- megawatt capacity or regarding the 1.7 under study?"
+    },
+    {
+      "componentOrder": 24,
+      "speakerName": "Jonathan Goldowsky",
+      "speakerType": "Executives",
+      "text": "Yes. So you can think of the 830 as fully grid capacity that will come directly from ERCOT. We've done a lot of work internally about exploring different off-grid microgrid type solutions. We do not discount all of the work that goes into making grids reliable and stable over time. And that's not lost on us. So we continue to explore creative innovative solutions, but our focus and what we've got approval for across the 1.63 gigawatts is fully grid power."
+    },
+    {
+      "componentOrder": 25,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Perfect. Thank you very much and thanks for the hard work you're doing on this industry."
+    },
+    {
+      "componentOrder": 26,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thanks, Vinyl, I appreciate it. All right. We're going to go to the next person asking questions, [ Heap My Bags ]."
+    },
+    {
+      "componentOrder": 27,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Can you guys hear me?"
+    },
+    {
+      "componentOrder": 28,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Loud and clear."
+    },
+    {
+      "componentOrder": 29,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "All right. Just wanted to kind of understand what appears to be a hesitancy from Galaxy to really lean into the data center business. I mean, I'm looking at your peers such as Wolf, Cipher, Applied Digital, who have fully pivoted into the data centers and are all kind of trading around the all-time highs, whereas Galaxy is down around 60% in the last few months. And every day, it kind of seems like there's a new article about how Meta wants to build 10 gigawatts, Anthropic wants to build 10 gigawatts.\r\nAnd then Galaxy has had -- still has a bigger balance sheet in terms of cash available to invest and buy and build out capacity, but all those peers are forecasting to have around 500 megawatts of capacity online around the end of 2026 versus Galaxy that's only 133. What is stopping you guys from pulling the trigger on new development opportunity to really ramp up the growth of the data center business?"
+    },
+    {
+      "componentOrder": 30,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. We -- it's a good question. It's a fair question. We are completely engaged in looking for good opportunities and have a bunch that are on the hot plates. And hopefully, we'll come back with one in the next 3 to 6 months. Listen, we're commercial guys, and we look at what the cost is, what the risk is and where the tenants are going to be. And it's easy to go buy a bunch of power that might or might not be developable. Like a lot of the stuff in Texas is now going to be stuck in this bureaucracy and this new batching process. And so you can think you've got a ton of power and you might not get approval for a long period of time. In buying approved power, the market is pretty efficient. And so it's pretty damn expensive.\r\nAnd so we're going to -- we're working to get better relations with the guys that actually use it to work with them to say, what do you need? And so you can bet your bottom dollar that where every bit is focused as the growth -- in the growth of this business, and we're not scared to use our balance sheet. Listen, we started as a crypto business, and it's a business that we still believe in. It's been a sh**** place to be recently for us and for every crypto business. And I do think our stock gets punished because people say, well, it's a crypto business. Like we got a better balance sheet than most of those peers you talked about. We've got equity.\r\nWe've got -- and we've got an amazing capital markets team. Chris Ferraro, that's his DNA, his background. So he feels more comfortable looking at data center leases and data center financing than I ever will and then most people that are in the market. And so like I'm willing to bet big on this team. And I do think you'll see a year from now, a data center business that's a lot bigger than the 2 approved 1.67 gigawatts that we own."
+    },
+    {
+      "componentOrder": 31,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thank you. So while we're waiting for the next question, I have one quick one for you, Mike, since we're talking about Helios again. But has Galaxy ever considered energizing a data center off-grid where we're using maybe solar batteries? What do you think about that generally? I mean right now, we're connected to ERCOT right now."
+    },
+    {
+      "componentOrder": 32,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Listen, to me, and I'm not the technical guy, having spoken to the people that use it, it is a lot easier to be on-grid, a lot easier. And every time -- every business you get into, you want to develop domain expertise, really understand what you're doing and you want to take the straightest path to victory. And we think this is the straightest path to victory. I do have friends that are building monster off-grid solutions. And I look at the amount of risk versus a reward that happens 2031, 2032, I kind of like the bet we're making."
+    },
+    {
+      "componentOrder": 33,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thanks, Mike. All right. So we're going to go to Cognitive Capital. You there, Cognitive?"
+    },
+    {
+      "componentOrder": 34,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Hello?"
+    },
+    {
+      "componentOrder": 35,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "You're on. We can hear you, man."
+    },
+    {
+      "componentOrder": 36,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Sorry about that. I just wanted to ask you about what your thoughts were on the implications of data centers and space. I know Elon Musk is talking a lot about how we don't have enough energy and power on earth, and so he wants to bring that all up to space. How do you -- do you see that as a legitimate opportunity? Or you're not paying too much attention into that?"
+    },
+    {
+      "componentOrder": 37,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "No, listen, anything Elon Musk talks about, you have to actually sit back and say, the guy, he's been right on a lot of things. And so like I'm not going to discount it. When I talk to people in and around the space, they think it will happen one day. One day, it's not 3 years, it's closer to 10. And so yes, I hope he's right for the good of humanity. I don't see it as a near-term threat to our business. And I don't see it as something that we're suited to put any capital into. And so we're going to monitor it.\r\nIf I thought, oh my God, Elon could do this in 2 years, I'd have a very different opinion. But he's done an amazing job of setting a high bar way high, building to it, pivoting when he needs to. Like again, I think about self-driverless cars, we will all be in self-driverless cars yesterday, given that the time frame we thought. And it's going to -- we will all be there one day. It's just taking a lot longer than you think. And I think the same thing with data centers in space."
+    },
+    {
+      "componentOrder": 38,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "A have got a few, Mike, before we go to the next person. But in terms of -- I mean, you talked a lot about CLARITY in terms of competition. How is Galaxy thinking about the competitive landscape now in the future with something like CLARITY coming on? And then obviously, you'd imagine more banks. What's in the space?"
+    },
+    {
+      "componentOrder": 39,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "I mean, listen, the good news about more people in your space is it brings in more capital and more energy. And so I've always said I want TradeFi to join our space. The bad news is they're going to compete in some businesses that we've done well in. And so our strategy is to collaborate with them where necessary and where appropriate to partner with them and to, in our own business, skate to where they're not going to be. And so for us, that's an unchained credit. We think there's a big opportunity there, and we're going to continue to push.\r\nBasically, everything on-chain, I think bringing on chain to the masses and being that intermediate between the on-chain liquidity and the on-chain innovation and our customers is important to us. The other part is that infrastructure business we talked about and supporting that group. But yes, the standard credit business, the derivative business, all of that is going to get more difficult."
+    },
+    {
+      "componentOrder": 40,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thanks, Mike. All right. We're going to go to Sam 247 [indiscernible]."
+    },
+    {
+      "componentOrder": 41,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "The unmuting process takes longer than we thought."
+    },
+    {
+      "componentOrder": 42,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Hello?"
+    },
+    {
+      "componentOrder": 43,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "There you are."
+    },
+    {
+      "componentOrder": 44,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "We can hear you."
+    },
+    {
+      "componentOrder": 45,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Yes. Thanks, Mike, and thanks all for taking the time for this call and for everything. Definitely appreciate it. Just wanted to refer back to what you said, Mike, maybe it might have been last year, definitely, not sure when the exact time it was, but you had the belief that maybe 2 businesses under one roof may be suitable for Galaxy. And then obviously, if you just look at the performance since then, especially within peers, data center peers, obviously, that might not hold true. Just wanted to know your thoughts and if you still believe in that notion about 2 businesses under one roof between the data center business and the digital assets?"
+    },
+    {
+      "componentOrder": 46,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. Well, when we were trading $40, it felt pretty good. And down here at $20, it doesn't feel very good. We're trying not to make a decision based on 3 or 4 months of stock price movement. Right now, I don't think we're getting value for having 2 businesses under one roof, period end of story. And so we're looking at all kinds of ideas on how to create that value. If I had the right answer, I'd give it to you. It's not as easy as snapping your fingers and having 2 separate companies. And so it's something we will work to if we decide that's the way we're going to go. But right now, like the jury loudly is saying you're not getting value for having these 2 businesses together. I'll leave it at that."
+    },
+    {
+      "componentOrder": 47,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thank you. All right. We're going to go to WillT2118. Just unmuted and it's going to take a second, but speak up when you're ready."
+    },
+    {
+      "componentOrder": 48,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Hello. Can you hear me?"
+    },
+    {
+      "componentOrder": 49,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Yes."
+    },
+    {
+      "componentOrder": 50,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Yes. Actually, my question is going to be related to, I think, what Mike was talking about related to the -- trying to break up the company a little bit. And just kind of curious to hear about some of the potential tax advantages and the pros and the cons of doing it now and some of the complications associated with it, if you could be a little bit more specific.\r\nThe second question related to the TSX listing. Are there internal conversations going on about us getting delisted from -- off the Canadian exchange? And what are some of the advantages or disadvantages of going down that path? Third, final question, if you could provide more context on GK8, kind of what's going on in that business in regards to what they're seeing on the tokenization front and the possibility of us seeing some bigger developments on that side and commentary on what we should be on the lookout for."
+    },
+    {
+      "componentOrder": 51,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Listen, I'm going to go in reverse order. So on the GK8 side, we're plugging along. We've had some good news that hopefully we'll announce soon. But the bigger story there is we're combining and we already made this announcement internally, maybe externally, all our infrastructure business is under one roof. And taking the strengths of GK8 and the strengths of our team here, tokenization team, the staking team, the team that builds the guts of this place. We put them under one lieutenant. He's captaining that ship, and we're already seeing great synergies there.\r\nThings that GK8 is good at, we're going to leverage here, things that we're good at, we're going to leverage with them. And so hopefully, that becomes a really big and important business for us. Early -- we're going to get some early wins, it looks like, and that will, I think, increase my confidence. But we're spending money there. We believe we need to win there or at least be in the group of winners there. And so that's the GK8 story.\r\nI'll let Tony talk about the Canadian story real quick."
+    },
+    {
+      "componentOrder": 52,
+      "speakerName": "Anthony Paquette",
+      "speakerType": "Executives",
+      "text": "Yes. It's Tony Paquette. So you had 2 other questions on tax and TSX. I'll just say on tax, we're not going to get more specific in details. But what I will say is, first of all, any consideration we would take around maximizing value for shareholders certainly takes into account the tax implications. As you're probably aware, we are an Up-C listed company, which is a bit unique into its own right. The operating partnership underneath the publicly traded shares is a partnership structure, which has its tax dynamics.\r\nAnd then importantly, our investment in Helios is in what's called a qualified opportunity zone, which has a set of very distinct tax benefits in terms of deferrals and step-ups, which is all well known. But from our standpoint, that is a really, really important consideration when we think about the after-tax considerations for value for shareholders. So it is, to your -- I think, the essence of your question, a complicated piece underneath the surface, but we're just not going to be specific on what that means other than to say, rest assured, we're very focused on the after-tax impact for shareholders here.\r\nOn TSX, I think Mike addressed this briefly at the outset. We're not -- again, we're not going to say a lot more other than we are considering the nature, the liquidity, the diversification of the shareholder base, who the shareholders are and frankly, their ability to invest in our company in the context of where it trades publicly. You can look at the volumes today and see that something like north of 90% of all trading volume on Galaxy stock is now traded on NASDAQ or in the U.S. and related exchanges. And so those are some of the things we're thinking about in the context, but we'll stay tuned, and we'll share more with you when the time is appropriate."
+    },
+    {
+      "componentOrder": 53,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. And just listen, the little nuanced differences are real at times. There's just a different set of reporting metrics in Canada than there are in the U.S. on lots of things. And that becomes -- if there's not a big advantage for it, it becomes a disadvantage. And so that probably is heading in one direction, and we'll keep you posted. The only other thing I would say on tax is that if you read the guts of the big beautiful bill, CapEx spend on manufacturing is you get to amortize the spend to the year you start producing.\r\nAnd so like this is -- 2026, we're delivering data halls. And so all that CapEx spend is going to be a deduction against earnings. I just need Bitcoin to go up a little bit. But -- so we're in a very, very good tax position for a long time given that just on the first days, we're going to spend $7 billion of Galaxy money. So if you put the 2 together and you assume it's going to be close, we're probably a $15 billion to $20 billion CapEx spend here in the next 5 years. And so that's a lot of earnings that will, in essence, be protected."
+    },
+    {
+      "componentOrder": 54,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "All right. We're going to go to Data Center Danny. You're unmuted. Just feel free to start speaking when you're ready."
+    },
+    {
+      "componentOrder": 55,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "He's going to ask me about Bitcoin."
+    },
+    {
+      "componentOrder": 56,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Danny, can you hear us?"
+    },
+    {
+      "componentOrder": 57,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Give him a few more seconds. How is like Big Dog Crypto?"
+    },
+    {
+      "componentOrder": 58,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Big Dog Crypto. Well, let's go to a repeat question first then. All right. We'll come back to you, Danny, if you can come back on. But Cognitive here, I think we tried to go to you before and you had a question. Do you want to ask anything else?"
+    },
+    {
+      "componentOrder": 59,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Can you guys hear me?"
+    },
+    {
+      "componentOrder": 60,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Yes."
+    },
+    {
+      "componentOrder": 61,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "On the $200 million share repurchase program, I wanted to know were there any specific triggers or market conditions that would maybe accelerate repurchases under this program? What are your thoughts on that?"
+    },
+    {
+      "componentOrder": 62,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Listen, we're going to look at things week-to-week and make what we think is the right decision for shareholders. And I think giving any more information on like that is a fool's errand. And so I'm going to leave it at that. But we take our capital and our capital road map very seriously, and we're trying to do the best for shareholders."
+    },
+    {
+      "componentOrder": 63,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Do you have any other questions Cognitive? All right."
+    },
+    {
+      "componentOrder": 64,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "That's it."
+    },
+    {
+      "componentOrder": 65,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thank you. We're going to go to Bizarre Coin. Can you hear us? All right. Well, if you come back on, we'll go back to you. But Mike really wants to talk to Big Dog Crypto. So we're going to him and let him go."
+    },
+    {
+      "componentOrder": 66,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "I like anyone with the name Big Dog."
+    },
+    {
+      "componentOrder": 67,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "I just have a general question. I think a lot of people want to know, and it's kind of, I'd say, a challenging one. But with the new Fed Chair coming in and just a generalization, we know that the markets maybe for everybody hasn't been exactly what we expected. But when you look at the liquidity, you look at the rates, do you even want to gander a guess or a time frame of when we could perhaps see more liquidity coming into risk on assets and in particular, Bitcoin, Ethereum I'm going on a bit of a wrong. Would just be interested in your thoughts."
+    },
+    {
+      "componentOrder": 68,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "So listen, Kevin Warsh is a great pick if you're an American, right? He is a guy of a lot of integrity. He spent the last 10 years of his life sitting 20-odd feet away from Stan Druckenmiller, who is pretty much the hero of every macro trader. What makes Stan so good, it's his discipline. And I think Kevin is equally disciplined. And so disciplined guys take their integrity seriously. And so I think Kevin is going to make the right decision when he needs to. And what I mean by that is right now, he's dovish, right? He believes that AI is going to crush inflation and that we have inflation heading lower and therefore, rates are too high, he's going to cut rates.\r\nBut if the world changes, he will change. And if Donald Trump is arguing with him, I've never seen a better and more eloquent debater, negotiator, communicator than Kevin Warsh. He's smooth, he's smart. He's got a high EQ, he's got a high IQ. And so I think -- I bet my bet is that if we really need to stop cutting rates, he'll convince the President that we need to stop cutting rates. And so what does that do? It means it takes the tail risk away from us becoming turkey, right? The risk was, oh my God, the President is going to force the Central Bank Governor to do anything he wants. And that risk has gone away because the Fed Chair has independence for 6 years after he gets voted. And the President can yell and scream.\r\nBut as you saw with Chairman Powell, he said pound sand, even when they threatened to sue him. And I think Kevin will take a different approach than Chairman Powell and that my guess is he'll talk to the President all the time and keep him posted and keep making the President feel like he knows what's going on and that he's got a close relationship. So I think that part is actually an advantage given this President. But yes, when he gets in, he's going to cut rates, and that will help the risk asset."
+    },
+    {
+      "componentOrder": 69,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "And of course, coming up in one final part of that, coming up to midterms and stuff, do you think when you look at the economy and look at where things are with markets and stuff, do you -- I don't want to say do you see him juiced up?"
+    },
+    {
+      "componentOrder": 70,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Listen, every single -- this is not me being left or me being right. Every President who's looking at an election figures out how can I buy some votes? How can I juice the system. So yes, I think you're going to see rebates. You're going to see, we'll back away from tariffs on this person or that person, like the Republicans want to win."
+    },
+    {
+      "componentOrder": 71,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "I was going to say if you just look at history, though, right, you look at the midterm, you look at the party in power. I agree with you on that. Just interested in your thoughts. So all good, brother. Enjoying -- listening everything and looking forward to seeing how things go."
+    },
+    {
+      "componentOrder": 72,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "It will be a huge surprise that the Republicans can hold the house. And so what really is at risk here is the Senate. And what's the -- what's crazy is they're doing something so right, right? But they're doing other things that really are grating with the American people the wrong way, ICE being one of them. And so it depends -- we'll see to see Fire Christino. Do they pivot away on ICE? Do they calm things down? Like I think the government is going to shut down. We're going to have -- not the government shut down, you're going to have DHS shut down this week, probably for a week.\r\nSo what does that mean? It means it's going to suck if you're flying, right? Because the TSA is part of that, they're going to -- and the people are going to scream and yell and -- but -- and the Democrats were asking for face masks and -- or no masks and body cams and stuff like that and the Republicans are pushing back, don't tell us what to do. That will come to a head in the next 10 days. But I actually think you'll see the President pivot away from that because he wants to win."
+    },
+    {
+      "componentOrder": 73,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "As James Carville, who, of course, is here in New Orleans always talks about the economy going back to Clinton '92. And one final thing it will be interesting to see, I think, what happens to prices of stuff at the store, right? Some things have come down, some things just have not in general, I don't think there's even any precedent. People never want to lower prices, right, once they're up. I think the next 6 months are going to show a lot, right?"
+    },
+    {
+      "componentOrder": 74,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Trump is so interesting. So the Biden economy, right, he created more jobs than a President in history. He left with the stock market on the high, right? And inflation went from a high level when he came in to a very low level when he was leaving. So if you're a Biden guy, you're like, oh my God, this guy was a great economic President. Yet half the country, more than half said, what do you mean? Things suck, right?\r\nTrump is having the same problem. Stock market at 50,000, down at 50,000, hanging on our chest, right? Inflation falling, GDP growing. I mean, on the sheer macroeconomic numbers, this is one of the best economies we've seen in a long, long time. Yet for over 50% of the people, they said, what the f*** you are looking at? What are you talking about? It s****. It's the exact same story Biden had. And it's really hard given AI and globalization, we have a structural problem where the wealthy are getting much wealthier than everyone else at an accelerating rate.\r\nNow you got a guy like Elon Musk is almost $1 trillionaire. That sends such a psychic message to people who are barely making ends meet. And it's not Elon Musk's fault, but it's bringing up this really hard politics, which pushes us to populism, which gave us Mamdani in New York, which is asking for a wealth tax in California. And the Trump voter and the far left voter are pretty aligned. Like at one point, they're going to bring out the Pitchforks and say s**** the rich people. The system is not working for us."
+    },
+    {
+      "componentOrder": 75,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "I believe one final point. I think this is interesting because whether you're -- for the Democrats or Republicans or whatever, people go with their pocketbook, right? So they can look at stuff, they can comment left and right. When they go to the store, they see a price of something is up. And I think the challenge is whether Biden was in or Trump was in, if somebody raises the price, right, or whatever it may be, there's not a lot of incentive to lower it, right? Because how many prices in our lives, right, once they go up, they go down, not often. So I don't think it's a challenge to get stuff down. You know what I mean, like not for everything, but especially for food and stuff."
+    },
+    {
+      "componentOrder": 76,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "So all right. We got time for one more question, and then we'll let Mike and Tony, if you want to share any closing thoughts. But Bizarre Coin, we tried to go to you earlier. We'll give you one more chance."
+    },
+    {
+      "componentOrder": 77,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "I have a few questions on Helios. They are a bit technical. I'm not asking them because I'm interested in the technicals, but I'm actually asking them because I would like to get a better understanding for risks along the path of you guys starting to read cash flow from CoreWeave. First question, for the 133 megawatts. It appears that everything is on track and all you guys are missing is what is being referred to as telemetry tests, and that seems to come down to some certain sensors. Can you just somehow explain in probably more simple English. Are you guys ready to get this online in April and have all these sensors been installed?"
+    },
+    {
+      "componentOrder": 78,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Let me tell you that we are going to be online. And your question on exactly the nuance of what's going to get us online, I'm going to pass on because it's above my pay grade. I call our guys. We've got a great team, and we keep checking with them. And we're going to be online in the first half of this year, and you're going to see cash flow start. So the plan we've laid out on our earnings call, nothing has really changed."
+    },
+    {
+      "componentOrder": 79,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Okay. So not April, but first half for sure, I'm taking that away."
+    },
+    {
+      "componentOrder": 80,
+      "speakerName": "Anthony Paquette",
+      "speakerType": "Executives",
+      "text": "Let me clarify. This is Tony. So what we've said and nothing has changed on this is we expect to be delivering first data halls by the -- or first data hall by the end of the first quarter and the remaining data halls by the end of Q2. So that is the sort of time line that we've been working towards. To your question, without getting overly specific, but a little more color, there's a process for commissioning and testing these data halls for delivery.\r\nYou asked a very specific and narrow one. We're not going to address that level of specificity. But safe to say, all elements of commissioning and testing are going to go through for each individual hall. And those are very, very important processes, right? Those take some time and they need to be done correctly and carefully. So it's -- that is kind of where we're at in the process and the time."
+    },
+    {
+      "componentOrder": 81,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Okay. I appreciate the clarity. Then from there on, moving to the next 660 megawatt. Again, in me trying to understand if there are any risks for you to bring this online over the next, say, 24 months. What it seems to come down is AEP Texas seems to need to install these large power transformers, that's what they've been called to -- and thus perform the required substation upgrades. Now in drilling down on this, what I find out is that effectively, there are cash deposits that you guys are making -- Galaxy is making to AEP Texas, which are treated as what's called contribution in aid of construction.\r\nSo it's those cash deposits which secure AEP Texas receiving those large power transformers on time. Anything you can shed on this? Can you give us any more light? Is this well on course? Will these large power transformers be there for you in '26, '27? This seems to be in heavy demand."
+    },
+    {
+      "componentOrder": 82,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "I'm going to have Jonathan answer that question but you might want to just send me your resume because we might have to bring you on the team."
+    },
+    {
+      "componentOrder": 83,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "I'll do that. I'll do it Mike. No problem."
+    },
+    {
+      "componentOrder": 84,
+      "speakerName": "Jonathan Goldowsky",
+      "speakerType": "Executives",
+      "text": "Yes. So we have an approved interconnect agreement with AEP. We have 6 main power transformers already on site, on concrete slabs at the Helios campus, which enables us to deliver the full 800 megawatts of gross power that we've ultimately leased out to CoreWeave. We've had those on site for well over a year. We were very proactive early on before the AI data center trend on actually securing those large pieces of electrical infrastructure."
+    },
+    {
+      "componentOrder": 85,
+      "speakerName": "Unknown Attendee",
+      "speakerType": "Attendees",
+      "text": "Excellent. I like hearing that. That's very good news. Well, if I just may finish with one question, that's a little more for the crypto business. It's rather simple. I mean, you started the call, Mike, by saying how prices affect so much of your P&L, be that staking, be that revenues from asset management. Are you implementing any hedging strategies given, let's say, the lessons learned over the last 24 months with regard to asset prices and the way they will then impact your P&L? Is that anything you guys are discussing? Yes, share your thoughts on that."
+    },
+    {
+      "componentOrder": 86,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "We look at the balance sheet, and we put on hedges from time to time, sometimes very large ones. The business itself, we can put some hedges around the business. That's harder. But for the balance sheet, we certainly can. And so when the market goes down, we hope to lose a whole lot less than if we just sat on our balance sheet the entire time. Sometimes we way outperform and sometimes we just perform. And so -- but yes, that's part of the shop that I run very intensely. And again, it's not easy.\r\nListen, we started this conversation a long time ago when we started this, like we believe that Bitcoin is going to be a generational asset. That doesn't mean that at $130, I wish I didn't sell half of it to buy it back at $60, but it's hard to be a gold company without owning gold and believing in gold. And so almost every employee -- I shouldn't say almost because I don't know about the security guard.\r\nAll our employees here joined Galaxy because they had a belief that crypto and digital assets will be a much bigger part of the ecosystem, the financial market infrastructure, consumer market infrastructure in the future. And they shouldn't work here if they don't believe that. Part of that has always been Bitcoin has been our symbolic asset that demonstrated confidence in that future. And so it's hard when Bitcoin goes down for employees to say, oh, s***. But we haven't had anyone flinch, right? And so in a lot of ways, owning crypto assets is endemic to us being in this industry."
+    },
+    {
+      "componentOrder": 87,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thanks for the question. And really, thanks to everybody for all the questions you gave and for bearing with us through those initial technical difficulties, which we will certainly work out before the next quarterly Spaces. Before we go, though, I do want to give Mike just a few moments to close this out."
+    },
+    {
+      "componentOrder": 88,
+      "speakerName": "Michael Novogratz",
+      "speakerType": "Executives",
+      "text": "Yes. So in the old days, when I was young, when you got in trouble, your dad would smack the s*** out of you. And so Wursthorn is just lucky that this isn't the old days, and we do apologize for being 10 minutes late. I hate being late. It just drives me crazy. And so I do -- we wasted your time. I apologize for that. Wursthorn is going to get punished in some nonphysical way. Guys, thanks a lot. We're working hard. Be well."
+    },
+    {
+      "componentOrder": 89,
+      "speakerName": "Michael Wursthorn",
+      "speakerType": "Executives",
+      "text": "Thanks all."
+    }
+  ],
+  "text": "# Galaxy Digital Inc. - Q4 2025 Earnings Call\nDate: 2026-02-12T18:30:00Z\nType: Earnings Calls\n\n## Michael Wursthorn (Executives)\nAll right. Sorry about that, guys. A little bit of a technical difficulty, but we finally got it going. I am the Head of Comms here at Galaxy, Mike Wursthorn. And I just want to start with a little bit of a disclaimer before we get going.\r\nFirst of all, we're really excited to be hosting our latest quarterly X Spaces following our Q4 earnings. It's a great chance to connect with our retail investors and share more of what we're working on with Galaxy. And today, I'm here joined by our CEO, Mike Novogratz; and our CFO, Tony Paquette. And as always, we're going to try to answer as many questions as we can. But as usual, there are some that we won't be able to answer. So we won't be addressing nonpublic financials or other information that might be inappropriate or\r\n[Technical Difficulty]\n\n## Michael Novogratz (Executives)\nAll right, guys, can you hear us? Sorry about this. The last few times, we seemed to have gotten this thing right. And this time, we are striking out. I hope that doesn't say a lot for the Bitcoin price action, which has also been pretty s*****. Listen, I'm going to talk to you a little bit about my macro view to start and a quick update on Galaxy, and then we're going to open up to Q&A. \r\nThis is a bear market in crypto right now. We are below every moving average. We had expected better performance last year with gold up. The Bitcoin narratives were working, and we had a good administration, yet we were met with more sellers than buyers. And the only bright news to that story from a Bitcoin perspective is I really do think $60,000 was a 200-week moving average. It looks like what feels like tradable bottom. We put a kind of a spiking low and bounced. And so I'm thinking and hoping that there's enough support that will come in and around these levels to stabilize things. And we're probably in the $60,000, $80,000 range until we get a new narrative that gets people excited about the asset class again.\r\nYou can speculate what that new narrative will be. I do believe the market structure bill will pass, even though at times it feels like it's on its death bed. I think it's going to pass. And I'm fairly certain that the new Fed chair, Kevin Warsh is going to come out of the gates dovish. Now that doesn't happen until he gets approved. That's probably a couple of months from now, but you'll start getting more and more signals that way. And so those are the 2 kind of net positives for Bitcoin. But what we've learned in every cycle is something else always shows up that gets people excited. This asset class is not going away.\r\nThere are 200 million-plus people that own Bitcoin around the world. Institutions are moving into it. It doesn't have a huge allocation in portfolios yet. I'm sure like institutions who aren't in like, I thought I missed that, but man, is it time now. And so I do think we're going to see a new wave of people come in as soon as things settle. And so that goes for Bitcoin. \r\nFor the rest of crypto, we are in this transition from a world where we had crypto assets that all crypto people could trade and it was really a speculative asset class, speculative asset class while building infrastructure that we think will serve the world for the next 50, 100 years, right, peer-to-peer blockchain-based digital plumbing for the world.\r\nAnd so we're in this transition now where there are other speculative assets that people are playing from sports betting to gold and silver to equity markets. And so we've got competition for that wallet. But we're also going to come up and you're starting to see it with perp equities, with perp futures, with tokenized stocks, tokenized fixed income, tokenized mortgages. And that is a bull market. The amount of interest we see from our TradeFi peers in aligning with us, partnering with us, working with us to help them build that infrastructure for the next 10 years is real. And so it's a very weird feeling to be at a crypto business that's busy as hell when prices are going down.\r\nAnd prices are going down aren't good for our business, right? Staking revenue, asset management revenue is all tied to the overall price of the overall token. I'm not bearish Galaxy stock. As you can see, we went into the market with a commitment to -- or not a commitment, a program to buy up to $200 million of stock over the next period of time. We think our stock is cheap down here. Part of that is we have a monster data center business. And part of that is we see our crypto team busy as hell.\r\nAnd so again, not fun to show up when your stock has fallen from great heights to support and when the crypto markets themselves trade fairly sick. But that's where we're at. We are 600 people strong coming to work every day, working our tails off. And listen, if I was nervous, I'd tell you. I'm not. I -- a little angry because when you lose a bunch of money, you get a little angry, but very optimistic on our future.\r\nSo with that, let's have some questions.\n\n## Michael Wursthorn (Executives)\nAll right. Thanks for that intro, Mike. So we're going to just start with a few questions that we got in the lead up to the space since last week. Certainly, some questions asked more than others. One of the biggest questions that we got was around our dual listing and if there's any plans to delist from the TSX, Mike?\n\n## Michael Novogratz (Executives)\nYes. I wish I could tell you the exact details. Canada was good to us for a while. It will -- we will not be a dual-listed company forever and stay tuned for timing. That's as simple as I can say it.\n\n## Michael Wursthorn (Executives)\nOkay. One other question we got a lot of was just our -- in terms of capital raises and our positioning. And I think we just added a little bit of context since we did report earnings just last week, but we announced that we ended the quarter with $3 billion in equity capital, $2.6 billion in cash and stable coins. We raised over $2 billion over the course of 2025. Mike, can you just give us a little framing of why we've been on that path and why that's meaningful as we continue on things like [indiscernible].\n\n## Michael Novogratz (Executives)\nListen, we raised capital because we needed it. We have a giant infrastructure build in Texas. And it felt really important to me for us to have both the debt and equity capital in the firm in case something like this happened. And so I feel great about those capital raises and shareholders should as well. Again, if you bought it at a bad price, I feel for you. We -- you never know when you raise capital if the market is going up or down.\r\nQuite frankly, when we did our IPO, I kind of felt the stock was cheap and we sold a bunch of stock because that's how you get into the business and the stock doubled. And so you could have argued, God, they were foolish to sell stock, and then they were smart to sell stock. We don't try to time the market. We literally look at our capital needs on a future 18-month basis and want to make sure that we are protected. And so again, there could have been another story where I'm showing up right here and gasping for breath, thinking, oh, we got no liquidity. We got no -- like we feel good. \r\nWe've got tons of liquidity. Post that -- those capital raises, we were awarded another 830 megawatts of power in Texas. And that's like equity almost. That is an unbelievable value asset that has been added to Galaxy since those capital raises. And so if our stock was cheap at $20 when we went public, it's really cheap because we now have that extra 800 megawatts. And so right now, do we have any plans to raise capital? The exact opposite. We're actually buying back our stock because we think it's so cheap.\n\n## Michael Wursthorn (Executives)\nOkay. And then I mean, just while you're on the topic of -- you mentioned the 830 megawatts, but we got a number of questions on when should we expect an announcement of a new tenant? You haven't announced anything yet, but anything to say there?\n\n## Michael Novogratz (Executives)\nYes. Listen, we literally just got this a couple of weeks ago. And while you have late conversations with people, you don't really engage aggressively until you actually have the paper in your hand. And so we are at full bore with conversations being strategic. There are not that many counterparties that want to write a 20-year lease on an 800-megawatt bulk buy of power. You guys all know who they are. And we're going to talk to them, and we're going to get the best deal for Galaxy.\r\nWe're going to find strategic partners to work with. And like the timing doesn't concern me as much, though it won't be so long because these things don't take that long. It's not that complicated. It's not 50 people we're going to talk to. It's 3 to 4. And hopefully, within a short period of time, we'll have some information.\n\n## Michael Wursthorn (Executives)\nOkay. We have a lot of other questions, but we do have a speaker that's requested, a long-time follower, Vinyl. So Vinyl, I'm going to unmute you. Feel free to ask Mike your question.\n\n## Michael Novogratz (Executives)\nVinyl?\n\n## Michael Wursthorn (Executives)\nVinyl, can you hear us? All right. While we're waiting for him, I mean I did have one other as...\n\n## Unknown Attendee (Attendees)\nOkay. I'm here. I'm here.\n\n## Michael Wursthorn (Executives)\nAwesome. All right. Go ahead, man.\n\n## Unknown Attendee (Attendees)\nSorry. So I've got a few questions. Thanks for organizing this. Actually, I appreciate that. And I guess many of us do. My questions are regarding the data center business, of course. And the first one I have is regarding the newly authorized 830 megawatts. My question is, if this capacity needs absolutely to be connected to the new Pitchfork or some of it can be connected to Cottonwood, which actually has 1.6 gigawatt capacity.\n\n## Michael Novogratz (Executives)\nYes. This is a Pitchfork. This is going to be '28, '29, '30 power, and it's going to come off of Pitchfork.\n\n## Unknown Attendee (Attendees)\nPerfect. Pretty clear. The second one I have is still on the data center business. My question is, when Chris spoke about the intent to do a parallel construction on the data center side while the grid side was being constructed as well. Is it the intent to have a kind of plug-and-play capacity to connect directly all the new capacity to the grid in 2028, 2029? Or there's going to be more steps needed when the grid is going to be ready?\n\n## Michael Novogratz (Executives)\nI'm going to let Jonathan answer that question because it's a little more technical than my pea brain can handle.\n\n## Jonathan Goldowsky (Executives)\nVinyl, good to hear from you. The short answer is once we actually have a tenant leased up, we are going to be building both at the private substation level and then the data center level, while WETT, which is the Wind Energy Transmission of Texas, who's building out that Pitchfork station is building that out. So it'll happen concurrently. The oversimplified explanation is we will be able to connect our substation and data center to that Pitchfork switching station. And so we're able to do a lot of the work in advance and while the actual switching station is getting built.\n\n## Unknown Attendee (Attendees)\nOkay. So most of the cash flow from the 1.63 gigawatts should more or less be in action in 2029, if everything goes accordingly?\n\n## Jonathan Goldowsky (Executives)\nYes, I would think of the new 830 as late '28, '29, 2030. And so like it will be energized over the course of that period. But as you know, the first 800, we do plan to be fully energized and online by '28. And so think of it as a ramp schedule over the next 5 years.\n\n## Michael Novogratz (Executives)\nWe're going to have a lot of construction workers in West Texas for 5 years. I mean...\n\n## Unknown Attendee (Attendees)\nMy guess, my guess.\n\n## Michael Novogratz (Executives)\nWe have [indiscernible] people living down there right now. We think that's going to max out at about 2,500. And so we built our own little city.\n\n## Unknown Attendee (Attendees)\nIncredible. And the last question, if I may, is regarding the new report we got from Morgan Stanley, which talked about the possibility to use a BTM solution. Is the BTM solution aimed at the newly approved 830 gigawatt -- megawatt capacity or regarding the 1.7 under study?\n\n## Jonathan Goldowsky (Executives)\nYes. So you can think of the 830 as fully grid capacity that will come directly from ERCOT. We've done a lot of work internally about exploring different off-grid microgrid type solutions. We do not discount all of the work that goes into making grids reliable and stable over time. And that's not lost on us. So we continue to explore creative innovative solutions, but our focus and what we've got approval for across the 1.63 gigawatts is fully grid power.\n\n## Unknown Attendee (Attendees)\nPerfect. Thank you very much and thanks for the hard work you're doing on this industry.\n\n## Michael Wursthorn (Executives)\nThanks, Vinyl, I appreciate it. All right. We're going to go to the next person asking questions, [ Heap My Bags ].\n\n## Unknown Attendee (Attendees)\nCan you guys hear me?\n\n## Michael Wursthorn (Executives)\nLoud and clear.\n\n## Unknown Attendee (Attendees)\nAll right. Just wanted to kind of understand what appears to be a hesitancy from Galaxy to really lean into the data center business. I mean, I'm looking at your peers such as Wolf, Cipher, Applied Digital, who have fully pivoted into the data centers and are all kind of trading around the all-time highs, whereas Galaxy is down around 60% in the last few months. And every day, it kind of seems like there's a new article about how Meta wants to build 10 gigawatts, Anthropic wants to build 10 gigawatts.\r\nAnd then Galaxy has had -- still has a bigger balance sheet in terms of cash available to invest and buy and build out capacity, but all those peers are forecasting to have around 500 megawatts of capacity online around the end of 2026 versus Galaxy that's only 133. What is stopping you guys from pulling the trigger on new development opportunity to really ramp up the growth of the data center business?\n\n## Michael Novogratz (Executives)\nYes. We -- it's a good question. It's a fair question. We are completely engaged in looking for good opportunities and have a bunch that are on the hot plates. And hopefully, we'll come back with one in the next 3 to 6 months. Listen, we're commercial guys, and we look at what the cost is, what the risk is and where the tenants are going to be. And it's easy to go buy a bunch of power that might or might not be developable. Like a lot of the stuff in Texas is now going to be stuck in this bureaucracy and this new batching process. And so you can think you've got a ton of power and you might not get approval for a long period of time. In buying approved power, the market is pretty efficient. And so it's pretty damn expensive.\r\nAnd so we're going to -- we're working to get better relations with the guys that actually use it to work with them to say, what do you need? And so you can bet your bottom dollar that where every bit is focused as the growth -- in the growth of this business, and we're not scared to use our balance sheet. Listen, we started as a crypto business, and it's a business that we still believe in. It's been a sh**** place to be recently for us and for every crypto business. And I do think our stock gets punished because people say, well, it's a crypto business. Like we got a better balance sheet than most of those peers you talked about. We've got equity.\r\nWe've got -- and we've got an amazing capital markets team. Chris Ferraro, that's his DNA, his background. So he feels more comfortable looking at data center leases and data center financing than I ever will and then most people that are in the market. And so like I'm willing to bet big on this team. And I do think you'll see a year from now, a data center business that's a lot bigger than the 2 approved 1.67 gigawatts that we own.\n\n## Michael Wursthorn (Executives)\nThank you. So while we're waiting for the next question, I have one quick one for you, Mike, since we're talking about Helios again. But has Galaxy ever considered energizing a data center off-grid where we're using maybe solar batteries? What do you think about that generally? I mean right now, we're connected to ERCOT right now.\n\n## Michael Novogratz (Executives)\nListen, to me, and I'm not the technical guy, having spoken to the people that use it, it is a lot easier to be on-grid, a lot easier. And every time -- every business you get into, you want to develop domain expertise, really understand what you're doing and you want to take the straightest path to victory. And we think this is the straightest path to victory. I do have friends that are building monster off-grid solutions. And I look at the amount of risk versus a reward that happens 2031, 2032, I kind of like the bet we're making.\n\n## Michael Wursthorn (Executives)\nThanks, Mike. All right. So we're going to go to Cognitive Capital. You there, Cognitive?\n\n## Unknown Attendee (Attendees)\nHello?\n\n## Michael Wursthorn (Executives)\nYou're on. We can hear you, man.\n\n## Unknown Attendee (Attendees)\nSorry about that. I just wanted to ask you about what your thoughts were on the implications of data centers and space. I know Elon Musk is talking a lot about how we don't have enough energy and power on earth, and so he wants to bring that all up to space. How do you -- do you see that as a legitimate opportunity? Or you're not paying too much attention into that?\n\n## Michael Novogratz (Executives)\nNo, listen, anything Elon Musk talks about, you have to actually sit back and say, the guy, he's been right on a lot of things. And so like I'm not going to discount it. When I talk to people in and around the space, they think it will happen one day. One day, it's not 3 years, it's closer to 10. And so yes, I hope he's right for the good of humanity. I don't see it as a near-term threat to our business. And I don't see it as something that we're suited to put any capital into. And so we're going to monitor it.\r\nIf I thought, oh my God, Elon could do this in 2 years, I'd have a very different opinion. But he's done an amazing job of setting a high bar way high, building to it, pivoting when he needs to. Like again, I think about self-driverless cars, we will all be in self-driverless cars yesterday, given that the time frame we thought. And it's going to -- we will all be there one day. It's just taking a lot longer than you think. And I think the same thing with data centers in space.\n\n## Michael Wursthorn (Executives)\nA have got a few, Mike, before we go to the next person. But in terms of -- I mean, you talked a lot about CLARITY in terms of competition. How is Galaxy thinking about the competitive landscape now in the future with something like CLARITY coming on? And then obviously, you'd imagine more banks. What's in the space?\n\n## Michael Novogratz (Executives)\nI mean, listen, the good news about more people in your space is it brings in more capital and more energy. And so I've always said I want TradeFi to join our space. The bad news is they're going to compete in some businesses that we've done well in. And so our strategy is to collaborate with them where necessary and where appropriate to partner with them and to, in our own business, skate to where they're not going to be. And so for us, that's an unchained credit. We think there's a big opportunity there, and we're going to continue to push.\r\nBasically, everything on-chain, I think bringing on chain to the masses and being that intermediate between the on-chain liquidity and the on-chain innovation and our customers is important to us. The other part is that infrastructure business we talked about and supporting that group. But yes, the standard credit business, the derivative business, all of that is going to get more difficult.\n\n## Michael Wursthorn (Executives)\nThanks, Mike. All right. We're going to go to Sam 247 [indiscernible].\n\n## Michael Novogratz (Executives)\nThe unmuting process takes longer than we thought.\n\n## Unknown Attendee (Attendees)\nHello?\n\n## Michael Novogratz (Executives)\nThere you are.\n\n## Michael Wursthorn (Executives)\nWe can hear you.\n\n## Unknown Attendee (Attendees)\nYes. Thanks, Mike, and thanks all for taking the time for this call and for everything. Definitely appreciate it. Just wanted to refer back to what you said, Mike, maybe it might have been last year, definitely, not sure when the exact time it was, but you had the belief that maybe 2 businesses under one roof may be suitable for Galaxy. And then obviously, if you just look at the performance since then, especially within peers, data center peers, obviously, that might not hold true. Just wanted to know your thoughts and if you still believe in that notion about 2 businesses under one roof between the data center business and the digital assets?\n\n## Michael Novogratz (Executives)\nYes. Well, when we were trading $40, it felt pretty good. And down here at $20, it doesn't feel very good. We're trying not to make a decision based on 3 or 4 months of stock price movement. Right now, I don't think we're getting value for having 2 businesses under one roof, period end of story. And so we're looking at all kinds of ideas on how to create that value. If I had the right answer, I'd give it to you. It's not as easy as snapping your fingers and having 2 separate companies. And so it's something we will work to if we decide that's the way we're going to go. But right now, like the jury loudly is saying you're not getting value for having these 2 businesses together. I'll leave it at that.\n\n## Michael Wursthorn (Executives)\nThank you. All right. We're going to go to WillT2118. Just unmuted and it's going to take a second, but speak up when you're ready.\n\n## Unknown Attendee (Attendees)\nHello. Can you hear me?\n\n## Michael Wursthorn (Executives)\nYes.\n\n## Unknown Attendee (Attendees)\nYes. Actually, my question is going to be related to, I think, what Mike was talking about related to the -- trying to break up the company a little bit. And just kind of curious to hear about some of the potential tax advantages and the pros and the cons of doing it now and some of the complications associated with it, if you could be a little bit more specific.\r\nThe second question related to the TSX listing. Are there internal conversations going on about us getting delisted from -- off the Canadian exchange? And what are some of the advantages or disadvantages of going down that path? Third, final question, if you could provide more context on GK8, kind of what's going on in that business in regards to what they're seeing on the tokenization front and the possibility of us seeing some bigger developments on that side and commentary on what we should be on the lookout for.\n\n## Michael Novogratz (Executives)\nListen, I'm going to go in reverse order. So on the GK8 side, we're plugging along. We've had some good news that hopefully we'll announce soon. But the bigger story there is we're combining and we already made this announcement internally, maybe externally, all our infrastructure business is under one roof. And taking the strengths of GK8 and the strengths of our team here, tokenization team, the staking team, the team that builds the guts of this place. We put them under one lieutenant. He's captaining that ship, and we're already seeing great synergies there.\r\nThings that GK8 is good at, we're going to leverage here, things that we're good at, we're going to leverage with them. And so hopefully, that becomes a really big and important business for us. Early -- we're going to get some early wins, it looks like, and that will, I think, increase my confidence. But we're spending money there. We believe we need to win there or at least be in the group of winners there. And so that's the GK8 story.\r\nI'll let Tony talk about the Canadian story real quick.\n\n## Anthony Paquette (Executives)\nYes. It's Tony Paquette. So you had 2 other questions on tax and TSX. I'll just say on tax, we're not going to get more specific in details. But what I will say is, first of all, any consideration we would take around maximizing value for shareholders certainly takes into account the tax implications. As you're probably aware, we are an Up-C listed company, which is a bit unique into its own right. The operating partnership underneath the publicly traded shares is a partnership structure, which has its tax dynamics.\r\nAnd then importantly, our investment in Helios is in what's called a qualified opportunity zone, which has a set of very distinct tax benefits in terms of deferrals and step-ups, which is all well known. But from our standpoint, that is a really, really important consideration when we think about the after-tax considerations for value for shareholders. So it is, to your -- I think, the essence of your question, a complicated piece underneath the surface, but we're just not going to be specific on what that means other than to say, rest assured, we're very focused on the after-tax impact for shareholders here.\r\nOn TSX, I think Mike addressed this briefly at the outset. We're not -- again, we're not going to say a lot more other than we are considering the nature, the liquidity, the diversification of the shareholder base, who the shareholders are and frankly, their ability to invest in our company in the context of where it trades publicly. You can look at the volumes today and see that something like north of 90% of all trading volume on Galaxy stock is now traded on NASDAQ or in the U.S. and related exchanges. And so those are some of the things we're thinking about in the context, but we'll stay tuned, and we'll share more with you when the time is appropriate.\n\n## Michael Novogratz (Executives)\nYes. And just listen, the little nuanced differences are real at times. There's just a different set of reporting metrics in Canada than there are in the U.S. on lots of things. And that becomes -- if there's not a big advantage for it, it becomes a disadvantage. And so that probably is heading in one direction, and we'll keep you posted. The only other thing I would say on tax is that if you read the guts of the big beautiful bill, CapEx spend on manufacturing is you get to amortize the spend to the year you start producing.\r\nAnd so like this is -- 2026, we're delivering data halls. And so all that CapEx spend is going to be a deduction against earnings. I just need Bitcoin to go up a little bit. But -- so we're in a very, very good tax position for a long time given that just on the first days, we're going to spend $7 billion of Galaxy money. So if you put the 2 together and you assume it's going to be close, we're probably a $15 billion to $20 billion CapEx spend here in the next 5 years. And so that's a lot of earnings that will, in essence, be protected.\n\n## Michael Wursthorn (Executives)\nAll right. We're going to go to Data Center Danny. You're unmuted. Just feel free to start speaking when you're ready.\n\n## Michael Novogratz (Executives)\nHe's going to ask me about Bitcoin.\n\n## Michael Wursthorn (Executives)\nDanny, can you hear us?\n\n## Michael Novogratz (Executives)\nGive him a few more seconds. How is like Big Dog Crypto?\n\n## Michael Wursthorn (Executives)\nBig Dog Crypto. Well, let's go to a repeat question first then. All right. We'll come back to you, Danny, if you can come back on. But Cognitive here, I think we tried to go to you before and you had a question. Do you want to ask anything else?\n\n## Unknown Attendee (Attendees)\nCan you guys hear me?\n\n## Michael Wursthorn (Executives)\nYes.\n\n## Unknown Attendee (Attendees)\nOn the $200 million share repurchase program, I wanted to know were there any specific triggers or market conditions that would maybe accelerate repurchases under this program? What are your thoughts on that?\n\n## Michael Novogratz (Executives)\nListen, we're going to look at things week-to-week and make what we think is the right decision for shareholders. And I think giving any more information on like that is a fool's errand. And so I'm going to leave it at that. But we take our capital and our capital road map very seriously, and we're trying to do the best for shareholders.\n\n## Michael Wursthorn (Executives)\nDo you have any other questions Cognitive? All right.\n\n## Unknown Attendee (Attendees)\nThat's it.\n\n## Michael Wursthorn (Executives)\nThank you. We're going to go to Bizarre Coin. Can you hear us? All right. Well, if you come back on, we'll go back to you. But Mike really wants to talk to Big Dog Crypto. So we're going to him and let him go.\n\n## Michael Novogratz (Executives)\nI like anyone with the name Big Dog.\n\n## Unknown Attendee (Attendees)\nI just have a general question. I think a lot of people want to know, and it's kind of, I'd say, a challenging one. But with the new Fed Chair coming in and just a generalization, we know that the markets maybe for everybody hasn't been exactly what we expected. But when you look at the liquidity, you look at the rates, do you even want to gander a guess or a time frame of when we could perhaps see more liquidity coming into risk on assets and in particular, Bitcoin, Ethereum I'm going on a bit of a wrong. Would just be interested in your thoughts.\n\n## Michael Novogratz (Executives)\nSo listen, Kevin Warsh is a great pick if you're an American, right? He is a guy of a lot of integrity. He spent the last 10 years of his life sitting 20-odd feet away from Stan Druckenmiller, who is pretty much the hero of every macro trader. What makes Stan so good, it's his discipline. And I think Kevin is equally disciplined. And so disciplined guys take their integrity seriously. And so I think Kevin is going to make the right decision when he needs to. And what I mean by that is right now, he's dovish, right? He believes that AI is going to crush inflation and that we have inflation heading lower and therefore, rates are too high, he's going to cut rates.\r\nBut if the world changes, he will change. And if Donald Trump is arguing with him, I've never seen a better and more eloquent debater, negotiator, communicator than Kevin Warsh. He's smooth, he's smart. He's got a high EQ, he's got a high IQ. And so I think -- I bet my bet is that if we really need to stop cutting rates, he'll convince the President that we need to stop cutting rates. And so what does that do? It means it takes the tail risk away from us becoming turkey, right? The risk was, oh my God, the President is going to force the Central Bank Governor to do anything he wants. And that risk has gone away because the Fed Chair has independence for 6 years after he gets voted. And the President can yell and scream.\r\nBut as you saw with Chairman Powell, he said pound sand, even when they threatened to sue him. And I think Kevin will take a different approach than Chairman Powell and that my guess is he'll talk to the President all the time and keep him posted and keep making the President feel like he knows what's going on and that he's got a close relationship. So I think that part is actually an advantage given this President. But yes, when he gets in, he's going to cut rates, and that will help the risk asset.\n\n## Unknown Attendee (Attendees)\nAnd of course, coming up in one final part of that, coming up to midterms and stuff, do you think when you look at the economy and look at where things are with markets and stuff, do you -- I don't want to say do you see him juiced up?\n\n## Michael Novogratz (Executives)\nListen, every single -- this is not me being left or me being right. Every President who's looking at an election figures out how can I buy some votes? How can I juice the system. So yes, I think you're going to see rebates. You're going to see, we'll back away from tariffs on this person or that person, like the Republicans want to win.\n\n## Unknown Attendee (Attendees)\nI was going to say if you just look at history, though, right, you look at the midterm, you look at the party in power. I agree with you on that. Just interested in your thoughts. So all good, brother. Enjoying -- listening everything and looking forward to seeing how things go.\n\n## Michael Novogratz (Executives)\nIt will be a huge surprise that the Republicans can hold the house. And so what really is at risk here is the Senate. And what's the -- what's crazy is they're doing something so right, right? But they're doing other things that really are grating with the American people the wrong way, ICE being one of them. And so it depends -- we'll see to see Fire Christino. Do they pivot away on ICE? Do they calm things down? Like I think the government is going to shut down. We're going to have -- not the government shut down, you're going to have DHS shut down this week, probably for a week.\r\nSo what does that mean? It means it's going to suck if you're flying, right? Because the TSA is part of that, they're going to -- and the people are going to scream and yell and -- but -- and the Democrats were asking for face masks and -- or no masks and body cams and stuff like that and the Republicans are pushing back, don't tell us what to do. That will come to a head in the next 10 days. But I actually think you'll see the President pivot away from that because he wants to win.\n\n## Unknown Attendee (Attendees)\nAs James Carville, who, of course, is here in New Orleans always talks about the economy going back to Clinton '92. And one final thing it will be interesting to see, I think, what happens to prices of stuff at the store, right? Some things have come down, some things just have not in general, I don't think there's even any precedent. People never want to lower prices, right, once they're up. I think the next 6 months are going to show a lot, right?\n\n## Michael Novogratz (Executives)\nTrump is so interesting. So the Biden economy, right, he created more jobs than a President in history. He left with the stock market on the high, right? And inflation went from a high level when he came in to a very low level when he was leaving. So if you're a Biden guy, you're like, oh my God, this guy was a great economic President. Yet half the country, more than half said, what do you mean? Things suck, right?\r\nTrump is having the same problem. Stock market at 50,000, down at 50,000, hanging on our chest, right? Inflation falling, GDP growing. I mean, on the sheer macroeconomic numbers, this is one of the best economies we've seen in a long, long time. Yet for over 50% of the people, they said, what the f*** you are looking at? What are you talking about? It s****. It's the exact same story Biden had. And it's really hard given AI and globalization, we have a structural problem where the wealthy are getting much wealthier than everyone else at an accelerating rate.\r\nNow you got a guy like Elon Musk is almost $1 trillionaire. That sends such a psychic message to people who are barely making ends meet. And it's not Elon Musk's fault, but it's bringing up this really hard politics, which pushes us to populism, which gave us Mamdani in New York, which is asking for a wealth tax in California. And the Trump voter and the far left voter are pretty aligned. Like at one point, they're going to bring out the Pitchforks and say s**** the rich people. The system is not working for us.\n\n## Unknown Attendee (Attendees)\nI believe one final point. I think this is interesting because whether you're -- for the Democrats or Republicans or whatever, people go with their pocketbook, right? So they can look at stuff, they can comment left and right. When they go to the store, they see a price of something is up. And I think the challenge is whether Biden was in or Trump was in, if somebody raises the price, right, or whatever it may be, there's not a lot of incentive to lower it, right? Because how many prices in our lives, right, once they go up, they go down, not often. So I don't think it's a challenge to get stuff down. You know what I mean, like not for everything, but especially for food and stuff.\n\n## Michael Wursthorn (Executives)\nSo all right. We got time for one more question, and then we'll let Mike and Tony, if you want to share any closing thoughts. But Bizarre Coin, we tried to go to you earlier. We'll give you one more chance.\n\n## Unknown Attendee (Attendees)\nI have a few questions on Helios. They are a bit technical. I'm not asking them because I'm interested in the technicals, but I'm actually asking them because I would like to get a better understanding for risks along the path of you guys starting to read cash flow from CoreWeave. First question, for the 133 megawatts. It appears that everything is on track and all you guys are missing is what is being referred to as telemetry tests, and that seems to come down to some certain sensors. Can you just somehow explain in probably more simple English. Are you guys ready to get this online in April and have all these sensors been installed?\n\n## Michael Novogratz (Executives)\nLet me tell you that we are going to be online. And your question on exactly the nuance of what's going to get us online, I'm going to pass on because it's above my pay grade. I call our guys. We've got a great team, and we keep checking with them. And we're going to be online in the first half of this year, and you're going to see cash flow start. So the plan we've laid out on our earnings call, nothing has really changed.\n\n## Unknown Attendee (Attendees)\nOkay. So not April, but first half for sure, I'm taking that away.\n\n## Anthony Paquette (Executives)\nLet me clarify. This is Tony. So what we've said and nothing has changed on this is we expect to be delivering first data halls by the -- or first data hall by the end of the first quarter and the remaining data halls by the end of Q2. So that is the sort of time line that we've been working towards. To your question, without getting overly specific, but a little more color, there's a process for commissioning and testing these data halls for delivery.\r\nYou asked a very specific and narrow one. We're not going to address that level of specificity. But safe to say, all elements of commissioning and testing are going to go through for each individual hall. And those are very, very important processes, right? Those take some time and they need to be done correctly and carefully. So it's -- that is kind of where we're at in the process and the time.\n\n## Unknown Attendee (Attendees)\nOkay. I appreciate the clarity. Then from there on, moving to the next 660 megawatt. Again, in me trying to understand if there are any risks for you to bring this online over the next, say, 24 months. What it seems to come down is AEP Texas seems to need to install these large power transformers, that's what they've been called to -- and thus perform the required substation upgrades. Now in drilling down on this, what I find out is that effectively, there are cash deposits that you guys are making -- Galaxy is making to AEP Texas, which are treated as what's called contribution in aid of construction.\r\nSo it's those cash deposits which secure AEP Texas receiving those large power transformers on time. Anything you can shed on this? Can you give us any more light? Is this well on course? Will these large power transformers be there for you in '26, '27? This seems to be in heavy demand.\n\n## Michael Novogratz (Executives)\nI'm going to have Jonathan answer that question but you might want to just send me your resume because we might have to bring you on the team.\n\n## Unknown Attendee (Attendees)\nI'll do that. I'll do it Mike. No problem.\n\n## Jonathan Goldowsky (Executives)\nYes. So we have an approved interconnect agreement with AEP. We have 6 main power transformers already on site, on concrete slabs at the Helios campus, which enables us to deliver the full 800 megawatts of gross power that we've ultimately leased out to CoreWeave. We've had those on site for well over a year. We were very proactive early on before the AI data center trend on actually securing those large pieces of electrical infrastructure.\n\n## Unknown Attendee (Attendees)\nExcellent. I like hearing that. That's very good news. Well, if I just may finish with one question, that's a little more for the crypto business. It's rather simple. I mean, you started the call, Mike, by saying how prices affect so much of your P&L, be that staking, be that revenues from asset management. Are you implementing any hedging strategies given, let's say, the lessons learned over the last 24 months with regard to asset prices and the way they will then impact your P&L? Is that anything you guys are discussing? Yes, share your thoughts on that.\n\n## Michael Novogratz (Executives)\nWe look at the balance sheet, and we put on hedges from time to time, sometimes very large ones. The business itself, we can put some hedges around the business. That's harder. But for the balance sheet, we certainly can. And so when the market goes down, we hope to lose a whole lot less than if we just sat on our balance sheet the entire time. Sometimes we way outperform and sometimes we just perform. And so -- but yes, that's part of the shop that I run very intensely. And again, it's not easy.\r\nListen, we started this conversation a long time ago when we started this, like we believe that Bitcoin is going to be a generational asset. That doesn't mean that at $130, I wish I didn't sell half of it to buy it back at $60, but it's hard to be a gold company without owning gold and believing in gold. And so almost every employee -- I shouldn't say almost because I don't know about the security guard.\r\nAll our employees here joined Galaxy because they had a belief that crypto and digital assets will be a much bigger part of the ecosystem, the financial market infrastructure, consumer market infrastructure in the future. And they shouldn't work here if they don't believe that. Part of that has always been Bitcoin has been our symbolic asset that demonstrated confidence in that future. And so it's hard when Bitcoin goes down for employees to say, oh, s***. But we haven't had anyone flinch, right? And so in a lot of ways, owning crypto assets is endemic to us being in this industry.\n\n## Michael Wursthorn (Executives)\nThanks for the question. And really, thanks to everybody for all the questions you gave and for bearing with us through those initial technical difficulties, which we will certainly work out before the next quarterly Spaces. Before we go, though, I do want to give Mike just a few moments to close this out.\n\n## Michael Novogratz (Executives)\nYes. So in the old days, when I was young, when you got in trouble, your dad would smack the s*** out of you. And so Wursthorn is just lucky that this isn't the old days, and we do apologize for being 10 minutes late. I hate being late. It just drives me crazy. And so I do -- we wasted your time. I apologize for that. Wursthorn is going to get punished in some nonphysical way. Guys, thanks a lot. We're working hard. Be well.\n\n## Michael Wursthorn (Executives)\nThanks all.\n",
+  "downloaded_at": "2026-02-17T14:31:23.781043"
+}

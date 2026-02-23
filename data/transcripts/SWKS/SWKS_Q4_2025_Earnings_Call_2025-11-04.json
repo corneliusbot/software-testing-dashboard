@@ -1,0 +1,351 @@
+{
+  "ticker": "SWKS",
+  "company": "Skyworks Solutions, Inc.",
+  "title": "Q4 2025 Earnings Call",
+  "event_date": "2025-11-04",
+  "header": {
+    "companyId": 1462309,
+    "announcedDate": "2025-10-21T12:01:00Z",
+    "eventDateTime": "2025-11-04T21:30:00Z",
+    "createdAt": "2025-11-12T07:29:37Z",
+    "transcriptTitle": "Skyworks Solutions, Inc., Q4 2025 Earnings Call, Nov 04, 2025",
+    "situation": "Skyworks Solutions, Inc., Q4 2025 Earnings Call, Nov 04, 2025",
+    "duration": 1974,
+    "keyDevId": 1966871070,
+    "transcriptId": 3588699,
+    "eventType": "Earnings Calls",
+    "collectionTypeName": "Proofed Copy",
+    "presentationTypeName": "Final",
+    "companyName": "Skyworks Solutions, Inc.",
+    "formattedTitle": "Q4 2025 Earnings Call",
+    "title": "Skyworks Solutions, Inc. - Q4 2025 Earnings Call"
+  },
+  "components": [
+    {
+      "componentOrder": 0,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Thank you for standing by. My name is Kathleen, and I will be your conference operator today. At this time, I would like to welcome everyone to the Skyworks Fourth Quarter for year 2025 Earnings Call. [Operator Instructions] \r\nThank you. I would now like to turn the call over to Raji Gill, Vice President of Investor Relations of Skyworks. Please go ahead."
+    },
+    {
+      "componentOrder": 1,
+      "speakerName": "Rajvindra Gill",
+      "speakerType": "Executives",
+      "text": "Thank you, operator. Good afternoon, everyone, and welcome to Skyworks' Fourth Fiscal Quarter 2025 Conference Call. With me today for our prepared remarks is Phil Brace, our Chief Executive Officer and President; and Philip Carter, Senior Vice President and Chief Financial Officer for Skyworks.\r\nThis call is being broadcast over the web and can be accessed from the Investor Relations section of the company's website at skyworksinc.com. In addition, the company's prepared remarks will be made available on our website promptly after the conclusion during the call.\r\nBefore we begin, I would like to remind everyone that our discussion will include statements relating to future results and expectations that are or may be considered forward-looking statements. Please refer to our earnings press release and recent SEC filings, including our annual report on Form 10-K for information on certain risks that could cause actual outcomes to differ materially and adversely from any forward-looking statements made today.\r\nAdditionally, today's discussion will include non-GAAP financial measures consistent with our past practice. Please refer to our press release within the Investor Relations section of our company website for a complete reconciliation to GAAP.\r\nLastly, for detailed information regarding the Skyworks and Qorvo combination announced on October 28, I encourage you to review the press release, investor presentation and related materials available on our Investor Relations website. Today's call, however, will focus on our fiscal fourth quarter and full year 2025 results as well as our outlook for the December quarter.\r\nWith that, I'll turn the call over to Phil Brace."
+    },
+    {
+      "componentOrder": 2,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Thanks, Raji, and welcome, everyone. Before getting into the quarterly results, I want to take a moment to reflect on what we've accomplished over the past few quarters. One, we've had 3 straight quarters of solid execution with both revenue and non-GAAP EPS exceeding expectations. We're seeing strong momentum across mobile and broad markets as our teams continue to execute.\r\nTwo, we streamlined our sales and marketing teams to be more customer-focused and enhanced collaboration with the engineering teams, appointed a new executive to lead global sales and welcomed a new Chief Financial Officer, further strengthening our leadership team as we position the company for its next phase of growth.\r\nThree, last quarter, we announced the consolidation of our Woburn facility to improve our long-term cost structure and support healthier gross margins.\r\nAnd finally, for last week, we announced an agreement to combine with Qorvo, a transformative deal that upon closing will add meaningful scale, diversification and a broader, highly complementary technology and product portfolio.\r\nMoving to the quarter. Skyworks delivered strong results, fueled by a significant upside in mobile and sustained strength across broad markets. We posted revenue of $1.1 billion, delivered earnings per share of $1.76, and for the full fiscal year, we generated $1.1 billion of free cash, representing 27% free cash flow margin.\r\nIn mobile, results again were strong, with revenue up 21% sequentially and 7% year-over-year. Our outperformance reflects healthy sell-through and a richer product mix at our top customer, along with continued growth in Android. Looking ahead, we see multiple drivers of long-term RF content growth. Internal modem adoption, added AI functionality and higher RF complexity are expanding our opportunity inside the smartphone.\r\nWe're also delivering more performance in smaller form factors supporting new features within existing sockets. With our deep RF expertise, strong customer relationships and manufacturing scale, we are well positioned as the next phase of wireless innovation take shape.\r\nBroad Markets has delivered another solid quarter. Demand was broad-based across edge IoT, automotive and data center. In edge IoT, WiFi 7 adoption continues to accelerate across home, enterprise and industrial applications. Customers are moving quickly to upgrade platforms that require faster connectivity, lower latency and better power efficiency. Backlog and order trends remain solid and we anticipate continued strong adoption entering fiscal '26. We're also making good progress on next-generation WiFi 8 programs to extend that leadership.\r\nIn automotive, design activity remains robust as vehicles become more connected and intelligent. The run rate exiting fiscal '25 represents a new record for our automotive business, surpassing our previous high in fiscal '23. We're entering next year with a robust pipeline of design wins across 5G telematics, infotainment and power management systems across a broad set of global OEMs.\r\nIn data center infrastructure, activity continues to rebound as customer inventories have normalized. The recovery that began in mid-fiscal '25 has continued to gain traction and we see a favorable setup for further growth into fiscal '26. This quarter's momentum was supported by broad-based demand, including increasing timing design win activity for next-generation 800-gig platforms for data center and cloud infrastructure.\r\nTaken together, Broad Markets has evolved into a more balanced and durable growth engine for Skyworks. Now an approximately $1.5 billion business with positive momentum over the past 7 quarters, expanding customer reach and margins above the overall corporate average.\r\nBefore we move into the financial details, I'd like to take a moment and welcome Philip Carter as our new CFO. Philip brings extensive financial and accounting experience in the semiconductor space, having previously served as Skyworks' Principal Accounting Officer before becoming the Chief Accounting Officer at AMD. We're happy to have him back and look forward to working together as we continue building Skyworks for the long term.\r\nWith that, I'll turn the call over to Philip for a discussion of last quarter's performance and outlook for Q1 of fiscal '26."
+    },
+    {
+      "componentOrder": 3,
+      "speakerName": "Philip Carter",
+      "speakerType": "Executives",
+      "text": "Thanks, Phil. I'm excited to be back at Skyworks and to work again with such a talented team. Having spent many years here in my career, it's great to see the company's continued momentum and strong execution. I look forward to partnering with Phil and the rest of the leadership team to drive long-term value for shareholders.\r\nNow turning to our fourth fiscal quarter results. Skyworks delivered revenue of $1.1 billion, exceeding the high end of our guidance range. During the quarter, our largest customer accounted for approximately 67% of revenue. Mobile represented 65% of total revenue, up 21% sequentially and 7% year-over-year, supported by stronger sell-through at our top customer and continued growth in Android. Broad Markets grew 3% sequentially and 7% year-over-year, driven by growth across edge IoT, automotive and data center.\r\nGross profit was $511 million with gross margin of 46.5%. Operating expenses were $247 million, slightly above the high end of our guidance range, primarily due to higher employee incentive accruals tied to stronger quarterly revenue. We're keeping a disciplined approach to spending, investing where it matters most for future growth.\r\nOperating income reached $264 million, translating to an operating margin of 24%. Other income was $11 million, and our effective tax rate was 4.1%, resulting in net income of $264 million and diluted earnings per share of $1.76. For the full fiscal year, we generated $1.3 billion of operating cash flow and capital expenditures of $195 million, resulting in annual free cash flow of $1.1 billion or 27% free cash flow margin. We do expect free cash flow to remain solid in fiscal '26 but below fiscal '25, given the lower expected revenue base and more normalized working capital trends, particularly as we no longer expect a tailwind from inventory reductions.\r\nWe ended the quarter with $1.4 billion in cash and investments and $1 billion in debt, maintaining a strong balance sheet and ample flexibility to support our strategic and financial priorities.\r\nLooking ahead to the first quarter of fiscal '26, we expect revenue to be between $975 million to $1.025 billion. We anticipate mobile to decline low to mid-teens sequentially. We expect broad markets to be up slightly sequentially, representing 39% of sales and up mid- to high single digits year-over-year. Gross margin is projected to be approximately 46% to 47%. We expect operating expenses between $230 million and $240 million as we continue to fund key R&D initiatives while maintaining tight control over discretionary spending. Below the line, we anticipate approximately $4 million in other income, an effective tax rate of 10% and a diluted share count of 150.5 million shares. At the midpoint of our revenue outlook of $1 billion, this equates to expected diluted earnings per share of $1.40.\r\nWith that, I'll turn it back to Phil for closing remarks."
+    },
+    {
+      "componentOrder": 4,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Thank you, Phil. A heartfelt thank you to our employees, customers and partners. Your hard work and support fuels our success and sets the stage for continued leadership and growth. Operator, let's open the line for questions."
+    },
+    {
+      "componentOrder": 5,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "[Operator Instructions] And your first question comes from the line of Harsh Kumar of Piper Sandler."
+    },
+    {
+      "componentOrder": 6,
+      "speakerName": "Harsh Kumar",
+      "speakerType": "Analysts",
+      "text": "I guess, Phil and Phil, congratulations on solid results, what I think is a very good guidance as well. Phil Brace, I had a question for you. It was not that long ago that your company was telegraphing a loss of content at your largest customers, but all things considered, when I look at what you guys have done, your revenues are holding really well. I mean, extremely well. And I was curious what has changed or what didn't happen or maybe what went right for you, was it units? Or was it share or just traction in other areas that is causing you to outperform relative to that prognosis maybe 6 to 9 months ago?"
+    },
+    {
+      "componentOrder": 7,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes. Thanks, Harsh. It's a good question. Look, obviously, we've been pleased with our results. The mobile results were stronger than expected and our guide reflects that. I think there's a number of factors for that. First, obviously, units are better than expected. Our customers -- our collective customers, both our large ones as well as Android ones are seeing very positive uptake from the latest phone models, which I think has been successful. We've seen some of that. Frankly, we've also seen some mix in the underlying phones that have been geared towards our content as well. \r\nSo we've had a little bit about the unit benefit and a mix benefit, it's -- obviously, as you can imagine, it's a little difficult to predict that 3 or 4 quarters out, right? So there's a lot of things you can't predict out. The guidance going forward does comprehend the content comments that we made previously. So I would say it's a combination of both. And I think we've executed well in spite of all that."
+    },
+    {
+      "componentOrder": 8,
+      "speakerName": "Harsh Kumar",
+      "speakerType": "Analysts",
+      "text": "Very well. And for my follow-up, if I can ask you, you mentioned in your comments that you've streamlined sales, which I think was part of the problem. I was curious what just at a very high level, what you've done and how you went about it and how is it benefiting the business from here?"
+    },
+    {
+      "componentOrder": 9,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes, it's a great question. I mean, obviously, recruited in a new executive, which I've been really happy with. Sometimes just having some fresh air is helpful. It's like listening to music, it brings a fresh air. It's a different perspective on the way to do things.\r\nFrom a structural perspective, what we've done is we've kind of put what I'll call the traditional product marketing functions, which were previously integrated into one group. We actually put that back into business units to really drive tighter alignment between the engineering and the product line road maps and frankly, have our sales team focused on what they should be focused on, which is revenue generation and customer acquisition."
+    },
+    {
+      "componentOrder": 10,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Christopher Rolland of Susquehanna."
+    },
+    {
+      "componentOrder": 11,
+      "speakerName": "Christopher Rolland",
+      "speakerType": "Analysts",
+      "text": "So I guess, first of all, for Phil, maybe on mergers and/or divestitures, obviously, besides big pending one. I think the story here at one point was to diversify outside of handset and a single large customer seems like you're actually doubling down the other way instead of diversifying. But are there still opportunities even when this is pending to do either mergers and divestitures. And is there a theme that could be involved here on the merger side, whether it be analog or IoT, obviously, without giving anything away, just -- I think we're waiting for a big strategic kind of update from you and maybe we were sidetracked or sideswiped by the Qorvo news. Thoughts on this diversification outside."
+    },
+    {
+      "componentOrder": 12,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Well, to be frank, I kind of disagree with your characterization on a couple of comments, but I'll say, look, when we go back to the Qorvo deal, I think you should just go back to the data that we talked about last week, but I think this gives us both scale and diversification. The customer concentration should actually go down. And I view this as a concentration in wireless, not just handsets. And so I think that solves a lot of both strategic and financial challenges for the company, and I'm excited about the combination.\r\nWith respect to what occurs in dependency, both of our companies need to operate independently. We'll continue to do that. Obviously, right, they're subject to certain operating covenants that we both need to live through. And so we're going to continue to be focused on running our businesses and do that. I would not expect any major transformational activities and the like. And from my point of view, this represents the biggest deal the company has done in its history and one of the biggest transformation deals in the RF industry in general. So I characterize -- I disagree with your characterization being sideswiped but nevertheless, thank you for the question."
+    },
+    {
+      "componentOrder": 13,
+      "speakerName": "Christopher Rolland",
+      "speakerType": "Analysts",
+      "text": "It won't be the first time that someone's disagreed with me and vocalized it. Perhaps, secondly, it does sound kind of from your prepared remarks, actually, from your answer to Harsh's question. It sounds like you guys may be a little bit more optimistic on Android. You're seeing better things there. Does the kind of forward outlook, has it changed at all? Are you perhaps a little bit more optimistic on addressing Android in the future? Or do you still worry about kind of the commoditized offerings or treatment of RF in that space?"
+    },
+    {
+      "componentOrder": 14,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes. I think, honestly, our biggest customer in that space is a Mountain View-based customer, and that's -- we've got a very strong footprint there, and they tend to value the performance and integration and features that we can provide. I think that that's -- I guess, I would say the theme is us focusing on the premium part of the segment that value the integration performance that we can provide, and that's where it is. And so you've seen us kind of I'll say, defocus away from the more lower-end commodity space, it doesn't value that. And so I think that no change from our view on that area and our Android strength is really on one major customer in sentimental view."
+    },
+    {
+      "componentOrder": 15,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Krish Sankar of TD Cowen."
+    },
+    {
+      "componentOrder": 16,
+      "speakerName": "Hadi Orabi",
+      "speakerType": "Analysts",
+      "text": "This is Eddy for Krish. Congrats on the results. I have a question on -- if we exclude the biggest customer, it looks like your revenues were up like 50% year-over-year. How much of that is driven by the units versus content? And how we should think about revenues outside the main customer going forward? And I have a follow-up."
+    },
+    {
+      "componentOrder": 17,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "So the first part of your question was about the business within the main -- I missed the first part of your question, if you wouldn't mind please repeating that."
+    },
+    {
+      "componentOrder": 18,
+      "speakerName": "Hadi Orabi",
+      "speakerType": "Analysts",
+      "text": "Yes, if we exclude the biggest customer, your revenues were up like 50% year-over-year. So I wonder what's driving that? Is it units? Is it content? What's the biggest bucket? And how we should think about that going forward, that segment?"
+    },
+    {
+      "componentOrder": 19,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "I think you're just referring to our Broad Markets business on that side, right? I'm just kind of looking -- or maybe Phil will help with that."
+    },
+    {
+      "componentOrder": 20,
+      "speakerName": "Philip Carter",
+      "speakerType": "Executives",
+      "text": "Yes. So as we look at our broad markets business, it's really strength across the board as we look at automotive, IoT, edge. I mean we're seeing strength in kind of a lot of different markets within the broad market space, and that's really driving the growth outside of our largest customer."
+    },
+    {
+      "componentOrder": 21,
+      "speakerName": "Hadi Orabi",
+      "speakerType": "Analysts",
+      "text": "All right. And a question about China. Your exposure there is below 10%. Your peer is trying to exit the market. So I think -- I wonder like how you guys think about the China market? And if you're comfortable with the level of exposure there today? Or do you have any plans to reduce that going forward?"
+    },
+    {
+      "componentOrder": 22,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "I don't think we're changing our focus there. Look, our focus is really on the premium space in that segment. And I would like to point out, beyond handsets, we have other business there as well, including the automotive space and other areas where we have presence. We mentioned BYD and the like. So we do have other business there. We're really focused on the customers and the opportunities that will value the technology and the performance that we bring. And so to that extent, particularly for some of the higher volume, lower SP handsets, we're choosing not to participate there because they're just economically not attractive businesses. And that hasn't changed, and our focus won't change there."
+    },
+    {
+      "componentOrder": 23,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "And your next question comes from the line of Jim Schneider of Goldman Sachs."
+    },
+    {
+      "componentOrder": 24,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "I was wondering if you could maybe talk about some of the dynamics you're seeing in the Broad Markets business. I mean clearly, you're seeing a recovery across the space and across the peer group. But I'm kind of curious given some of the data center or other dynamics you called out, Phil, how you would encourage us to think about the long-term structural growth rate of that business? Is this something that could easily be mid-teens long term? Or is that maybe a little bit too aggressive? Just how we should think about that from a long-term perspective."
+    },
+    {
+      "componentOrder": 25,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes. I think we're looking at it as a long-term kind of double-digit grower. That's kind of where I would have it, where we've kind of got it pegged into and we're modeling and kind of shorter term and even in the medium term, I mean, some of the growth drivers behind that include WiFi, WiFi 7, moving to WiFi 8. You think about some of the strength in automotive in terms of connectivity, in-vehicle entertainment, some of the broadcast radio, things like that. I think that's going to go well. And then the infrastructure and cloud space with timing and power opportunities. So we feel like we're attracted -- embedded in segments that have higher growth opportunities and are characterized by longer revenue cycle. So we think a double-digit growth is definitely possible in that business, and that's what we're building for and investing for."
+    },
+    {
+      "componentOrder": 26,
+      "speakerName": "James Schneider",
+      "speakerType": "Analysts",
+      "text": "And then maybe as a follow-up, if you can maybe kind of speak to the growth rate you expect from OpEx from here on out. Can you sort of hold this December OpEx run rate into, say, the first half of the next calendar year? Should we expect some kind of step-ups from here? Or how should we think about the structural run rate in that given the investments you're intending to make?"
+    },
+    {
+      "componentOrder": 27,
+      "speakerName": "Philip Carter",
+      "speakerType": "Executives",
+      "text": "Yes. So as you look at the fourth quarter, we did have an extra week in there, which added about $7 million to the current quarter. As we look forward for the guide that we provided looking at targeted investments, but we don't anticipate anything above normal inflation as we maintain discipline over our spend."
+    },
+    {
+      "componentOrder": 28,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "And your next question comes from the line of Karl Ackerman of BNP Paribas."
+    },
+    {
+      "componentOrder": 29,
+      "speakerName": "Samuel Feldman",
+      "speakerType": "Analysts",
+      "text": "This is Sam Feldman on for Karl Ackerman. So Android was just under $100 million last quarter, driven by the Google product ramp. And it sounds like you saw strong unit volumes this quarter. So can you give us a sense of the magnitude and direction of the Android business this quarter and generally discuss the puts and takes of achieving $400 million run rate?"
+    },
+    {
+      "componentOrder": 30,
+      "speakerName": "Rajvindra Gill",
+      "speakerType": "Executives",
+      "text": "Yes. Thanks for that. This is Raji. So as you said, yes, Android was roughly a little bit under $100 million, and it was up sequentially. It's primarily driven by Google. We expect it to increase again in the December quarter, again, driven by Google."
+    },
+    {
+      "componentOrder": 31,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Edward Snyder of Charter Equity Research."
+    },
+    {
+      "componentOrder": 32,
+      "speakerName": "Edward Snyder",
+      "speakerType": "Analysts",
+      "text": "So it's well understood that the mix that your largest customer isn't favoring the internal solution, which is actually great for Skyworks, given you've got so much more content on the base model. So I'm curious, how much of the strength that you're seeing there is due to, say, mix versus units? And more importantly, earlier this year, the guide was for a pretty steep decline overall in the fourth quarter. You've done better than that. But that was primarily just for the first couple of quarters because the mix of phones doesn't favor the baseball in the first several quarters, but the Pro, Pro Max are discontinued after the first year. So your base model runs for a whole year after that.\r\nSo I'm just trying to get an idea. I don't want you -- I know you haven't got a forecast out too far, but the strength you're seeing in content probably shouldn't fade as the high-end models disappear in the next, whatever, 6 to 9 months, and you should build -- this should provide you a pretty good base for increases next year. Is that a fair assessment?"
+    },
+    {
+      "componentOrder": 33,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Well, I think as you pointed out, and I think you kind of -- thanks, Ed, for the question. You probably -- I think you may have written a note included into this as well. It's actually very difficult to afford. First off, we can't. Second off, we shouldn't. And third off, it's super difficult to do because the actual demand and how it plays out depends not only on the mix of units within the phone, but the balance of phones between generations as well. And so some of the strength you saw in emerging markets could have been from different phone models and then there's mixes that we go in between there as well. I would say that it's fair to characterize that our guidance when we guide going forward, that includes our best understanding of where we're going to be both units and content-wise and I think that, that we'll just continue to guide that one quarter to the other. It has -- obviously, the net result has been better than we expected at this point, and we'll continue to guide one quarter at a time."
+    },
+    {
+      "componentOrder": 34,
+      "speakerName": "Edward Snyder",
+      "speakerType": "Analysts",
+      "text": "But you got to benefit from both mix and units?"
+    },
+    {
+      "componentOrder": 35,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes, I think that's probably fair to say, both mix and units, yes."
+    },
+    {
+      "componentOrder": 36,
+      "speakerName": "Edward Snyder",
+      "speakerType": "Analysts",
+      "text": "Great. And then I know it's too early to project because we haven't gotten to down select now either, but -- and I'm not looking for guidance here, but you know what you're up to bat against. Everybody knows what they're doing for the full year in the design competition. So you know what you're competing for and I know you've been kind of modest on your guidance for next year. Are we still kind of in that range, too? Or should we be thinking about maybe gains in modules that you had shared previously that maybe you're getting back more than you had on this year?"
+    },
+    {
+      "componentOrder": 37,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes, it's too early to comment on that, as you might know. I mean, I think that clearly, our content direction has been a downward sloping line. I think I've talked about that. The goal is to change the slope of that line, and I think we'll get more clarity on that in the coming weeks and months, but too early to comment on that. At this point, it's a highly competitive environment, but we feel confident about our technology and the products we're delivering, but it's a highly competitive environment, and we'll see how it plays out."
+    },
+    {
+      "componentOrder": 38,
+      "speakerName": "Edward Snyder",
+      "speakerType": "Analysts",
+      "text": "Your accounts receivables shot up. It's the second highest going back for, I don't know, at least 5 or 6 years. And I know it's stacked up because of the September quarter and the launch and all that. But I'm just trying to get -- is there something else going on that's a [ coincidence ] of both Google and your largest customers. So we're up 51% or ish sequentially. Is there something else in there that we should be thinking about?"
+    },
+    {
+      "componentOrder": 39,
+      "speakerName": "Philip Carter",
+      "speakerType": "Executives",
+      "text": "Yes. There's nothing unusual in AR. It really has to do with the linearity of revenue and the timing of collections, but nothing out of the ordinary."
+    },
+    {
+      "componentOrder": 40,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Peter Peng of JPMorgan."
+    },
+    {
+      "componentOrder": 41,
+      "speakerName": "Peter Peng",
+      "speakerType": "Analysts",
+      "text": "Congratulations on the results. I just want to follow up on the last question. So at your largest customer, is it the mix within the current generation? Or is it a better mix of the prior generation model that's driving better-than-expected content? Maybe you can clarify that."
+    },
+    {
+      "componentOrder": 42,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "It's all of the above. I mean it's better units. You've seen all the press, it's all of the above. We really can't get -- I mean, we really can't get into too much more on that. It's all of the above. It's better mix, it's better content. It's better -- it's lots of better results that are all included in the guidance. We can't really get into more than that."
+    },
+    {
+      "componentOrder": 43,
+      "speakerName": "Peter Peng",
+      "speakerType": "Analysts",
+      "text": "Okay. That's fair. And then I think your fair -- your Broad Markets has been growing for the -- it's almost 7 quarters in a row. And you guys are kind of in this high single digits. I think you guys have like 3 big buckets, your auto, your infrastructure and then your consumer IoT. Maybe if you can kind of give us a characterization of what is kind of back to normal growth? And what buckets are still kind of the more trend line growth?"
+    },
+    {
+      "componentOrder": 44,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Yes, sure."
+    },
+    {
+      "componentOrder": 45,
+      "speakerName": "Rajvindra Gill",
+      "speakerType": "Executives",
+      "text": "Yes, that's a great question, Peter. So if you look at the guidance for broad markets, we're guiding it to be up slightly on a sequential basis. On a year-over-year basis, it's up kind of mid- to high single digits. The growth really is across the board, but it's being led primarily by WiFi 7. The WiFi 7 adoption is quite strong. The backlog is very strong entering into fiscal '26. So there's a lot of momentum there.\r\nSecond, we mentioned that the automotive business exiting fiscal '25 is at a record. So that's almost $65 million a quarter in automotive run rating exiting fiscal '25, and we feel good about the pipeline going forward.\r\nAnd then lastly, the data center and infrastructure business, after kind of several quarters of inventory digestion by a lot of our customers, we're starting to see those customers start to rebuild inventory again. And we're also seeing some nice design wins, timing design wins on some 800-gig platforms that we mentioned on the prepared remarks. So all 3 are growing. We do expect some seasonality as we enter into fiscal '26, which you would expect after you burn off some inventory. So I would kind of factor that in. But overall, we're moving in the right direction in Broad Markets."
+    },
+    {
+      "componentOrder": 46,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Your next question comes from the line of Craig Ellis of B. Riley Securities."
+    },
+    {
+      "componentOrder": 47,
+      "speakerName": "Craig Ellis",
+      "speakerType": "Analysts",
+      "text": "I'll echo the congratulations on the execution. Phil Brace, I wanted to start with one for you. So in your prepared remarks, you mentioned some key executive changes, bringing in a new CFO, a new head of sales. The question is, as you look across the broader organization, do you feel like you have the right team in place across all the other functions or do you expect there to be additional changes and to what effect, whether it be in product, manufacturing, operations, et cetera?"
+    },
+    {
+      "componentOrder": 48,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "That's a great question. I feel great about the leadership team that I have in place now, and I'm not anticipating any changes."
+    },
+    {
+      "componentOrder": 49,
+      "speakerName": "Craig Ellis",
+      "speakerType": "Analysts",
+      "text": "All right. And then the second question is for Philip Carter. So it's a two-parter one. As we look at the business, we're clearly tracking well in the fiscal first quarter. But can you remind us what fiscal second quarter seasonality is in the eyes of Skyworks? And related to that, as we think about some of the working capital dynamics of the business, how should we think the company is planning to manage things like inventory going into what is a seasonally softer period for its biggest segment for a couple of quarters?"
+    },
+    {
+      "componentOrder": 50,
+      "speakerName": "Philip Carter",
+      "speakerType": "Executives",
+      "text": "Yes. So I guess on the first question, we don't guide beyond one quarter out. I think, generally speaking, it does look like normal seasonality. In terms of working capital, so we did benefit greatly in terms of free cash flow in fiscal '25 as a result of burning down some inventory. I do not anticipate that to repeat next year. So there is going to be some inventory build as we get near the end of the year. But yes, otherwise, the business in terms of inventory is running well. There's low inventory levels in the channel. And so we have pretty good visibility there. So yes, that's what we're seeing."
+    },
+    {
+      "componentOrder": 51,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "And there are no further questions. I will now turn the conference back over to Phil Brace, the CEO and President of Skyworks, for closing remarks."
+    },
+    {
+      "componentOrder": 52,
+      "speakerName": "Philip Brace",
+      "speakerType": "Executives",
+      "text": "Great. Thanks for participating in today's call. I look forward to speaking with you at upcoming investor conferences throughout the quarter. Thank you."
+    },
+    {
+      "componentOrder": 53,
+      "speakerName": "Operator",
+      "speakerType": "Operator",
+      "text": "Ladies and gentlemen, that concludes today's call. Thank you all for joining. You may now disconnect."
+    }
+  ],
+  "text": "# Skyworks Solutions, Inc. - Q4 2025 Earnings Call\nDate: 2025-11-04T21:30:00Z\nType: Earnings Calls\n\n## Operator (Operator)\nThank you for standing by. My name is Kathleen, and I will be your conference operator today. At this time, I would like to welcome everyone to the Skyworks Fourth Quarter for year 2025 Earnings Call. [Operator Instructions] \r\nThank you. I would now like to turn the call over to Raji Gill, Vice President of Investor Relations of Skyworks. Please go ahead.\n\n## Rajvindra Gill (Executives)\nThank you, operator. Good afternoon, everyone, and welcome to Skyworks' Fourth Fiscal Quarter 2025 Conference Call. With me today for our prepared remarks is Phil Brace, our Chief Executive Officer and President; and Philip Carter, Senior Vice President and Chief Financial Officer for Skyworks.\r\nThis call is being broadcast over the web and can be accessed from the Investor Relations section of the company's website at skyworksinc.com. In addition, the company's prepared remarks will be made available on our website promptly after the conclusion during the call.\r\nBefore we begin, I would like to remind everyone that our discussion will include statements relating to future results and expectations that are or may be considered forward-looking statements. Please refer to our earnings press release and recent SEC filings, including our annual report on Form 10-K for information on certain risks that could cause actual outcomes to differ materially and adversely from any forward-looking statements made today.\r\nAdditionally, today's discussion will include non-GAAP financial measures consistent with our past practice. Please refer to our press release within the Investor Relations section of our company website for a complete reconciliation to GAAP.\r\nLastly, for detailed information regarding the Skyworks and Qorvo combination announced on October 28, I encourage you to review the press release, investor presentation and related materials available on our Investor Relations website. Today's call, however, will focus on our fiscal fourth quarter and full year 2025 results as well as our outlook for the December quarter.\r\nWith that, I'll turn the call over to Phil Brace.\n\n## Philip Brace (Executives)\nThanks, Raji, and welcome, everyone. Before getting into the quarterly results, I want to take a moment to reflect on what we've accomplished over the past few quarters. One, we've had 3 straight quarters of solid execution with both revenue and non-GAAP EPS exceeding expectations. We're seeing strong momentum across mobile and broad markets as our teams continue to execute.\r\nTwo, we streamlined our sales and marketing teams to be more customer-focused and enhanced collaboration with the engineering teams, appointed a new executive to lead global sales and welcomed a new Chief Financial Officer, further strengthening our leadership team as we position the company for its next phase of growth.\r\nThree, last quarter, we announced the consolidation of our Woburn facility to improve our long-term cost structure and support healthier gross margins.\r\nAnd finally, for last week, we announced an agreement to combine with Qorvo, a transformative deal that upon closing will add meaningful scale, diversification and a broader, highly complementary technology and product portfolio.\r\nMoving to the quarter. Skyworks delivered strong results, fueled by a significant upside in mobile and sustained strength across broad markets. We posted revenue of $1.1 billion, delivered earnings per share of $1.76, and for the full fiscal year, we generated $1.1 billion of free cash, representing 27% free cash flow margin.\r\nIn mobile, results again were strong, with revenue up 21% sequentially and 7% year-over-year. Our outperformance reflects healthy sell-through and a richer product mix at our top customer, along with continued growth in Android. Looking ahead, we see multiple drivers of long-term RF content growth. Internal modem adoption, added AI functionality and higher RF complexity are expanding our opportunity inside the smartphone.\r\nWe're also delivering more performance in smaller form factors supporting new features within existing sockets. With our deep RF expertise, strong customer relationships and manufacturing scale, we are well positioned as the next phase of wireless innovation take shape.\r\nBroad Markets has delivered another solid quarter. Demand was broad-based across edge IoT, automotive and data center. In edge IoT, WiFi 7 adoption continues to accelerate across home, enterprise and industrial applications. Customers are moving quickly to upgrade platforms that require faster connectivity, lower latency and better power efficiency. Backlog and order trends remain solid and we anticipate continued strong adoption entering fiscal '26. We're also making good progress on next-generation WiFi 8 programs to extend that leadership.\r\nIn automotive, design activity remains robust as vehicles become more connected and intelligent. The run rate exiting fiscal '25 represents a new record for our automotive business, surpassing our previous high in fiscal '23. We're entering next year with a robust pipeline of design wins across 5G telematics, infotainment and power management systems across a broad set of global OEMs.\r\nIn data center infrastructure, activity continues to rebound as customer inventories have normalized. The recovery that began in mid-fiscal '25 has continued to gain traction and we see a favorable setup for further growth into fiscal '26. This quarter's momentum was supported by broad-based demand, including increasing timing design win activity for next-generation 800-gig platforms for data center and cloud infrastructure.\r\nTaken together, Broad Markets has evolved into a more balanced and durable growth engine for Skyworks. Now an approximately $1.5 billion business with positive momentum over the past 7 quarters, expanding customer reach and margins above the overall corporate average.\r\nBefore we move into the financial details, I'd like to take a moment and welcome Philip Carter as our new CFO. Philip brings extensive financial and accounting experience in the semiconductor space, having previously served as Skyworks' Principal Accounting Officer before becoming the Chief Accounting Officer at AMD. We're happy to have him back and look forward to working together as we continue building Skyworks for the long term.\r\nWith that, I'll turn the call over to Philip for a discussion of last quarter's performance and outlook for Q1 of fiscal '26.\n\n## Philip Carter (Executives)\nThanks, Phil. I'm excited to be back at Skyworks and to work again with such a talented team. Having spent many years here in my career, it's great to see the company's continued momentum and strong execution. I look forward to partnering with Phil and the rest of the leadership team to drive long-term value for shareholders.\r\nNow turning to our fourth fiscal quarter results. Skyworks delivered revenue of $1.1 billion, exceeding the high end of our guidance range. During the quarter, our largest customer accounted for approximately 67% of revenue. Mobile represented 65% of total revenue, up 21% sequentially and 7% year-over-year, supported by stronger sell-through at our top customer and continued growth in Android. Broad Markets grew 3% sequentially and 7% year-over-year, driven by growth across edge IoT, automotive and data center.\r\nGross profit was $511 million with gross margin of 46.5%. Operating expenses were $247 million, slightly above the high end of our guidance range, primarily due to higher employee incentive accruals tied to stronger quarterly revenue. We're keeping a disciplined approach to spending, investing where it matters most for future growth.\r\nOperating income reached $264 million, translating to an operating margin of 24%. Other income was $11 million, and our effective tax rate was 4.1%, resulting in net income of $264 million and diluted earnings per share of $1.76. For the full fiscal year, we generated $1.3 billion of operating cash flow and capital expenditures of $195 million, resulting in annual free cash flow of $1.1 billion or 27% free cash flow margin. We do expect free cash flow to remain solid in fiscal '26 but below fiscal '25, given the lower expected revenue base and more normalized working capital trends, particularly as we no longer expect a tailwind from inventory reductions.\r\nWe ended the quarter with $1.4 billion in cash and investments and $1 billion in debt, maintaining a strong balance sheet and ample flexibility to support our strategic and financial priorities.\r\nLooking ahead to the first quarter of fiscal '26, we expect revenue to be between $975 million to $1.025 billion. We anticipate mobile to decline low to mid-teens sequentially. We expect broad markets to be up slightly sequentially, representing 39% of sales and up mid- to high single digits year-over-year. Gross margin is projected to be approximately 46% to 47%. We expect operating expenses between $230 million and $240 million as we continue to fund key R&D initiatives while maintaining tight control over discretionary spending. Below the line, we anticipate approximately $4 million in other income, an effective tax rate of 10% and a diluted share count of 150.5 million shares. At the midpoint of our revenue outlook of $1 billion, this equates to expected diluted earnings per share of $1.40.\r\nWith that, I'll turn it back to Phil for closing remarks.\n\n## Philip Brace (Executives)\nThank you, Phil. A heartfelt thank you to our employees, customers and partners. Your hard work and support fuels our success and sets the stage for continued leadership and growth. Operator, let's open the line for questions.\n\n## Operator (Operator)\n[Operator Instructions] And your first question comes from the line of Harsh Kumar of Piper Sandler.\n\n## Harsh Kumar (Analysts)\nI guess, Phil and Phil, congratulations on solid results, what I think is a very good guidance as well. Phil Brace, I had a question for you. It was not that long ago that your company was telegraphing a loss of content at your largest customers, but all things considered, when I look at what you guys have done, your revenues are holding really well. I mean, extremely well. And I was curious what has changed or what didn't happen or maybe what went right for you, was it units? Or was it share or just traction in other areas that is causing you to outperform relative to that prognosis maybe 6 to 9 months ago?\n\n## Philip Brace (Executives)\nYes. Thanks, Harsh. It's a good question. Look, obviously, we've been pleased with our results. The mobile results were stronger than expected and our guide reflects that. I think there's a number of factors for that. First, obviously, units are better than expected. Our customers -- our collective customers, both our large ones as well as Android ones are seeing very positive uptake from the latest phone models, which I think has been successful. We've seen some of that. Frankly, we've also seen some mix in the underlying phones that have been geared towards our content as well. \r\nSo we've had a little bit about the unit benefit and a mix benefit, it's -- obviously, as you can imagine, it's a little difficult to predict that 3 or 4 quarters out, right? So there's a lot of things you can't predict out. The guidance going forward does comprehend the content comments that we made previously. So I would say it's a combination of both. And I think we've executed well in spite of all that.\n\n## Harsh Kumar (Analysts)\nVery well. And for my follow-up, if I can ask you, you mentioned in your comments that you've streamlined sales, which I think was part of the problem. I was curious what just at a very high level, what you've done and how you went about it and how is it benefiting the business from here?\n\n## Philip Brace (Executives)\nYes, it's a great question. I mean, obviously, recruited in a new executive, which I've been really happy with. Sometimes just having some fresh air is helpful. It's like listening to music, it brings a fresh air. It's a different perspective on the way to do things.\r\nFrom a structural perspective, what we've done is we've kind of put what I'll call the traditional product marketing functions, which were previously integrated into one group. We actually put that back into business units to really drive tighter alignment between the engineering and the product line road maps and frankly, have our sales team focused on what they should be focused on, which is revenue generation and customer acquisition.\n\n## Operator (Operator)\nYour next question comes from the line of Christopher Rolland of Susquehanna.\n\n## Christopher Rolland (Analysts)\nSo I guess, first of all, for Phil, maybe on mergers and/or divestitures, obviously, besides big pending one. I think the story here at one point was to diversify outside of handset and a single large customer seems like you're actually doubling down the other way instead of diversifying. But are there still opportunities even when this is pending to do either mergers and divestitures. And is there a theme that could be involved here on the merger side, whether it be analog or IoT, obviously, without giving anything away, just -- I think we're waiting for a big strategic kind of update from you and maybe we were sidetracked or sideswiped by the Qorvo news. Thoughts on this diversification outside.\n\n## Philip Brace (Executives)\nWell, to be frank, I kind of disagree with your characterization on a couple of comments, but I'll say, look, when we go back to the Qorvo deal, I think you should just go back to the data that we talked about last week, but I think this gives us both scale and diversification. The customer concentration should actually go down. And I view this as a concentration in wireless, not just handsets. And so I think that solves a lot of both strategic and financial challenges for the company, and I'm excited about the combination.\r\nWith respect to what occurs in dependency, both of our companies need to operate independently. We'll continue to do that. Obviously, right, they're subject to certain operating covenants that we both need to live through. And so we're going to continue to be focused on running our businesses and do that. I would not expect any major transformational activities and the like. And from my point of view, this represents the biggest deal the company has done in its history and one of the biggest transformation deals in the RF industry in general. So I characterize -- I disagree with your characterization being sideswiped but nevertheless, thank you for the question.\n\n## Christopher Rolland (Analysts)\nIt won't be the first time that someone's disagreed with me and vocalized it. Perhaps, secondly, it does sound kind of from your prepared remarks, actually, from your answer to Harsh's question. It sounds like you guys may be a little bit more optimistic on Android. You're seeing better things there. Does the kind of forward outlook, has it changed at all? Are you perhaps a little bit more optimistic on addressing Android in the future? Or do you still worry about kind of the commoditized offerings or treatment of RF in that space?\n\n## Philip Brace (Executives)\nYes. I think, honestly, our biggest customer in that space is a Mountain View-based customer, and that's -- we've got a very strong footprint there, and they tend to value the performance and integration and features that we can provide. I think that that's -- I guess, I would say the theme is us focusing on the premium part of the segment that value the integration performance that we can provide, and that's where it is. And so you've seen us kind of I'll say, defocus away from the more lower-end commodity space, it doesn't value that. And so I think that no change from our view on that area and our Android strength is really on one major customer in sentimental view.\n\n## Operator (Operator)\nYour next question comes from the line of Krish Sankar of TD Cowen.\n\n## Hadi Orabi (Analysts)\nThis is Eddy for Krish. Congrats on the results. I have a question on -- if we exclude the biggest customer, it looks like your revenues were up like 50% year-over-year. How much of that is driven by the units versus content? And how we should think about revenues outside the main customer going forward? And I have a follow-up.\n\n## Philip Brace (Executives)\nSo the first part of your question was about the business within the main -- I missed the first part of your question, if you wouldn't mind please repeating that.\n\n## Hadi Orabi (Analysts)\nYes, if we exclude the biggest customer, your revenues were up like 50% year-over-year. So I wonder what's driving that? Is it units? Is it content? What's the biggest bucket? And how we should think about that going forward, that segment?\n\n## Philip Brace (Executives)\nI think you're just referring to our Broad Markets business on that side, right? I'm just kind of looking -- or maybe Phil will help with that.\n\n## Philip Carter (Executives)\nYes. So as we look at our broad markets business, it's really strength across the board as we look at automotive, IoT, edge. I mean we're seeing strength in kind of a lot of different markets within the broad market space, and that's really driving the growth outside of our largest customer.\n\n## Hadi Orabi (Analysts)\nAll right. And a question about China. Your exposure there is below 10%. Your peer is trying to exit the market. So I think -- I wonder like how you guys think about the China market? And if you're comfortable with the level of exposure there today? Or do you have any plans to reduce that going forward?\n\n## Philip Brace (Executives)\nI don't think we're changing our focus there. Look, our focus is really on the premium space in that segment. And I would like to point out, beyond handsets, we have other business there as well, including the automotive space and other areas where we have presence. We mentioned BYD and the like. So we do have other business there. We're really focused on the customers and the opportunities that will value the technology and the performance that we bring. And so to that extent, particularly for some of the higher volume, lower SP handsets, we're choosing not to participate there because they're just economically not attractive businesses. And that hasn't changed, and our focus won't change there.\n\n## Operator (Operator)\nAnd your next question comes from the line of Jim Schneider of Goldman Sachs.\n\n## James Schneider (Analysts)\nI was wondering if you could maybe talk about some of the dynamics you're seeing in the Broad Markets business. I mean clearly, you're seeing a recovery across the space and across the peer group. But I'm kind of curious given some of the data center or other dynamics you called out, Phil, how you would encourage us to think about the long-term structural growth rate of that business? Is this something that could easily be mid-teens long term? Or is that maybe a little bit too aggressive? Just how we should think about that from a long-term perspective.\n\n## Philip Brace (Executives)\nYes. I think we're looking at it as a long-term kind of double-digit grower. That's kind of where I would have it, where we've kind of got it pegged into and we're modeling and kind of shorter term and even in the medium term, I mean, some of the growth drivers behind that include WiFi, WiFi 7, moving to WiFi 8. You think about some of the strength in automotive in terms of connectivity, in-vehicle entertainment, some of the broadcast radio, things like that. I think that's going to go well. And then the infrastructure and cloud space with timing and power opportunities. So we feel like we're attracted -- embedded in segments that have higher growth opportunities and are characterized by longer revenue cycle. So we think a double-digit growth is definitely possible in that business, and that's what we're building for and investing for.\n\n## James Schneider (Analysts)\nAnd then maybe as a follow-up, if you can maybe kind of speak to the growth rate you expect from OpEx from here on out. Can you sort of hold this December OpEx run rate into, say, the first half of the next calendar year? Should we expect some kind of step-ups from here? Or how should we think about the structural run rate in that given the investments you're intending to make?\n\n## Philip Carter (Executives)\nYes. So as you look at the fourth quarter, we did have an extra week in there, which added about $7 million to the current quarter. As we look forward for the guide that we provided looking at targeted investments, but we don't anticipate anything above normal inflation as we maintain discipline over our spend.\n\n## Operator (Operator)\nAnd your next question comes from the line of Karl Ackerman of BNP Paribas.\n\n## Samuel Feldman (Analysts)\nThis is Sam Feldman on for Karl Ackerman. So Android was just under $100 million last quarter, driven by the Google product ramp. And it sounds like you saw strong unit volumes this quarter. So can you give us a sense of the magnitude and direction of the Android business this quarter and generally discuss the puts and takes of achieving $400 million run rate?\n\n## Rajvindra Gill (Executives)\nYes. Thanks for that. This is Raji. So as you said, yes, Android was roughly a little bit under $100 million, and it was up sequentially. It's primarily driven by Google. We expect it to increase again in the December quarter, again, driven by Google.\n\n## Operator (Operator)\nYour next question comes from the line of Edward Snyder of Charter Equity Research.\n\n## Edward Snyder (Analysts)\nSo it's well understood that the mix that your largest customer isn't favoring the internal solution, which is actually great for Skyworks, given you've got so much more content on the base model. So I'm curious, how much of the strength that you're seeing there is due to, say, mix versus units? And more importantly, earlier this year, the guide was for a pretty steep decline overall in the fourth quarter. You've done better than that. But that was primarily just for the first couple of quarters because the mix of phones doesn't favor the baseball in the first several quarters, but the Pro, Pro Max are discontinued after the first year. So your base model runs for a whole year after that.\r\nSo I'm just trying to get an idea. I don't want you -- I know you haven't got a forecast out too far, but the strength you're seeing in content probably shouldn't fade as the high-end models disappear in the next, whatever, 6 to 9 months, and you should build -- this should provide you a pretty good base for increases next year. Is that a fair assessment?\n\n## Philip Brace (Executives)\nWell, I think as you pointed out, and I think you kind of -- thanks, Ed, for the question. You probably -- I think you may have written a note included into this as well. It's actually very difficult to afford. First off, we can't. Second off, we shouldn't. And third off, it's super difficult to do because the actual demand and how it plays out depends not only on the mix of units within the phone, but the balance of phones between generations as well. And so some of the strength you saw in emerging markets could have been from different phone models and then there's mixes that we go in between there as well. I would say that it's fair to characterize that our guidance when we guide going forward, that includes our best understanding of where we're going to be both units and content-wise and I think that, that we'll just continue to guide that one quarter to the other. It has -- obviously, the net result has been better than we expected at this point, and we'll continue to guide one quarter at a time.\n\n## Edward Snyder (Analysts)\nBut you got to benefit from both mix and units?\n\n## Philip Brace (Executives)\nYes, I think that's probably fair to say, both mix and units, yes.\n\n## Edward Snyder (Analysts)\nGreat. And then I know it's too early to project because we haven't gotten to down select now either, but -- and I'm not looking for guidance here, but you know what you're up to bat against. Everybody knows what they're doing for the full year in the design competition. So you know what you're competing for and I know you've been kind of modest on your guidance for next year. Are we still kind of in that range, too? Or should we be thinking about maybe gains in modules that you had shared previously that maybe you're getting back more than you had on this year?\n\n## Philip Brace (Executives)\nYes, it's too early to comment on that, as you might know. I mean, I think that clearly, our content direction has been a downward sloping line. I think I've talked about that. The goal is to change the slope of that line, and I think we'll get more clarity on that in the coming weeks and months, but too early to comment on that. At this point, it's a highly competitive environment, but we feel confident about our technology and the products we're delivering, but it's a highly competitive environment, and we'll see how it plays out.\n\n## Edward Snyder (Analysts)\nYour accounts receivables shot up. It's the second highest going back for, I don't know, at least 5 or 6 years. And I know it's stacked up because of the September quarter and the launch and all that. But I'm just trying to get -- is there something else going on that's a [ coincidence ] of both Google and your largest customers. So we're up 51% or ish sequentially. Is there something else in there that we should be thinking about?\n\n## Philip Carter (Executives)\nYes. There's nothing unusual in AR. It really has to do with the linearity of revenue and the timing of collections, but nothing out of the ordinary.\n\n## Operator (Operator)\nYour next question comes from the line of Peter Peng of JPMorgan.\n\n## Peter Peng (Analysts)\nCongratulations on the results. I just want to follow up on the last question. So at your largest customer, is it the mix within the current generation? Or is it a better mix of the prior generation model that's driving better-than-expected content? Maybe you can clarify that.\n\n## Philip Brace (Executives)\nIt's all of the above. I mean it's better units. You've seen all the press, it's all of the above. We really can't get -- I mean, we really can't get into too much more on that. It's all of the above. It's better mix, it's better content. It's better -- it's lots of better results that are all included in the guidance. We can't really get into more than that.\n\n## Peter Peng (Analysts)\nOkay. That's fair. And then I think your fair -- your Broad Markets has been growing for the -- it's almost 7 quarters in a row. And you guys are kind of in this high single digits. I think you guys have like 3 big buckets, your auto, your infrastructure and then your consumer IoT. Maybe if you can kind of give us a characterization of what is kind of back to normal growth? And what buckets are still kind of the more trend line growth?\n\n## Philip Brace (Executives)\nYes, sure.\n\n## Rajvindra Gill (Executives)\nYes, that's a great question, Peter. So if you look at the guidance for broad markets, we're guiding it to be up slightly on a sequential basis. On a year-over-year basis, it's up kind of mid- to high single digits. The growth really is across the board, but it's being led primarily by WiFi 7. The WiFi 7 adoption is quite strong. The backlog is very strong entering into fiscal '26. So there's a lot of momentum there.\r\nSecond, we mentioned that the automotive business exiting fiscal '25 is at a record. So that's almost $65 million a quarter in automotive run rating exiting fiscal '25, and we feel good about the pipeline going forward.\r\nAnd then lastly, the data center and infrastructure business, after kind of several quarters of inventory digestion by a lot of our customers, we're starting to see those customers start to rebuild inventory again. And we're also seeing some nice design wins, timing design wins on some 800-gig platforms that we mentioned on the prepared remarks. So all 3 are growing. We do expect some seasonality as we enter into fiscal '26, which you would expect after you burn off some inventory. So I would kind of factor that in. But overall, we're moving in the right direction in Broad Markets.\n\n## Operator (Operator)\nYour next question comes from the line of Craig Ellis of B. Riley Securities.\n\n## Craig Ellis (Analysts)\nI'll echo the congratulations on the execution. Phil Brace, I wanted to start with one for you. So in your prepared remarks, you mentioned some key executive changes, bringing in a new CFO, a new head of sales. The question is, as you look across the broader organization, do you feel like you have the right team in place across all the other functions or do you expect there to be additional changes and to what effect, whether it be in product, manufacturing, operations, et cetera?\n\n## Philip Brace (Executives)\nThat's a great question. I feel great about the leadership team that I have in place now, and I'm not anticipating any changes.\n\n## Craig Ellis (Analysts)\nAll right. And then the second question is for Philip Carter. So it's a two-parter one. As we look at the business, we're clearly tracking well in the fiscal first quarter. But can you remind us what fiscal second quarter seasonality is in the eyes of Skyworks? And related to that, as we think about some of the working capital dynamics of the business, how should we think the company is planning to manage things like inventory going into what is a seasonally softer period for its biggest segment for a couple of quarters?\n\n## Philip Carter (Executives)\nYes. So I guess on the first question, we don't guide beyond one quarter out. I think, generally speaking, it does look like normal seasonality. In terms of working capital, so we did benefit greatly in terms of free cash flow in fiscal '25 as a result of burning down some inventory. I do not anticipate that to repeat next year. So there is going to be some inventory build as we get near the end of the year. But yes, otherwise, the business in terms of inventory is running well. There's low inventory levels in the channel. And so we have pretty good visibility there. So yes, that's what we're seeing.\n\n## Operator (Operator)\nAnd there are no further questions. I will now turn the conference back over to Phil Brace, the CEO and President of Skyworks, for closing remarks.\n\n## Philip Brace (Executives)\nGreat. Thanks for participating in today's call. I look forward to speaking with you at upcoming investor conferences throughout the quarter. Thank you.\n\n## Operator (Operator)\nLadies and gentlemen, that concludes today's call. Thank you all for joining. You may now disconnect.\n",
+  "downloaded_at": "2026-02-17T14:29:01.869466"
+}
