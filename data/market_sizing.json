@@ -29,7 +29,7 @@
     "value_b": 68.2,
     "source": "Grand View Research (2024)",
     "source_url": "",
-    "notes": "Projected CAGR ~17.1% — AI-powered testing the fastest segment"
+    "notes": "Projected CAGR ~17.1% \u2014 AI-powered testing the fastest segment"
   },
   {
     "metric": "AI in Software Testing Market",
@@ -45,7 +45,7 @@
     "value_b": 5.8,
     "source": "Mordor Intelligence (2024)",
     "source_url": "",
-    "notes": "Fastest growing segment — CAGR ~37%"
+    "notes": "Fastest growing segment \u2014 CAGR ~37%"
   },
   {
     "metric": "AI Governance Market",
@@ -77,6 +77,30 @@
     "value_b": 10.3,
     "source": "Gartner (2024)",
     "source_url": "",
-    "notes": "SAST, DAST, SCA, API security — overlaps with validation spend"
+    "notes": "SAST, DAST, SCA, API security \u2014 overlaps with validation spend"
+  },
+  {
+    "metric": "API Testing Market",
+    "year": 2024,
+    "value_b": 3.2,
+    "source": "Market Research (EIN News, Feb 2026)",
+    "source_url": "",
+    "notes": "API testing sub-segment. Projected 21.9% CAGR through 2030."
+  },
+  {
+    "metric": "API Testing Market (Forecast)",
+    "year": 2030,
+    "value_b": 10.5,
+    "source": "Market Research (EIN News, Feb 2026)",
+    "source_url": "",
+    "notes": "21.9% CAGR \u2014 fastest growing testing sub-segment due to API-first architectures and AI agent integrations"
+  },
+  {
+    "metric": "Global Software Testing Market (Updated Forecast)",
+    "year": 2030,
+    "value_b": 93.9,
+    "source": "eeNews Europe (Dec 2025)",
+    "source_url": "",
+    "notes": "Updated estimate: $93.9B by 2030 as automation accelerates. Higher than previous MarketsandMarkets 2029 estimate of $109.5B (different methodology/scope)."
   }
 ]
