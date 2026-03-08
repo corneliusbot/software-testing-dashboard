@@ -794,7 +794,7 @@ with tab0:
     _m4.metric(
         "Funding Events",
         f"{len(_funding_deals):,}",
-        delta=f"${sum(d.get('amount_m', 0) for d in _funding_deals):,.0f}M total",
+        delta=f"${sum(d.get('amount_m') or 0 for d in _funding_deals):,.0f}M total",
         help="M&A deals and funding rounds tracked in the testing/governance space",
     )
     _m5.metric(
