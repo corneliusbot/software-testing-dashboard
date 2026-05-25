@@ -30,6 +30,96 @@
     "fetched_at": "2026-05-21T06:12:38Z"
   },
   {
+    "uid": "7c45319cb0134426369751b1e18fc6e1",
+    "title": "AI\u6642\u4ee3\u306b\u6226\u7565\u5bb6\u3068\u30aa\u30da\u30ec\u30fc\u30bf\u30fc\u3092\u5206\u3051\u308b\u3001\u305f\u3063\u305f\u4e00\u3064\u306e\u80fd\u529b\u3068\u306f",
+    "url": "https://www.cio.com/article/4172495/ai%e6%99%82%e4%bb%a3%e3%81%ab%e6%88%a6%e7%95%a5%e5%ae%b6%e3%81%a8%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%92%e5%88%86%e3%81%91%e3%82%8b%e3%80%81%e3%81%9f%e3%81%a3%e3%81%9f%e4%b8%80.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-25",
+    "snippet": "\u4eba\u985e\u306e\u6b74\u53f2\u306e\u5927\u534a\u306b\u304a\u3044\u3066\u3001\u9053\u5177\u306f\u8eab\u4f53\u3092\u62e1\u5f35\u3059\u308b\u305f\u3081\u306b\u4f5c\u3089\u308c\u3066\u304d\u305f\u3002\u92e4\uff08\u3059\u304d\uff09\u306f\u624b\u3092\u3001\u8eca\u8f2a\u306f\u8db3\u3092\u3001\u671b\u9060\u93e1\u306f\u76ee\u3092\u62e1\u5f35\u3057\u305f\u3002\u4eca\u3001\u521d\u3081\u3066\u79c1\u305f\u3061\u306f\u77e5\u6027\u3092\u62e1\u5f35\u3059\u308b\u9053\u5177\u3092\u4f5c\u3063\u3066\u3044\u308b\u3002AI\u306e\u5b9f\u88c5\u306b\u53d6\u308a\u7d44\u3080\u7d44\u7e54\u304c\u5171\u901a\u3057\u3066\u76f4\u9762\u3059\u308b\u554f\u3044\u304c\u3042\u308b\u3002\u300c\u79c1\u305f\u3061\u306f\u4f55\u306e\u305f\u3081\u306bAI\u3092\u4f7f\u3046\u306e\u304b\u300d\u3060\u3002\u4eba\u9593\u306e\u601d\u8003\u3092\u7f6e\u304d\u63db\u3048\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u306e\u304b\u3001\u88dc\u5b8c\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u306e\u304b\u3001\u518d\u5206\u914d\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u306e\u304b\u3002\u4eca\u3046\u307e\u304f\u52d5\u3044\u3066\u3044\u308b\u4f01\u696d\u306f\u3001\u305d\u306e\u554f\u3044\u306b\u660e\u78ba\u306b\u7b54\u3048\u3066\u3044\u308b\u4f01\u696d\u3060\u3002AI\u306e\u4e88\u7b97\u304c\u6700\u3082\u5927\u304d\u3044\u4f01\u696d\u3067\u306f\u306a\u3044\u3002 \u30a4\u30f3\u30c6\u30b0\u30e9\u30eb\u30b7\u30f3\u30ad\u30f3\u30b0\u3068\u306f\u4f55\u304b \u77e5\u6027\u306f\u304b\u3064\u3066\u5e0c\u5c11\u8cc7\u6e90\u3060\u3063\u305f\u3002\u4eca\u3084\u305d\u306e\u5e0c\u5c11\u6027\u306f\u8584\u308c\u8c4a\u5bcc\u306b\u306a\u308a\u3064\u3064\u3042\u308b\u3002McKinsey\u306e\u5206\u6790\u306b\u3088\u308c\u3070\u3001\u751f\u6210AI\u306f\u5e74\u95932.6\u301c4.4\u5146\u30c9\u30eb\u306e\u4fa1\u5024\u3092\u751f\u307f\u51fa\u3059\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u3044\u3046\u3002\u30e2\u30c7\u30eb\u306e\u5b9f\u884c\u30b3\u30b9\u30c8\u306f\u6025\u843d\u3057\u3001LLM\u304c\u51e6\u7406\u3067\u304d\u308b\u60c5\u5831\u91cf\uff08\u30b3\u30f3\u30c6\u30ad\u30b9\u30c8\u5236\u9650\uff09\u306f\u7d0410\u4e07\u30c8\u30fc\u30af\u30f3\u304b\u3089\u6700\u59271000\u4e07\u30c8\u30fc\u30af\u30f3\u3078\u3068\u62e1\u5927\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002\u3067\u306f\u6b21\u306e\u5e0c\u5c11\u8cc7\u6e90\u306f\u4f55\u304b\u3002 \u7523\u696d\u9769\u547d\u306e\u6642\u4ee3\u3001\u8089\u4f53\u52b4\u50cd\u304c\u8c4a\u5bcc\u306b\u306a\u308b\u3068\u4eba\u9593\u306e\u5224\u65ad\u529b\u304c\u5e0c\u5c11\u306b\u306a\u3063\u305f\u3002\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306e\u6642\u4ee3\u3001\u8a08\u7b97\u304c\u8c4a\u5bcc\u306b\u306a\u308b\u3068\u5275\u9020\u7684\u554f\u984c\u89e3\u6c7a\u304c\u5e0c\u5c11\u306b\u306a\u3063\u305f\u3002\u305d\u3057\u3066AI\u6642\u4ee3\u3001\u8a8d\u77e5\u51e6\u7406\u304c\u8c4a\u5bcc\u306b\u306a\u3063\u305f\u3002",
+    "fetched_at": "2026-05-25T06:03:28Z"
+  },
+  {
+    "uid": "06d24cdf4778e661fb2b43f13e4f3c52",
+    "title": "Looking for a new computer? Save hundreds on these Memorial Day desktop deals",
+    "url": "https://www.zdnet.com/article/best-desktop-deals-memorial-day-deals-2026/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-25",
+    "snippet": "If you're looking for a new PC, now is the best time to do it. Many retailers are offering great deals on desktops for the Memorial Day weekend.",
+    "fetched_at": "2026-05-25T06:03:32Z"
+  },
+  {
+    "uid": "92ae855848f8defe8a10dc02f53bcb7f",
+    "title": "This HP laptop is a great MacBook alternative - and it's 50% off for Memorial Day",
+    "url": "https://www.zdnet.com/article/hp-omnibook-5-memorial-day-deal-2026/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-25",
+    "snippet": "The OmniBook 5 is on sale for $530. It's a solid laptop with a long battery life, an OLED screen, and strong performance.",
+    "fetched_at": "2026-05-25T06:03:32Z"
+  },
+  {
+    "uid": "247decaf6a98f797b364dcba78c4ed0e",
+    "title": "Linus Torvalds to \u2018start being more hardnosed\u2019 about \u2018pointless pull requests\u2019 \u2013 some of which come from AIs",
+    "url": "https://www.theregister.com/oses/2026/05/25/linus-torvalds-to-start-being-more-hardnosed-about-pointless-pull-requests-some-of-which-come-from-ais/5245549",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Warns large release candidates \u2018are *not* conducive to long-term stability\u2019",
+    "fetched_at": "2026-05-25T06:04:14Z"
+  },
+  {
+    "uid": "e6aa38d1a96169b41f753aabc4121299",
+    "title": "Google has seriously leaned into AI enshittification lately",
+    "url": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Could the Chocolate Factory's mission to reshape the web backfire?",
+    "fetched_at": "2026-05-25T06:04:14Z"
+  },
+  {
+    "uid": "c09122c6d64fc8c55582329ea210d742",
+    "title": "Jira Is Turing-Complete",
+    "url": "https://seriot.ch/computation/jira.html",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "06dfb1d86547006eb1dfe1ed1befcf1b",
+    "title": "The Eternal Sloptember",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "a1f065fb6e2fbebb2d1c71b9bfcda69a",
+    "title": "Companies Are Just a Graph of Algorithms",
+    "url": "https://danielmiessler.com/blog/companies-graph-of-algorithms",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "c4712c316ed8d4f76f476809438b3033",
+    "title": "Metropolis Healthcare: Can One of India\u2019s Leading Diagnostics Chains Sustain Margins Beyond 28%?",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEVlenBpWkVGOVNqOXdwR2hYaDFJX3RhSkZ6YU42cW54a005NlZvaFN2T3ZRUy1ZNlZqcy1EM3U3cWZJZ3Jsd1BTeUZLenc2S1hxVC1QdktBODFDRHp0SkVNdkprbjhaYmR4XzRxRVFNRnk3ckpSUEZ4UU42T1lXZWVXbF9tY0lMYzRmdUFrTWJTaGQ0XzlwVEFoNEhJbUhPOGc1NEc3SXNGVWgycUFGTUJZNENvZmM?oc=5",
+    "source": "gnews_trade_brains",
+    "source_category": "E",
+    "published": "2026-05-25",
+    "snippet": "Metropolis Healthcare: Can One of India\u2019s Leading Diagnostics Chains Sustain Margins Beyond 28%? Trade Brains",
+    "fetched_at": "2026-05-25T06:05:05Z"
+  },
+  {
     "uid": "b4be28ca21169ec7fa6f3c2455d3cecd",
     "title": "Best Buy just discounted top gaming monitors for Memorial Day",
     "url": "https://www.zdnet.com/article/monitor-deals-memorial-day-2026/",
@@ -118,6 +208,236 @@
     "published": "2026-05-24",
     "snippet": "Comments",
     "fetched_at": "2026-05-24T06:01:09Z"
+  },
+  {
+    "uid": "de646ce3fda9065c6a63503d42d34345",
+    "title": "Who\u2019s monitoring the agents?",
+    "url": "https://thenewstack.io/who-monitors-ai-agents/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-24",
+    "snippet": "Over the past few months, something quietly shifted. Frameworks like CrewAI, AutoGen, and LangGraph are no longer just showing up The post Whos monitoring the agents? appeared first on The New Stack.",
+    "fetched_at": "2026-05-25T06:03:55Z"
+  },
+  {
+    "uid": "ce2369688896aaf3bfdb5c2c8b066f49",
+    "title": "How Jaeger hit 8.6\u00d7 compression on 10 million spans with ClickHouse",
+    "url": "https://thenewstack.io/jaeger-clickhouse-storage-backend/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-24",
+    "snippet": "As someone whos been maintaining Jaeger, Ive watched users request ClickHouse support consistently over the past few years. With Jaeger The post How Jaeger hit 8.6\u00d7 compression on 10 million spans with ClickHouse appeared first on The New Stack.",
+    "fetched_at": "2026-05-25T06:03:55Z"
+  },
+  {
+    "uid": "d585ece4aa276552e4ae6510030a3498",
+    "title": "What ClickHouse learned from a year of coding with AI agents",
+    "url": "https://thenewstack.io/clickhouse-ai-coding-agents/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-24",
+    "snippet": "Some people will tell you agents will take all our jobs. Others insist they are useless. Leadership at many companies The post What ClickHouse learned from a year of coding with AI agents appeared first on The New Stack.",
+    "fetched_at": "2026-05-25T06:03:55Z"
+  },
+  {
+    "uid": "9b2cd2a7bba47ce7340e8372b5280925",
+    "title": "HP investigating BIOS updates that leave premium laptop users in boot loop limbo",
+    "url": "https://www.theregister.com/personal-tech/2026/05/24/hp-investigating-bios-updates-that-leave-premium-laptop-users-in-boot-loop-limbo/5244769",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Slowdowns, crashes, BSODs reported on pricey mobile workstations",
+    "fetched_at": "2026-05-25T06:04:14Z"
+  },
+  {
+    "uid": "5947b28c7ea59db10ea0d600ab2dd544",
+    "title": "No captain, my captain: Navantia floats crewless warship",
+    "url": "https://www.theregister.com/offbeat/2026/05/24/no-captain-my-captain-navantia-floats-crewless-warship/5244332",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Spanish shipbuilder's 75-meter drone vessel comes with sensors, modular payloads, and no room for sailors",
+    "fetched_at": "2026-05-25T06:04:14Z"
+  },
+  {
+    "uid": "a932f5d067fc1d0ba72cfe2647690fb5",
+    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+    "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+    "fetched_at": "2026-05-25T06:04:16Z"
+  },
+  {
+    "uid": "b84703144dfa3f08a29e4031c42b8760",
+    "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+    "url": "https://audiomass.co/?multitrack=1",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "b5608256d8592213fd865357e1fa519d",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "b8bd1deae335659883295d48008b7eea",
+    "title": "Migrating from Go to Rust",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "4468029609d6e79577ff8f2f39809970",
+    "title": "A fundamental principle of aeronautical engineering has been overturned",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "7f7af92fbb42db0f8c6e04a8ace9ab7a",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "9c8e2a8fc51f6f7026369d6dada5c105",
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "01e470295e70479d0c26b18b45b36563",
+    "title": "Mastering Dyalog APL",
+    "url": "https://mastering.dyalog.com/README.html",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "463665812cf814b041be5bea3c775745",
+    "title": "Greg Brockman interview [video]",
+    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "148624d97ae361c492af579daad1f960",
+    "title": "Building Pi with Pi",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "979330dc85778ab45fa3575c07d768ef",
+    "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+    "url": "https://apple.github.io/ml-pico/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "6b030c634aa752d5109c6770ebfd135b",
+    "title": "Childhood Computing",
+    "url": "https://susam.net/childhood-computing.html",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "a397ed19f2742c837db0a5a02331ef5d",
+    "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+    "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "4643d2a919c202318f5f328709d0e167",
+    "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+    "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "264fccb4ccbaebc204f2b385f299305f",
+    "title": "AI SRE in Incident Management: How AI Agents Handle On-Call",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wbnM2bDczTmJGMDdoSFhkZzVQQ0N3YTZHY0ozcjBtR0ZLaTZQM1BETVBKYmRPbVRRd1pxTXVfeG44OGZ6NmVVSExEOC01aFdfRkRPWS1PUVNybXdvX1F1V0FraWhYVV9wdWNONGpB?oc=5",
+    "source": "gnews_augment_code",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "AI SRE in Incident Management: How AI Agents Handle On-Call Augment Code",
+    "fetched_at": "2026-05-25T06:04:22Z"
+  },
+  {
+    "uid": "532bbb061a0fe2e2d3c47f1eb2c70a5c",
+    "title": "AI agents are quietly generating chaos engineering failures enterprises don\u2019t track yet",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFdDLVZMREZmRVNJOC05Tmp5WUl0bkFaZjUzVk5qSy1jbHhWcGtmT1h1aHJmZmJWaWJNdTJFMDhRS29qTlkxQUlhOW1EdzlhbTBVZmRCRG9XeVBtYnhEQ0NBVmxHZE4zczRPREtubkRMY05YSFVkbVRCM0hiWGZDRUFVbXN0aVRfQlZhT0s2cXhncVpKQnJFeE1HUWtsU0t0SnZZNktHNDVabHlfQ19iT0pmb1BXVU1PYmlWV19OVXV1dw?oc=5",
+    "source": "gnews_venturebeat",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "AI agents are quietly generating chaos engineering failures enterprises don\u2019t track yet VentureBeat",
+    "fetched_at": "2026-05-25T06:04:22Z"
+  },
+  {
+    "uid": "c91069d8dfc64cb6cdcb8be1a98d677e",
+    "title": "Palo Alto Networks\u2019 SWOT analysis: stock navigates growth amid platform expansion",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdzJzaUN1alJJejlMNWdnYXZHa3B3QjZ3TFcxSTZHSEI2Q0lWQWNBTHdsMXVGTnlidTlxdmFkNWF0Wm9YaF9STHo3OHZabHNsMEJLWUFMb2E4NnJSM0kwUkRnVkpjWGhYQ2Utdm8zZzBpVGNHa0lrV3FSc0RMc1pOMUpLLUUzLVZsVkYyX3QwOThyd1FZMVNpUEtpMWxjVzhMSUJBdWNySU1LTlVzLTN3NHFrSG9nbW5xRTMwTGFrcU02d1RLR1pqYUl6aDc0RDd2N1BF?oc=5",
+    "source": "gnews_investing.com",
+    "source_category": "E",
+    "published": "2026-05-24",
+    "snippet": "Palo Alto Networks\u2019 SWOT analysis: stock navigates growth amid platform expansion Investing.com",
+    "fetched_at": "2026-05-25T06:05:05Z"
+  },
+  {
+    "uid": "4b1e7c6ff6bf6cc127f75034aa102ae1",
+    "title": "Zscaler Inc. (NASDAQ: ZS) Trades Near $178 Ahead of Q3 Results as AI Security Deal Sparks Debate",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYy1vZ2hSWUREb0ZvenUwMnlSNEo1YzVFUkNrWWYtY0VfbG9CRjV2eWRuV2FzVTIxWGhxcFB4ZFdNbGJZNTg0QUp1dGdzSlpxTDNVYXZ5X2ppR3RTY3c2a3gzV1hkbk1qTjB5TWlGQU1wNGE4RUFhX1lGTUdFMmpUU0gxSkJveVFPODQ2QXVsWFB4aWhMSkwzd25QYUxnWVhVZjZEMWFyMWpmMExxYXVyb2xBTHZnaXRGT0hvaEhqb2lpZVFmbGRVb194NTR5Z3RUOVc4TzFxYw?oc=5",
+    "source": "gnews_foreignpolicyjournal.com",
+    "source_category": "E",
+    "published": "2026-05-24",
+    "snippet": "Zscaler Inc. (NASDAQ: ZS) Trades Near $178 Ahead of Q3 Results as AI Security Deal Sparks Debate foreignpolicyjournal.com",
+    "fetched_at": "2026-05-25T06:05:05Z"
   },
   {
     "uid": "faa28f6daf25a32ffb79a6c2dc69c810",
@@ -448,6 +768,66 @@
     "published": "2026-05-23",
     "snippet": "Huntington Bancshares\u2019 SWOT analysis: stock faces integration test amid expansion Investing.com",
     "fetched_at": "2026-05-24T06:01:56Z"
+  },
+  {
+    "uid": "4f8acc75d3892aeb67e8dbd96eed9925",
+    "title": "DockFlow",
+    "url": "https://www.producthunt.com/products/dockflow",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-23",
+    "snippet": "Save, switch, and automate Dock layouts for every workflow Discussion | Link",
+    "fetched_at": "2026-05-25T06:03:53Z"
+  },
+  {
+    "uid": "b4179c51378e5c84b1ca5fa818874319",
+    "title": "DynamicNotch",
+    "url": "https://www.producthunt.com/products/dynamicnotch",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-23",
+    "snippet": "Dynamic island for macOS Discussion | Link",
+    "fetched_at": "2026-05-25T06:03:53Z"
+  },
+  {
+    "uid": "1185ab33d7ca41592b17b6eecde3d89d",
+    "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
+    "url": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-23",
+    "snippet": "Dirty Frag, Copy Fail, and Fragesia show the new reality",
+    "fetched_at": "2026-05-25T06:04:14Z"
+  },
+  {
+    "uid": "8262f2405e91d6870f8ea4b5936ac8bf",
+    "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-23",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "5a230ee3737abd2499df205cceaa8ca6",
+    "title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
+    "url": "https://ohwr.org/projects/white-rabbit/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-23",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "89e2700a8d6b99d363be403869d1df83",
+    "title": "Huntington Bancshares\u2019 SWOT analysis: stock faces integration test amid expansion",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUpoQ1V4QXZSVjZnQ1B3cVdGN3NaTktFVUpqb0tsTmdWRE01dHdhNkRZNmhha3V2LUdpNDliOEcybFlYQ19yS0pLdjJlODhmWDZoejRVOGpRbURJQjc2eTl4YW1ONkJzMlBVWFF5RlFIQ2xTbVBuQVozdVFVUTVKSGNSS0stbjB4Y1FwWFdndlNOamd4VDBfVWE5YVpxV3NRaUtNbEx5OEJJbUhzMzE3MGRNeXEtOXA4ODNzY3FWNWduMUl4MUlMVk5lX3lSbTJseXc?oc=5",
+    "source": "gnews_investing.com_canada",
+    "source_category": "E",
+    "published": "2026-05-23",
+    "snippet": "Huntington Bancshares\u2019 SWOT analysis: stock faces integration test amid expansion Investing.com Canada",
+    "fetched_at": "2026-05-25T06:05:05Z"
   },
   {
     "uid": "8d7cc587cef27794a8fe7025d9ffeaa0",
@@ -1678,6 +2058,96 @@
     "published": "2026-05-22",
     "snippet": "Google is expanding the role of its CodeMender security agent from autonomous vulnerability remediation toward a larger agentic development ecosystem, signalling a broader push toward AI-driven AppSec. Months after introducing CodeMender, an AI-powered agent designed to autonomously identify and patch software vulnerabilities, Google is now integrating the technology into its expanding Agent Platform strategy unveiled at Google I/O 2026. The shift suggests that CodeMender may no longer be just a",
     "fetched_at": "2026-05-24T06:01:46Z"
+  },
+  {
+    "uid": "f98daa0cf30d867c9aed337260e9df1e",
+    "title": "ModelHub",
+    "url": "https://www.producthunt.com/products/modelhub",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-22",
+    "snippet": "The missing menu bar app for local LLMs on Mac. Discussion | Link",
+    "fetched_at": "2026-05-25T06:03:53Z"
+  },
+  {
+    "uid": "baadf31096b50f72e5c182663969b70e",
+    "title": "WhatCable",
+    "url": "https://www.producthunt.com/products/whatcable",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-22",
+    "snippet": "Know what your USB-C cable can really do Discussion | Link",
+    "fetched_at": "2026-05-25T06:03:53Z"
+  },
+  {
+    "uid": "75a8ed85581c2b64ac1e9f7c555ce4ff",
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "source": "krebs_on_security",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+    "fetched_at": "2026-05-25T06:04:10Z"
+  },
+  {
+    "uid": "bbaec6b2510a97d26f9fa2196a64f2d4",
+    "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "url": "https://phabricator.services.mozilla.com/D301917",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "6d2fa20b4808daba6f1ee8856757d3cc",
+    "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
+    "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "50312e3dd61cc00776a536819e1e792f",
+    "title": "Build Adafruit projects right from Firefox",
+    "url": "https://www.firefox.com/en-US/landing/adafruit/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "3a89e7dcdf5748314e55cb0c866662d1",
+    "title": "Noroboto: Lying Fonts and Mitigation in Rust",
+    "url": "https://tritium.legal/blog/noroboto",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "bccbe92563ca854c4b74060261f22132",
+    "title": "DeepSeek makes the V4 Pro price discount permanent",
+    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "a5f176e9e435a91b379e163291df529b",
+    "title": "AI code security risk: The need for a smarter layer between detection and remediation",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGNFdXR1YTlldVE0TFZqRDl2MG9oMmx0YnVYeC1Tbmp5TGxwXzZfSDd2eVRwdF84blQ4Ml9qaVZ2R29rT2lXN1k0b1VjOHFFSFpTaUNZMk41MHdSS1R6QVB4WWlfYm5HbUhDdEFfV09kbk9tR3l5QjRmNU1VbUVEaWUyZDNsQnd2VURtUFdfcXA0ZWhz?oc=5",
+    "source": "gnews_yahoo_tech",
+    "source_category": "C",
+    "published": "2026-05-22",
+    "snippet": "AI code security risk: The need for a smarter layer between detection and remediation Yahoo Tech",
+    "fetched_at": "2026-05-25T06:04:27Z"
   },
   {
     "uid": "5c1440475b87e32dde95b40c1639307c",
@@ -3570,6 +4040,36 @@
     "fetched_at": "2026-05-24T06:01:46Z"
   },
   {
+    "uid": "87a0d4311e196a1615857b1b4cf23485",
+    "title": "C constructs that still don't work in C++",
+    "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-21",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "5f7903eb8521056ccae80ce830730c3b",
+    "title": "I spent 50 hours drawing a line graph",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-21",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
+    "uid": "0be1b4a9a8f31a22c5c0d9f240ec1211",
+    "title": "Getting an old Computer online with Android Ethernet tethering",
+    "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-21",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
     "uid": "ecbbc73984aacb21e43c2d33bbcb2898",
     "title": "EnterpriseClaw wants to bring governance to the OpenClaw era",
     "url": "https://www.cio.com/article/4173405/enterpriseclaw-wants-to-bring-governance-to-the-openclaw-era.html",
@@ -5438,6 +5938,16 @@
     "published": "2026-05-20",
     "snippet": "I trust Claude Code. Back in March, I wrote about why I pity the developers who haven\u2019t yet jumped on the agentic coding bandwagon. I also pity the developers just starting out, who will never quite understand the power that they now have at their fingertips. But most of all, I really pity the developers who refuse to use agentic development tools because they don\u2019t trust AI agents. I understand that saying I trust Claude Code is a controversial statement. I know that the coding agent isn\u2019t perf",
     "fetched_at": "2026-05-24T06:01:46Z"
+  },
+  {
+    "uid": "7943ca44f251e038da218df320ca522f",
+    "title": "All Mexico Cell Phone Users Must Register by June 30, 2026",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rTlotSnlfcGJIVG9IT0pZTy1Zd0RySUhMekk3V2VkVnFManBKMjY3WE1LYmpoTnV0OEFCWGFvaUNhdXZ1aUlFaEtESC04ckh6Yy1uMGRxTHVtQzQzTVl5VkxnUC1vOUYtNmRkUElfdDhwZmNrcDh1Yw?oc=5",
+    "source": "gnews_mexperience",
+    "source_category": "A",
+    "published": "2026-05-20",
+    "snippet": "All Mexico Cell Phone Users Must Register by June 30, 2026 Mexperience",
+    "fetched_at": "2026-05-25T06:03:41Z"
   },
   {
     "uid": "2e4aa914a3d3211ff194f8167d8a3027",
@@ -7470,6 +7980,26 @@
     "fetched_at": "2026-05-24T06:01:34Z"
   },
   {
+    "uid": "49a598fe1fc9e6e786bc923aaf02cb2d",
+    "title": "Freu AI",
+    "url": "https://www.producthunt.com/products/freu-cli",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-19",
+    "snippet": "Automate any Mac app with $0 recurring run cost Discussion | Link",
+    "fetched_at": "2026-05-25T06:03:53Z"
+  },
+  {
+    "uid": "d464f2ac48d78ba337969e3eb19b4889",
+    "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+    "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-19",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-25T06:04:20Z"
+  },
+  {
     "uid": "3a20f82f0fe0cb0f7fffdc32e21a6d74",
     "title": "The Boring Stuff is Dangerous Now",
     "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
@@ -9088,6 +9618,16 @@
     "published": "2026-05-18",
     "snippet": "Employee\u2019s AI Shortcut Triggers SEC Filing \u2014 Boards, Take Note Forbes",
     "fetched_at": "2026-05-24T06:01:32Z"
+  },
+  {
+    "uid": "859272600c73cf7584941a82ad0c5473",
+    "title": "US Machine Vision Market: Will It Ever See Consolidation?",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVlFkeFlsaGpMbG1sSXN0VFBtdDlwMHhva3p5VkZqR0d2VDg5dm5fVG15UHhRWVQ0d3NSLU5pN2QyLTg3eVVmYVB2UlBNX1Fsc3J3Slc3UDdWQXlDU0Y1QzNuYmttLUVNNExzNFJoa21RaTZqY3A0cVhkQUtDLW9mSkZzLXpkQQ?oc=5",
+    "source": "gnews_mvpro_media",
+    "source_category": "E",
+    "published": "2026-05-18",
+    "snippet": "US Machine Vision Market: Will It Ever See Consolidation? MVPro Media",
+    "fetched_at": "2026-05-25T06:05:05Z"
   },
   {
     "uid": "cfd7f4ba6710a170fd73549ad11086e6",
@@ -11440,6 +11980,16 @@
     "fetched_at": "2026-05-24T06:00:33Z"
   },
   {
+    "uid": "31a28a3fd8766c6eee78b536fa7cebbf",
+    "title": "AlgoShack Ranked #27 Globally Among 900+ AI Testing Companies - Emerges as India's Only ISO-Certified Autonomous Testing Platform",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX19rdm13N3Z0WGo1Y0JGNUt3RW1jdElJbkRDNWFtNzhfV2I5VGZKQ3owN29sdDM5TnAxbVdfZV9lLTN5S3JsbmljcGM5QWJrM0s4bzl3ODJOVHZrN20zTlNNWHZvMWNJSlppYVhNSmtsYkRJZHJCZ0puZjdHSDJWWGdGeDF1QXNENWFpN3BfaWp0WWFEeUVUNXlsb05HR1VMdVB6alhka3ViaU04QmNuQTBNTEpBV0VtTEZIZ1d2Qkx2amZ1QzRwUjZkZGJQTzVRdlZJZVBzWl9rT3BwVlFUOWMwNk83T3lZeFVORF9FbE52RkJKbnY4MHNEN1ZWQQ?oc=5",
+    "source": "gnews_big_news_network.com",
+    "source_category": "E",
+    "published": "2026-05-15",
+    "snippet": "AlgoShack Ranked #27 Globally Among 900+ AI Testing Companies - Emerges as India's Only ISO-Certified Autonomous Testing Platform Big News Network.com",
+    "fetched_at": "2026-05-25T06:05:03Z"
+  },
+  {
     "uid": "85a31c667ba9304e063666a3e801aba5",
     "title": "AI Isn\u2019t Fixing Retail Banking\u2019s Customer Growth Problem \u2014 It\u2019s Exacerbating It",
     "url": "https://www.forrester.com/blogs/ai-isnt-fixing-retail-bankings-customer-growth-problem-its-exacerbating-it/",
@@ -12578,6 +13128,16 @@
     "published": "2026-05-14",
     "snippet": "Connecticut Passes Law Significantly Regulating Use of AI in Employment Littler Mendelson P.C.",
     "fetched_at": "2026-05-21T06:13:03Z"
+  },
+  {
+    "uid": "07b121f369196197537070f08243d50d",
+    "title": "Runway Agent",
+    "url": "https://www.producthunt.com/products/runway-agent",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-14",
+    "snippet": "Generate edited, sound-designed videos via chat Discussion | Link",
+    "fetched_at": "2026-05-25T06:03:53Z"
   },
   {
     "uid": "0cae8fd25b46dc1f9751660851674211",
@@ -30590,6 +31150,16 @@
     "fetched_at": "2026-05-24T06:01:26Z"
   },
   {
+    "uid": "01c3ff68b33b28ad7e32667676d1e5dc",
+    "title": "Claude AI Coding Failure: 9-Second Data Wipe Sparks Alarming Risk",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41YzZlSjRSaW9xbUJWOWFTZ3VtZ0psVGVSbXphSTU1bVo3a2diYUZUaVlRWFN4WU1tOWs4WEsycWhyQVhNdTB1WkhOQ0Iya01RSTNIUUdONE9vU1owZVB1YTNjSldEWGJnNjBEODN0dnd1bmhkUU05QUtQcw?oc=5",
+    "source": "gnews_techgenyz",
+    "source_category": "C",
+    "published": "2026-04-28",
+    "snippet": "Claude AI Coding Failure: 9-Second Data Wipe Sparks Alarming Risk Techgenyz",
+    "fetched_at": "2026-05-25T06:04:22Z"
+  },
+  {
     "uid": "961dbbd3fd7e14d50d8a8fb030dce964",
     "title": "\u201c\uc815\ub2f5 \uc81c\uc2dc \ub300\uc2e0 \uc9c8\ubb38\ud558\uace0 \ud310\ub2e8\ud558\ub77c\u201d\u2026AI \uc2dc\ub300 \ud544\uc694\ud55c \ub9ac\ub354\uc758 \uc870\uac74\uc744 \ubb3b\ub2e4",
     "url": "https://www.cio.com/article/4163497/%ec%a0%95%eb%8b%b5-%ec%a0%9c%ec%8b%9c-%eb%8c%80%ec%8b%a0-%ec%a7%88%eb%ac%b8%ed%95%98%ea%b3%a0-%ed%8c%90%eb%8b%a8%ed%95%98%eb%9d%bcai-%ec%8b%9c%eb%8c%80-%ed%95%84%ec%9a%94.html",
@@ -32378,6 +32948,16 @@
     "published": "2026-04-27",
     "snippet": "Non-Destructive Testing [NDT] Market Size, Forecast 2034 Fortune Business Insights",
     "fetched_at": "2026-05-21T06:12:11Z"
+  },
+  {
+    "uid": "bd3dd17b53777f5e110e1d6bca09d96d",
+    "title": "I tested Claude Code, Codex, Lovable, and Replit side by side, and only one felt ready for real work",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTFSZnNyN0s1YVBFQzR2MTZOSm5aUmJrV0FvYkc4MmVpWGNnR3UzekN5UGg1V092R3FVYWxtM0dOSC1HbFlYV2xWbTFGTmo0amxkZy1RNG4zUkc1SEJPQWpSTmNzeFBySzVvaktzcE01cmZCTzhCbFFMeWNvZXJBa2hwWHZwWFB3a3c?oc=5",
+    "source": "gnews_xda",
+    "source_category": "B",
+    "published": "2026-04-27",
+    "snippet": "I tested Claude Code, Codex, Lovable, and Replit side by side, and only one felt ready for real work XDA",
+    "fetched_at": "2026-05-25T06:04:08Z"
   },
   {
     "uid": "d81833572eb970054ffcf02de83f1635",
@@ -34828,6 +35408,16 @@
     "published": "2026-04-24",
     "snippet": "Revenue Assurance Market Report: Global Trends & Growth Potential openPR.com",
     "fetched_at": "2026-05-21T06:12:11Z"
+  },
+  {
+    "uid": "e13d231f3790a845e095b0822920493a",
+    "title": "GitHub Copilot vs Cursor: Why 2 is Better Than 1",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LXRXU0NuZUthMmlYU0hnZDBKQ0RJODRrLVJfY1AwaEJsd1p3ZGI5T1pWZGhGZHlPcDk2YU9SY1FkdzMwNzBJRER5cVNlai1kbjdjaUV2b0JXSWgtTGg1NzdVYWswdw?oc=5",
+    "source": "gnews_wiz.io",
+    "source_category": "C",
+    "published": "2026-04-24",
+    "snippet": "GitHub Copilot vs Cursor: Why 2 is Better Than 1 wiz.io",
+    "fetched_at": "2026-05-25T06:04:27Z"
   },
   {
     "uid": "26099c95d25959ac76b9ccb18759cbd7",
@@ -38338,6 +38928,16 @@
     "published": "2026-04-16",
     "snippet": "Antioch raises funding to bring \u2018software speed\u2019 to robot development The Robot Report",
     "fetched_at": "2026-05-22T06:01:40Z"
+  },
+  {
+    "uid": "7831139ade0b76664e3fac17288f1cee",
+    "title": "Resolve AI Raises $40M Series A Extension at $1.5B Valuation to Tackle the Hardest Problem in Software: Production",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZU1KeUdRcDBIbDJhbHpRckJHbHIxdHRTZFVvTWVNZTdjX1NIRmhjU1ZnQVlzMEFVUXpsbmp5T0hGbVFucGFwWGpKdlJrX3BqR2ZQMXNlVnhPOFdrY2htdjd1N25hQWpmeXBaMUFHNl9mQU1LS2VtandXdlNmOV9WakdsaWh6dFNRVUptNnpxSkU1SmhYQjVZN20zakV2LVlsa1l4YTk1Qi1uOElOVTYxMDBCb2ZENHFZLVNiUkZuVkVPODVvbVI2RVoxYWszUQ?oc=5",
+    "source": "gnews_unite.ai",
+    "source_category": "C",
+    "published": "2026-04-16",
+    "snippet": "Resolve AI Raises $40M Series A Extension at $1.5B Valuation to Tackle the Hardest Problem in Software: Production Unite.AI",
+    "fetched_at": "2026-05-25T06:04:22Z"
   },
   {
     "uid": "8a1faa649d5075a75e7a80c412c17cff",
@@ -51408,6 +52008,16 @@
     "published": "2026-04-03",
     "snippet": "Test mobile CI builds on any device without building locally Discussion | Link",
     "fetched_at": "2026-05-21T06:12:20Z"
+  },
+  {
+    "uid": "936468bc337b3c2e341482fcef4c694b",
+    "title": "AI startup Sarvam close to raising $300 million at $1.5 billion valuation",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkF0US1XVEZaLXl3VHB2U2VWYUxxRU5Ed1hoMG42UUdpMkxDOVRhQXM4LTMzSFZpbmgzTkd0amNtU0FIU3lDUzR5Vmo5N09NRVd5M0U0TW55SFlEb1hHZDJTSlpjM1RfWEpYUDJkdGVxVWdBSHdLQlJIYnNZS2xVT3YxNXRmTzh2REc3TFRfanVkbk9IdHoyNVBhZWd2NXZ5cDNKZzBJRnBTMlp5WjZUWmFHNWh3VkM3QmI5Vm5lRlRETXpmRHlzOWlnTGJ1cHBSbFJQZldB0gHbAUFVX3lxTFB1UUR4RXFJZFp5NU1RdG1NdndxVFhsVjNQYWZSc1IyMVVvZ3RiVTlERGNlUWRRM2kybHQ3ZFMtSDJTT0FjczVScGtfUVlsVnRaYmJWTnRXNnF3RTBzNVRTelBmZ3ItaWI5TXBuZ3JGa2MwbFpNOXRlckgzdmtqeTFfNjM5LUdZUURMQnJkVkNDSWotUEpaSmhIbUFJaGxBakFsclNpVG9FYjF0Vi12cVphbTlUVk40SjVhZDFPbXgybXJjRV9CVm44TUlQZS16cjg1NllzeXdMXzVWOA?oc=5",
+    "source": "gnews_the_economic_times",
+    "source_category": "E",
+    "published": "2026-04-03",
+    "snippet": "AI startup Sarvam close to raising $300 million at $1.5 billion valuation The Economic Times",
+    "fetched_at": "2026-05-25T06:04:57Z"
   },
   {
     "uid": "e27aa343c0c22993adeb336d792e4154",
@@ -67540,6 +68150,16 @@
     "fetched_at": "2026-05-06T06:01:14Z"
   },
   {
+    "uid": "736e07babbbefdbdd0bb09034e7ef82b",
+    "title": "Why AI scaling is so hard -- and what CIOs say works",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVUwZjNjV2E0ZXc2YnhDT3lrUldZUkhoWTI1bWVqOGN5d3hWMjh1QjZqY0xBX1E3ckJkYl9ZbXotaDZZaWNhWFFBeDFIZURncEx2SVJWMG9ILW9QR2N6U1ktN1RRR1hkbV93SXZ0MkgyalNFNy05VFdXeTNFNGxoSFN1eGVidVJQZmF3bkI3UEFOU2VSZHc1QkVVeThUcF90U1ZN?oc=5",
+    "source": "gnews_informationweek",
+    "source_category": "A",
+    "published": "2026-03-24",
+    "snippet": "Why AI scaling is so hard -- and what CIOs say works InformationWeek",
+    "fetched_at": "2026-05-25T06:03:39Z"
+  },
+  {
     "uid": "b80789dd1f4e339497ce7feb73b5d8ca",
     "title": "Why Stripe\u2019s Machine Payments Protocol Signals a Turning Point For Micropayments",
     "url": "https://www.forrester.com/blogs/why-stripes-machine-payments-protocol-signals-a-turning-point-for-micropayments/",
@@ -81220,6 +81840,16 @@
     "fetched_at": "2026-05-19T06:06:16Z"
   },
   {
+    "uid": "9753f983b95b641a17dd6525f97b360a",
+    "title": "Rethinking Software Testing with AI: In Conversation with Divya Manohar, Co-Founder of DevAssure",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ1Y1TTk0Q25kVVR3REJacXdJRTVUME9rMUQ2QTBSNDkyUWl2UWVBUV84emgwVjBVeG9NaEppWlZqQ1NJekRwbjJVTVQ4NkdpdV96cVFoVEpaOHJja052OGZfZ0lMckRpYjlIaW9IbkFtU2hCUjBqT2ZvZ0JxYm1KZzZ5UEFlLUlPQlpXZFJPaEx3RElMVDl1VTVoSDBkZlBCSHNPbGtsdHFhMHhmZlgtaFIxVi14cXQzWjJvTXNTb1A1SjlYNWtlSXdadXM5al9wRlczbGVZSlc?oc=5",
+    "source": "gnews_indian_startup_times",
+    "source_category": "E",
+    "published": "2026-03-14",
+    "snippet": "Rethinking Software Testing with AI: In Conversation with Divya Manohar, Co-Founder of DevAssure Indian Startup Times",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "a4bf50b80f39259402e46ee27fd5df9e",
     "title": "When The Agents Take The Keyboard: Inside Cloudflare\u2019s Next.js Rewrite",
     "url": "https://www.forrester.com/blogs/when-the-agents-take-the-keyboard-inside-cloudflares-next-js-rewrite/",
@@ -82948,6 +83578,16 @@
     "published": "2026-03-13",
     "snippet": "FedEx Is Planning an AI Agent Workforce WSJ",
     "fetched_at": "2026-05-02T06:00:18Z"
+  },
+  {
+    "uid": "ec1d689c5a8a105efc84d7dfee9323d8",
+    "title": "Singtel Innov8 launches new US$250 million global AI Growth Fund to accelerate Singtel Group\u2019s AI adoption",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa1E4RXo0WVJZUEJuX1BESzBaOTR5WHlvTEJhbkRITUo3eVRETC1rSkQ4akRUa25BcGpOY0VqaFFiOFMwekRTUXhHT3E3UjljS2pvOFhRTTI3MUViai1LaEZxanYxZWRZbVFicDJSRGZiYXlOWFdiMGgzWk5GWnJ1eVJVcTZ4NVpCb3lKemg0ejdEX1NyVHFsamhQc2V6ZHNEWmRYcVRMdXloeWpFSUU2Y2VUZ1FfaTlBd3I5NHBMREFLZ0U3VzhVRV9pVmU3NGVyOXU2LUh3QTd2RHJuSXJHT29vMzhVLWM3MTA5WVhwb2UzSmNiRXNn?oc=5",
+    "source": "gnews_singtel",
+    "source_category": "E",
+    "published": "2026-03-13",
+    "snippet": "Singtel Innov8 launches new US$250 million global AI Growth Fund to accelerate Singtel Group\u2019s AI adoption Singtel",
+    "fetched_at": "2026-05-25T06:04:57Z"
   },
   {
     "uid": "511e25eb28698b25ae8180b3768ff5fa",
@@ -124150,6 +124790,16 @@
     "fetched_at": "2026-05-18T06:00:20Z"
   },
   {
+    "uid": "e3537b659145f5769d67b1ec338ed3fb",
+    "title": "We asked lawyers to test the AI tool that tanked stocks this week",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVE1kT3JiTVlKYVJLMHhodnNrM2VFWXQ0NFZKMFpMd2xiSlRJZjA0MUdCc3ZrMDNRU1B3V3J4b1lzMnVmUjQ3Ry1VRHpDSEtybHdrWmtMOTM1NGdJbTQ0dTltQUk3ZGtmTTh1MHlwaFBRWmRwaVZzUW9IODNpNnNQZ3VySXRiZTFRRzVHX0tfblVWcWFrak9nOWVrQjExMXd6UlNkNkhJR1htUm1SXy1HTmRfUUNub1hpaDNWeFM5VVREcWo3MGpqN2hrdU4yQQ?oc=5",
+    "source": "gnews_afr",
+    "source_category": "E",
+    "published": "2026-02-06",
+    "snippet": "We asked lawyers to test the AI tool that tanked stocks this week AFR",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "1d600db300edde9c8465e8f27f747fa2",
     "date": "2026-02-05T20:48:45",
     "source": "AIMultiple",
@@ -135570,6 +136220,16 @@
     "fetched_at": "2026-05-06T06:00:23Z"
   },
   {
+    "uid": "64f52b7aa9e8eba2d386a0f68be59d44",
+    "title": "Antioch raises pre-seed funding to accelerate AI robotics testing",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2lUTGF3N1NhWDhpc1M2UG5FbERCTlNQQVpHdmxIazM3YUV4RGw4dUo3MzJKSnJJMHdWNE1lMW05X2F4ZFItM0dEeHN0UXhsbXFycnFvRWVPeUF3ZU0wZWJ0eTZkVWlXRlptQ1h0OHQ2TTZ4Q1N5QWVMZkpZWGl1eXhYa3dqRUtxVTFFTHpoUC10d21XYkR1XzFB?oc=5",
+    "source": "gnews_the_robot_report",
+    "source_category": "E",
+    "published": "2025-12-08",
+    "snippet": "Antioch raises pre-seed funding to accelerate AI robotics testing The Robot Report",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "4f7d2c19465265333772f4f9b09969dd",
     "date": "2025-12-07T08:00:00",
     "source": "VentureBeat",
@@ -137218,6 +137878,16 @@
     "fetched_at": "2026-04-04T06:08:50Z"
   },
   {
+    "uid": "e12527f76d752d997c6f426d53df72a5",
+    "title": "UK Budget 2025: Reactions From Tech Leaders",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OMWdZaEc4T3BablZJMktNMFhsTGQ5d3prb20wREsteExyM1BuUVdoY3JGd29iQmNjRTk3VHlNVlpmaE5GaUQwV1RDZVNieE9IV1RVNWJKZVA1Rm9Tak9xa1N4djR5c0hSUVBtdm40TXU2czZs?oc=5",
+    "source": "gnews_techrepublic",
+    "source_category": "A",
+    "published": "2025-11-27",
+    "snippet": "UK Budget 2025: Reactions From Tech Leaders TechRepublic",
+    "fetched_at": "2026-05-25T06:03:36Z"
+  },
+  {
     "uid": "3a26351ec871a73bb50faf596e704c23",
     "date": "2025-11-26T12:52:48",
     "source": "Global Market Insights Inc.",
@@ -138736,6 +139406,16 @@
     "published": "2025-11-19",
     "snippet": "OpenAI's Codex Max solves one of my biggest AI coding annoyances - and it's a lot faster ZDNET",
     "fetched_at": "2026-05-21T06:12:33Z"
+  },
+  {
+    "uid": "ed988401673657b2a8895f293ea3987f",
+    "title": "Voize nabs $50M for AI nursing scribe\u2014Fierce Fundraising Tracker",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFg5YkpERVFTUHpEdy0xNkR1em9uZ1pGcnZHdXBiUUtIbVRpWVp5NE04dTU0TGMwS3gyNFMzMV9JSExEc180MGxGczFJY2FhMks2UThKanRtOUdlc1ctZmZNSjRmejZZOUwwUVQySEwtbUJLZkxrcDJiMlVBTG43X1FpbVI5MnM5TlBxR0p5T1AweWNMUlB2YmJrc28xcURabWU0elNSV29LRlcyMjFEMkE1ZlY4bmlBZGhyX3NXaHBxMWtzcFNTSg?oc=5",
+    "source": "gnews_fierce_healthcare",
+    "source_category": "E",
+    "published": "2025-11-19",
+    "snippet": "Voize nabs $50M for AI nursing scribe\u2014Fierce Fundraising Tracker Fierce Healthcare",
+    "fetched_at": "2026-05-25T06:04:57Z"
   },
   {
     "uid": "ca101ca07c404e9b5ea4fcea2ca119d6",
@@ -147296,6 +147976,26 @@
     "fetched_at": "2026-05-24T06:01:48Z"
   },
   {
+    "uid": "802dfc9104d3a61c423e5568f0f7f977",
+    "title": "Leapwork Revenue 2025: $37.3M ARR, $111.9M Valuation",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HMm40OVlkWlVidXdkUlUzajVsRW1zbS1hcWhUYTJZemRXMTNFSGg4UldCSlUxQnBEYkczU3Z0cGF5aEE5cExsbk54X3cyb0pnVDJYVl9n?oc=5",
+    "source": "gnews_getlatka",
+    "source_category": "E",
+    "published": "2025-09-18",
+    "snippet": "Leapwork Revenue 2025: $37.3M ARR, $111.9M Valuation GetLatka",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
+    "uid": "4b55605e48afa508f3b3aaad20e4697a",
+    "title": "Katalon Revenue 2025: $36M ARR, $107.9M Valuation",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lZ0g5REd6bWFOZUszOC1TQXNLYm9fYnc4Tld0bThfTkE3dzA0ejRHMFFEQk9jNzJJd0pCcFAyTmR3NjBDTTB2Qms3Y3dIVHd6c2tOeQ?oc=5",
+    "source": "gnews_getlatka",
+    "source_category": "E",
+    "published": "2025-09-18",
+    "snippet": "Katalon Revenue 2025: $36M ARR, $107.9M Valuation GetLatka",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "9da76742b49ae96ffa0d09d821f810ea",
     "date": "2025-09-17T08:00:00",
     "source": "EPAM",
@@ -154462,6 +155162,16 @@
     "fetched_at": "2026-04-10T06:05:00Z"
   },
   {
+    "uid": "a7ea0e796e60b1a35634d50a76b1776e",
+    "title": "Morgan Stanley Asia Singapore Acquires 1.6 Lakh Shares in Cigniti Technologies for \u20b9264 Million",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaHc4OGJsZUJtZjB3eDNoT0k0TTB5Y0hMWkx5eUpiTUxmNzl2Nk1uU01kaFRrdERMeXNSYjJMa0ZmOVBUbUhtVzZYdlJRTkUxTi1GdnphRUtRVk5JM0E5aTdwMW1NSU56S1hKc2FoVi1oUEQxUXVwMDdweTU2SG56ZThXM3VaVVBrVzV3TEVwSUE3dzNFRUpsR1ZocUFCVmZHcVh5WXl0UENvaVI4MzZ5aFpfZDBRc0IzMmZmVHJYblk4NFBkZ1VCQjFMMjFkNm5VckI2R2Q0RVFxbzNxSnNBYS1VNE4xU3dIR2c?oc=5",
+    "source": "gnews_scanx.trade",
+    "source_category": "E",
+    "published": "2025-07-24",
+    "snippet": "Morgan Stanley Asia Singapore Acquires 1.6 Lakh Shares in Cigniti Technologies for \u20b9264 Million scanx.trade",
+    "fetched_at": "2026-05-25T06:05:00Z"
+  },
+  {
     "uid": "0c4588a3c61b8a73db01818038b2067d",
     "date": "2025-07-23T08:00:00",
     "source": "Amazon Web Services (AWS)",
@@ -157008,6 +157718,16 @@
     "published": "2025-06-27",
     "snippet": "Securing Vibe Coding: Addressing the Security Challenges of AI-Generated Code SC Media",
     "fetched_at": "2026-02-20T10:06:56Z"
+  },
+  {
+    "uid": "50535fc9330285830a93b48f12fe66c1",
+    "title": "A decade of review in global regulation and research of artificial intelligence medical devices (2015\u20132025)",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlcxb3lsN3JLeXdZbWpKbS1WMmtsbEMxM3VvM2lBLUdyMHJzY1FVQUd6cnEwZXZTVFg5VlZFVEtZVWJKaXdVZE9XSGsxdlM3Q2lLcVFJcElNV085clIyQS01dEJXSEQzUlNGTmhMXzRHQm9iLUJ6N2M1UkNqN1Q1WWdxaHFIczVWRTkxV0dR?oc=5",
+    "source": "gnews_frontiers",
+    "source_category": "D",
+    "published": "2025-06-27",
+    "snippet": "A decade of review in global regulation and research of artificial intelligence medical devices (2015\u20132025) Frontiers",
+    "fetched_at": "2026-05-25T06:04:39Z"
   },
   {
     "uid": "0b213a58c18027da52dbf0f3fa5834a8",
@@ -159646,6 +160366,16 @@
     "fetched_at": "2026-03-16T07:00:46Z"
   },
   {
+    "uid": "54657428a6b69b2829056e5c3b9accd5",
+    "title": "Top AI Tools Every Solo AI Startup Founder Should Know",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDR3X1dmWmt6NE1QRThfendOVDFKdFh4blRKUmpaUDNLdlRyS09fTDYySjF6b0ZpUjl0TWVKOUdPS2dPQmtrWlk0MzM0WGktMmFfdGRNeEM2VDkweUpRMmtXVUVYaEc1Zzc3N1IyV2xYTzZrUkxoMmRTOGxXdkdDelZkeVRCU2t4OGEtYk41cUk5MU9WNFQzM0xYc2lkUjk3cGxmV2F6QkREQzRxVXgyQW5R?oc=5",
+    "source": "gnews_nucamp.co",
+    "source_category": "E",
+    "published": "2025-06-01",
+    "snippet": "Top AI Tools Every Solo AI Startup Founder Should Know nucamp.co",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "20154b4507324b0da5f4160fb4b48101",
     "title": "A general framework for governing marketed AI/ML medical devices",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DV0pMRTBRLWg2MkFSdU1uejBMY0JDTnVJa09ES01qd0dWSnFsSG01eXczZ1lzc2NHcTZteW5hLVpubnNxSnpxVElGTVg3UjR1aFFvRHFjekVZRGgya3RV?oc=5",
@@ -160312,6 +161042,16 @@
     "published": "2025-05-22",
     "snippet": "Building Infrastructure for Effective Vibe Coding in the Enterprise Unite.AI",
     "fetched_at": "2026-03-28T07:00:48Z"
+  },
+  {
+    "uid": "10af07a93fbcf196d0d99dab92c801fd",
+    "title": "Who's Responsible for Agentic AI?",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaU85ZHRmWWsyRXJqUGhncHBvcWpvNjcwd1JFeEZnYkVFY09POUh4RWtTbVBNTTBuQkVhamFtMHVnREJlWW4yeGt2Y0ZodkliZ0EyVjBpWVNpUVppMG14OWNFZFJOLVdSdEdPYWprOHF2UmFLeF9IcV9oRmFzcGZ0SFN2bmFoYkctaFlaMEJfUkcyWjhXdjFRYjR1TkFpc1dTOE83c0wyRFpueGdWS1E?oc=5",
+    "source": "gnews_clifford_chance",
+    "source_category": "D",
+    "published": "2025-05-22",
+    "snippet": "Who's Responsible for Agentic AI? Clifford Chance",
+    "fetched_at": "2026-05-25T06:04:44Z"
   },
   {
     "uid": "6aec691b732e93fc51c1d3b25d3ce285",
@@ -174732,6 +175472,16 @@
     "fetched_at": "2026-02-19T19:39:22Z"
   },
   {
+    "uid": "81754af37fc0a8cf7d5064e507dcad94",
+    "title": "How Will AI Help With Game Testing?",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hNkVzMlhPbWxwSzJDMnNMZGljaE85Mk1TV3RjbHRNb1BjWHAzUTdCUnd3djBTTXpSWnVYRUJXSW9QU250Nkc1aVZhRlZwSC11SS1ZNVRrMU80Z1dzbkxPck1CbVczUGdpVDg4?oc=5",
+    "source": "gnews_built_in",
+    "source_category": "E",
+    "published": "2024-10-08",
+    "snippet": "How Will AI Help With Game Testing? Built In",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "2ca443e2bb4630add976984d2a8f4890",
     "title": "How Supabase increased signups through the Vercel Marketplace",
     "url": "https://vercel.com/blog/how-supabase-increased-signups-through-the-vercel-marketplace",
@@ -176156,6 +176906,16 @@
     "published": "2024-09-09",
     "snippet": "Miami-based AI bookkeeping startup Finally has raised another big round: $200M in equity and debt TechCrunch",
     "fetched_at": "2026-03-27T07:01:56Z"
+  },
+  {
+    "uid": "5f660d73c4fff2606a8be096a4145edd",
+    "title": "44 of the most promising AI startups of 2024, according to top VCs",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13ZFpnbXUzWmdwQ1kyV1F3S1RjT2JGdXN5bkZDVmtaNV9TMm1GTXJrclV3U2VocDZ0clhhVUN1THo2U1dfYWI4aWN1Tzg5TjJMQjdRejNaeWdoVGJXUlpIT19lVzlIMXVaVGZvTDlncVFvTGs?oc=5",
+    "source": "gnews_business_insider",
+    "source_category": "E",
+    "published": "2024-09-09",
+    "snippet": "44 of the most promising AI startups of 2024, according to top VCs Business Insider",
+    "fetched_at": "2026-05-25T06:04:57Z"
   },
   {
     "uid": "07a7c98edde8d81e0c40e17484a246cd",
@@ -178248,6 +179008,16 @@
     "published": "2024-07-18",
     "snippet": "Judge in SolarWinds case rejects SEC oversight of cybersecurity controls The Washington Post",
     "fetched_at": "2026-04-26T20:58:57Z"
+  },
+  {
+    "uid": "52fcd632c01c21c8d81576d3a2e61f88",
+    "title": "Judge dismisses much of SEC suit against SolarWinds over cybersecurity disclosures",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFdBTUJ5WlZIOHUzaWgxVllQM3lxbmdodTJVRFJ1X21sdEVkVHZCMWplSjRkUVIwRThvOUs0T183Nm1JQmJRZHNpWFRHMFI4a2UxZjFjc0ZUanRjR3h2MkRzRzZDTlFYNzgzN3NFcnIzMDhzNDRaQkNQQi1FWi1hVzV6ZzZXZ2RNSUlvcmI1a1hMWF9zem8yMmdkRHYzWG5NM2xwcnhxazN4Zw?oc=5",
+    "source": "gnews_cyberscoop",
+    "source_category": "D",
+    "published": "2024-07-18",
+    "snippet": "Judge dismisses much of SEC suit against SolarWinds over cybersecurity disclosures CyberScoop",
+    "fetched_at": "2026-05-25T06:04:42Z"
   },
   {
     "uid": "3f0d3a0936825636123160cb053b9767",
@@ -196172,6 +196942,16 @@
     "fetched_at": "2026-03-05T07:01:29Z"
   },
   {
+    "uid": "199b046e35069414e9f61de4a9a6d4c7",
+    "title": "Seattle startup Picnic partners with Domino\u2019s to test pizza-assembly machine",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDJEbHV1SkduZnpaLTh0ZnRRM2k3UlMyY1RybXJoMWgxSlh4d3ZHRTVpNWxjSDFyMTF6eHktaHRkNjFsWTVYZ2hqeEN4M3hyNlV4bXhYeDNpQzgzbjNXVXhIb3ZRdnZDTmFQS3NGZEdLbXlMck9GdmhWOEgwTXBfRWttbVFhQ0VQUDhDbFdHNHFSSkxaX2U0enZfeVpBVVg3TmhYMFVBQXppdw?oc=5",
+    "source": "gnews_geekwire",
+    "source_category": "E",
+    "published": "2022-09-06",
+    "snippet": "Seattle startup Picnic partners with Domino\u2019s to test pizza-assembly machine GeekWire",
+    "fetched_at": "2026-05-25T06:04:57Z"
+  },
+  {
     "uid": "2a02e42d8e2c9f7ebe2687e9a4bfa04a",
     "title": "At Next.js Conf 2022, learn to build better and scale faster",
     "url": "https://vercel.com/blog/nextjs-conf-2022",
@@ -206690,6 +207470,16 @@
     "fetched_at": "2026-02-19T19:39:14Z"
   },
   {
+    "uid": "0373e575fa22cc13dc8d72cc8cbe5c02",
+    "title": "Gartner names Microsoft a Leader in Enterprise Low-Code Application Platforms 2019 Magic Quadrant",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2lpV3ZHMWxpUEtTTDRNcnd1dEhuRklHZVNPVVBKUFVQa1ZPUjZtRGJFNzRqdkdDeFRqMXhVMHVuU3RjYWZ3NURqa21RQnQxT1VUTjdtZlpwamd6QUE2M3RZb0lyYzlQYktMRTdHN3gxTl9pOWJMWTBBZWdHdy16b1NqZ2M0a2pISjJhT2dGVDJKeTY0MmpTTUZIekRiMVg4ZS1INHl4YmdEYkdaNXZ6NTBXVEpGMGQ1Q3lIMHUzR3VjYW4zbnBzTmVqdi1hTHFvVzA1QklxUEs4ckktbERaV2ctaC1HQldPM3RRSmF5eW9fbkk?oc=5",
+    "source": "gnews_microsoft",
+    "source_category": "B",
+    "published": "2019-08-12",
+    "snippet": "Gartner names Microsoft a Leader in Enterprise Low-Code Application Platforms 2019 Magic Quadrant Microsoft",
+    "fetched_at": "2026-05-25T06:04:05Z"
+  },
+  {
     "uid": "1c4ca0c5c4eae78d6e003930d23f5995",
     "title": "Tricentis Acquires Software Testing Startup TestProject",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XTm1PVlFNR3lMS2dTVkkwMlJWWXdVdUxTVHlWSjdTekRBa3kxckhMM3I3c2dybWloR3FXel9hM201ZldKVTF1Um9qeW1tZk5BSUpOTDUtc3NuVWhkZ3V3V09OMVJ0Yk5hMHg4STUzRFdWcHdja2Rr?oc=5",
@@ -208336,6 +209126,16 @@
     "published": "2018-11-14",
     "snippet": "Get the most from AWS re:Invent and see which sessions we'll be attending at the annual cloud extravaganza in Las Vegas.",
     "fetched_at": "2026-02-25T10:10:15Z"
+  },
+  {
+    "uid": "66b5e6ae95c42048817d5846501a65d9",
+    "title": "The Biggest Cyber Threats to Watch Out for in 2019",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTNram5aYmxqR3J3dTBFOHFlTzl1TkdGRzdQdzNTQnNGYWdUVVFUZE1DZlBXdmFJOUx2d3YwekttTkJ0cDQyWTJnaGhHdy1PRlpMVkJqNWc2YTFHR0c4Nk5QWkVkUDJLZldETVotUDQtdlRzRjVaWW1UX190amRGMGFSa1NYdFNQZ3lTbU5USnp1TEpnM3RNZE5XZHgxT1U?oc=5",
+    "source": "gnews_security_magazine",
+    "source_category": "D",
+    "published": "2018-11-13",
+    "snippet": "The Biggest Cyber Threats to Watch Out for in 2019 Security Magazine",
+    "fetched_at": "2026-05-25T06:04:42Z"
   },
   {
     "uid": "105f7b8aa529add6f793a4e50f5748a9",
