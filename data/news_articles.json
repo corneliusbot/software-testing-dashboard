@@ -10,6 +10,16 @@
     "fetched_at": "2026-04-01T06:01:02Z"
   },
   {
+    "uid": "b96d2bd8e6c23ea1155de234f9b2cd8c",
+    "title": "Name That Toon Contest",
+    "url": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
+    "source": "dark_reading",
+    "source_category": "C",
+    "published": "2026-06-26",
+    "snippet": "",
+    "fetched_at": "2026-05-29T06:06:56Z"
+  },
+  {
     "uid": "e00cdd788226271402737de6d2dd8acb",
     "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
     "url": "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
@@ -28,6 +38,256 @@
     "published": "2026-06-02",
     "snippet": "",
     "fetched_at": "2026-05-21T06:12:38Z"
+  },
+  {
+    "uid": "9a7d3d60a17cee55a009a1ba98b0e99a",
+    "title": "\uc2a4\ub178\uc6b0\ud50c\ub808\uc774\ud06c, MCP \uc804\ubb38 \uc2a4\ud0c0\ud2b8\uc5c5 \ub098\ud1a0\ub9c8 \uc778\uc218\u2026AI \uc5d0\uc774\uc804\ud2b8 \ud1b5\uc81c \uacc4\uce35 \uac15\ud654",
+    "url": "https://www.cio.com/article/4178498/%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-mcp-%ec%a0%84%eb%ac%b8-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%82%98%ed%86%a0%eb%a7%88-%ec%9d%b8%ec%88%98ai-%ec%97%90.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-29",
+    "snippet": "\uc2a4\ub178\uc6b0\ud50c\ub808\uc774\ud06c\ub294 \uae30\uc5c5\ub4e4\uc774 \uc5d0\uc774\uc804\ud2f1 AI(agentic AI) \uc6cc\ud06c\ud50c\ub85c\uc6b0\ub97c \uc2dc\ubc94 \uc6b4\uc601 \ub2e8\uacc4\uc5d0\uc11c \uc2e4\uc81c \uc5c5\ubb34 \ud658\uacbd\uc73c\ub85c \ud655\ub300\ud558\ub824\ub294 \uc6c0\uc9c1\uc784\uc774 \ub298\uc5b4\ub098\ub294 \uac00\uc6b4\ub370, \uc774\uae30\uc885 \uae30\uc5c5 \ud658\uacbd\uc5d0\uc11c \uc6b4\uc601\ub418\ub294 AI \uc5d0\uc774\uc804\ud2b8\uc758 \uac70\ubc84\ub10c\uc2a4\uc640 \ubcf4\uc548, \uc5f0\uacb0\uc131\uc744 \uac15\ud654\ud558\uae30 \uc704\ud574 \ubbf8\uad6d \uc2a4\ud0c0\ud2b8\uc5c5 \ub098\ud1a0\ub9c8(Natoma)\ub97c \uc778\uc218\ud560 \uacc4\ud68d\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4. \ud074\ub77c\uc6b0\ub4dc \ub370\uc774\ud130 \ud50c\ub7ab\ud3fc \uae30\uc5c5 \uc2a4\ub178\uc6b0\ud50c\ub808\uc774\ud06c\ub294 AI \uc5d0\uc774\uc804\ud2b8\uac00 \uc0c8\ub86d\uac8c \ubd80\uc0c1\ud558\ub294 \ubaa8\ub378 \ucee8\ud14d\uc2a4\ud2b8 \ud504\ub85c\ud1a0\ucf5c(Model Context Protocol, MCP) \ud45c\uc900\uc744 \ud1b5\ud574 \uae30\uc5c5 \ub0b4\ubd80 \uc560\ud50c\ub9ac\ucf00\uc774\uc158\uacfc API, \ube44\uc988\ub2c8\uc2a4 \uc6cc\ud06c\ud50c\ub85c\uc6b0\uc640 \ub354\uc6b1 \uae34\ubc00\ud558\uac8c \uc5f0\ub3d9\ub418\uae30 \uc2dc\uc791\ud558\uba74\uc11c, \uae30\uc5c5\ub4e4\uc774 \uc911\uc559\uc9d1\uc911\ud615 \uac70\ubc84\ub10c\uc2a4\uc640 \uc2e0\uc6d0 \uad00\ub9ac, \uac10\uc0ac \uae30\ub2a5\uc744 \uc810\uc810 \ub354 \ud544\uc694\ub85c \ud558\uac8c \ub420 \uac83\uc73c\ub85c \ubcf4\uace0 \uc788\ub2e4. \ub098\ud1a0\ub9c8\ub294 \uc774\ub7ec\ud55c MCP \ubd84\uc57c\ub97c \uc804\ubb38 \uc601\uc5ed\uc73c\ub85c \ub0b4\uc138\uc6b0\uace0 \uc788\ub2e4. \uc2a4\ub178\uc6b0\ud50c\ub808\uc774\ud06c \uce21\uc5d0 \ub530\ub974\uba74 MCP \uae30\ubc18 \ub3c4\uad6c \uc811\uadfc \uae30\ub2a5\uacfc \uac70\ubc84\ub10c\uc2a4, \uc635\uc800\ubc84\ube4c\ub9ac\ud2f0(\uac00\uc2dc\uc131) \uae30\ub2a5\uc744 \uc81c\uacf5\ud558\ub294 \ub098\ud1a0\ub9c8 \ud50c\ub7ab\ud3fc\uc740 \uc2a4\ub178\uc6b0\ud50c\ub808\uc774\ud06c\uc5d0 \ud1b5\ud569\ub420 \uc608\uc815\uc774\ub2e4. \uc774\ub97c \ud1b5\ud574 \uae30\uc5c5\ub4e4\uc740 ",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "07c6d38f1fa7a99cc20cc0626989874c",
+    "title": "IBM\u00b7\ub808\ub4dc\ud587, \uae30\uc5c5\uc6a9 \uc624\ud508\uc18c\uc2a4 \ubcf4\uc548 \ucee8\ud2b8\ub864\ud0c0\uc6cc \uad6c\ucd95 \ub098\uc11c",
+    "url": "https://www.cio.com/article/4178494/ibm%c2%b7%eb%a0%88%eb%93%9c%ed%96%87-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8a%b8%eb%a1%a4%ed%83%80%ec%9b%8c-%ea%b5%ac%ec%b6%95-%eb%82%98.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-29",
+    "snippet": "\uae30\uc5c5 \ud658\uacbd\uc5d0\uc11c \uc624\ud508\uc18c\uc2a4 \ucf54\ub4dc\ub294 \uc0ac\uc2e4\uc0c1 \ud544\uc218 \uc694\uc18c\uac00 \ub410\ub2e4. \ud3ec\ucd98 500\ub300 \uae30\uc5c5\uc758 90% \uc774\uc0c1\uc774 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacf5\uae09\ub9dd\uc5d0 \uc624\ud508\uc18c\uc2a4 \ucf54\ub4dc\ub97c \ud3ec\ud568\ud558\uace0 \uc788\ub294 \uac83\uc73c\ub85c \ucd94\uc815\ub41c\ub2e4. \uadf8\ub7ec\ub098 \uc624\ud508\uc18c\uc2a4\ub294 \uc218\ub9ce\uc740 \ubcf4\uc548 \ucde8\uc57d\uc810\uc744 \uc548\uace0 \uc788\ub294 \uacbd\uc6b0\uac00 \ub9ce\uc544, \uc774\ub97c \ucc3e\uc544\ub0b4\uace0 \ud328\uce58\ud558\ub294 \uc791\uc5c5\uc740 \ubcf4\uc548\ud300\uc758 \ub05d\uc5c6\ub294 \uacfc\uc81c\ub85c \uaf3d\ud78c\ub2e4. IBM\uacfc \ub808\ub4dc\ud587\uc740 \uc774\ub7ec\ud55c \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud574 \uc0c8\ub85c\uc6b4 \ud504\ub85c\uc81d\ud2b8\uc778 \u2018\ud504\ub85c\uc81d\ud2b8 \ub77c\uc774\ud2b8\uc6f0(Project Lightwell)\u2019\uc744 \ucd94\uc9c4\ud55c\ub2e4. 29\uc77c \uacf5\uac1c\ub41c \ud504\ub85c\uc81d\ud2b8 \ub77c\uc774\ud2b8\uc6f0\uc740 50\uc5b5 \ub2ec\ub7ec(\uc57d 6\uc870 8,000\uc5b5 \uc6d0)\uc640 IBM \ubc0f \ub808\ub4dc\ud587 \uc5d4\uc9c0\ub2c8\uc5b4 2\ub9cc \uba85\uc744 \ud22c\uc785\ud574 \uc624\ud508\uc18c\uc2a4 \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc758 \ucde8\uc57d\uc810 \ubc1c\uacac\uacfc \ub300\uc751\uc744 \uac00\uc18d\ud654\ud558\ub294 \uc0c8\ub85c\uc6b4 \u2018\uc5d4\ud130\ud504\ub77c\uc774\uc988 \ud074\ub9ac\uc5b4\ub9c1\ud558\uc6b0\uc2a4(Enterprise Clearinghouse)\u2019\ub97c \uad6c\ucd95\ud558\ub294 \uac83\uc774 \ubaa9\ud45c\ub2e4. \uc591\uc0ac\ub294 \uc774 \ud074\ub9ac\uc5b4\ub9c1\ud558\uc6b0\uc2a4\uac00 AI \uae30\ubc18 \u2018\ubcf4\uc548 \uc870\uc815 \uacc4\uce35(Security Coordination Layer)\u2019 \uc5ed\ud560\uc744 \uc218\ud589\ud574 \uae30\uc5c5\uc774 \uae30\uc874 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uacf5\uae09\ub9dd\uc5d0 \ud328\uce58\ub97c \uc9c1\uc811 \ud1b5\ud569\ud560 \uc218 \uc788\ub3c4\ub85d \uc9c0\uc6d0\ud560",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "fabd39362522a44de5e1e8ecb88f3fcc",
+    "title": "\uae30\uc5c5 AI \ucd94\uc9c4\uc774 \ub9c9\ud788\ub294 \uc774\uc720, \uadf8\ub9ac\uace0 CIO\uc758 \ub3cc\ud30c\uad6c",
+    "url": "https://www.cio.com/article/4178226/%ea%b8%b0%ec%97%85-ai-%ec%b6%94%ec%a7%84%ec%9d%b4-%eb%a7%89%ed%9e%88%eb%8a%94-%ec%9d%b4%ec%9c%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-cio%ec%9d%98-%eb%8f%8c%ed%8c%8c%ea%b5%ac.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-29",
+    "snippet": "\uc9c0\ub09c 1\ub144 \ub3d9\uc548 AI \ud504\ub85c\uc81d\ud2b8\ub97c \ucd94\uc9c4\ud588\uc9c0\ub9cc \uae30\ub300\uc5d0 \ubbf8\uce58\uc9c0 \ubabb\ud558\uac70\ub098 \uc644\uc804\ud788 \uc2e4\ud328\ud55c CIO\ub294 \uacb0\ucf54 \ub4dc\ubb3c\uc9c0 \uc54a\ub2e4. AI \ud504\ub85c\uc81d\ud2b8 \ud22c\uc790\ub294 \uae09\uc99d\ud558\uace0 \uc788\uc9c0\ub9cc, \uac00\ud2b8\ub108 \uc870\uc0ac\uc5d0 \ub530\ub974\uba74 \uae30\uc5c5\uc758 \uac70\uc758 \uc808\ubc18\uc740 \uc5ec\uc804\ud788 \uc2e4\uc9c8\uc801\uc778 \ube44\uc988\ub2c8\uc2a4 \uac00\uce58\ub97c \uc785\uc99d\ud558\ub294 \ub370 \uc5b4\ub824\uc6c0\uc744 \uacaa\uace0 \uc788\ub2e4. \ub9ac\uc804\uc2a4\uc740\ud589 \ucd5c\uace0\ub370\uc774\ud130\u00b7\uc560\ub110\ub9ac\ud2f1\uc2a4\ucc45\uc784\uc790(CDAO) \ub9e4\ub108\ube0c \ubbf8\uc2a4\ub77c\ub294 \u201c\uc0ac\ub78c\ub4e4\uc774 \ube44\ud604\uc2e4\uc801\uc778 \uae30\ub300\ub97c \uac16\uace0 \ub6f0\uc5b4\ub4e4\uc5c8\uace0, \uac00\uc7a5 \ud070 \uc2e4\ub9dd\ub3c4 \ubc14\ub85c \uac70\uae30\uc11c \ube44\ub86f\ub410\ub2e4\u201d\ub77c\uace0 \ub9d0\ud588\ub2e4. \uadf8\ub294 \ub2e4\uc218\uc758 \ud604\uc5c5 \uc804\ubb38\uac00\ub4e4\uacfc \ub9c8\ucc2c\uac00\uc9c0\ub85c \u201c\ubb38\uc81c\ub294 \uae30\uc220 \uc790\uccb4\uac00 \uc544\ub2c8\ub77c \uc774\ub97c \ub458\ub7ec\uc2fc \uc694\uc18c\ub4e4\u201d\uc774\ub77c\uace0 \uc9c0\uc801\ud588\ub2e4. \uc2e4\uc81c\ub85c \uc870\uc9c1\uc801\u00b7\uc6b4\uc601\uc801\u00b7\uad6c\uc870\uc801 \uc2e4\ud328\uac00 \ud504\ub85c\uc81d\ud2b8 \uc804 \uacfc\uc815\uc5d0\uc11c \ubc1c\ubaa9\uc744 \uc7a1\uace0 \uc788\ub2e4\ub294 \uc124\uba85\uc774\ub2e4. CIO \uc870\uc9c1\uc740 \ubaa8\ub378 \uc120\ud0dd\uc774\ub098 \ud50c\ub7ab\ud3fc \uc544\ud0a4\ud14d\ucc98, \ub370\uc774\ud130 \ud30c\uc774\ud504\ub77c\uc778 \uce21\uba74\uc5d0\uc11c\ub294 \uba85\ud655\ud55c \uc804\ub7b5\uc744 \uac16\ucd94\uace0 \uc788\uc744 \uc218 \uc788\ub2e4. \ud558\uc9c0\ub9cc \uc2e4\uc81c\ub85c\ub294 \uc798\ubabb\ub41c \ud504\ub85c\uc81d\ud2b8\ub97c \uc120\ud0dd\ud558\uac70\ub098, \ube44\uc988\ub2c8\uc2a4 \uc131\uacfc\uc640 \uc131\uacf5 \uc9c0\ud45c\ub97c \ucda9\ubd84\ud788 \uad6c\uccb4\uc801\uc73c\ub85c \uc815\uc758\ud558\uc9c0 \ubabb\ud558\uac70\ub098, \ud604\uc5c5 \ub9ac\ub354\uc640\uc758 \ud611\uc5c5\uc774 \ubd80\uc871\ud558\uac70\ub098, \uc0ac\uc6a9\uc790\ub4e4\uc744 \ucd08\uae30 \ub2e8\uacc4\ubd80\ud130",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "c4f745689456646979d4824bcb0add07",
+    "title": "\u8ab0\u3082\u8a8d\u3081\u306a\u3044CIO\u306e\u5f8c\u7d99\u8005\u554f\u984c",
+    "url": "https://www.cio.com/article/4172639/%e8%aa%b0%e3%82%82%e8%aa%8d%e3%82%81%e3%81%aa%e3%81%84cio%e3%81%ae%e5%be%8c%e7%b6%99%e8%80%85%e5%95%8f%e9%a1%8c.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-29",
+    "snippet": "\u9000\u4efb\u3057\u305f\u304f\u3066\u3082\u3067\u304d\u306a\u3044CIO\u304c\u5b9f\u969b\u306b\u5b58\u5728\u3059\u308b\u3002\u3088\u308a\u5927\u304d\u306a\u4f01\u696d\u304b\u3089\u30aa\u30d5\u30a1\u30fc\u3092\u53d7\u3051\u305f\u4eba\u3001\u5f15\u9000\u3092\u8003\u3048\u3066\u3044\u305f\u4eba\u3001\u53d6\u7de0\u5f79\u4f1a\u306e\u5e2d\u3092\u30aa\u30d5\u30a1\u30fc\u3055\u308c\u305f\u304c\u8f9e\u4efb\u304c\u6761\u4ef6\u3060\u3063\u305f\u4eba\u2014\u2014\u3044\u305a\u308c\u3082\u540c\u3058\u58c1\u306b\u3076\u3064\u304b\u3063\u305f\u3002CEO\u306b\u300c\u8ab0\u304c\u5f8c\u3092\u7d99\u3052\u308b\u304b\u300d\u3068\u805e\u304b\u308c\u305f\u3068\u304d\u3001\u7b54\u3048\u3089\u308c\u306a\u304b\u3063\u305f\u306e\u3060\u3002\u30ca\u30f3\u30d0\u30fc2\u306f\u6280\u8853\u7684\u306b\u512a\u79c0\u3067\u3001\u696d\u52d9\u9762\u3067\u3082\u983c\u308c\u308b\u5b58\u5728\u3060\u3063\u305f\u3002\u3057\u304b\u3057\u8ab0\u3082\u304c\u3001\u30ea\u30fc\u30c0\u30fc\u3067\u306f\u306a\u304f\u30a2\u30fc\u30ad\u30c6\u30af\u30c8\u3068\u3057\u3066\u80b2\u3066\u3089\u308c\u3066\u3044\u305f\u3002\u5909\u9769\u306e\u6700\u4e2d\u306b\u5916\u90e8\u63a1\u7528\u3092\u627f\u8a8d\u3059\u308b\u53d6\u7de0\u5f79\u4f1a\u306f\u306a\u3044\u3002\u3053\u3046\u3057\u3066CIO\u306f\u7559\u307e\u308a\u7d9a\u3051\u308b\u3002 CIO\u306fC-suite\u306e\u4e2d\u3067\u6700\u3082\u5f8c\u7d99\u8005\u80b2\u6210\u304c\u624b\u8584\u306a\u30dd\u30b8\u30b7\u30e7\u30f3\u3060\u3002\u307b\u3068\u3093\u3069\u306eCIO\u304c\u3001\u3053\u306e\u5f8c\u7d99\u8005\u554f\u984c\u306b\u540c\u3058\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u6c17\u304c\u4ed8\u304f\u3002\u56db\u534a\u671f\u30ec\u30d3\u30e5\u30fc\u3067\u3082\u53d6\u7de0\u5f79\u4f1a\u306e\u5408\u5bbf\u3067\u3082\u306a\u3044\u3002\u9000\u4efb\u3057\u3088\u3046\u3068\u3057\u305f\u77ac\u9593\u3060\u3002\u305d\u306e\u6642\u70b9\u3067\u3001\u9078\u629e\u80a2\u306f\u3059\u3067\u306b\u9650\u3089\u308c\u3066\u3044\u308b\u3002 \u30a2\u30fc\u30ad\u30c6\u30af\u30c8\u306e\u7f60 \u591a\u304f\u306eIT\u7d44\u7e54\u3067\u540c\u3058\u30d1\u30bf\u30fc\u30f3\u304c\u7e70\u308a\u8fd4\u3055\u308c\u308b\u3002CIO\u306e\u76f4\u5c5e\u90e8\u4e0b\u306e\u9802\u70b9\u306b\u4e0a\u308a\u8a70\u3081\u308b\u306e\u306f\u3001\u8907\u96d1\u306a\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u3092\u6700\u3082\u3088\u304f\u7406\u89e3\u3057\u3066\u3044\u308b\u4eba\u7269\u3060\u3002\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u610f\u601d\u6c7a\u5b9a\u3001\u30d9\u30f3\u30c0\u30fc\u306e\u6574\u7406\u3001\u7d71\u5408\u30de\u30c3\u30d7\u2014\u2014\u3053\u3046\u3057\u305f\u4ed5\u4e8b\u3092\u4efb\u305b\u3089\u308c\u308b\u5b58\u5728\u3067\u3001\u305d\u306e\u4fe1\u983c\u306f\u5b9f\u7e3e\u306b\u88cf\u4ed8\u3051\u3089\u308c\u305f\u78ba\u304b\u306a\u3082\u306e\u3060\u3002\u3057\u304b\u3057\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u3078\u306e\u4fe1\u983c\u3068\u3001\u30ea",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "4a08d6fda390badc04af8ab477732bb7",
+    "title": "Glean reaches $300M in annual recurring revenue as AI budget cuts drive growth",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ST1ZzVlYtb19fUTlLOEVJV05hUUs3bWllR2xXT2JFWHJSUDZIQWd4OWVXV1V6WGVZVzBsNHlDQ3dsektzeTV5LXF1UXktN3BHWFN5bGQ3UVM4aUJ6SUhwUy1Sb1RaX1JoWFB2al82Qm0?oc=5",
+    "source": "gnews_crypto_briefing",
+    "source_category": "A",
+    "published": "2026-05-29",
+    "snippet": "Glean reaches $300M in annual recurring revenue as AI budget cuts drive growth Crypto Briefing",
+    "fetched_at": "2026-05-29T06:06:18Z"
+  },
+  {
+    "uid": "4d543d0c80343af8acebbc678776e37e",
+    "title": "CNN sues Perplexity alleging \u2018massive\u2019 copyright infringement",
+    "url": "https://siliconangle.com/2026/05/28/cnn-sues-perplexity-alleging-massive-copyright-infringement/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "CNN today opened a lawsuit against the AI firm Perplexity AI Inc., alleging the company has violated copyright protections by using artificial intelligence to rewrite its reporting, thereby undermining the foundation of its economic model. The network now joins a long line of publishers that have sued AI firms for copyright infringement. It\u2019s also not [] The post CNN sues Perplexity alleging \u2018massive\u2019 copyright infringement appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "58ee190648343b3590ad993fd8bc3b08",
+    "title": "MongoDB posts stellar earnings and revenue beat as software rebound accelerates",
+    "url": "https://siliconangle.com/2026/05/28/mongodb-posts-stellar-earnings-revenue-beat-software-rebound-accelerates/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "Shares of the database company MongoDB Inc. shot up both before and after the close of the regular trading session today following a solid first-quarter financial report that saw it blow past analysts\u2019 expectations. The company also posted solid guidance, in what was taken as another sign that fears of artificial intelligence killing the software [] The post MongoDB posts stellar earnings and revenue beat as software rebound accelerates appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "07774167011916b6b06ae052b017110a",
+    "title": "Agentic AI success helps UiPath swing to a profit, but investors weren\u2019t impressed",
+    "url": "https://siliconangle.com/2026/05/28/agentic-ai-success-helps-uipath-swing-profit-investors-werent-impressed/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "Business automation software company UiPath Inc. delivered mixed results in its latest quarter, posting a solid revenue beat but falling short on earnings but it did at least manage to return to profitability. The company reported first-quarter earnings before certain costs such as stock compensation of 15 cents per share, falling just shy of [] The post Agentic AI success helps UiPath swing to a profit, but investors werent impressed appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "3b9635f533736f39912d5e6e11e416d2",
+    "title": "AWS details new RNG data center network design that boosts throughput and reliability",
+    "url": "https://siliconangle.com/2026/05/28/aws-details-new-rng-data-center-network-design-boosts-throughput-reliability/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "Amazon Web Services Inc. has started using a new data center network design that significantly improves the throughput and reliability of connections. The cloud giant today detailed the architecture, which it calls Random Network Graph, or RNG. It\u2019s powered by a fiber-optic cable management system that doesn\u2019t use power and a custom network protocol. The typical [] The post AWS details new RNG data center network design that boosts throughput and reliability appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "c9528e612972da0b4b56acde7fec875f",
+    "title": "AI server demand drives staggering revenue growth for Dell and its stock soars",
+    "url": "https://siliconangle.com/2026/05/28/ai-server-demand-drives-staggering-revenue-growth-dell-stock-soars/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "Dell Technologies Inc. delivered its fastest rate of revenue growth since returning to the public markets more than seven years ago as it delivered stellar first-quarter financial results that crushed analysts\u2019 expectations. The computer server and infrastructure marker also reported rising profitability, and its stock climbed by an impressive 38% in extended trading today. The [] The post AI server demand drives staggering revenue growth for Dell and its stock soars appeared first on SiliconANG",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "6404dd3b6dacaec3782acc8433b9683e",
+    "title": "As Anthropic launches Claude Opus 4.8, it raises $65B in new funding",
+    "url": "https://siliconangle.com/2026/05/28/anthropic-launches-claude-opus-4-8-raises-65b-new-funding/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "Anthropic PBC today introduced a new large language model, Claude Opus 4.8, thats significantly better than its predecessor at complex coding tasks. The company announced the LLM alongside another major business milestone. Anthropic has raised $65 billion in new funding at a $965 billion valuation to buy more computing infrastructure. The company evaluated Claude Opus [] The post As Anthropic launches Claude Opus 4.8, it raises $65B in new funding appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "8b06175ee3e4e046510c59c3fb5e7ec5",
+    "title": "Asana acquires StackAI to run AI agent workflows across enterprise systems",
+    "url": "https://siliconangle.com/2026/05/28/asana-acquires-stackai-run-ai-agent-workflows-across-enterprise-systems/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "Work management software company Asana Inc. today said it has completed the acquisition of StackAI Inc., a no-code platform for building artificial intelligence agents, in a deal that adds the ability to run automated workflows across the separate enterprise systems where companies keep their data. Terms were not disclosed. Based in San Francisco, StackAI sells [] The post Asana acquires StackAI to run AI agent workflows across enterprise systems appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "276ed87027c782fa99dc7949df633bc1",
+    "title": "GitHub Statistics By Insights And User Trends (2026)",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKY1psS3BRdk5sMG8zNm5acy1rQV9HY1g3dU8zS2EwTjlyRHF0azE4TldxV0RvcGUtTU1QNzRELWwxYU9GZjZ0MEFzMWVydFd2LVp5U2h3?oc=5",
+    "source": "gnews_bayelsa_watch",
+    "source_category": "B",
+    "published": "2026-05-29",
+    "snippet": "GitHub Statistics By Insights And User Trends (2026) Bayelsa Watch",
+    "fetched_at": "2026-05-29T06:06:46Z"
+  },
+  {
+    "uid": "4f1990a2ae8f74dcb63a1da6ee5ce5e2",
+    "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "31d935270ed941c0995df28c1ce33324",
+    "title": "Cars are trying to spy on you, and it's only just the beginning",
+    "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "646bb4737e68a10786a4d45d01820061",
+    "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+    "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "7f869599baad8724c924a94a1e012716",
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "a124b92b5dcfe1288986ca5734b1e3a6",
+    "title": "Italians and Dutch share the same gestural instinct for teaching",
+    "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "e9a023e7f7fed9366792515bb1f1d4d3",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "803721e121fc2880a4a2150d5926433f",
+    "title": "Python utility package for building Claude Code hooks",
+    "url": "https://github.com/RasmusGodske/claude-hook-utils",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "fa999cbc02e31efa21d1b8ac3f331cae",
+    "title": "Garnix (A Nix CI) is shutting down",
+    "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "a01344bcd332e950e1ddd8c9696592ff",
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "b6ec655711e9192718c72e6c8e370122",
+    "title": "Mythos Redefines App Security",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4S09yaEw0ZlpzQnkwQl9WVDRndEdQZ2NxR3JtZHB2RndjUHlMcWVjTFcxdnNkc29WRVA4TFROVUtYdDBhckxBNE0tRUEyMHBBMlRLb2NOYTlxYWsxWkJpaDdoMGZTX0lkUFVr?oc=5",
+    "source": "gnews_varindia.com",
+    "source_category": "C",
+    "published": "2026-05-29",
+    "snippet": "Mythos Redefines App Security varindia.com",
+    "fetched_at": "2026-05-29T06:07:11Z"
+  },
+  {
+    "uid": "4d9514977f167168095e9b7d7aba15ba",
+    "title": "IBM and Red Hat want to become the \u2018security clearinghouse\u2019 for open source applications in the enterprise",
+    "url": "https://www.infoworld.com/article/4178451/ibm-and-red-hat-want-to-become-the-security-clearinghouse-for-open-source-applications-in-the-enterprise.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-29",
+    "snippet": "Open source code is everywhere in the enterprise; it\u2019s estimated that upwards of 90% of Fortune 500 companies have it in their software supply chains. But open source code is notoriously rife with vulnerabilities, and identifying and patching those bugs can be an endless battle for security teams. IBM and Red Hat are betting that a new initiative, Project Lightwell, can help accelerate this process. Announced today, the project will commit $5 billion and 20,000 IBM and Red Hat engineers to build",
+    "fetched_at": "2026-05-29T06:07:41Z"
+  },
+  {
+    "uid": "cde8f9a664f00a06831d30efc1d3acff",
+    "title": "Lack of response to critical vulnerability in Gogs is a reminder of the limits of open source projects",
+    "url": "https://www.infoworld.com/article/4178406/lack-of-response-to-critical-vulnerability-in-gogs-is-a-reminder-of-the-limits-of-open-source-projects.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-29",
+    "snippet": "A newly discovered and so far unpatched critical vulnerability in the open source Gogs Git service not only demands immediate action from developers to secure their code, it also puts a spotlight on the potential issues in using self-hosted code platforms from small maintainers. The hole is a critical argument injection vulnerability, discovered by a researcher at Rapid7, that allows any authenticated user to remotely execute code on a Gogs server by creating a pull request with a malicious bran",
+    "fetched_at": "2026-05-29T06:07:41Z"
   },
   {
     "uid": "8a48fe67e14812e53cb3999854e31c66",
@@ -248,6 +508,1526 @@
     "published": "2026-05-28",
     "snippet": "A weekly round-up of product launches and company news QA Financial",
     "fetched_at": "2026-05-28T06:01:44Z"
+  },
+  {
+    "uid": "f66d2fc6a527f40cb3286b4ef28c9031",
+    "title": "Marketplace Platforms Aren\u2019t One Market Anymore: Announcing Forrester\u2019s Two Landscapes For 2026",
+    "url": "https://www.forrester.com/blogs/marketplace-platforms-arent-one-market-anymore-announcing-forresters-two-landscapes-for-2026/",
+    "source": "forrester_blog",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Marketplace platforms no longer represent a single category decision for enterprise buyers. The market is bifurcating into two operating models/enterprise motions that define how value is created, delivered, and measured: digital services (\u201cbits\u201d) and physical goods (\u201catoms\u201d). To reflect this shift, we published two reports that align to a distinct buyer and consideration set: Enterprises []",
+    "fetched_at": "2026-05-29T06:06:08Z"
+  },
+  {
+    "uid": "df680ce43c74321eaa13a194855d176d",
+    "title": "The State Of Agentic Commerce In Mid-2026",
+    "url": "https://www.forrester.com/blogs/the-state-of-agentic-commerce-in-mid-2026/",
+    "source": "forrester_blog",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Forrester\u2019s Agentic Commerce Framework Guides Your Strategy The Hype Around \u201cAgentic Commerce\u201d Is Deafening \u2014 How Real Is It? Yes, answer engines like ChatGPT have cracked open new possibilities for how consumers shop. But no one\u2019s AI shopping assistant is running off to buy their groceries autonomously yet. That doesn\u2019t mean digital business leaders []",
+    "fetched_at": "2026-05-29T06:06:08Z"
+  },
+  {
+    "uid": "6fad3f01d4f94a5f8873432bf598e3a4",
+    "title": "If Your Employees Aren\u2019t Ready For AI, Neither Is Your Business",
+    "url": "https://www.forrester.com/blogs/if-your-employees-arent-ready-for-ai-neither-is-your-business/",
+    "source": "forrester_blog",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Success with AI rests on having a workforce that\u2019s equipped and excited to use it. Forrester\u2019s recent experience launching an AI learning program offers some valuable lessons.",
+    "fetched_at": "2026-05-29T06:06:08Z"
+  },
+  {
+    "uid": "de0d8dc709de74cd133b4450ac17dc45",
+    "title": "Keet: Tether\u2019s P2P communication app built to survive internet shutdowns",
+    "url": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "One hundred and ninety-three in 41 countries: that is the reported figure on cases of social media shutdowns across Africa between 2016 and 2024. The subsequent years weren\u2019t any better, with cases rising to 300 between 2024 and 2026. Each case affecting at least 10 million people: national stakeholders target platforms like WhatsApp, Telegram, and Facebook to curb democracy in contributions to national matters. Away from Africa, censorship is a global issue and affects the highest levels of civ",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "6fa6c31400259a18a65c4b3ed8399d65",
+    "title": "Transforming your SOC from reactive monitoring to strategic defense",
+    "url": "https://www.cio.com/article/4178300/transforming-your-soc-from-reactive-monitoring-to-strategic-defense.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Security operations centers (SOCs) are under growing pressure. As cyberthreats become more sophisticated and enterprise environments expand across hybrid and multicloud infrastructures, traditional approaches to security monitoring are struggling to keep pace. Many SOCs remain heavily focused on reactive workflows, responding to alerts and incidents after they occur rather than proactively reducing risk. This model is becoming increasingly difficult to sustain. Security teams are now managing en",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "74c57cb30442a3e962b620b67ec4b886",
+    "title": "AI agents are the actor your Kubernetes governance didn\u2019t plan for",
+    "url": "https://www.cio.com/article/4177347/ai-agents-are-the-actor-your-kubernetes-governance-didnt-plan-for.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "As enterprises accelerate their adoption of artificial intelligence, many are deploying AI agents to automate tasks, interact with systems, and support operational decision-making. These agents are rapidly becoming more autonomous, capable of initiating actions, orchestrating workflows, and interacting directly with infrastructure. However, while organizations are investing heavily in AI capabilities, many are discovering that their governance models were not designed for this level of autonomou",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "0f3add028c19e4a414201283064c51b5",
+    "title": "Why software development is changing for good",
+    "url": "https://www.cio.com/article/4177302/why-software-development-is-changing-for-good.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "In 2003, I founded DCSL Software, which later became One Beyond. I exited in 2023 after taking the company international and growing it to more than 300 people. Since then, I\u2019ve founded a robotics start-up and raised over \u00a34M in seed funding. I never expected to be writing production software again. I stopped coding day-to-day in 2014, not because I couldn\u2019t do it, but because that\u2019s what happens when a company scales. You hire people who are better than you at execution, you focus on leadership",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "aac11cbd855a7f4f6cd5d26799e6fe47",
+    "title": "Del cat\u00e1logo al proyecto arquitect\u00f3nico",
+    "url": "https://www.cio.com/article/4178035/del-catalogo-al-proyecto-arquitectonico.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Si echamos la mirada 20 a\u00f1os atr\u00e1s, la labor del mayorista se centraba en tres puntos fundamentales: la log\u00edstica, la financiaci\u00f3n del canal y la disponibilidad del producto. La distribuci\u00f3n se sustentaba sobre la venta de aparatos y los procesos manuales; hab\u00eda una tremenda dependencia del margen del producto y la diferenciaci\u00f3n era tan escasa como la recurrencia. \u00c9ramos un eslab\u00f3n operativo importante, pero poco visible entre cajas y cajas de hardware. Pero si algo caracteriza al sector TI es ",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "79a44ee020fab4badeaf73caf99d66a2",
+    "title": "Hyper-personalization in the age of agentic AI: How regulated industries can do it with guardrails",
+    "url": "https://www.cio.com/article/4177299/hyper-personalization-in-the-age-of-agentic-ai-how-regulated-industries-can-do-it-with-guardrails.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "GenAI and agentic systems have supercharged the dream of true 1:1 personalization. The promise is compelling: Give an AI agent the ability to plan (and reason) and act, and suddenly it\u2019s not just writing better emails. It\u2019s handling the entire journey: From crafting the message to picking the right person, choosing the channel(s) and timing, launching the campaign, watching what happens and iterating based on real outcomes. In theory, personalization stops being a quarterly project and becomes a",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "7e81031a2b9cc95a3e2ee51f943b4944",
+    "title": "Snowflake to acquire MCP-focused Natoma to boost governance for AI agents",
+    "url": "https://www.cio.com/article/4178160/snowflake-to-acquire-mcp-focused-natoma-to-boost-governance-for-ai-agents.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Snowflake said it plans to acquire US-based startup Natoma to boost governance, security, and connectivity for AI agents operating across heterogeneous enterprise environments, amid growing efforts by organizations to move agentic AI workflows from pilots into production. The cloud data platform provider is betting that enterprises will increasingly require centralized governance, identity controls, and auditability as AI agents begin interacting more deeply with internal applications, APIs, and",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "03f950635c4591434f923ed27f2ac8eb",
+    "title": "The AI governance imperative you can\u2019t afford to ignore",
+    "url": "https://www.cio.com/article/4176067/the-ai-governance-imperative-you-cant-afford-to-ignore.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "CIOs rushing to roll out AI agents without real visibility into their decision-making processes are flirting with disaster. According to AI experts, deploying agents without observability processes and tools creates a ticking time bomb with the potential for huge negative consequences. Many companies are deploying AI agents and expecting them to increase productivity with little human intervention, observes T.J. Marlin, CEO of AI security firm Guardrail Technologies. That\u2019s the wrong approach, h",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "46ee89d4cd49e2e02ea5cbd5c6d9ebbc",
+    "title": "This is not a security problem \u2014 Anthropic\u2019s Mythos, GlassWing and how the industry must move forward",
+    "url": "https://www.cio.com/article/4177294/this-is-not-a-security-problem-anthropics-mythos-glasswing-and-how-the-industry-must-move-forward.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "When Anthropic broke the news of Mythos and Project Glasswing, the security community did what it always does. It published a flurry of papers asking, \u201cWhat does this mean for security?\u201d It\u2019s a reasonable instinct, but it\u2019s the wrong question. The real question is who actually owns the problem? The advice is right. The audience is wrong Even Anthropic\u2019s own guidance on preparing your security team for the AI era, comprehensive and well-reasoned as it is, lands squarely on steps that security tea",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "ed0099784cfd5388197729bce0cab38e",
+    "title": "Developing a customer-first culture for IT",
+    "url": "https://www.cio.com/article/4176073/developing-a-customer-first-culture-for-it.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Over the past year, I\u2019ve had the opportunity to sit down with hundreds of CIOs navigating the \u201cmessy middle\u201d of AI, where ambition is high, expectations are rising, and the path forward is anything but clear. In those conversations, one theme continues to surface: Many organizations know what they stand for, but far fewer know how to operationalize it. From strategy decks to earnings calls, concepts like \u201ccustomer-first,\u201d \u201ctrusted partner,\u201d and \u201cdigital leader\u201d show up again and again, but trans",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "ea140b23b9d0ef9ce39fb8cdee234c96",
+    "title": "AI will replace far fewer jobs than ignorance will",
+    "url": "https://www.cio.com/article/4177209/ai-will-replace-far-fewer-jobs-than-ignorance-will.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "It took the internet 13 years to reach 800 million users. ChatGPT broke that number in less than three years. By February 2026, OpenAI announced it had over 900 million weekly active users. According to a Gallup poll, in Q4 of 2025, 38 percent of employees integrated AI technology to improve productivity, efficiency and quality. While we are actively learning, experimenting and integrating it into our work, expectations in 2026 are quickly shifting. It\u2019s no longer about keeping up; it\u2019s about po",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "087ccf64a298fb2e83e000bbd89269bb",
+    "title": "Los CIO incorporan a usuarios de negocio para que desarrollen sus propias aplicaciones con \u2018vibe coding\u2019",
+    "url": "https://www.cio.com/article/4178097/los-cio-incorporan-a-usuarios-de-negocio-para-que-desarrollen-sus-propias-aplicaciones-con-vibe-coding.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "El vibe coding se est\u00e1 expandiendo m\u00e1s all\u00e1 del \u00e1mbito de los equipos de desarrollo de software hacia diversas unidades de negocio en distintas empresas, y los l\u00edderes tecnol\u00f3gicos no solo est\u00e1n apoyando estos esfuerzos, sino que en algunos casos est\u00e1n liderando el impulso. Esta democratizaci\u00f3n del desarrollo de software, impulsada por herramientas de vibe coding \u2014incluidos chatbots y agentes que generan c\u00f3digo a partir de prompts\u2014, ha convertido esta pr\u00e1ctica en algo habitual en departamentos c",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "623658b86ca7e7b135a9becdfbf50dd7",
+    "title": "AI \ubcf4\uc548, \uc774\uc81c\ub294 \ubaa8\ub378\uc774 \uc544\ub2c8\ub77c \uc2dc\uc2a4\ud15c \uc911\uc2ec\uc73c\ub85c \uc811\uadfc\ud574\uc57c",
+    "url": "https://www.cio.com/article/4178056/ai-%eb%b3%b4%ec%95%88-%ec%9d%b4%ec%a0%9c%eb%8a%94-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%a0%91%ea%b7%bc%ed%95%b4.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "\uc774\ub2ec \ubc1c\ud45c\ub41c \ud55c \ub17c\ubb38\uc5d0\uc11c \uc5f0\uad6c\uc9c4\uc740 \uae30\uc5c5\uc774 \uae30\ubc18 \ubaa8\ub378 \uc790\uccb4\uc758 \uacac\uace0\uc131\uc744 \ub192\uc774\ub294 \ubc29\uc2dd\ub9cc\uc73c\ub85c\ub294 AI \uc5d0\uc774\uc804\ud2b8\ub97c \uc548\uc804\ud558\uac8c \ubcf4\ud638\ud560 \uc218 \uc5c6\uc73c\uba70, \ub300\uc2e0 \uc774\ub97c \ub458\ub7ec\uc2fc \uc2dc\uc2a4\ud15c \ucc28\uc6d0\uc5d0\uc11c \ubcf4\uc548 \ud1b5\uc81c\ub97c \uc801\uc6a9\ud574\uc57c \ud55c\ub2e4\uace0 \uc8fc\uc7a5\ud588\ub2e4. \ub610\ud55c \uae30\uc874 AI \ubcf4\uc548 \uc811\uadfc\ubc95\uc774 \uc2e4\uc81c \uae30\uc5c5 \ud658\uacbd\uc5d0\uc11c \uc790\uc728\ud615 \uc5d0\uc774\uc804\ud2b8\uac00 \ub3d9\uc791\ud558\ub294 \ubc29\uc2dd\uacfc \uc810\uc810 \uc5b4\uae0b\ub098\uace0 \uc788\ub2e4\uace0 \uacbd\uace0\ud588\ub2e4. \ud574\ub2f9 \ub17c\ubb38\uc740 \uae30\uc5c5\uc774 AI \uc5d0\uc774\uc804\ud2b8\ub97c \ub354 \uc774\uc0c1 \uc2e0\ub8b0 \uac00\ub2a5\ud55c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uad6c\uc131\uc694\uc18c\ub85c \ucde8\uae09\ud574\uc11c\ub294 \uc548 \ub418\uba70, \uae30\uc5c5 \uc778\ud504\ub77c \ub0b4\ubd80\uc5d0\uc11c \ub3d9\uc791\ud558\ub294 \ubcf8\uc9c8\uc801\uc73c\ub85c \uc2e0\ub8b0\ud560 \uc218 \uc5c6\ub294 \uc2dc\uc2a4\ud15c\uc73c\ub85c \uac04\uc8fc\ud574\uc57c \ud55c\ub2e4\uace0 \uac15\uc870\ud588\ub2e4. \uc5f0\uad6c\uc9c4\uc740 \ub17c\ubb38\uc5d0\uc11c \u201c\uc5d0\uc774\uc804\ud2b8\ub97c \uad6c\ub3d9\ud558\ub294 AI \ubaa8\ub378\uc740 \uc2e0\ub8b0\ud560 \uc218 \uc5c6\ub294 \uad6c\uc131\uc694\uc18c\ub85c \ucde8\uae09\ud574\uc57c \ud55c\ub2e4\u201d\ub77c\uba70 \u201c\uc5d0\uc774\uc804\ud2b8\uac00 \uae30\uc5c5 \ub3c4\uad6c\uc640 \uba54\ubaa8\ub9ac, API, \ube0c\ub77c\uc6b0\uc800, \uc2e4\ud589 \ud658\uacbd \ub4f1\uc5d0 \uc811\uadfc\ud558\uae30 \uc2dc\uc791\ud558\uba74 \uc758\ubbf8 \uae30\ubc18 \uac00\ub4dc\ub808\uc77c\uc774\ub098 \ud504\ub86c\ud504\ud2b8 \uc218\uc900 \ubc29\uc5b4\ub9cc\uc73c\ub85c\ub294 \uc2dc\uc2a4\ud15c\uc744 \uc548\uc815\uc801\uc73c\ub85c \ubcf4\ud638\ud560 \uc218 \uc5c6\ub2e4\u201d\ub77c\uace0 \uc124\uba85\ud588\ub2e4. \uc5f0\uad6c\uc9c4\uc740 \uc774\ub97c \uc6b4\uc601\uccb4\uc81c(OS)\uc5d0 \ube44\uc720\ud588\ub2e4. \uc774\ub4e4\uc740 \u201c\uc6b4\uc601\uccb4\uc81c\uac00 \ud504\ub85c\uc138\uc2a4\ub97c \uc2e0\ub8b0\ud560 \uc218 \uc5c6\ub294 ",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "5ccce8fde761a44d499bbb32b8be347f",
+    "title": "AI\uac00 \ucde8\uc57d\uc810 1\ub9cc \uac74 \uce90\ub0c8\uc9c0\ub9cc\u2026\uc9c4\uc9dc \ubcd1\ubaa9\uc740 \u2018\ud328\uce58\u2019\uc600\ub2e4",
+    "url": "https://www.cio.com/article/4178047/ai%ea%b0%80-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-%ea%b1%b4-%ec%ba%90%eb%83%88%ec%a7%80%eb%a7%8c%ec%a7%84%ec%a7%9c-%eb%b3%91%eb%aa%a9%ec%9d%80-%ed%8c%a8%ec%b9%98%ec%98%80.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "\uc564\ud2b8\ub85c\ud53d\uc740 \ud504\ub85c\uc81d\ud2b8 \uae00\ub798\uc2a4\uc719(Project Glasswing)\uc5d0 \ucc38\uc5ec \uc911\uc778 50\uac1c \uc774\uc0c1\uc758 \ud30c\ud2b8\ub108\uc0ac\uc640 \ud568\uaed8 \uc790\uc0ac \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc5d0\uc11c \uc57d 1\ub9cc \uac1c\uc758 \uce58\uba85\uc801 \ub610\ub294 \uace0\uc704\ud5d8 \uc218\uc900 \ucde8\uc57d\uc810\uc744 \ubc1c\uacac\ud588\ub2e4\uace0 \ubc1d\ud614\ub2e4. \uc564\ud2b8\ub85c\ud53d\uc740 \uc9c0\ub09c 4\uc6d4 \ud074\ub85c\ub4dc \ubbf8\ud1a0\uc2a4 \ud504\ub9ac\ubdf0(Claude Mythos Preview)\ub97c \uae30\ubc18\uc73c\ub85c \ud55c \uc0ac\uc774\ubc84\ubcf4\uc548 \ud504\ub85c\uc81d\ud2b8\ub97c \ucd9c\ubc94\ud588\ub2e4. \ub2f9\uc2dc \ud68c\uc0ac\ub294 \ucc38\uc5ec \ud30c\ud2b8\ub108\ub4e4\uc774 \uc774\ub97c \ubc29\uc5b4\ud615 \ubcf4\uc548 \uc5c5\ubb34\uc5d0 \ud65c\uc6a9\ud560 \uac83\uc774\ub77c\uace0 \uc124\uba85\ud588\ub2e4. \uc564\ud2b8\ub85c\ud53d\uc740 \ud504\ub85c\uc81d\ud2b8 \uae00\ub798\uc2a4\uc719\uc744 \ub9cc\ub4e0 \ubc30\uacbd\uc5d0 \ub300\ud574 \u201c\uc0c8 \ud504\ub860\ud2f0\uc5b4 \ubaa8\ub378\uc758 \uc5ed\ub7c9\uc774 \ud55c \uac00\uc9c0 \ub0c9\ud639\ud55c \uc0ac\uc2e4\uc744 \ub4dc\ub7ec\ub0c8\ub2e4\u201d\uba70 \u201cAI \ubaa8\ub378\uc774 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ucde8\uc57d\uc810\uc744 \ud0d0\uc9c0\ud558\uace0 \uc545\uc6a9\ud558\ub294 \ub2a5\ub825\uc5d0\uc11c \ucd5c\uace0 \uc218\uc900 \uc778\uac04 \uc804\ubb38\uac00\ub97c \uc81c\uc678\ud55c \ub300\ubd80\ubd84\uc744 \ub6f0\uc5b4\ub118\ub294 \uc218\uc900\uc5d0 \ub3c4\ub2ec\ud588\ub2e4\ub294 \uc810\u201d\uc774\ub77c\uace0 \ubc1d\ud614\ub2e4. \ub2f9\uc2dc \ud68c\uc0ac\ub294 1\uc5b5 \ub2ec\ub7ec(\uc57d 1,370\uc5b5 \uc6d0) \uc774\uc0c1\uc758 \uc0ac\uc6a9 \ud06c\ub808\ub527\uacfc \ud568\uaed8 \uc624\ud508\uc18c\uc2a4 \ubcf4\uc548 \ub2e8\uccb4\ub97c \uc704\ud55c \ucd94\uac00 \uae30\ubd80\uae08 400\ub9cc \ub2ec\ub7ec(\uc57d 60\uc5b5 \uc6d0)\ub3c4 \uc9c0\uc6d0\ud558\uaca0\ub2e4\uace0 \ubc1c\ud45c\ud588\ub2e4. \uc564\ud2b8\ub85c\ud53d\uc740 \uc9c0\ub09c\uc8fc \ub9d0 \uacf5\uac1c\ud55c \uc5c5\ub370\uc774\ud2b8\uc5d0\uc11c \u201c\uc9c0\ub09c \uba87 \ub2ec \ub3d9\uc548 \ubbf8",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "a63bbea59464103a974719d5e634e96f",
+    "title": "\u201c\uac1c\ubc1c\ud300\uc5d0 \ub9e1\uae30\ub294 \uc2dc\ub300\ub294 \ub05d\ub0ac\ub2e4\u201d CIO, \ubc14\uc774\ube0c \ucf54\ub529\uc73c\ub85c \ud604\uc5c5 \uc790\uae09\uc790\uc871 \uc2dc\ub300 \uc5f0\ub2e4",
+    "url": "https://www.cio.com/article/4178024/%ea%b0%9c%eb%b0%9c%ed%8c%80%ec%97%90-%eb%a7%a1%ea%b8%b0%eb%8a%94-%ec%8b%9c%eb%8c%80%eb%8a%94-%eb%81%9d%eb%82%ac%eb%8b%a4-cio-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9c%bc.html",
+    "source": "cio_com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "\ubc14\uc774\ube0c \ucf54\ub529(vibe coding)\uc774 \uc774\uc81c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c \uc870\uc9c1\uc744 \ub118\uc5b4 \ub2e4\uc591\ud55c \uae30\uc5c5\uc758 \uc5ec\ub7ec \ud604\uc5c5 \ubd80\uc11c\ub85c \ube60\ub974\uac8c \ud655\uc0b0\ub418\uace0 \uc788\ub2e4. \uae30\uc220 \ub9ac\ub354\ub4e4\uc740 \uc774\ub7ec\ud55c \uc6c0\uc9c1\uc784\uc744 \ub2e8\uc21c\ud788 \uc9c0\uc6d0\ud558\ub294 \uc218\uc900\uc744 \ub118\uc5b4, \uc9c1\uc811 \ud655\uc0b0\uc744 \uc8fc\ub3c4\ud558\ub294 \uacbd\uc6b0\ub3c4 \ub298\uace0 \uc788\ub2e4. \ud504\ub86c\ud504\ud2b8\ub9cc\uc73c\ub85c \ucf54\ub4dc\ub97c \uc0dd\uc131\ud558\ub294 \ucc57\ubd07\uacfc AI \uc5d0\uc774\uc804\ud2b8 \ub4f1 \ubc14\uc774\ube0c \ucf54\ub529 \ub3c4\uad6c\uac00 \ub4f1\uc7a5\ud558\uba74\uc11c \uc18c\ud504\ud2b8\uc6e8\uc5b4 \uac1c\ubc1c\uc758 \ubbfc\uc8fc\ud654\uac00 \ubcf8\uaca9\ud654\ub410\ub2e4. \uc774\uc5d0 \ub530\ub77c \ubc14\uc774\ube0c \ucf54\ub529\uc740 \uc778\uc0ac(HR), \ub9c8\ucf00\ud305 \ub4f1 \ube44\uac1c\ubc1c \ubd80\uc11c\uc5d0\uc11c\ub3c4 \uc0c8\ub85c\uc6b4 \uc5c5\ubb34 \ubc29\uc2dd\uc73c\ub85c \uc790\ub9ac \uc7a1\uace0 \uc788\ub2e4. IT \uc870\uc9c1\uc758 \uc801\uc808\ud55c \uc9c0\uc6d0\uc774 \ub4b7\ubc1b\uce68\ub420 \uacbd\uc6b0, \uc774\ub7ec\ud55c \uc2dc\ub3c4\ub294 \uac1c\ubc1c \uc801\uccb4\ub97c \uc904\uc774\uace0 \uc2e4\uc81c \ube44\uc988\ub2c8\uc2a4 \ubb38\uc81c\uc5d0 \ub354 \uac00\uae4c\uc6b4 \uacf3\uc5d0\uc11c \uc194\ub8e8\uc158\uc744 \ub9cc\ub4e4 \uc218 \uc788\ub3c4\ub85d \ub3d5\ub294\ub2e4. \ub610\ud55c \uacfc\uac70\uc5d0\ub294 \uc2dc\ub3c4\ud558\uc9c0 \ubabb\ud588\ub358 \uc0c8\ub85c\uc6b4 \uae30\ud68c\uae4c\uc9c0 \ucc3d\ucd9c\ud560 \uc218 \uc788\ub2e4. \ub2e4\ub9cc \ubc14\uc774\ube0c \ucf54\ub529\uc740 \uc704\ud5d8 \uc694\uc18c\ub3c4 \uc801\uc9c0 \uc54a\ub2e4. \ud604\uc5c5 \uc0ac\uc6a9\uc790\uac00 \ubc14\uc774\ube0c \ucf54\ub529\uc758 \uc5ed\ub7c9\uc744 \uc548\uc804\ud558\uac8c \ud65c\uc6a9\ud560 \uc218 \uc788\ub3c4\ub85d \ud558\ub824\uba74, IT \ub9ac\ub354\uac00 \ubcf4\uc548\uacfc \ud488\uc9c8\uc744 \ubcf4\uc7a5\ud560 \uc218 \uc788\ub294 \uac70\ubc84\ub10c\uc2a4\uc640 \uac00\ub4dc\ub808\uc77c \uccb4\uacc4\ub97c \ubc18\ub4dc\uc2dc \ub9c8\ub828\ud574\uc57c \ud55c\ub2e4. \ub2e4\uc74c\uc740 \uc5ec",
+    "fetched_at": "2026-05-29T06:06:10Z"
+  },
+  {
+    "uid": "7bb6bafb494e556e52d6d777b6a2e3d6",
+    "title": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive",
+    "source": "mckinsey_insights",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "The 2026 Global B2B Pulse Survey finds a divide between leaders and laggards\u2014and shows how integrating hyperpersonalization, AI, and sales accountability creates a new operating system for growth.",
+    "fetched_at": "2026-05-29T06:06:11Z"
+  },
+  {
+    "uid": "1116e1e73105384b45d95a341b1b8a5e",
+    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
+    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
+    "source": "mckinsey_insights",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
+    "fetched_at": "2026-05-29T06:06:11Z"
+  },
+  {
+    "uid": "1895064932cde6e52e2f511ff5f6ae4a",
+    "title": "Rewiring software delivery for the agentic era",
+    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/rewiring-software-delivery-for-the-agentic-era",
+    "source": "mckinsey_insights",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "The way agentic AI is being used in software development is a harbinger for broader changes in the delivery model.",
+    "fetched_at": "2026-05-29T06:06:11Z"
+  },
+  {
+    "uid": "a1c5c6ca9e57a056e17b3d13b8ce3866",
+    "title": "Building the AI advantage: How ADEO is preparing for retail\u2019s next wave",
+    "url": "https://www.mckinsey.com/industries/retail/our-insights/building-the-ai-advantage-how-adeo-is-preparing-for-retails-next-wave",
+    "source": "mckinsey_insights",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "The global home-improvement retailer\u2019s chief digital and information officer on unlocking the potential of AI\u2014and keeping people\u2019s feet on the ground.",
+    "fetched_at": "2026-05-29T06:06:11Z"
+  },
+  {
+    "uid": "4299122920275761eb0744639e4813cd",
+    "title": "AI Model Release Tracker: Opus 4.8's misalignment rates similar to Claude Mythos Preview",
+    "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "02643055c03afaa556f79f2ef8659413",
+    "title": "Perplexity launches Bumblebee: How its new read-only dev scanner differs from Chainguard",
+    "url": "https://www.zdnet.com/article/perplexity-launches-bumblebee-how-its-new-read-only-dev-scanner-differs-from-chainguard/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "The AI company's Bumblebee tool tackles your most urgent question after any supply\u2011chain advisory: Do your programmers have this malware installed?",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "2496208ac0e276de839dffa1e5febd5c",
+    "title": "Disabled ACR on your TV? I set up a router-based VPN for further protection - here's how",
+    "url": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Installing a VPN on your smart TV blocks hackers from accessing your network and stealing your data. But there are benefits to the content, too.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "652a0c1c90e119e2c7fd250a0a5ef425",
+    "title": "Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9",
+    "url": "https://www.zdnet.com/article/euro-office-a-sovereign-cloud-based-office-suite-google-microsoft-alternative/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "European tech firms will ship the first stable release of Euro-Office next month, giving governments and businesses worldwide a ready-to-run, sovereign alternative to Microsoft Office and Google Docs.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "d11d40c76ea0569fafe0149b0584d565",
+    "title": "This 8TB SanDisk SSD is over $1,000 off at Best Buy - and I recommend it",
+    "url": "https://www.zdnet.com/article/sandisk-8tb-desk-drive-ssd-best-buy-deal/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "The price of SSDs has been skyrocketing, but you can still save nearly 62% on the 8TB SanDisk Desk Drive external SSD from Best Buy right now.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "ef15ad3f3ff431e1731293d8b06c9773",
+    "title": "Anthropic launches Opus 4.8, with honesty as its killer feature",
+    "url": "https://www.zdnet.com/article/anthropics-launches-opus-4-8-where-honesty-is-the-killer-feature/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Anthropic's latest Claude model isn't just faster or smarter. Opus 4.8 is being pitched as more honest, more careful, and better suited to complex coding projects.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "8a150dcc6564103f4d1ed68159836df4",
+    "title": "Best Buy is selling the LG C5 OLED for nearly 50% off right now - and I highly recommend it",
+    "url": "https://www.zdnet.com/article/lg-c5-oled-tv-best-buy-deal/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "It may be a generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "da28d28e1d724e1f8182e41e241659c6",
+    "title": "How to force Google AI Overviews to prioritize your favorite news sources",
+    "url": "https://www.zdnet.com/article/how-to-force-google-ai-overviews-to-prioritize-your-favorite-news-sources/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "a5dae01ab532784cbec020b045b38e63",
+    "title": "8 Zorin OS settings I change on every new install - and why you should, too",
+    "url": "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Like most Linux distributions, Zorin OS offers a lot, especially in terms of customization. These are the options I always choose in Zorin OS.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "56a7c43ef688ce3de7b97827152321d9",
+    "title": "When old data brings AI rollouts to a screeching halt - and how to manage it",
+    "url": "https://www.zdnet.com/article/proceed-cautiously-with-ai-rollouts/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "With AI, long-forgotten data assets suddenly turn to gold, with potential security risks.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "ac1d5a4a220cb8bf33f7fb00f230af6a",
+    "title": "How to watch the 2026 FIFA World Cup: 9 ways to stream (including free options)",
+    "url": "https://www.zdnet.com/article/how-to-watch-the-world-cup-2026/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "One of the biggest sporting events of all time kicks off soon - and you don't need an expensive cable package to watch.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "d8ffd8235c2b8cb1e889013c47b1d54f",
+    "title": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
+    "url": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Need AI help in Microsoft 365, but don't love Copilot? Claude AI can help you create, edit, and analyze documents. Here's how.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "3dc1b11f5ba553467986ad4103246f5f",
+    "title": "NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now",
+    "url": "https://www.zdnet.com/article/nordvpn-combines-vpn-antivirus-in-one-app/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "NordVPN argues that antivirus now means far more than it used to, so creating an app that combines VPN services with modern threat protection is the right path.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "4954eae437d79876e5ed1463ff99544e",
+    "title": "I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why",
+    "url": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Gemini can help with a variety of tasks when behind the wheel. All you need is an Android phone and a car with Android Auto.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "49102791b3f755918eba4f69c52ca2f9",
+    "title": "Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close",
+    "url": "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Your favorite smart ring is getting slimmer. Is the Oura Ring 5 worth the upgrade? I break it down.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "79438ddc26d27de8d43d1cb4b930ff27",
+    "title": "4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify",
+    "url": "https://www.zdnet.com/article/4-android-auto-apps-for-your-next-road-trip/",
+    "source": "zdnet_ai",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Android Auto is a lot more than navigation and music. Here are the apps you need before you hit the road.",
+    "fetched_at": "2026-05-29T06:06:14Z"
+  },
+  {
+    "uid": "f0388c0047be23a408c38c7cd7543ff5",
+    "title": "Corrective and Preventive Action Software Market by 2031 - Growth Drivers, Trends, and Key Players",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWJLVGJpSG1XNEJwM1A4Vk0tUjQ2a2ZTTXU0LTNhSDdjSi0wYVlwbXFqcC0xeVNwbjc0N2YwZ2RxRlA5TThlY1hmZmN5TUhVeUtaMkNQNE5RRy1tcjlnMWhZREFqRTRSR1FYY2ZNTHh2Z2pjOFE1eE9aMGZXMzZMVTJoQkF0OTN6cWVmYTJ5endVZG5DeGFv?oc=5",
+    "source": "gnews_openpr.com",
+    "source_category": "A",
+    "published": "2026-05-28",
+    "snippet": "Corrective and Preventive Action Software Market by 2031 - Growth Drivers, Trends, and Key Players openPR.com",
+    "fetched_at": "2026-05-29T06:06:26Z"
+  },
+  {
+    "uid": "40a0f12f9658294f969a9ff91cdbbbca",
+    "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+    "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+    "source": "github_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog.",
+    "fetched_at": "2026-05-29T06:06:28Z"
+  },
+  {
+    "uid": "4b8e6dfb5e2f2fbb167548647a87563c",
+    "title": "Opus 4.8 on AI Gateway",
+    "url": "https://vercel.com/changelog/opus-4-8-on-ai-gateway",
+    "source": "vercel_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Claude Opus 4.8 is now available on Vercel AI Gateway.Claude Opus 4.8 is built for long-horizon agentic execution and handles complex, multi-step coding tasks like refactors that previously required human correction mid-task. The model also produces clearer, less hedgy prose for knowledge work like drafting documents, analyzing data, and building presentations.To use Opus 4.8, set model to anthropic/claude-opus-4.8 in the AI SDK.AI Gateway provides a unified API for calling models, tracking usag",
+    "fetched_at": "2026-05-29T06:06:32Z"
+  },
+  {
+    "uid": "56ec5bbae978f6ccde0b0f02828721bd",
+    "title": "Team-wide provider allowlist on AI Gateway",
+    "url": "https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway",
+    "source": "vercel_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "AI Gateway now supports a team-wide provider allowlist. Teams can restrict which providers can serve requests, so traffic only routes to approved providers. The allowlist applies to every request through AI Gateway, including Bring Your Own Key (BYOK) traffic.Regulated teams typically vet AI providers across multiple dimensions with security and legal sign-off, ending up with a vendor set that reflects the specific requirements of their org. The allowlist turns that approved-vendor list into a r",
+    "fetched_at": "2026-05-29T06:06:32Z"
+  },
+  {
+    "uid": "80592c958ede48674bd21048a7969b88",
+    "title": "Amazon OpenSearch Serverless is now available in the Vercel Marketplace",
+    "url": "https://vercel.com/changelog/amazon-opensearch-serverless-is-now-available-in-the-vercel-marketplace",
+    "source": "vercel_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Amazon OpenSearch Serverless is now available in the Vercel Marketplace, with guided setup and automatic project configuration built into the Vercel dashboard.Built for agentic infrastructureBy bringing Amazon OpenSearch Serverless into the Vercel Marketplace, teams benefit from a unified workflow:In-dashboard provisioning: Spin up OpenSearch collections directly from the Vercel dashboardAutomatic configuration: Environment variables are automatically injected into your projects on provisioningU",
+    "fetched_at": "2026-05-29T06:06:32Z"
+  },
+  {
+    "uid": "6b1fa8ae684f887fce2d490494de2e4a",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "source": "openai_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "fetched_at": "2026-05-29T06:06:35Z"
+  },
+  {
+    "uid": "78758b8ec5bc577a5551b20aaeac11c2",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "source": "openai_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Explore OpenAI\u2019s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "fetched_at": "2026-05-29T06:06:35Z"
+  },
+  {
+    "uid": "702fb607570efa04665f3da30610de43",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "openai_blog",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "fetched_at": "2026-05-29T06:06:35Z"
+  },
+  {
+    "uid": "2a6a2deeccf7f2ddd0ca1c88fb336e28",
+    "title": "Robinhood Agentic Trading",
+    "url": "https://www.producthunt.com/products/robinhood",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Let your agent trade Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "4c2efbb9fb862bdb0d1bc98bc2ec8cc8",
+    "title": "Angel Match 4.0",
+    "url": "https://www.producthunt.com/products/angel-match",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "A database of 125K+ angels and VCs to raise your seed round Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "31f66bc0b6e83b0bdf1c05cfa57a853e",
+    "title": "Why AWS scrapped OpenSearch\u2019s architecture to chase agent workloads",
+    "url": "https://thenewstack.io/aws-opensearch-serverless-agentic-rebuild/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "AWS on Thursday launched what it calls a near-total rebuild of its managed search and vector engine, in an effort The post Why AWS scrapped OpenSearchs architecture to chase agent workloads appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "a10370bfbd735315f1cdd619cb3614e5",
+    "title": "Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception",
+    "url": "https://thenewstack.io/claude-opus-48-release/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "On Thursday, Anthropic released the newest version of its flagship model, Opus 4.8, which allows users to control Claudes effort, The post Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "6fe16c63be59429469853070ae6e1a52",
+    "title": "Percona celebrates 20th birthday with new foundation \u2014 and a goat cake",
+    "url": "https://thenewstack.io/percona-20-oursql-foundation-rebrand/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Percona, which makes a popular open-source database-as-a-service (DBaaS), celebrated its 20th birthday this week with a rebrand, a new supporting The post Percona celebrates 20th birthday with new foundation \u2014 and a goat cake appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "45217b8236e99aefe141bfb2214b8cdc",
+    "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams",
+    "url": "https://thenewstack.io/forward-deployed-engineers-ai/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Companies adding AI to their products often think that a powerful model is the key to successful integration. This assumption The post Why OpenAI and Anthropic are hiring forward deployed engineer teams appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "de50cb42856de2c03f7b0c5bede1a635",
+    "title": "Claw-style AI agents are coming to the enterprise. The governance infrastructure is still catching up.",
+    "url": "https://thenewstack.io/automation-anywhere-enterpriseclaw-ai-agents/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "The press release version of Automation Anywheres EnterpriseClaw announcement is straightforward enough: a new capability for deploying what the company The post Claw-style AI agents are coming to the enterprise. The governance infrastructure is still catching up. appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "f31af2359ff7f387ae6486375664e7ab",
+    "title": "The agentic identity crisis: Why your security isn\u2019t ready for the AI revolution",
+    "url": "https://thenewstack.io/ai-agent-identity-crisis/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "The transition from traditional web applications to agentic ecosystems is more than a change in the UI; it is a The post The agentic identity crisis: Why your security isnt ready for the AI revolution appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "fda61a48cbd395f70ca2408d71420dfe",
+    "title": "Debugging the undebuggable: building observability into probabilistic AI systems",
+    "url": "https://thenewstack.io/debugging-observable-ai-systems/",
+    "source": "thenewstack",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Debugging used to be straightforward: A service failed, you checked the logs, followed the stack trace, and fixed the bug. The post Debugging the undebuggable: building observability into probabilistic AI systems appeared first on The New Stack.",
+    "fetched_at": "2026-05-29T06:06:38Z"
+  },
+  {
+    "uid": "ddd7175a9c832f33ebced6d0749f7ea7",
+    "title": "Okta tops estimates and raises outlook as SentinelOne slides on weak guidance",
+    "url": "https://siliconangle.com/2026/05/28/okta-tops-estimates-raises-outlook-sentinelone-slides-weak-guidance/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Shares of Okta Inc. rose more than 6% in late trading today, while SentinelOne Inc. fell more than 18%, as the two cybersecurity companies reported quarterly results hours apart with sharply different reactions from investors. Okta beat on earnings and revenue and raised its full-year outlook. SentinelOne also beat on earnings and posted a higher [] The post Okta tops estimates and raises outlook as SentinelOne slides on weak guidance appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "80ef2dccc716247ebeca9f9cbac60b3b",
+    "title": "Autodesk to acquire MaintainX for $3.6 billion in push into operations",
+    "url": "https://siliconangle.com/2026/05/28/autodesk-acquire-maintainx-3-6-billion-push-operations/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Autodesk Inc. has agreed to buy maintenance and operations software company MaintainX Inc. in an all-cash deal valued at about $3.6 billion, extending the design software maker beyond its core tools into the running of factories, facilities and physical assets. The deal was announced alongside Autodesks first-quarter earnings. It marks Autodesks push into operations, a [] The post Autodesk to acquire MaintainX for $3.6 billion in push into operations appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "eea6e6adddb329d0f92d8fb9ac37793e",
+    "title": "Three insights you might have missed from theCUBE\u2019s coverage of Boomi World 2026",
+    "url": "https://siliconangle.com/2026/05/28/ai-data-activation-boomiworld/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Boomi LP is rejecting the frenzy around artificial intelligence models in favor of addressing the agent enterprise\u2019s biggest obstacles: data activation, governance and execution at scale. The company, which has roots in integration platform as a service, has homed in on AI governance and cost management. Last year, Boomi announced Agentstudio, a suite of agentic [] The post Three insights you might have missed from theCUBE\u2019s coverage of Boomi World 2026 appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "8b6660d06cdeba64a58d4dcffe0d4cd0",
+    "title": "What to expect during Snowflake Summit: Join theCUBE June 2-3",
+    "url": "https://siliconangle.com/2026/05/28/snowflake-summit-thecube-intelligent-data-snowflakesummit/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "The importance of Snowflake Inc. in the enterprise AI ecosystem is not necessarily its contribution to the analytics warehouse. What will be more significant going forward is Snowflake\u2019s role as an enabler of intelligent data apps. Snowflake\u2019s pivot to the world of intelligent data has been accompanied by a focus on building what theCUBE Research [] The post What to expect during Snowflake Summit: Join theCUBE June 2-3 appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "06debfb79188e5825849e2b35dae8c08",
+    "title": "IBM, Red Hat launch $5B Project Lightwell to boost open-source security",
+    "url": "https://siliconangle.com/2026/05/28/ibm-red-hat-launch-5b-project-lightwell-boost-open-source-security/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "IBM Corp. and its Red Hat subsidiary today launched an initiative called Project Lightwell to improve the security of open-source projects. Project Lightwell is backed by a $5 billion commitment. In addition, IBM and Red Hat will assign more than 20,000 engineers to the initiative. Red Hat, which became part of IBM through a 2019 [] The post IBM, Red Hat launch $5B Project Lightwell to boost open-source security appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "4a2e54d956597636b2071faaf633e857",
+    "title": "Rising AI spend turns FinOps into a boardroom strategist",
+    "url": "https://siliconangle.com/2026/05/28/finops-ai-spending-boardroom-strategy-finopsx/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Artificial intelligence has turned technology spending into a strategic boardroom priority across the entire enterprise. Companies are now using FinOps data to decide where capital goes and the value it delivers. This strategic aspect of FinOps is expected to shape discussions at FinOps X 2026 in San Diego from June 8\u201311, where executives and practitioners will [] The post Rising AI spend turns FinOps into a boardroom strategist appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "f6788bb18e0b783f69ef71ba963c8277",
+    "title": "Riverbed accelerates enterprise adoption of autonomous IT operations",
+    "url": "https://siliconangle.com/2026/05/28/riverbed-ai-observability-cubeconversations/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "With artificial intelligence tools proliferating across the enterprise world, observability is a more critical sphere than ever before. Riverbed Technology LLC, which specializes in unified observability, has positioned itself as a centralized platform for managing autonomous operations. The company draws on years of experience in data collection and machine learning to deliver a comprehensive suite [] The post Riverbed accelerates enterprise adoption of autonomous IT operations appeared first o",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "b0aa143b9556797cee160f51b0049554",
+    "title": "Chrome Enterprise rolls out AI agents and automation to streamline security management",
+    "url": "https://siliconangle.com/2026/05/28/chrome-enterprise-rolls-ai-agents-automation-streamline-security-management/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Google LLC today launched new enhancements to Chrome Enterprise, the company\u2019s enterprise version of its Chrome browser, designed to provide greater administrative and security control to information technology teams. With the advent of artificial intelligence agentic workflows, Google released an open-source Model Context Protocol server that connects Chrome Enterprise application programming interfaces and exposes tools [] The post Chrome Enterprise rolls out AI agents and automation to stream",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "4e08f37de80cbad5dd9c50cf36bce63b",
+    "title": "Writer helps solve brand consistency for enterprise marketing at scale",
+    "url": "https://siliconangle.com/2026/05/28/writer-helps-solve-brand-consistency-enterprise-marketing-scale/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Writer Inc., an enterprise artificial intelligence agent platform used by leading enterprise brands to deliver their voice, today announced new infrastructure aimed at enforcing style, terminology and presentation when using its tools at large scale. AI has solved the blank page problem, but it has created a brand consistency crisis, said Vice President of Product [] The post Writer helps solve brand consistency for enterprise marketing at scale appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "aef592b6c936f2c1e0a2763f9e58b42e",
+    "title": "Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote",
+    "url": "https://siliconangle.com/2026/05/28/modiqo-raises-3m-pre-seed-funding-help-ai-agents-learn-rote/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Agentic artificial intelligence infrastructure startup Modiqo Inc. says it can assist companies in moving from experimental workflows to repeatable and production-ready systems after raising $3 million in pre-seed funding. Heavybit and Seligman Ventures co-led the round, which also saw participation from Irregular Expressions and a number of angel investors. The startup is trying to fix [] The post Modiqo raises $3M in pre-seed funding to help AI agents learn by Rote appeared first on SiliconANG",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "975774eeb717f14bd7582dca2af9cbea",
+    "title": "CSC report finds FIFA-themed domain registrations surging as scammers position for 2026 World Cup",
+    "url": "https://siliconangle.com/2026/05/28/csc-report-finds-fifa-themed-domain-registrations-surging-scammers-position-2026-world-cup/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "A new report out today from Corporation Service Co. finds that third-party registrations of domains containing FIFA have surged in the buildup to the 2026 World Cup, with many of them staged for fraud against fans. CSCs analysts found 65,590 domains containing the term FIFA registered between Jan. 1, 2022, and April 21 this year, none [] The post CSC report finds FIFA-themed domain registrations surging as scammers position for 2026 World Cup appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "349c592929d1d27f0dd1c7cfc46ad1bb",
+    "title": "Orchid Security targets AI agent sprawl with new identity governance tools",
+    "url": "https://siliconangle.com/2026/05/28/orchid-security-targets-ai-agent-sprawl-new-identity-governance-tools/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Orchid Security Inc. today extended its Identity Control Plane with a set of capabilities aimed at governing artificial intelligence agents, saying existing identity and access management models cannot handle actors that inherit authority from humans and machines alike. The identity security startups expansion adds three components. One is Agentic Enrichment, which maps AI agents to [] The post Orchid Security targets AI agent sprawl with new identity governance tools appeared first on SiliconAN",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "c21d982b8432b00c20dd11aad36b4692",
+    "title": "AI is changing everything \u2014 but Dell says data remains the enterprise\u2019s crown jewel",
+    "url": "https://siliconangle.com/2026/05/28/cyber-resilience-age-ai-dells-data-first-approach-delltechworld/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "The breakneck expansion of AI is forcing enterprise IT leaders to urgently rethink how infrastructure and cyber resilience work together to protect critical assets. Above all else, securing foundational data is now paramount for enterprises as they forge ahead with agentic AI deployments. But doing so requires organizations to shift away from traditional backup paradigms to [] The post AI is changing everything \u2014 but Dell says data remains the enterprises crown jewel appeared first on SiliconANG",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "15f28237fbe3bcec52632ae461961f3d",
+    "title": "CoreWeave introduces autonomous improvement capabilities for AI agents",
+    "url": "https://siliconangle.com/2026/05/28/coreweave-introduces-autonomous-improvement-capabilities-ai-agents/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Artificial intelligence cloud operator CoreWeave Inc. today announced the launch of a new offering that gives enterprise outfits the ability to deploy AI agents that can learn and improve themselves autonomously using real-world data. The current lifecycle for AI agents operates through a slow, iterative mechanic of running evaluations and fine-tuning based on reviewing metrics. [] The post CoreWeave introduces autonomous improvement capabilities for AI agents appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "8466ec37cb4673b5e84d6db1dc2fa56d",
+    "title": "Starburst bets on semantic context to solve enterprise AI trust problem",
+    "url": "https://siliconangle.com/2026/05/28/starburst-bets-semantic-context-solve-enterprise-ai-trust-problem/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Starburst Data Inc. today is expanding its push into enterprise artificial intelligence with the introduction of a platform aimed at allowing organizations to run AI workloads directly on distributed data without moving it into centralized repositories. Announced at the company\u2019s AI+Datanova event in Miami, the Enterprise Intelligence Platform combines Starburst\u2019s federated query technology with a [] The post Starburst bets on semantic context to solve enterprise AI trust problem appeared first ",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "2e1a7d82583ce7fb0f1c895f2ccf50f6",
+    "title": "IBM expands digital sovereignty push with new cloud compliance and visibility platform",
+    "url": "https://siliconangle.com/2026/05/28/ibm-expands-digital-sovereignty-push-new-cloud-compliance-visibility-platform/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "IBM Corp. today introduced a new cloud sovereignty tool aimed at helping enterprises demonstrate compliance, operational control and governance as artificial intelligence deployments expand across hybrid and multicloud environments. IBM Cloud Sovereignty Risk Profile is designed to give organizations greater visibility into where workloads run, how data is protected and whether operational controls meet regulatory [] The post IBM expands digital sovereignty push with new cloud compliance and vis",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "7f276cdd0cd2525231bcc54cedbb4af2",
+    "title": "Utilidata raises $40M more to optimize data center power use",
+    "url": "https://siliconangle.com/2026/05/28/utilidata-raises-another-40m-optimize-data-center-power-use/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Utilidata Inc. today disclosed that it has raised $40 million in funding from Renown Capital Partners and Keyframe Capital. The cash infusion comes as an extension to a $60.3 million Series C round the company closed in April. That deal included the participation of Nvidia Corp. Utilidata will use the newly expanded round to expand [] The post Utilidata raises $40M more to optimize data center power use appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "c2be67b625b7ae8668a4265ebdb09482",
+    "title": "Dell and H2O.ai target the token-cost problem with vertical AI models",
+    "url": "https://siliconangle.com/2026/05/28/vertical-ai-models-enterprise-delltechworld/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "As artificial intelligence adoption accelerates inside enterprises, the economics of generative AI are forcing a fundamental rethink. Runaway token costs, data sovereignty demands and a growing gap between AI pilots and production ROI are pushing organizations to reconsider where their models run \u2014 and what kind of vertical AI models they actually need. The answer [] The post Dell and H2O.ai target the token-cost problem with vertical AI models appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "a38d6de7680eb7c1e13f1165d7533d02",
+    "title": "Becoming an AI-native company is existential for every business, says Dell CMO",
+    "url": "https://siliconangle.com/2026/05/28/becoming-an-ai-native-company-delltechworld/",
+    "source": "siliconangle",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Becoming an AI-native company is no longer the competitive advantage it was five minutes ago. Now, its an empirical obligation, and Dell Technologies Inc. made that case to customers at its annual flagship event. This message was hammered home during Dell Technologies World in Las Vegas, featuring a roster of enterprise customers that set the [] The post Becoming an AI-native company is existential for every business, says Dell CMO appeared first on SiliconANGLE.",
+    "fetched_at": "2026-05-29T06:06:41Z"
+  },
+  {
+    "uid": "9a781af5232826ef163dcefecf65fbae",
+    "title": "Generative AI Market Trends: Large Language Models, Enterprise Adoption & Forecast to 2034",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGU2YXptYlFUbFUxT1BOazI5bXItM3dzZWg1SG5JSUd5T01xSzFpRVQwbEZjNEN4YTl6ZGp3aE93aEs4YTIxQWxURHpsQWZJRFU1ek5XVlFrZEtFeEZUc29lOVpqWUdSRnJFRWI2RWxKQ1pEbWJhU18wVlNQMllsMXlyUHdfeDFrV1VYMVFCbDFVOFhlOGtIT2JMZ0V3bXFwNnRiYWFRYXVKRVpyazJVUmZsdXB0UndNNUlZ?oc=5",
+    "source": "gnews_vocal.media",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Generative AI Market Trends: Large Language Models, Enterprise Adoption & Forecast to 2034 vocal.media",
+    "fetched_at": "2026-05-29T06:06:43Z"
+  },
+  {
+    "uid": "bdb716b8d6ab1f19a35f2d431bdfbec4",
+    "title": "Sana: The No-Code AI Agent Platform for Enterprise Knowledge & Automation.",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0pFQ2VCREFhWUw3YjZpY3h2UEJjZDZIdGI2c1luVjlQUGZjRFg4WVQ3RXhPdVdEZ2ZkSjFTS005djh2UUhYTWM5Q3M3U2F0VnFHb0d0SzdyYXNVcEwtYTJoSE5HTHphZ241WGZjdkdlb1F3ZlJqczdCZk9ta1BySmV4X2pTb1BzWTYtdGN3MXlpeVFnTDlpQw?oc=5",
+    "source": "gnews_quasa.io",
+    "source_category": "B",
+    "published": "2026-05-28",
+    "snippet": "Sana: The No-Code AI Agent Platform for Enterprise Knowledge & Automation. quasa.io",
+    "fetched_at": "2026-05-29T06:06:43Z"
+  },
+  {
+    "uid": "194870c6ab63647e22f500d9b025dce7",
+    "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
+    "url": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
+    "source": "dark_reading",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
+    "fetched_at": "2026-05-29T06:06:56Z"
+  },
+  {
+    "uid": "1ddeac22173dd1da57d160dd059c47bd",
+    "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is",
+    "url": "https://www.darkreading.com/application-security/agentic-ai-risky",
+    "source": "dark_reading",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "AI agents aren't black boxes \u2014 they're models interacting with software tools. The risk lies in their overlap.",
+    "fetched_at": "2026-05-29T06:06:56Z"
+  },
+  {
+    "uid": "661e9261a92af152d0237fd50ef4ed7a",
+    "title": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security",
+    "url": "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security",
+    "source": "dark_reading",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "In this latest installment of the Reporters' Notebook video series, we discuss how cyber insurance is forcing organizations to quantify risk, what's covered (and what's not), and why this could be the best thing to happen to cybersecurity.",
+    "fetched_at": "2026-05-29T06:06:56Z"
+  },
+  {
+    "uid": "f9e3e44259cb7447ad892217358079fd",
+    "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model",
+    "source": "dark_reading",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
+    "fetched_at": "2026-05-29T06:06:56Z"
+  },
+  {
+    "uid": "714cc324828dedbdb0db016b45eda253",
+    "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
+    "url": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
+    "source": "dark_reading",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
+    "fetched_at": "2026-05-29T06:06:56Z"
+  },
+  {
+    "uid": "7df5b00c0273d2f4957c353a6a819e78",
+    "title": "Troops\u2019 phones gave away location data to foreign adversaries",
+    "url": "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Lawmakers push DoD to tighten smartphone controls after adversaries exploited commercial tracking data",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "f0c6d6994dfe54caaeb2e8ba92da18e6",
+    "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops",
+    "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Six 0-days, three under active exploitation, more to come on July 14?",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "76bcca7c5b71b806c42c6fa2d1de426e",
+    "title": "Snowflake buys Natoma to help freeze out rogue agents",
+    "url": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "It is the database titan\u2019s sixth acquisition announcement since June 2025",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "07cdf8415762c110c8cc74f32c2c672b",
+    "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
+    "url": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Chocolate Factory shifts Tensor Processing Unit Ubuntu support back upstream",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "a91a2fa9250afd6da07c55b0d8368cd2",
+    "title": "Microsoft tests the 15-character limit of Windows Server admins' patience",
+    "url": "https://www.theregister.com/oses/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "May security update trips over hostnames of a very specific length",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "360c42b713b6acc7613694ff9d2ecf41",
+    "title": "Europe told to cool its datacenter boom before water and power run short",
+    "url": "https://www.theregister.com/on-prem/2026/05/28/europe-told-to-cool-its-datacenter-boom-before-water-and-power-run-short/5247994",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Get the balance right, Grundfos says, and the region will be a shining example of how to do it without sacrificing the environment",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "24777f53d7198abfc6eaf0a32af79f68",
+    "title": "Zig creator seeks 'uncompromising perfection' before blessing 1.0",
+    "url": "https://www.theregister.com/software/2026/05/28/zig-creator-seeks-uncompromising-perfection-before-blessing-10/5247916",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Andrew Kelley interview describes paying monthly for cloud-powered AI coding as an 'insane proposition'",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "8beaf950a7957b9b19b6f8ce17db1cd1",
+    "title": "Three in ten HP customers still clinging to Windows 10",
+    "url": "https://www.theregister.com/personal-tech/2026/05/28/three-in-ten-hp-customers-still-clinging-to-windows-10/5247884",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Refresh cycle sluggishness is a tailwind, insists PC giant's money people",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "cb5507303247f5c4554317748cd8fb93",
+    "title": "Qualcomm picks bad time to pitch a $300 laptop platform",
+    "url": "https://www.theregister.com/systems/2026/05/28/qualcomm-picks-bad-time-to-pitch-a-300-laptop-platform/5247841",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Systems based on Snapdragon C to target students, families, and small businesses",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "0fb022260587e5e478d6874fcb2740cc",
+    "title": "AI agents get their own phone directory built atop DNS",
+    "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "DNS-AID, under the auspices of the Linux Foundation, promises easier agent discovery",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "e8bea94373b0f9cfd808e92e7cd974c4",
+    "title": "Steam Deck prices go through the roof as Valve blames component shortages",
+    "url": "https://www.theregister.com/personal-tech/2026/05/28/steam-deck-prices-go-through-the-roof-as-valve-blames-component-shortages/5247830",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Same handheld, same specs, just a much steeper bill",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "836de64181c89b5b9637aa461ab2f794",
+    "title": "Carnival confirms ShinyHunters cruised off with 6M customer records after April breach",
+    "url": "https://www.theregister.com/cyber-crime/2026/05/28/carnival-shinyhunters-cruised-off-with-6m-customer-records/5247808",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Travel and leisure giant was just one of many victims of the cybercrooks' crime spree this year",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "7cf55d1f04147dd153eef635aacae433",
+    "title": "ReactOS brings its Windows NT tribute act to ARM64",
+    "url": "https://www.theregister.com/oses/2026/05/28/reactos-brings-its-windows-nt-tribute-act-to-arm64/5247768",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Experimental build boots on Raspberry Pi 5, but for now the joy is mostly in getting there",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "bb09221db74948824dc6ce3806bb5454",
+    "title": "Google engineer accused of turning Year in Search secrets into Polymarket payday",
+    "url": "https://www.theregister.com/legal/2026/05/28/google-infosec-engineer-charged-with-insider-trading/5247745",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Feds say insider used confidential search trend data to score $1.2M in prediction market profits",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "ce5e1792be26cad07c2ce9c3d9bf4fb7",
+    "title": "London cops post \u00a3300M tech shopping list after Palantir contract blocked",
+    "url": "https://www.theregister.com/public-sector/2026/05/28/london-cops-post-300m-tech-shopping-list-after-palantir-contract-blocked/5247685",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Mayor's office says force only engaged with one supplier before deputy refused to approve deal worth up to \u00a350M",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "2d5b2aed9aef31903ff1484d24d6875b",
+    "title": "Kyndryl takes employees' pulse while cutting off circulation for some",
+    "url": "https://www.theregister.com/on-prem/2026/05/28/kyndryl-takes-employees-pulse-while-cutting-off-circulation-for-some/5247246",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Redundancy notices and sentiment survey land in inboxes on same day in what tech services biz calls 'commitment to listen'",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "1ecd38815cc73f5443dd75c260fe2b5f",
+    "title": "EU moderation watchdog says social media giants hate taking down hate speech",
+    "url": "https://www.theregister.com/personal-tech/2026/05/28/eu-moderation-watchdog-says-social-media-giants-hate-taking-down-hate-speech/5247112",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Also somehow censoring too much while refusing to hand over account ban evidence for review",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "97ec180ac232bd68edc45daf20016da3",
+    "title": "Company CEO flooded file share with smut, called for help after he deleted it",
+    "url": "https://www.theregister.com/security/2026/05/28/company-ceo-flooded-file-share-with-smut-called-for-help-after-he-deleted-it/5247502",
+    "source": "the_register",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Also, missing school iPad resurfaced after coach\u2019s kids uploaded video to YouTube",
+    "fetched_at": "2026-05-29T06:06:58Z"
+  },
+  {
+    "uid": "18615d2544f254b4d47340bca4edd5e0",
+    "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "9146113ec398680358d4ba95a18d2086",
+    "title": "BTMOB Android malware service generates custom phishing payloads",
+    "url": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "4a0cd96586f68158541bd12ebbf322d0",
+    "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "5f652f1c66f696125dd77c5fd921e3d9",
+    "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "80cf28ef7fb54062ce1d930f547964cb",
+    "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "42fa523a31986505231e9b2504db292a",
+    "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+    "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "9b55f6dbdbf4d5bf06373bdf170893d9",
+    "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+    "url": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "9ff27f578cd7254fdfee64eb5be450e7",
+    "title": "Webinar: Why network incidents take too long to resolve",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "864d13e0472402ae1aff553ceed528ad",
+    "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "d1203307c96d62191625163df31373d7",
+    "title": "Sextortionist sentenced to 33 years for targeting 145 children",
+    "url": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
+    "source": "bleeping_computer",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "A Canadian man was sentenced to 33 years in prison after pleading guilty to targeting more than 145 children across the United States, some as young as 6 years old, in an eight-year-long sextortion scheme. [...]",
+    "fetched_at": "2026-05-29T06:07:00Z"
+  },
+  {
+    "uid": "598153d2010f547b845171fe83775646",
+    "title": "How we built Cloudflare's data platform and an AI agent on top of it",
+    "url": "https://blog.cloudflare.com/our-unified-data-platform/",
+    "source": "cloudflare_blog",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Here\u2019s how we built Town Lake, Cloudflare's unified analytics platform, alongside Skipper, an internal AI agent running on top of it.",
+    "fetched_at": "2026-05-29T06:07:02Z"
+  },
+  {
+    "uid": "5f3a9a519302e6ae2b7bee8d8440dc67",
+    "title": "Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "419f540eb9e69a9f0b65f37a82b65a30",
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "b53d32d920238bae626a2e7592e7e599",
+    "title": "I made a million dollar product from my dorm room (2025)",
+    "url": "https://nick.winans.io/blog/nice-nano/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "8342f6889ace1cff55480de495efbbb1",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "825b00621fc34b6d26442f7a1411a24f",
+    "title": "I hated writing until I learned there\u2019s a science to it (2024)",
+    "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "eeb9b49368063b95d3eea63452a0fb7d",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "url": "https://llmgame.scalex.dev",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "4f42281180891ff21137d54925695168",
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "761a1c72e18bc37431ed1d10323612c3",
+    "title": "Building durable workflows on Postgres",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "b9200ee244a4a3d8c555b2ae015fe6f8",
+    "title": "The Permanent Upper Crow",
+    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "c8ab7fe9cf875a6e2d4ed51520cfe449",
+    "title": "Various LLM Smells",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "83113ae552f3a64a738e648b36fb0af0",
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "url": "https://github.com/bytecodealliance/endive",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "aea10e22d95b14dbe9c3051e3063de17",
+    "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
+    "url": "https://github.com/Kaelio/ktx",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "6f8ddfea6a2bf0a5d0581acd82063e6d",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "url": "https://www.anthropic.com/news/series-h",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "54da2e03f3fa45235d02bd4da73e8fbb",
+    "title": "Bitburner, programming-based incremental game",
+    "url": "https://bitburner-official.github.io/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "cc31c7a55e868b9c204bebabecf8ccb0",
+    "title": "Cloud Resiliency Expert Dives Deep into Chaos Engineering and Chaos Monkey",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPay1feHVKam56Z1VqRWUtTjFmNjVuS2JUbkREakxJV3psQ3J6dldyTUp0VXgxVkxmYjA1WlJPejhhejdiaTlmZi13WWdXdUJzLUlTcGFtQS0zREFTem0xOE9tVFpDV2R6V0RXRzRFUFE3eElJWm5paFdMdUV0ZHBqLTlTa0VpSnNfSHhfR0VfU1RZNXBleHN3Q0pfelBaOS1PNGVvdGhLWEd4b3U1YXdiUVNXNWxXXzVZOHZUVVl1M3p0SzRRZ1p2cjZFb2Y?oc=5",
+    "source": "gnews_virtualization_review",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Cloud Resiliency Expert Dives Deep into Chaos Engineering and Chaos Monkey Virtualization Review",
+    "fetched_at": "2026-05-29T06:07:06Z"
+  },
+  {
+    "uid": "0eb1af597e25e9e040117b2a57ad9263",
+    "title": "Claude Code Introduces Real-Time Vulnerability Detection & Auto-Fixes for Developers",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFBneDBOMlNHS3Y4al9aWG9EM2FhQ1N3N1QtUnVsSkRCdUx2N3VtbUFsbG83cFRxODUwRXZxeG1HcjFLdkNzRWhoal9FckRUNFVRSFMybjQxWEgwZDRMcWVla2twYUh6VTM1Q2c4S0t0aUFtd0N4Nm5FN3hpOGpPNERkY1Qybk1SS0l4T0RtQU41UQ?oc=5",
+    "source": "gnews_linkedin",
+    "source_category": "C",
+    "published": "2026-05-28",
+    "snippet": "Claude Code Introduces Real-Time Vulnerability Detection & Auto-Fixes for Developers LinkedIn",
+    "fetched_at": "2026-05-29T06:07:11Z"
+  },
+  {
+    "uid": "e507abee863e5ed79324d9b6ba071a58",
+    "title": "Why AI Won\u2019t Solve the Hardest Part of Integrations",
+    "url": "https://devops.com/why-ai-wont-solve-the-hardest-part-of-integrations/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "AI is making it easier for SaaS companies to build integrations. Give a coding agent decent API docs, some context about the systems involved, and a clear prompt, and it can get surprisingly far. It can write the logic faster than most teams could a year or two ago, saving time, reducing repetitive work, and []",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "5863bd3afed894e5e7c9696e62f7c614",
+    "title": "Harness Adds Pair of Tools to Track ROI in AI Coding",
+    "url": "https://devops.com/harness-adds-pair-of-tools-to-track-roi-in-ai-coding/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "Harness today added two tools to track and analyze the impact code generated by artificial intelligence (AI) coding tools is having on application development. An AI Development Lifecycle (DLC) tool installs agent software on a developer\u2019s machine to track adoption, sessions, and the code created across every coding agent, while a Cloud AI Cost []",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "97d395ea9254bf241c8b1f8fd02f159e",
+    "title": "IBM, Red Hat Launch Project Lightwell to Secure Open Source Software from Frontier Models",
+    "url": "https://devops.com/ibm-red-hat-launch-project-lightwell-to-secure-open-source-software-from-frontier-models/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "IBM and Red Hat are bringing together what they\u2019ve learned from frontier AI models and 20,000 engineers to launch Project Lightwell, a $5 billion initiative aimed at helping enterprises better secure their open source software, work that has become more challenging in the age of such models as Anthropic\u2019s Claude Mythos Preview. Mythos and similarly []",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "88f88d291afad8e7f75329a2c1eb6152",
+    "title": "More Signal, Less Clarity: The Observability Paradox No One Wants to Talk About",
+    "url": "https://devops.com/more-signal-less-clarity-the-observability-paradox-no-one-wants-to-talk-about/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "Record observability spending is driving up MTTR. Discover why tool sprawl and excessive dashboard data cause cognitive overload for on-call engineers, and how to fix it.",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "ef0ff453be23a6bea4dfebdbeecab2f9",
+    "title": "Why Agent Skills Are the Next Evolution of Software Development",
+    "url": "https://devops.com/why-agent-skills-are-the-next-evolution-of-software-development/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "The emergence of agent skills \u2014 modular, reusable blocks of natural language instructions and metadata \u2014 is transforming the developer\u2019s role.",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "34b074811979f9a44f5868c57515e0e9",
+    "title": "The Future of Salesforce DevOps: Preparing for the AI Era",
+    "url": "https://devops.com/the-future-of-salesforce-devops-preparing-for-the-ai-era/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "By establishing a robust DevOps foundation now, organizations can leverage these emerging predictive capabilities to transform reactive pipelines into proactive, self-correcting release architectures.",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "9e375124593288975ee6405631a502a1",
+    "title": "The End of Alert Fatigue: How AI-Powered Observability is Transforming SRE Teams in 2026",
+    "url": "https://devops.com/the-end-of-alert-fatigue-how-ai-powered-observability-is-transforming-sre-teams-in-2026/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "Alert fatigue among Site Reliability Engineering (SRE) teams has reached a breaking point, with responders drowning in thousands of weekly notifications where only 3% genuinely warrant attention. This massive volume of noise\u2014driven by fragmented monitoring tools and rigid, threshold-based alerting\u2014stifles innovation, spikes on-call burnout, and compromises system reliability. Fortunately, AI-powered observability and AIOps platforms are transforming incident management. By unifying telemetry acr",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "7b81768987b1f558902268957de64d18",
+    "title": "5 Ways Agentic AI is Redefining DevOps Architecture for Self-Healing CI/CD Systems",
+    "url": "https://devops.com/5-ways-agentic-ai-is-redefining-devops-architecture-for-self-healing-ci-cd-systems/",
+    "source": "devops_com",
+    "source_category": "D",
+    "published": "2026-05-28",
+    "snippet": "The era of the flaky test as a simple annoyance is over. As enterprises shift from deterministic applications to agentic AI, flakiness has evolved into a structural bottleneck for traditional CI/CD pipelines reliant on rigid, binary assertions. Because AI agents produce \"Y-like\" rather than exact results, DevOps architecture must fundamentally change. This article explores the transition from simple pipeline automation to true autonomy\u2014detailing how multi-agent networks utilize predictive failur",
+    "fetched_at": "2026-05-29T06:07:19Z"
+  },
+  {
+    "uid": "1fb454ede923952374a8ac75a68236ce",
+    "title": "Monitor JavaScript framework routing with Datadog RUM",
+    "url": "https://www.datadoghq.com/blog/javascript-frameworks-datadog-rum/",
+    "source": "datadog_blog",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Read about our Datadog RUM integrations that capture accurate routing, navigation, and error data for modern JavaScript frameworks.",
+    "fetched_at": "2026-05-29T06:07:34Z"
+  },
+  {
+    "uid": "aa0df2de0523ae11b14256875d549f7a",
+    "title": "Unified observability for Alibaba Cloud with Datadog",
+    "url": "https://www.datadoghq.com/blog/monitor-alibaba-cloud-with-datadog/",
+    "source": "datadog_blog",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Monitor Alibaba Cloud ECS, ApsaraDB, ACK, and more services in Datadog with metrics, logs, and APM traces correlate metrics, logs, and APM traces across your full Alibaba Cloud stack.",
+    "fetched_at": "2026-05-29T06:07:34Z"
+  },
+  {
+    "uid": "afe90dbfc2c8a18996112766576e502e",
+    "title": "Deploy Datadog Kubernetes Autoscaling at scale",
+    "url": "https://www.datadoghq.com/blog/deploy-kubernetes-autoscaling-at-scale/",
+    "source": "datadog_blog",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Learn how Datadog Kubernetes Autoscaling enables fleet-wide rightsizing with in-app setup, GitOps cluster profiles, and AI-assisted PRs.",
+    "fetched_at": "2026-05-29T06:07:34Z"
+  },
+  {
+    "uid": "74e64e9e378b18e5011d3357c92813d2",
+    "title": "Monitor Azure Managed Redis with Datadog",
+    "url": "https://www.datadoghq.com/blog/azure-managed-redis-integration/",
+    "source": "datadog_blog",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Datadog\u2019s Azure Managed Redis integration enables you to track and optimize the performance, activity, and utilization of your Azure Managed Redis caches.",
+    "fetched_at": "2026-05-29T06:07:34Z"
+  },
+  {
+    "uid": "6e658ffc867c270db519a579206897be",
+    "title": "Instrument LangGraph agents with Datadog: a practical guide",
+    "url": "https://www.datadoghq.com/blog/langgraph-agent-monitoring/",
+    "source": "datadog_blog",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Learn how to use Datadog Agent Monitoring and the LLM Observability SDK to trace and monitor a LangGraph agent.",
+    "fetched_at": "2026-05-29T06:07:34Z"
+  },
+  {
+    "uid": "0c2abb9f8ed35d4deffa877a66e73589",
+    "title": "AI agents are redefining software development\u2014but they\u2019re flying blind without observability",
+    "url": "https://www.dynatrace.com/news/blog/ai-agents-are-redefining-software-development-but-theyre-flying-blind-without-observability/",
+    "source": "dynatrace_blog",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Imagine a team of AI agents building, deploying, and running software at machine speed\u2014yet unable to see whats happening in production. This is the new reality for enterprise technology leaders. As one Fortune 500 CTO told us, Speed is now the primary driver of innovation, forcing organizations to rethink processes, compliance, and roles; its a [] The post AI agents are redefining software development\u2014but theyre flying blind without observability appeared first on Dynatrace news.",
+    "fetched_at": "2026-05-29T06:07:36Z"
+  },
+  {
+    "uid": "beee3b0adea83682d65dac1c1c2f6e38",
+    "title": "Anthropic releases Claude Opus 4.8",
+    "url": "https://sdtimes.com/devconvsm/anthropic-releases-claude-opus-4-8/",
+    "source": "sdtimes",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Anthropic today announced Claude Opus 4.8, with improvements across benchmarks, and is a more effective collaborator. Opus 4.8 launches alongside several new features. Users on claude.ai now have control over the amount of effort Claude puts into a task. Claude Code has a new \u201cdynamic workflows\u201d feature that allows it to tackle very large-scale problems. continue reading The post Anthropic releases Claude Opus 4.8 appeared first on SD Times.",
+    "fetched_at": "2026-05-29T06:07:39Z"
+  },
+  {
+    "uid": "bc4ef2f417ad68c2a45ab42ac801b878",
+    "title": "Starburst Unveils Enterprise Intelligence Platform",
+    "url": "https://sdtimes.com/ai/starburst-unveils-enterprise-intelligence-platform/",
+    "source": "sdtimes",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "BOSTON \u2013 At its annual AI Datanova event, Starburst today announced the Starburst Enterprise Intelligence Platform, enabling enterprises to run AI directly on governed data across distributed environments. At the center of the platform is AIDA, now generally available, which brings AI-powered intelligence directly into the workflows, applications, and agents where business users work. continue reading The post Starburst Unveils Enterprise Intelligence Platform appeared first on SD Times.",
+    "fetched_at": "2026-05-29T06:07:39Z"
+  },
+  {
+    "uid": "ef898439a0cb1dab0766e5fda47f1e56",
+    "title": "Hexo Labs Releases SIA: An Open Source \u201cSelf-Improving AI\u201d That Accelerates Superintelligence",
+    "url": "https://sdtimes.com/ai/hexo-labs-releases-sia-an-open-source-self-improving-ai-that-accelerates-superintelligence/",
+    "source": "sdtimes",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Superintelligence research lab Hexo Labs today has launched SIA, an open-source agent framework that improves itself for task performance and autonomy. According to an OpenAI benchmark, SIA will accelerate the path to superintelligence by 350X. SIA is designed to operate in continuous loops of learning and adaptation. According to the company announcement, SIA can create continue reading The post Hexo Labs Releases SIA: An Open Source \u201cSelf-Improving AI\u201d That Accelerates Superintelligence appear",
+    "fetched_at": "2026-05-29T06:07:39Z"
+  },
+  {
+    "uid": "ebc0058c584409520dbbaa075c023098",
+    "title": "Supply chain battles intensify as takedowns meet AI-driven noise",
+    "url": "https://www.infoworld.com/article/4178225/supply-chain-battles-intensify-as-takedowns-meet-ai-driven-noise.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Taking down a sprawling malware operation once signaled progress in securing the open-source ecosystem. Now, it barely registers. The GlassWorm campaign disruption comes at a moment when attackers can quickly reconstitute, and defenders are increasingly grappling with a new challenge: distinguishing real threats from automated noise. \u201cI think coordinated actions, like GlassWorm, can sever control, significantly increase attacker costs, buy time for remediation, and signal the possibility of a fi",
+    "fetched_at": "2026-05-29T06:07:41Z"
+  },
+  {
+    "uid": "a57e2692148a3030a7b425e3a8e1efbe",
+    "title": "Developers on H-1B face a tighter job market as AI shifts hiring priorities",
+    "url": "https://www.infoworld.com/article/4178167/developers-on-h-1b-face-a-tighter-job-market-as-ai-shifts-hiring-priorities.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "For years, software developers on H-1B visas benefited from steady demand among US technology employers. That market is becoming more selective as companies redirect spending toward AI and rely more heavily on coding assistants. Recent layoffs at companies including Meta and Amazon have added to the uncertainty, with engineering and software roles affected even as major technology companies continue to deepen investments in AI. Developers and analysts say traditional engineering roles are becomi",
+    "fetched_at": "2026-05-29T06:07:41Z"
+  },
+  {
+    "uid": "14d996287a5fa31bf627964e9028e9f4",
+    "title": "Snowflake to acquire MCP-focused Natoma to boost governance for AI agents",
+    "url": "https://www.infoworld.com/article/4178165/snowflake-to-acquire-mcp-focused-natoma-to-boost-governance-for-ai-agents-2.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Snowflake said it plans to acquire US-based startup Natoma to boost governance, security, and connectivity for AI agents operating across heterogeneous enterprise environments, amid growing efforts by organizations to move agentic AI workflows from pilots into production. The cloud data platform provider is betting that enterprises will increasingly require centralized governance, identity controls, and auditability as AI agents begin interacting more deeply with internal applications, APIs, and",
+    "fetched_at": "2026-05-29T06:07:41Z"
+  },
+  {
+    "uid": "5623857182724d81401c91ba840089f1",
+    "title": "An open-source toolkit for controlling out-of-control AI agents",
+    "url": "https://www.infoworld.com/article/4175859/an-open-source-toolkit-for-controlling-out-of-control-ai-agents.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "The rapid uptake of agentic AI has exposed a range of issues with our non-deterministic helpers. That\u2019s mainly because AI agents are not people and don\u2019t behave like people, even though they generally use the same APIs as humans. For one thing, they make many more queries than a human would, as they build the necessary context to deliver a response. Anecdotal data from companies that have worked with agents or who have users who access services through agents indicate that this can mean massive ",
+    "fetched_at": "2026-05-29T06:07:41Z"
+  },
+  {
+    "uid": "41978d904110b8143c10fd7b0b8b7fd2",
+    "title": "How to stop the AI code generation treadmill",
+    "url": "https://www.infoworld.com/article/4177717/how-to-stop-the-ai-code-generation-treadmill.html",
+    "source": "infoworld",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "According to Sonar\u2019s State of Code Developer Survey report for 2026, based on a survey of over 1,100 developers, 42% of committed code is now AI-assisted, and roughly 29% of it gets merged without manual review. Not \u201clight review.\u201d No review at all. The industry\u2019s response has been predictable: more guardrails. Static analysis. Token linting. Visual regression testing. Accessibility audits. Security scans. Each tool is a reasonable reaction to a real failure mode. Taken together, though, they de",
+    "fetched_at": "2026-05-29T06:07:41Z"
+  },
+  {
+    "uid": "e7366015b026003924d1f9329ec53358",
+    "title": "Augusta Hitech Launches Hadal AI: The Autonomous Quality Engineering Platform",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTW94Z2I3eUJCdDNZcjRKTGVnWnZXQzRJTEcwN2ZZcW1zeEpKY1NsRVp0cGh4RUk2VXpqek1FUmxfVHNSWTR5dS1MOXhFTTN5eklqY3RYaVg1QU1MQWFFMDM1V0pFaUlHeGc2d2JJMG1wRmw3d2F6bTJEaUZlZVV0Yjl1a1o1cUl0aUZnWi0zRldXaGJWcDRRdy1JQWlZWjA2cVFj?oc=5",
+    "source": "gnews_weekly_voice",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Augusta Hitech Launches Hadal AI: The Autonomous Quality Engineering Platform Weekly Voice",
+    "fetched_at": "2026-05-29T06:07:48Z"
+  },
+  {
+    "uid": "1abcb27ad8a5a4c4da52fdbff7548e0a",
+    "title": "Certerra Expands Texas Pavement Engineering Operations With HP2 Team Addition",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWppVFZ3ajhaOXlBT25DaEwxSGJhb0NER3ZWNng1U0F3bEktNGp3N2w1dGEwRzNLMXdLdkpQYWYzRWlmNVpYd1NFZGVld1E2dkU3bVc4eVNQMUY4T3ZLTkJRY0RkdDJYQjNEMG9NNXRKYXN5OHJEVU1BTnNPd0VBRE82c3V4LXlockZWQTc1dFlKbndIRG9aRTUwOVNaZE9kUFhVaHViLUo5VDdIQ2psd245b0V0TjA?oc=5",
+    "source": "gnews_citybiz",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Certerra Expands Texas Pavement Engineering Operations With HP2 Team Addition citybiz",
+    "fetched_at": "2026-05-29T06:07:50Z"
+  },
+  {
+    "uid": "c13555b07b9d3841bd412788f77eeee6",
+    "title": "ATS Q4 Earnings Call Highlights",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWxiTFlqREdISDNfNDNHRDc5MkZKTDRJTUNCelpobXFGdFRUb3V5MkMxNDNnSGE2M0pQUG85Rm1FWUx4SFJhdFlqcVFjUlNqWk1uY3hGNVFxVjlYX2dzY3pmTXF1N0tINmVYWlhLQ2d0YXFTQ0hoUFZfdW1BOWdBeS16d2ZxNWVPdlRSYXRuZHJjdFBEZGtV?oc=5",
+    "source": "gnews_tradingview",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "ATS Q4 Earnings Call Highlights TradingView",
+    "fetched_at": "2026-05-29T06:07:50Z"
+  },
+  {
+    "uid": "fc2831b46e8d18f1fab22b57e3405fcf",
+    "title": "Tuya Inc. (TUYA) Slides 1.9% as Stock Tests Key Support Levels - Safe Entry Stocks",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTldURDRjVzNwT0FPQlpneXJfaU1ldzdqTmY3RlJycTVlVndGNU02STByTFlnaFc2Uk1Pd09ocTV6RWo4MzViSTRRZHhvaFBEZlBaN0VLX05tNXNtMzdXcVF3QXhvaGxkQ2E5TUlhdHFRMHROYnJobTZ5Rld4UVFONU9QcUVqeWVudnZSbms3d1JLc0pUNzU5UDctZWwzZlJzZDg2LUNhcWF6UUNCSkp5aQ?oc=5",
+    "source": "gnews_the_legal_advocate",
+    "source_category": "E",
+    "published": "2026-05-28",
+    "snippet": "Tuya Inc. (TUYA) Slides 1.9% as Stock Tests Key Support Levels - Safe Entry Stocks The Legal Advocate",
+    "fetched_at": "2026-05-29T06:07:50Z"
   },
   {
     "uid": "f01b9d43a146cd35879c2dfaa2a4445d",
@@ -1838,6 +3618,196 @@
     "published": "2026-05-27",
     "snippet": "With the rise of agentic AI, developers need secure but also lightweight solutions for running their agents. The agent should be able to do all the things a human developer could do with containers \u2014 build them, install software into them, and modify files they have access to \u2014 but in a way that protects the host system from the agent doing something destructive. Docker offers several different levels of isolation for running containers. Each comes with its own trade-offs. Some are faster, but l",
     "fetched_at": "2026-05-28T06:01:37Z"
+  },
+  {
+    "uid": "0b817a02bd1da6c0bc94b5099306208e",
+    "title": "Experimental native binaries for Vercel CLI",
+    "url": "https://vercel.com/changelog/experimental-native-binaries-for-vercel-cli",
+    "source": "vercel_blog",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "The Vercel CLI now ships an optional experimental native binary that starts faster, is even more secure, and requires no Node.js runtime dependency.Binaries are code-signed, allowing your OS to verify that they came from Vercel and haven't been modified. Additionally, on macOS, credentials are stored in the system Keychain scoped to the binary, so other processes cannot access them without explicit permission.You can opt in by installing the experimental package:The -f flag is required because @",
+    "fetched_at": "2026-05-29T06:06:32Z"
+  },
+  {
+    "uid": "6ce6d1c88b153995a9b4496f7b86d302",
+    "title": "Sublern",
+    "url": "https://www.producthunt.com/products/sublern",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Translate any word in video subtitles with one hover Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "bb102c89e32a8d0cc4534fd725c13a19",
+    "title": "Marked 3",
+    "url": "https://www.producthunt.com/products/marked-2",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Preview and Publish your Markdown Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "f0d5337dadbeedbaec9563f3fe59d220",
+    "title": "Kim Personal Health Assistant",
+    "url": "https://www.producthunt.com/products/kim-personal-health-assistant",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "The intelligence layer for Apple Health Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "20ae6089a15e7214502cc311a93b1a5f",
+    "title": "Stage",
+    "url": "https://www.producthunt.com/products/stage-5",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Screen recording for demos, bugs, and updates Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "ec22174a529ef340501d97b93238b5cd",
+    "title": "Parastore",
+    "url": "https://www.producthunt.com/products/parastore",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Simulate real store with LLM-powered synthetic consumer Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "465c00e93a5beaf3d3281af2f5cc8e83",
+    "title": "Growati",
+    "url": "https://www.producthunt.com/products/growati",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "The autopilot for YouTube post-production Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "f594bb21f920ee515fd728798629318a",
+    "title": "Compartment",
+    "url": "https://www.producthunt.com/products/compartment",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Open-source runtime for internal team software Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "7561f9d2093e27d44d97f9a7b7fa3050",
+    "title": "KugelAudio",
+    "url": "https://www.producthunt.com/products/kugelaudio",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Real-time text-to-speech model you can self-host Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "0c76ced28bcf1c0aa0bffe2cb68f706e",
+    "title": "Crew44",
+    "url": "https://www.producthunt.com/products/crew44",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Turn coding agents into specialist teams Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "f470f3fcc3fad01b9d89883122529ae7",
+    "title": "LaunchOS",
+    "url": "https://www.producthunt.com/products/launchos",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "Bring Back the Classic Launchpad Experience on macOS 26+ Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "0140d2a744df8125f51bb703856770b7",
+    "title": "Granite",
+    "url": "https://www.producthunt.com/products/granite",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "A vault for every document that matters Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "4b9488f2a67ddee03c98eeee62b62765",
+    "title": "Buffer API",
+    "url": "https://www.producthunt.com/products/buffer-api",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-27",
+    "snippet": "One API to publish across every social platform. Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "c576d6116849ba38809dde47648d5907",
+    "title": "Managing Risks in AI-Generated Code to Better Secure Software",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazd2STZoMGNILXhnbmh6cGV0aXU3SmlieFBxeldPQnZHNGNySnZueDBNRldTMmlkNFI0a0tsVnJyUmtEWUl6d2l1YVRUMk90djd6XzNWTjRNNldFR1NUbEtUY0lLU2VwT0xSbElEMXpyRFI0eVhvZXpReU1TZnZVczJ1WkZHWk1uNGZUUHM3MVJFNXNCSWhIbngyd3VITDRr?oc=5",
+    "source": "gnews_william_blair",
+    "source_category": "C",
+    "published": "2026-05-27",
+    "snippet": "Managing Risks in AI-Generated Code to Better Secure Software William Blair",
+    "fetched_at": "2026-05-29T06:07:11Z"
+  },
+  {
+    "uid": "32c919367220e0423257ee4f89bc4ede",
+    "title": "Anthropic Launches Free Claude Code Terminal Plugin to Detect Security Vulnerabilities",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwRjBLaElNWUxIcmlEUmlEOEh5YVZOaktNWWtyaE9vWDNEQ3hKTHZSNFR3cEdKOVNOZkZ4UDFRX1NrUWVrQ1oxNi1uanJSRVhwRWlUZW84YnVjVEtJSnd2THdaUmZ4Z2czUXA2b1g5SnoxQWpxTkk4UXFoX3VJTms?oc=5",
+    "source": "gnews_gbhackers.com",
+    "source_category": "C",
+    "published": "2026-05-27",
+    "snippet": "Anthropic Launches Free Claude Code Terminal Plugin to Detect Security Vulnerabilities gbhackers.com",
+    "fetched_at": "2026-05-29T06:07:11Z"
+  },
+  {
+    "uid": "0679c14829f9eb48d525031eccf695c5",
+    "title": "SecureFlag launches AI-Assisted Development Labs to tackle security risks in AI-generated code",
+    "url": "https://sdtimes.com/ai/secureflag-launches-ai-assisted-development-labs-to-tackle-security-risks-in-ai-generated-code/",
+    "source": "sdtimes",
+    "source_category": "E",
+    "published": "2026-05-27",
+    "snippet": "London Developer Security Enablement Platform provider SecureFlag, a leader in secure coding training, launched its AI-Assisted Development Labs, a new hands-on training solution designed to help developers safely integrate AI coding assistants into their workflows. AI-powered coding tools such as GitHub Copilot, Claude, and ChatGPT are rapidly transforming how software is built, with over continue reading The post SecureFlag launches AI-Assisted Development Labs to tackle security risks in AI-g",
+    "fetched_at": "2026-05-29T06:07:39Z"
+  },
+  {
+    "uid": "2f655d968560dcfc512fc60b8d0f94ba",
+    "title": "CS Disco Inc. (LAW) Edges Lower as Shares Test Key Support Levels - Institutional Flow Picks",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXc3dUVpcXJZTVl3UGRPazk0eU9oRlY3QUQwLU51TDlSNk5XTFRPT29JTDVBak5xMDNfS2Z2VUF1UzR6M3JVaXZqc1g4cnpodWI1U2NwamNtbURidGJ3YzR5R0VDZkZIMk90Qk1MbkRkWXhJaXJUamVpM0lIV3pYVzdEQktwWGR6RUR4d3FFN0gwNkFIRE5PUGpIMmdZdU95VDFBVzJtYjZ0Yk9ycHNxZ1JqVQ?oc=5",
+    "source": "gnews_the_legal_advocate",
+    "source_category": "E",
+    "published": "2026-05-27",
+    "snippet": "CS Disco Inc. (LAW) Edges Lower as Shares Test Key Support Levels - Institutional Flow Picks The Legal Advocate",
+    "fetched_at": "2026-05-29T06:07:50Z"
+  },
+  {
+    "uid": "a8ba79e0d38b3e598fe557fcfe8819d3",
+    "title": "Beeline Holdings (BLNE) Edges Higher, Testing Key Resistance Near $1.45 - Post-Earnings Moves",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVE4c1daZVJHVEFQUWhPNHFXNVUxQy1HYzNISTlpMEhjdE5XWVVwQ1J1MUNiN0xuNWlkWnBlQ0VxeGdNZ2IxcU9iRUtQdXlsM2RMQlFPYXBsVTZYZFNrMy1GWmk5U2xUNk1GeVltRTR3ZC1VUS1VMDRLdGlBM3cxZ1k3U1lsYzhSdEd2S1B6ekhTcmY4dGtVVmttMEhOaWQ5aEZXSlc3ejNjSVkxTFYwVjloOF81Rmp5?oc=5",
+    "source": "gnews_the_legal_advocate",
+    "source_category": "E",
+    "published": "2026-05-27",
+    "snippet": "Beeline Holdings (BLNE) Edges Higher, Testing Key Resistance Near $1.45 - Post-Earnings Moves The Legal Advocate",
+    "fetched_at": "2026-05-29T06:07:50Z"
+  },
+  {
+    "uid": "471ac9a4940f9e81f65f5f14becc7000",
+    "title": "Immatics (IMTX) Gains Ground: Biotech Stock Tests Key Resistance at $11.96 - Factor Valuation",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckpndnp4dEp2X3A2ZXFyWGZkN1V6eFlNUFBVX0szRTVyXzNTblR1SFZwbFRnWjBNczhWM0lObnFMSGFvWkMzLUstZ3U5TU5TQVlKbHJwVkY3TUd1bUVyZGdXYjlkR0tlaEZNanJoMUhoWHBlanAwRFNWTjBGN2JDMzFLUDJVTkFDb3d5d1FTY3F5dXJKQ0ZjakgydlptRDUwc193VlR6V2hlVFlSblQ5LTZEMWNVMW1ZQ3lDNXBHcmw?oc=5",
+    "source": "gnews_the_legal_advocate",
+    "source_category": "E",
+    "published": "2026-05-27",
+    "snippet": "Immatics (IMTX) Gains Ground: Biotech Stock Tests Key Resistance at $11.96 - Factor Valuation The Legal Advocate",
+    "fetched_at": "2026-05-29T06:07:50Z"
   },
   {
     "uid": "dfc03706915a3bd8996ba14f327d63db",
@@ -3510,6 +5480,56 @@
     "fetched_at": "2026-05-28T06:01:47Z"
   },
   {
+    "uid": "e48075a4315d5698990db9ad4b76fe10",
+    "title": "The and Wonderful Evolution of the Waterproof Jacket",
+    "url": "https://www.carryology.com/insights/carry-101/the-strange-and-wonderful-evolution-of-the-waterproof-jacket/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-26",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "c0c82e6f0b4db3a4a368dc158e2e9f15",
+    "title": "News about Raspberry Pi 6 and Microcontroller Development",
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-26",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "d89c31e1489e6989dc2f6e4ec77cff65",
+    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+    "url": "https://coalton-lang.github.io/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-26",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "3cfd1fe759730d51fbb17a673de9c724",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT",
+    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-26",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "55f2c13698690861fd082b8ce278c3f1",
+    "title": "GoodRx Surges 5.28% \u2013 Prescription Savings Platform Tests Key Resistance Zone - MFI Divergence",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUNyVW9kQXBYdjNZamI4Q2hfTm5wLXFHRHlxVTE1dUFEYVk5ZmIyN3plcGhHX3pLTEQzQUFOZkk2SFd4cFJ2ejZWWVFtMVJ4bVN5dDUycjhVTjRySzlJWWNqQWlHUjNMMVZGdFMwS0k2My1ZZ21WSUJIX1duTjRxYWY3MTVYdkg1bjhNNGZOdS1xVGM1c1RnNndHVy1BWVNiTjRzTXBMdWpKdGktLVlsRTh5QUVRNG1JU3hma3JBaVl2cVBj?oc=5",
+    "source": "gnews_the_legal_advocate",
+    "source_category": "E",
+    "published": "2026-05-26",
+    "snippet": "GoodRx Surges 5.28% \u2013 Prescription Savings Platform Tests Key Resistance Zone - MFI Divergence The Legal Advocate",
+    "fetched_at": "2026-05-29T06:07:50Z"
+  },
+  {
     "uid": "7c45319cb0134426369751b1e18fc6e1",
     "title": "AI\u6642\u4ee3\u306b\u6226\u7565\u5bb6\u3068\u30aa\u30da\u30ec\u30fc\u30bf\u30fc\u3092\u5206\u3051\u308b\u3001\u305f\u3063\u305f\u4e00\u3064\u306e\u80fd\u529b\u3068\u306f",
     "url": "https://www.cio.com/article/4172495/ai%e6%99%82%e4%bb%a3%e3%81%ab%e6%88%a6%e7%95%a5%e5%ae%b6%e3%81%a8%e3%82%aa%e3%83%9a%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%92%e5%88%86%e3%81%91%e3%82%8b%e3%80%81%e3%81%9f%e3%81%a3%e3%81%9f%e4%b8%80.html",
@@ -4380,6 +6400,36 @@
     "fetched_at": "2026-05-28T06:01:01Z"
   },
   {
+    "uid": "0c91ee43cf5945e6d4756d5fb3c4abdd",
+    "title": "Pitch Agent",
+    "url": "https://www.producthunt.com/products/pitch",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-25",
+    "snippet": "On-brand presentations, generated in seconds Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
+    "uid": "bc8bb6867954e9904c384ab63046a5b0",
+    "title": "The most unlikely school bag",
+    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "5cd9218f42e6ac527a7155c2030d0be7",
+    "title": "Some Like It Literary",
+    "url": "https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-25",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
     "uid": "b4be28ca21169ec7fa6f3c2455d3cecd",
     "title": "Best Buy just discounted top gaming monitors for Memorial Day",
     "url": "https://www.zdnet.com/article/monitor-deals-memorial-day-2026/",
@@ -4838,6 +6888,26 @@
     "published": "2026-05-24",
     "snippet": "Instantly create and edit spreadsheets from your menu bar Discussion | Link",
     "fetched_at": "2026-05-28T06:00:34Z"
+  },
+  {
+    "uid": "16d13bb8471510271be8e5689e2e8ccf",
+    "title": "Ten Basic Clouds",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
+  },
+  {
+    "uid": "4574ed0bd082b5c657e16e928b1e9753",
+    "title": "What Gets Kept",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "source": "hacker_news",
+    "source_category": "C",
+    "published": "2026-05-24",
+    "snippet": "Comments",
+    "fetched_at": "2026-05-29T06:07:04Z"
   },
   {
     "uid": "faa28f6daf25a32ffb79a6c2dc69c810",
@@ -6688,6 +8758,16 @@
     "published": "2026-05-22",
     "snippet": "Turn your Supabase database into a WordPress-like editor Discussion | Link",
     "fetched_at": "2026-05-28T06:00:34Z"
+  },
+  {
+    "uid": "da9dac9b2fce4efa2941d0a80b59cc2a",
+    "title": "AccountyCat",
+    "url": "https://www.producthunt.com/products/accountycat",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-22",
+    "snippet": "A focus companion that actually gets context Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
   },
   {
     "uid": "5c1440475b87e32dde95b40c1639307c",
@@ -8668,6 +10748,16 @@
     "published": "2026-05-21",
     "snippet": "Preview any URL on every Mac screen at once Discussion | Link",
     "fetched_at": "2026-05-28T06:00:34Z"
+  },
+  {
+    "uid": "4dccc481114c64024e1e39c98c875fe4",
+    "title": "Pancake",
+    "url": "https://www.producthunt.com/products/pancake-6",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-21",
+    "snippet": "OpenClaw in Slack that makes your company autonomous Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
   },
   {
     "uid": "ecbbc73984aacb21e43c2d33bbcb2898",
@@ -14350,6 +16440,16 @@
     "fetched_at": "2026-05-27T06:09:32Z"
   },
   {
+    "uid": "34dc181d642998628bb6391e5cfddb73",
+    "title": "SoMerch",
+    "url": "https://www.producthunt.com/products/somerch",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-18",
+    "snippet": "Merch for distributed teams, handled end to end Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
     "uid": "cfd7f4ba6710a170fd73549ad11086e6",
     "title": "The Team Advantage At CX Forum West: Learn Faster, Align Better, Execute Sooner",
     "url": "https://www.forrester.com/blogs/the-team-advantage-at-cx-forum-west-learn-faster-align-better-execute-sooner/",
@@ -18460,6 +20560,16 @@
     "fetched_at": "2026-05-28T06:00:34Z"
   },
   {
+    "uid": "032fe55bcd63ea118ff47bde3789b300",
+    "title": "SpotsNow",
+    "url": "https://www.producthunt.com/products/spotsnow",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-13",
+    "snippet": "Track who's advertising across podcasts w/ campaign insights Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
+  },
+  {
     "uid": "8c4a150c5b7571008c978d6891f1d933",
     "title": "How agility and AI could rewire agriculture trading",
     "url": "https://www.mckinsey.com/industries/agriculture/our-insights/how-agility-and-ai-could-rewire-agriculture-trading",
@@ -18918,6 +21028,16 @@
     "published": "2026-05-12",
     "snippet": "SEC\u2019s cyber disclosure rule PwC",
     "fetched_at": "2026-05-28T06:01:23Z"
+  },
+  {
+    "uid": "33284bc479f7f7e2e43f41ae4d8bac9f",
+    "title": "Revolte",
+    "url": "https://www.producthunt.com/products/revolte",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-12",
+    "snippet": "AI for Software Engineering Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
   },
   {
     "uid": "c2a853ffb7f56dd322ac359a0394d369",
@@ -19838,6 +21958,16 @@
     "published": "2026-05-08",
     "snippet": "Container Quality Assurance & Process Optimization Systems openPR.com",
     "fetched_at": "2026-05-21T06:12:11Z"
+  },
+  {
+    "uid": "ec6ae92094046608600e48ec4e02dd1e",
+    "title": "Memori",
+    "url": "https://www.producthunt.com/products/memori-labs",
+    "source": "product_hunt",
+    "source_category": "B",
+    "published": "2026-05-08",
+    "snippet": "Persistent memory from agent trace, not just conversation Discussion | Link",
+    "fetched_at": "2026-05-29T06:06:37Z"
   },
   {
     "uid": "0a0e41674f723c8d08964093e8b7eccf",
@@ -31910,6 +34040,16 @@
     "fetched_at": "2026-05-28T06:00:16Z"
   },
   {
+    "uid": "550c776555750a806fbc874262001e98",
+    "title": "AI wipes company database in 9 seconds after ignoring core safety rule then admits something unbelievable",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpTE95U09lTEd2enp3LXNtbTdwdFFoZUM0XzRPOUdLOWNIdnlBSE0zNkFobENMZWRfSFlkcnJLZWxydnpjQ1lrSTlBeGZwaVNOMkxfbnFDY3JtZ2tKVm9kUTVyWW9vUHZwU2RrcHlQbzVFQUY2NmR6T2tNbHI?oc=5",
+    "source": "gnews_supercarblondie.com",
+    "source_category": "C",
+    "published": "2026-04-30",
+    "snippet": "AI wipes company database in 9 seconds after ignoring core safety rule then admits something unbelievable supercarblondie.com",
+    "fetched_at": "2026-05-29T06:07:14Z"
+  },
+  {
     "uid": "61a67ecaa167d7c0a804369b9a730133",
     "title": "\uc0e4\uc624\ubbf8, MIT \ub77c\uc774\uc120\uc2a4 \u2018\ubbf8\ubaa8 V2.5\u2019 \uacf5\uac1c\u00b7\u00b7\u00b7\uc7a5\uc2dc\uac04 \uc2e4\ud589 AI \uc5d0\uc774\uc804\ud2b8 \uc2dc\uc7a5 \uaca8\ub0e5",
     "url": "https://www.cio.com/article/4164729/%ec%83%a4%ec%98%a4%eb%af%b8-mit-%eb%9d%bc%ec%9d%b4%ec%84%a0%ec%8a%a4-%eb%af%b8%eb%aa%a8-v2-5-%ea%b3%b5%ea%b0%9c%ec%9e%a5%ec%8b%9c%ea%b0%84-%ec%8b%a4%ed%96%89-ai-%ec%97%90.html",
@@ -42240,6 +44380,16 @@
     "fetched_at": "2026-05-24T06:00:33Z"
   },
   {
+    "uid": "de0350189575911e614171de34c3f07d",
+    "title": "ProjectDiscovery's \"2026 AI Coding Impact Report\" Reveals AI-Generated Code Is Outpacing Security Teams' Ability to Keep Up",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3F5dnU5MmxzaUVBY0ktYUVQYnFwZzBfdE5uQkVxbGRhSE1oRV9LVXlSWjQ2bi02RVVZR1lpV1NUM3UwZkxlTUNrNW5DbmJLTkhHaF9qMnRyQTY4U2FZaWJHSjdKX0E4Rmo0dFRfeS01ekYteWNMV1JyU1BZR2pxX1ZuS1Z4enR1T1NieXpaWkg5ZEpnMDl2UUNTSnlmMnNUT054TDNidEJkWVZp?oc=5",
+    "source": "gnews_yahoo_finance",
+    "source_category": "C",
+    "published": "2026-04-22",
+    "snippet": "ProjectDiscovery's \"2026 AI Coding Impact Report\" Reveals AI-Generated Code Is Outpacing Security Teams' Ability to Keep Up Yahoo Finance",
+    "fetched_at": "2026-05-29T06:07:11Z"
+  },
+  {
     "uid": "b623a174d944f2c717a068a051f280b9",
     "title": "How leaders can help their organizations metabolize strain",
     "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-leaders-can-help-their-organizations-metabolize-strain",
@@ -42718,6 +44868,16 @@
     "published": "2026-04-21",
     "snippet": "Closing the Security Gap in the Age of Agentic Coding wiz.io",
     "fetched_at": "2026-05-22T06:01:09Z"
+  },
+  {
+    "uid": "93d7a34477ed30d4827ddae22838a846",
+    "title": "AI: Can smart technologies drive government efficiency?",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0hFMjVfU2JiTVJ0d1REcFV1RExxclRQSzBkYVdxazVEaU5pOFFpU3Y3QzJfaU5ISVlTLWZfeUJkX3ljcUE3YjBNcThWVXNFSXNmUUZlSTQ0SUVhT2pSR2s0OURuU29qR2tndkwyWWt4UGpobFdHbzNoQTZwVFJaRVl1UnM3aGNPQjVIM3l6RG5NanhtWlREb21mbDRPTmM?oc=5",
+    "source": "gnews_deloitte",
+    "source_category": "A",
+    "published": "2026-04-21",
+    "snippet": "AI: Can smart technologies drive government efficiency? Deloitte",
+    "fetched_at": "2026-05-29T06:06:18Z"
   },
   {
     "uid": "71690107aecdde91abaa46166948cced",
@@ -62190,6 +64350,16 @@
     "fetched_at": "2026-04-28T06:00:34Z"
   },
   {
+    "uid": "3b4aa330e69b402acb49fe30a136eaab",
+    "title": "Compliance is not enough: Why banks must test AI beyond legal thresholds",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3NfVktCalp6OTNVbGFQY29MclpveDFZN1pGcDVxWVVGNFR0dGV0UVpaYUJlSS1vSzVRbEpPSFc5bXBGTXpidXpVZHZuVTlEVnJ5dXZIQ1liclE2RFplSjRKVmktYzZ3U1U2U0pOY1FYaE1hUWE0a3d4VEljSy1TazZTQnhqNUQ2MDJQV3VkV2xQNmFQS2tWSXJuWG5LQQ?oc=5",
+    "source": "gnews_qa_financial",
+    "source_category": "D",
+    "published": "2026-03-31",
+    "snippet": "Compliance is not enough: Why banks must test AI beyond legal thresholds QA Financial",
+    "fetched_at": "2026-05-29T06:07:21Z"
+  },
+  {
     "uid": "4f706f2ee4d0d37eeef5c518abbe170f",
     "title": "Data + AI Brings The Next-Generation CDP Into View",
     "url": "https://www.forrester.com/blogs/data-ai-brings-the-next-generation-cdp-into-view/",
@@ -63958,6 +66128,16 @@
     "published": "2026-03-30",
     "snippet": "Latest Windows Update Problems and How to Fix Them Make Tech Easier",
     "fetched_at": "2026-05-28T06:01:05Z"
+  },
+  {
+    "uid": "42af16ad0b16bc0787c2113cdc02acc4",
+    "title": "Bridging the governance gap in agricultural blockchain-based smart contracts: a bibliometric-driven architectural framework",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFVkakQ5NWpBVmt3WE5ZcU5nOHhpdTYtVy1XUUd6aDQyX1lTMVAxUG5IN2JwQ09qSFRaT1p4S19fMTBnclp2RldJZHRMbjRHa3RVbzF4eUZoTllBODFXcDJzSVRoM1dlUFlJZXUyVGZuUFk2UFBwbURySkU2aE1RRWxkdjItSTRUV19OTVF5TlRRZw?oc=5",
+    "source": "gnews_frontiers",
+    "source_category": "A",
+    "published": "2026-03-30",
+    "snippet": "Bridging the governance gap in agricultural blockchain-based smart contracts: a bibliometric-driven architectural framework Frontiers",
+    "fetched_at": "2026-05-29T06:06:23Z"
   },
   {
     "uid": "746b389014e902514be54add73d3fbc7",
@@ -79808,6 +81988,16 @@
     "published": "2026-03-19",
     "snippet": "Talk of tech town: How vibe coding is transforming the industry Forbes India",
     "fetched_at": "2026-05-21T06:12:33Z"
+  },
+  {
+    "uid": "7710715871298f083eb2a88b0a4ea1c6",
+    "title": "Armis Launches First-of-Its-Kind Benchmark Report Warning of Critical Security Gaps in AI-Native Development",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYTg0X3NyZ3hBaFR0SUVNNTZrLUVCeVRmVFZZb3gtUk1handuNkR0Y3g3cHlhTHRrTFhxZzg3TWR6ZkxheFQ0UHRJS0Z3blZ3WGRCQ1dXQlNwbWNmMTJXVEZVR24yMXJsRG9adFJSZGNIekNaQ3YyTjFOSWFVMHEza0Q4R0M4NktRVGhrcjNKU09LVnlfLXlnWk5lOFpQdlpEeEJYbHRsY1B6VnJDOXBBNEhtSXpRUlVDX3lHUXM5Z3psZkZsaFpybVUweGQ5LXN5VWhvQlZ0TEg3T3ZMX1laYU5Ka3U3WGFJVkNTZjB6S1ZQbG8zY0tRcg?oc=5",
+    "source": "gnews_business_wire",
+    "source_category": "C",
+    "published": "2026-03-19",
+    "snippet": "Armis Launches First-of-Its-Kind Benchmark Report Warning of Critical Security Gaps in AI-Native Development Business Wire",
+    "fetched_at": "2026-05-29T06:07:11Z"
   },
   {
     "uid": "f59d72664d2f7b8ab7fb856ac83f4904",
@@ -127920,6 +130110,16 @@
     "fetched_at": "2026-05-20T06:01:43Z"
   },
   {
+    "uid": "334bd0b810d24dd3eb77ef73ad335de8",
+    "title": "How an AI data platform escapes the pilot trap",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONG9kbmc1UnhyOUZiNmdvOVllM0otcE9iNF9pWDA2cXNTZXQ1VXdsalBEZEljbVd5N3huOXNEN0tJdFhhenFlZi1SV0k2Ti13OTktak40TUNXc1BsSDZZakMxX19yaXZqWUVrSS1tdXJ0dldxZFVTUXAybVB5SmprTXFBUXhMM2hyU3JCMTR5Ym1ITWVUWHc?oc=5",
+    "source": "gnews_siliconangle",
+    "source_category": "C",
+    "published": "2026-02-12",
+    "snippet": "How an AI data platform escapes the pilot trap SiliconANGLE",
+    "fetched_at": "2026-05-29T06:07:06Z"
+  },
+  {
     "uid": "3380a5a627b78d3acea31889727875d6",
     "date": "2026-02-11T23:15:46",
     "source": "OpenText Blogs",
@@ -133006,6 +135206,16 @@
     "published": "2026-01-27",
     "snippet": "CFOs Align Financial Strategy With AI Budgets AI CERTs",
     "fetched_at": "2026-05-02T06:00:15Z"
+  },
+  {
+    "uid": "b96a4a0bb135fdcd6ca846d901bf03e8",
+    "title": "Midship Raises $4.15M to Automate SOX Testing with Agentic AI",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2ZCZXM2ZEVZWHhjckpTYmN5Z3dtNXVDNkZWSTFSMjViUVVMQ0NBLTZjTFRvWmYzeGxPbWJYVDdHNDlGSDh6dGtiV0JuTjBaT2JrTDlXOGdqU1lwalhfUWtBLXlBTlFZRTNyMlkzOF9QS1V3Xy12UW55QjdLS3dCbQ?oc=5",
+    "source": "gnews_yahoo_finance",
+    "source_category": "E",
+    "published": "2026-01-27",
+    "snippet": "Midship Raises $4.15M to Automate SOX Testing with Agentic AI Yahoo Finance",
+    "fetched_at": "2026-05-29T06:07:43Z"
   },
   {
     "uid": "dbd6bf8a153982a50b86199d09dcaef6",
@@ -159710,6 +161920,16 @@
     "fetched_at": "2026-05-17T20:25:13Z"
   },
   {
+    "uid": "19ea8e23dc0d6df0518068c3874b9f51",
+    "title": "Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93OThuaW5CR3dNSXhXLWw1UXdGZFdraDRmNW9yX1VmaXQyTXB1UGJYbm1VTTFRcFBPRGxWYXFaVlNSUzljQnB0YlZMUVdFc0tk?oc=5",
+    "source": "gnews_mistral_ai",
+    "source_category": "B",
+    "published": "2025-07-30",
+    "snippet": "Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise Mistral AI",
+    "fetched_at": "2026-05-29T06:06:43Z"
+  },
+  {
     "uid": "8a885a50c498348f73a4b21ae3497486",
     "date": "2025-07-29T08:00:00",
     "source": "Sonatype",
@@ -162694,6 +164914,16 @@
     "published": "2025-07-01",
     "snippet": "OpenAI Statistics 2026: Users, Revenue, and Market Share SQ Magazine",
     "fetched_at": "2026-05-22T06:00:43Z"
+  },
+  {
+    "uid": "8a1d019f6c2eff7cc4fd545b432cc8d2",
+    "title": "AI-Powered Data Analysis in Audits Market Size | CAGR of 18%",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mQkZHeWk3X0NldnB0RHNVSF9SQno1b0FpVkZOTE1zR0ZHUEZtTVRPLVVoaXdDX1VJdG9qeGZMQmdWUG9YbUFXVGJIWTlLcnlEeDlUMS1xR0JlRnhRSzdlYmp3eHNQT1dLTVY0ek9oSkdIWmZ5SEE?oc=5",
+    "source": "gnews_market.us",
+    "source_category": "D",
+    "published": "2025-07-01",
+    "snippet": "AI-Powered Data Analysis in Audits Market Size | CAGR of 18% Market.us",
+    "fetched_at": "2026-05-29T06:07:24Z"
   },
   {
     "uid": "5dfe4168524c3c310afb4e52e5d4bc54",
@@ -170214,6 +172444,16 @@
     "fetched_at": "2026-02-19T19:39:14Z"
   },
   {
+    "uid": "9e6688681b55b1ca2811a18853335f43",
+    "title": "MES Market Size, Share & Forecast 2025 to 2035",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONEt5OHJYZ18xQWtoLTBMVDdiQ1Z0TmUxMGtDbmp6R0dWckF4dkNQaWRFV1FkQXlLZGhlMkRIU1o5N1h6ZjZyN3ZsY2J0MlNkclV3Yms1RUpBZi1rbkpkVFdNMEd3WlNYcG5jb1YwbEdfeHdwYm02OEZfSWc1dGdyeURjcHcta2lnbXQ0?oc=5",
+    "source": "gnews_future_market_insights",
+    "source_category": "A",
+    "published": "2025-04-04",
+    "snippet": "MES Market Size, Share & Forecast 2025 to 2035 Future Market Insights",
+    "fetched_at": "2026-05-29T06:06:26Z"
+  },
+  {
     "uid": "8e043515cbe0209e091d847814b9f419",
     "date": "2025-04-03T08:00:00",
     "source": "Nevada Current",
@@ -175354,6 +177594,16 @@
     "fetched_at": "2026-05-01T06:07:57Z"
   },
   {
+    "uid": "d5f18afc9b8a7c542426f4cd3f4aea71",
+    "title": "Synthesia claims the crown as the UK's most valuable generative AI media company with \u20ac174 million in funding",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbWxCYy1uV2VmYlotekhfU1gyOGg2MENJZmNQdmpjXzRFN01xeEVqUE1zSXByZjY4elluV3BRVl9PSExpUHphSTBVc0k4Z3lsZzhWU09QSGxsRFZGNWZ1R3VXN1RqbzZ1R1dhS1Rud25wZF9XQUR0N2NvQjJJb01oTnNJZ3pmUEhZZ1RxRHI2dHNYM3dEYUN3dnYzMXZmbE1KZWhVeXRaN0lvNDVmckVzU2dsRzR0aF9DaFZJaEJBRkE5cVlRNnA0bnZZSDYxY1NDbG93b0lwWVREZXpMZmc?oc=5",
+    "source": "gnews_eu-startups",
+    "source_category": "E",
+    "published": "2025-01-15",
+    "snippet": "Synthesia claims the crown as the UK's most valuable generative AI media company with \u20ac174 million in funding EU-Startups",
+    "fetched_at": "2026-05-29T06:07:43Z"
+  },
+  {
     "uid": "71254ad61f83f18a8fd32cfab062fe19",
     "date": "2025-01-14T08:00:00",
     "source": "Facilities Dive",
@@ -177920,6 +180170,16 @@
     "published": "2024-11-25",
     "snippet": "CrowdStrike outage marks watershed moment for software engineering Intelligent CIO",
     "fetched_at": "2026-05-17T20:24:43Z"
+  },
+  {
+    "uid": "bbef870b458e2e881a9b71f88703225e",
+    "title": "From banks to boats: CIO Brendon Wilson is building powerful IT engines",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFk0Qzl6N1BybGFNaDNodTFMWHRqNkNxU2JYWDdQcnhKWi1YS3VGVkphVUg4NkdCUjdKRjloLUZvdGhaT0o0SjdJOFg1MjVFMkpSNUFwWl9jVFNMckhQb2hRRDB0cHN6T2xWUllueVdyQ1JTX0NiVkplU1ZNV2tXOVdfaGFNcXZLcllYSnptenY1YVVzWTFTMHV4OUxDc29IdnJj?oc=5",
+    "source": "gnews_cio_south_africa",
+    "source_category": "A",
+    "published": "2024-11-25",
+    "snippet": "From banks to boats: CIO Brendon Wilson is building powerful IT engines CIO South Africa",
+    "fetched_at": "2026-05-29T06:06:20Z"
   },
   {
     "uid": "c5bd67ae2bfc860bb9535f926ab20ff7",
@@ -197096,6 +199356,16 @@
     "published": "2023-06-07",
     "snippet": "Contextual AI launches from stealth to build enterprise-focused language models TechCrunch",
     "fetched_at": "2026-04-03T06:07:42Z"
+  },
+  {
+    "uid": "a5240a36681a1d913ff0c209ab36fcbb",
+    "title": "AI Governance Market Size, Share, Growth, Analysis, Report, 2034",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaZ1R3QUlOSkNCcmFCX01QUFBLOGpBWVF4VHFlZFpUTjluSmVXWDRJQjJ2Y1pBR05uRTZjcDJXdzRSUFpmQ3Z6SVQ3aVdtY3JoRlFRNEpldklZcnlFTEcta3JTWDZfdw?oc=5",
+    "source": "gnews_straits_research",
+    "source_category": "A",
+    "published": "2023-06-07",
+    "snippet": "AI Governance Market Size, Share, Growth, Analysis, Report, 2034 Straits Research",
+    "fetched_at": "2026-05-29T06:06:23Z"
   },
   {
     "uid": "76400c7675b282de039b018155de69a0",
